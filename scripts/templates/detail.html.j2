@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ exam.name }} 시험일정 {{ year }} — 합격률 & 원서접수 | gosapass</title>
+  {%- set _fee_txt = "" -%}
+  {%- if fee.written and fee.practical -%}
+    {%- set _fee_txt = " 수수료 필기 " ~ "{:,}".format(fee.written|int) ~ "원·실기 " ~ "{:,}".format(fee.practical|int) ~ "원." -%}
+  {%- elif fee.written -%}
+    {%- set _fee_txt = " 수수료 필기 " ~ "{:,}".format(fee.written|int) ~ "원." -%}
+  {%- endif -%}
+  {%- set _pass_txt = "" -%}
+  {%- if difficulty and difficulty.avg_rate -%}
+    {%- set _pass_txt = " 최근 5년 평균 합격률 " ~ difficulty.avg_rate ~ "%." -%}
+  {%- endif -%}
+  <meta name="description" content="{{ year }}년 {{ exam.name }} 시험일정 전 회차 원서접수·필기·실기·합격발표 날짜 총정리.{{ _fee_txt }}{{ _pass_txt }} 응시자격·시험과목 포함.">
+  <meta name="keywords" content="{{ exam.name }} 시험일정 {{ year }}, {{ exam.name }} 원서접수, {{ exam.name }} 필기 일정, {{ exam.name }} 실기 일정, {{ exam.name }} 합격자 발표일, {{ exam.name }} 합격률, {{ exam.name }} 응시자격, {{ exam.name }} 시험과목">
+  <link rel="canonical" href="https://gosapass.kr/exam/{{ exam.name }}.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ exam.name }} 시험일정 {{ year }} | gosapass">
+  <meta property="og:description" content="{{ year }}년 {{ exam.name }} 시험일정, 원서접수일, 필기/실기 합격률 한눈에 확인">
+  <meta property="og:site_name" content="gosapass">
+  <meta property="og:locale" content="ko_KR">
+
+  <!-- JSON-LD 구조화 데이터 -->
+{% for round in schedule %}{% if round.written_exam_start %}
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"Event","name":"{{ exam.name }} 필기시험 {{ year }} {{ round.round }}","startDate":"{{ round.written_exam_start }}","endDate":"{{ round.written_exam_end or round.written_exam_start }}","location":{"@type":"Place","name":"전국 시험장"},"organizer":{"@type":"Organization","name":"한국산업인력공단"}}
+  </script>
+{% endif %}{% if round.prac_exam_start %}
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"Event","name":"{{ exam.name }} 실기시험 {{ year }} {{ round.round }}","startDate":"{{ round.prac_exam_start }}","endDate":"{{ round.prac_exam_end or round.prac_exam_start }}","location":{"@type":"Place","name":"전국 시험장"},"organizer":{"@type":"Organization","name":"한국산업인력공단"}}
+  </script>
+{% endif %}{% endfor %}
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+  <!-- Google AdSense (승인 후 실제 코드로 교체) -->
+  <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXX" crossorigin="anonymous"></script> -->
+</head>
+<body>
+
+<!-- ===== Header ===== -->
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="logo">gosapass</a>
+    <form class="header-search" action="/list.html" method="get" role="search">
+      <svg class="search-ico" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <input type="search" name="q" placeholder="자격증 검색 (예: 전기기사)" aria-label="자격증 검색">
+    </form>
+    <nav class="site-nav" aria-label="주요 메뉴">
+      <a href="/">메인</a>
+      <a href="/list.html">자격증 목록</a>
+      <a href="/calendar.html">시험 캘린더</a>
+    </nav>
+  </div>
+</header>
+
+<!-- ===== Breadcrumb ===== -->
+<div class="detail-container">
+  <nav class="breadcrumb" aria-label="위치">
+    <a href="/">홈</a>
+    <span class="breadcrumb-sep">›</span>
+    <a href="/list.html?cat={{ exam.field | urlencode }}">{{ exam.field }}</a>
+    <span class="breadcrumb-sep">›</span>
+    <span>{{ exam.name }}</span>
+  </nav>
+</div>
+
+<!-- ===== D-Day Banner ===== -->
+{% if dday %}
+<div id="dday-banner"
+     class="dday-banner {{ dday.color_class }}"
+     data-start="{{ dday.start }}"
+     data-end="{{ dday.end }}"
+     data-event-label="{{ dday.event_label }}"
+     data-next-label="{{ dday.next_label }}"
+     data-next-date="{{ dday.next_date }}">
+  <div class="banner-label">{{ dday.event_label }}</div>
+  <div class="banner-dday">{{ dday.dday_text }}</div>
+  <div class="banner-desc">{{ dday.period }}</div>
+  <div class="banner-next">{{ dday.next_text }}</div>
+</div>
+{% endif %}
+
+<!-- ===== Main Content ===== -->
+<main>
+<div class="detail-container">
+  <div class="detail-grid">
+
+    <!-- ── 메인 컬럼 ── -->
+    <div class="detail-main">
+
+      <!-- AdSense -->
+      <div class="ad-wrap" style="margin-bottom:20px;">
+        <div class="ad-label">광고</div>
+        <div class="ad-block ad-leaderboard">728 × 90 광고 영역</div>
+      </div>
+
+      <!-- 제목 -->
+      <div class="detail-exam-title">
+        <h1>{{ exam.name }}</h1>
+        <div class="detail-badges">
+          <span class="cat-badge cat-{{ exam.field_class }}">{{ exam.field }}</span>
+          <span class="level-badge">{{ exam.series }}</span>
+        </div>
+      </div>
+
+      <!-- SEO 인트로 -->
+      <p class="detail-intro">
+        {{ year }}년 <strong>{{ exam.name }} 시험일정</strong>을 안내합니다.
+        {{ exam.name }} 원서접수일, 필기시험일, 실기시험일, 합격자발표일을 회차별로 확인하세요.
+        최근 5개년 <strong>{{ exam.name }} 합격률</strong>과 응시자격·시험과목 정보도 함께 제공합니다.
+      </p>
+
+      <!-- 시험일정 -->
+      <div class="content-section">
+        <h2>{{ year }}년 시험일정</h2>
+{% if schedule %}
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>회차</th>
+                <th>필기 원서접수</th>
+                <th>필기시험</th>
+                <th>필기 합격발표</th>
+                <th>실기 원서접수</th>
+                <th>실기시험</th>
+                <th>최종 합격발표</th>
+              </tr>
+            </thead>
+            <tbody>
+{% for r in schedule %}
+              <tr{% if loop.index == dday.active_round_index %} style="background:#F0FDF4;"{% endif %}>
+                <td class="td-round">{{ r.round }}</td>
+                <td>{% if r.written_reg_start %}<span class="date-chip{{ ' done' if r.written_reg_end < today else (' ongoing' if r.written_reg_start <= today <= r.written_reg_end else '') }}">{{ r.written_reg_start[5:] }}~{{ r.written_reg_end[5:] }}</span>{% else %}-{% endif %}</td>
+                <td>{% if r.written_exam_start %}<span class="date-chip{{ ' done' if r.written_exam_end < today else '' }}">{{ r.written_exam_start[5:] }}{% if r.written_exam_end and r.written_exam_end != r.written_exam_start %}~{{ r.written_exam_end[5:] }}{% endif %}</span>{% else %}-{% endif %}</td>
+                <td>{% if r.written_pass %}<span class="date-chip{{ ' done' if r.written_pass < today else '' }}">{{ r.written_pass[5:] }}</span>{% else %}-{% endif %}</td>
+                <td>{% if r.prac_reg_start %}<span class="date-chip{{ ' done' if r.prac_reg_end < today else (' ongoing' if r.prac_reg_start <= today <= r.prac_reg_end else '') }}">{{ r.prac_reg_start[5:] }}~{{ r.prac_reg_end[5:] }}</span>{% else %}-{% endif %}</td>
+                <td>{% if r.prac_exam_start %}<span class="date-chip{{ ' done' if r.prac_exam_end < today else '' }}">{{ r.prac_exam_start[5:] }}{% if r.prac_exam_end and r.prac_exam_end != r.prac_exam_start %}~{{ r.prac_exam_end[5:] }}{% endif %}</span>{% else %}-{% endif %}</td>
+                <td>{% if r.prac_pass_end %}<span class="date-chip{{ ' done' if r.prac_pass_end < today else '' }}">{{ r.prac_pass_end[5:] }}</span>{% else %}-{% endif %}</td>
+              </tr>
+{% endfor %}
+            </tbody>
+          </table>
+        </div>
+        <p class="schedule-note">※ {{ exam.name }} {{ year }} 시험일정은 변경될 수 있습니다. 최신 정보는 <a href="https://www.q-net.or.kr" style="color:var(--primary)">큐넷(Q-Net)</a>에서 확인하세요.</p>
+{% else %}
+        <p style="color:var(--text-secondary);padding:20px 0;">현재 등록된 시험일정이 없습니다. 큐넷(Q-Net)에서 확인하세요.</p>
+{% endif %}
+      </div>
+
+      <!-- 응시자격 -->
+{% set eligibility = info | selectattr('type', 'equalto', '응시자격') | list %}
+{% if eligibility %}
+      <div class="content-section">
+        <h2>응시자격</h2>
+        <div class="info-card" style="padding:20px 24px;">
+          <p style="font-size:0.9375rem;line-height:1.85;color:var(--text-primary);">{{ eligibility[0].content | replace('\n', '<br>') }}</p>
+        </div>
+      </div>
+{% endif %}
+
+      <!-- 시험과목 -->
+{% set subjects = info | selectattr('type', 'equalto', '시험과목') | list %}
+{% if subjects %}
+      <div class="content-section">
+        <h2>시험과목</h2>
+        <div class="info-card" style="padding:20px 24px;">
+          <p style="font-size:0.9375rem;line-height:1.85;color:var(--text-primary);">{{ subjects[0].content | replace('\n', '<br>') }}</p>
+        </div>
+      </div>
+{% endif %}
+
+      <!-- 합격률 차트 -->
+{% if stats and (stats.written or stats.practical) %}
+      <div class="content-section">
+        <h2>연도별 합격률</h2>
+        <div class="chart-grid">
+          <div class="chart-box">
+            <h3>필기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="writtenChart"></canvas>
+            </div>
+          </div>
+          <div class="chart-box">
+            <h3>실기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="practicalChart"></canvas>
+            </div>
+          </div>
+        </div>
+
+        <div class="ad-wrap" style="margin-top:24px;">
+          <div class="ad-label">광고</div>
+          <div class="ad-block ad-leaderboard">728 × 90 광고 영역</div>
+        </div>
+      </div>
+
+      <div class="content-section">
+        <h2>연도별 응시자수 추이</h2>
+        <div class="chart-wrap-wide">
+          <canvas id="applicantsChart"></canvas>
+        </div>
+      </div>
+{% endif %}
+
+      <!-- 난이도 -->
+{% if difficulty %}
+      <div class="content-section">
+        <h2>난이도</h2>
+        <div class="difficulty-box">
+          <div class="stars">
+{% for i in range(1, 6) %}            <span{% if i > difficulty.level %} class="empty"{% endif %}>{{ '★' if i <= difficulty.level else '☆' }}</span>
+{% endfor %}          </div>
+          <div class="difficulty-info">
+            <div class="difficulty-level">{{ difficulty.label }}</div>
+            <div class="difficulty-detail">최근 3개년 평균 실기 합격률: {{ difficulty.prac_avg }}% · 필기 합격률: {{ difficulty.writ_avg }}%</div>
+          </div>
+        </div>
+      </div>
+{% endif %}
+
+    </div><!-- /detail-main -->
+
+    <!-- ── 사이드바 ── -->
+    <aside class="detail-sidebar">
+
+      <!-- 기본 정보 -->
+      <div class="info-card">
+        <h3>기본 정보</h3>
+        <div class="info-row">
+          <span class="info-label">자격구분</span>
+          <span class="info-value">{{ exam.series }}</span>
+        </div>
+        <div class="info-row">
+          <span class="info-label">직무분야</span>
+          <span class="info-value">{{ exam.field }}</span>
+        </div>
+        <div class="info-row">
+          <span class="info-label">시행기관</span>
+          <span class="info-value">한국산업인력공단</span>
+        </div>
+{% if fee.written %}
+        <div class="info-row">
+          <span class="info-label">필기 수수료</span>
+          <span class="info-value">{{ "{:,}".format(fee.written | int) }}원</span>
+        </div>
+{% endif %}
+{% if fee.practical %}
+        <div class="info-row">
+          <span class="info-label">실기 수수료</span>
+          <span class="info-value">{{ "{:,}".format(fee.practical | int) }}원</span>
+        </div>
+{% endif %}
+      </div>
+
+      <!-- 현재 진행 상황 -->
+{% if dday %}
+      <div class="info-card" style="border-color:#BBF7D0;background:var(--success-light);">
+        <h3 style="color:var(--success);">현재 일정</h3>
+        <div style="font-size:0.875rem;line-height:1.7;">
+          <div style="font-weight:700;color:var(--success);margin-bottom:6px;">🟢 {{ dday.event_label }}</div>
+          <div style="color:var(--text-secondary);">{{ dday.period }}</div>
+{% if dday.next_date %}
+          <div style="margin-top:10px;padding-top:10px;border-top:1px solid #BBF7D0;">
+            <div style="font-size:0.8125rem;color:var(--text-secondary);margin-bottom:4px;">다음 일정</div>
+            <div style="font-weight:600;">{{ dday.next_label }}</div>
+            <div style="color:var(--text-secondary);font-size:0.8125rem;">{{ dday.next_date }}</div>
+          </div>
+{% endif %}
+        </div>
+        <a href="https://www.q-net.or.kr"
+           style="display:block;margin-top:14px;background:var(--success);color:white;text-align:center;padding:10px;border-radius:var(--radius);font-size:0.875rem;font-weight:600;">
+          큐넷에서 접수하기 →
+        </a>
+      </div>
+{% endif %}
+
+      <!-- 사이드바 광고 -->
+      <div class="ad-wrap" style="margin:0;">
+        <div class="ad-label">광고</div>
+        <div class="ad-block ad-sidebar">300 × 600 광고 영역</div>
+      </div>
+
+    </aside>
+
+  </div>
+</div>
+</main>
+
+<!-- ===== Footer ===== -->
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>
+      <div class="footer-brand">gosapass</div>
+      <p class="footer-desc">
+        국가자격증 시험일정, 원서접수, 합격률을 무료로 제공합니다.<br>
+        한국산업인력공단 공공데이터 기반으로 매일 자동 업데이트됩니다.
+      </p>
+    </div>
+    <div class="footer-col">
+      <h4>분야별 자격증</h4>
+      <a href="/list.html?cat=전기전자">전기·전자</a>
+      <a href="/list.html?cat=IT정보">IT·정보</a>
+      <a href="/list.html?cat=건설">건설</a>
+      <a href="/list.html?cat=안전">안전</a>
+      <a href="/list.html?cat=기계">기계</a>
+    </div>
+    <div class="footer-col">
+      <h4>사이트 정보</h4>
+      <a href="/list.html">자격증 전체 목록</a>
+      <a href="/calendar.html">시험 캘린더</a>
+      <a href="/privacy.html">개인정보처리방침</a>
+    </div>
+  </div>
+  <div class="footer-copy">
+    © {{ year }} gosapass.kr · 데이터 출처: 한국산업인력공단 공공데이터포털<br>
+    본 사이트의 시험일정은 참고용이며, 정확한 정보는 <a href="https://www.q-net.or.kr" style="color:var(--primary);">큐넷(Q-Net)</a>에서 확인하세요.
+  </div>
+</footer>
+
+{% if stats and (stats.written or stats.practical) %}
+<!-- 차트 데이터 -->
+<script id="stats-data" type="application/json">
+{{ stats_json | safe }}
+</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="/js/detail.js"></script>
+{% endif %}
+
+</body>
+</html>

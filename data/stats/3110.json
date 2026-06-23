@@ -1,0 +1,80 @@
+{
+  "jmcd": "3110",
+  "name": "자동차정비기능장",
+  "series": "기능장",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "34400",
+    "practical": "101600",
+    "raw": "1차 : 34400, 2차 : 101600"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 990,
+        "passers": 434,
+        "passRate": 43.8
+      },
+      {
+        "year": 2022,
+        "applicants": 868,
+        "passers": 359,
+        "passRate": 41.4
+      },
+      {
+        "year": 2023,
+        "applicants": 887,
+        "passers": 345,
+        "passRate": 38.9
+      },
+      {
+        "year": 2024,
+        "applicants": 907,
+        "passers": 328,
+        "passRate": 36.2
+      },
+      {
+        "year": 2025,
+        "applicants": 1034,
+        "passers": 422,
+        "passRate": 40.8
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 730,
+        "passers": 144,
+        "passRate": 19.7
+      },
+      {
+        "year": 2022,
+        "applicants": 716,
+        "passers": 56,
+        "passRate": 7.8
+      },
+      {
+        "year": 2023,
+        "applicants": 703,
+        "passers": 46,
+        "passRate": 6.5
+      },
+      {
+        "year": 2024,
+        "applicants": 613,
+        "passers": 177,
+        "passRate": 28.9
+      },
+      {
+        "year": 2025,
+        "applicants": 652,
+        "passers": 82,
+        "passRate": 12.6
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "jmcd": "1550",
+  "name": "응용지질기사",
+  "series": "기사",
+  "field": "건설",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "45000",
+    "raw": "1차 : 19400, 2차 : 45000"
+  },
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 복합형(필답형+작업형)으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다.- 작업형 실기시험은 지질 및 지반조사를 통한 지반공학적 특성을 파악하여 지질재해의 예측및 지반구조물을 해석할 수 있는 능력을 평가(공개문제 참조)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}응용지질기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 대학의 지질공학, 응용지질, 지구물리, 지구과학 등 관련학과 &#9314; 시험과목- 필기:1. 암석학 및 광물학 2. 구조지질학 3. 탐사공학 4. 지질공학 5. 광상학- 실기 : 응용지질 조사평가 실무 &#9315; 검정방법- 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분)- 실기 : 복합형[필답형(2시간, 70점) + 작업형(1시간 정도, 30점)&#9316; 합격기준- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보안전등급(safety Level) : 3 등급▼위험경고주의관심&middot; 시험장소 구분실내 &middot; 주요시설 및 장비암석, 염산, 현미경&middot; 보호구장갑, 작업복, 작업화보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 396,
+        "passers": 175,
+        "passRate": 44.2
+      },
+      {
+        "year": 2022,
+        "applicants": 340,
+        "passers": 158,
+        "passRate": 46.5
+      },
+      {
+        "year": 2023,
+        "applicants": 402,
+        "passers": 200,
+        "passRate": 49.8
+      },
+      {
+        "year": 2024,
+        "applicants": 410,
+        "passers": 199,
+        "passRate": 48.5
+      },
+      {
+        "year": 2025,
+        "applicants": 489,
+        "passers": 219,
+        "passRate": 44.8
+      }
+    ],
+    "practical": []
+  }
+}

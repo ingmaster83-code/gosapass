@@ -1,0 +1,49 @@
+{
+  "jmcd": "1614",
+  "name": "침투비파괴검사기사",
+  "series": "기사",
+  "field": "안전관리",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "47400",
+    "raw": "1차 : 19400, 2차 : 47400"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 993,
+        "passers": 534,
+        "passRate": 53.8
+      },
+      {
+        "year": 2022,
+        "applicants": 895,
+        "passers": 481,
+        "passRate": 53.7
+      },
+      {
+        "year": 2023,
+        "applicants": 952,
+        "passers": 507,
+        "passRate": 53.3
+      },
+      {
+        "year": 2024,
+        "applicants": 950,
+        "passers": 442,
+        "passRate": 46.5
+      },
+      {
+        "year": 2025,
+        "applicants": 973,
+        "passers": 396,
+        "passRate": 40.7
+      }
+    ],
+    "practical": []
+  }
+}

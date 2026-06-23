@@ -1,0 +1,49 @@
+{
+  "jmcd": "2331",
+  "name": "공간정보융합산업기사",
+  "series": "기사",
+  "field": "건설",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 931,
+        "passers": 294,
+        "passRate": 31.6
+      },
+      {
+        "year": 2024,
+        "applicants": 257,
+        "passers": 123,
+        "passRate": 47.9
+      },
+      {
+        "year": 2025,
+        "applicants": 138,
+        "passers": 50,
+        "passRate": 36.2
+      }
+    ],
+    "practical": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "jmcd": "2172",
+  "name": "전자회로설계산업기사",
+  "series": "기사",
+  "field": "전기.전자",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "",
+    "practical": "",
+    "raw": ""
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 115,
+        "passers": 35,
+        "passRate": 30.4
+      },
+      {
+        "year": 2022,
+        "applicants": 158,
+        "passers": 54,
+        "passRate": 34.2
+      },
+      {
+        "year": 2023,
+        "applicants": 153,
+        "passers": 49,
+        "passRate": 32.0
+      },
+      {
+        "year": 2024,
+        "applicants": 111,
+        "passers": 30,
+        "passRate": 27.0
+      },
+      {
+        "year": 2025,
+        "applicants": 75,
+        "passers": 24,
+        "passRate": 32.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 24,
+        "passers": 3,
+        "passRate": 12.5
+      },
+      {
+        "year": 2022,
+        "applicants": 33,
+        "passers": 9,
+        "passRate": 27.3
+      },
+      {
+        "year": 2023,
+        "applicants": 35,
+        "passers": 14,
+        "passRate": 40.0
+      },
+      {
+        "year": 2024,
+        "applicants": 23,
+        "passers": 14,
+        "passRate": 60.9
+      },
+      {
+        "year": 2025,
+        "applicants": 17,
+        "passers": 9,
+        "passRate": 52.9
+      }
+    ]
+  }
+}

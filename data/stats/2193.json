@@ -1,0 +1,80 @@
+{
+  "jmcd": "2193",
+  "name": "사무자동화산업기사",
+  "series": "기사",
+  "field": "정보통신",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "31000",
+    "raw": "1차 : 19400, 2차 : 31000"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 12044,
+        "passers": 6845,
+        "passRate": 56.8
+      },
+      {
+        "year": 2022,
+        "applicants": 10619,
+        "passers": 5905,
+        "passRate": 55.6
+      },
+      {
+        "year": 2023,
+        "applicants": 11142,
+        "passers": 6241,
+        "passRate": 56.0
+      },
+      {
+        "year": 2024,
+        "applicants": 10801,
+        "passers": 5868,
+        "passRate": 54.3
+      },
+      {
+        "year": 2025,
+        "applicants": 12480,
+        "passers": 7332,
+        "passRate": 58.8
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 7306,
+        "passers": 4904,
+        "passRate": 67.1
+      },
+      {
+        "year": 2022,
+        "applicants": 6461,
+        "passers": 4578,
+        "passRate": 70.9
+      },
+      {
+        "year": 2023,
+        "applicants": 6678,
+        "passers": 4727,
+        "passRate": 70.8
+      },
+      {
+        "year": 2024,
+        "applicants": 6140,
+        "passers": 4433,
+        "passRate": 72.2
+      },
+      {
+        "year": 2025,
+        "applicants": 7603,
+        "passers": 5546,
+        "passRate": 72.9
+      }
+    ]
+  }
+}

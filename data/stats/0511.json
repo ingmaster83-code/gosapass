@@ -1,0 +1,80 @@
+{
+  "jmcd": "0511",
+  "name": "건축품질시험기술사",
+  "series": "기술사",
+  "field": "건설",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 60,
+        "passers": 5,
+        "passRate": 8.3
+      },
+      {
+        "year": 2022,
+        "applicants": 50,
+        "passers": 4,
+        "passRate": 8.0
+      },
+      {
+        "year": 2023,
+        "applicants": 55,
+        "passers": 2,
+        "passRate": 3.6
+      },
+      {
+        "year": 2024,
+        "applicants": 45,
+        "passers": 10,
+        "passRate": 22.2
+      },
+      {
+        "year": 2025,
+        "applicants": 49,
+        "passers": 1,
+        "passRate": 2.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 7,
+        "passers": 4,
+        "passRate": 57.1
+      },
+      {
+        "year": 2022,
+        "applicants": 7,
+        "passers": 4,
+        "passRate": 57.1
+      },
+      {
+        "year": 2023,
+        "applicants": 4,
+        "passers": 4,
+        "passRate": 100.0
+      },
+      {
+        "year": 2024,
+        "applicants": 10,
+        "passers": 9,
+        "passRate": 90.0
+      },
+      {
+        "year": 2025,
+        "applicants": 2,
+        "passers": 2,
+        "passRate": 100.0
+      }
+    ]
+  }
+}

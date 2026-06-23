@@ -1,0 +1,80 @@
+{
+  "jmcd": "1810",
+  "name": "제판기사",
+  "series": "기사",
+  "field": "인쇄.목재.가구.공예",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "18000",
+    "practical": "86000",
+    "raw": "1차 : 18000, 2차 : 86000"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 41,
+        "passers": 15,
+        "passRate": 36.6
+      },
+      {
+        "year": 2022,
+        "applicants": 51,
+        "passers": 35,
+        "passRate": 68.6
+      },
+      {
+        "year": 2023,
+        "applicants": 53,
+        "passers": 34,
+        "passRate": 64.2
+      },
+      {
+        "year": 2024,
+        "applicants": 52,
+        "passers": 40,
+        "passRate": 76.9
+      },
+      {
+        "year": 2025,
+        "applicants": 54,
+        "passers": 24,
+        "passRate": 44.4
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 17,
+        "passers": 13,
+        "passRate": 76.5
+      },
+      {
+        "year": 2022,
+        "applicants": 33,
+        "passers": 26,
+        "passRate": 78.8
+      },
+      {
+        "year": 2023,
+        "applicants": 35,
+        "passers": 22,
+        "passRate": 62.9
+      },
+      {
+        "year": 2024,
+        "applicants": 40,
+        "passers": 20,
+        "passRate": 50.0
+      },
+      {
+        "year": 2025,
+        "applicants": 36,
+        "passers": 12,
+        "passRate": 33.3
+      }
+    ]
+  }
+}

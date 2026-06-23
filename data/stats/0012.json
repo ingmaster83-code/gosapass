@@ -1,0 +1,62 @@
+{
+  "jmcd": "0012",
+  "name": "금형기술사",
+  "series": "기술사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
+  },
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "- 금형과 관련된 실무경험, 일반지식, 전문지식 및 응용능력 - 기술사로서의 경영관리능력, 지도감리능력, 자질 및 품위"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}금형기술사 출제기준입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시 행 처 : 한국산업인력공단 ② 관련학과 : 대학의 금속공학, 금속재료공학 등 관련학과③ 시험과목   - 금형재료, 금형가공, 금형설계, 금형제작, 산업응용에 의한 금형설계 및       가공(CAD/CAM)에 의한 기계금형 전반에 관한 사항④ 검정방법    - 필기 : 단답형 및 주관식 논술형 (매교시당 100분, 총 400분)   - 면접 : 구술형 면접 (30분 정도)⑤ 합격기준    - 필기·면접 : 100점을 만점으로 하여 60점이상"
+    }
+  ],
+  "stats": {
+    "written": [],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 60,
+        "passers": 33,
+        "passRate": 55.0
+      },
+      {
+        "year": 2022,
+        "applicants": 30,
+        "passers": 10,
+        "passRate": 33.3
+      },
+      {
+        "year": 2023,
+        "applicants": 72,
+        "passers": 27,
+        "passRate": 37.5
+      },
+      {
+        "year": 2024,
+        "applicants": 101,
+        "passers": 39,
+        "passRate": 38.6
+      },
+      {
+        "year": 2025,
+        "applicants": 104,
+        "passers": 41,
+        "passRate": 39.4
+      }
+    ]
+  }
+}

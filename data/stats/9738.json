@@ -1,0 +1,33 @@
+{
+  "jmcd": "9738",
+  "name": "사회복지사 1급",
+  "series": "사회복지사 1급",
+  "field": "",
+  "updated": "2026-06-23",
+  "schedule": [
+    {
+      "round": "제24회",
+      "written_reg_start": "2025-12-08",
+      "written_reg_end": "2025-12-12",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-25",
+      "prac_reg_start": "",
+      "prac_reg_end": "",
+      "prac_exam_start": "",
+      "prac_exam_end": "",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
+  "fee": {
+    "written": "25000",
+    "practical": "",
+    "raw": "1차 : 25000,"
+  },
+  "info": [],
+  "stats": {
+    "written": [],
+    "practical": []
+  }
+}

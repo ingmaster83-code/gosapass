@@ -1,0 +1,80 @@
+{
+  "jmcd": "2582",
+  "name": "농림토양평가관리산업기사",
+  "series": "기사",
+  "field": "환경.에너지",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "91300",
+    "raw": "1차 : 19400, 2차 : 91300"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 6,
+        "passers": 2,
+        "passRate": 33.3
+      },
+      {
+        "year": 2022,
+        "applicants": 14,
+        "passers": 3,
+        "passRate": 21.4
+      },
+      {
+        "year": 2023,
+        "applicants": 7,
+        "passers": 1,
+        "passRate": 14.3
+      },
+      {
+        "year": 2024,
+        "applicants": 8,
+        "passers": 2,
+        "passRate": 25.0
+      },
+      {
+        "year": 2025,
+        "applicants": 13,
+        "passers": 5,
+        "passRate": 38.5
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 2,
+        "passers": 1,
+        "passRate": 50.0
+      },
+      {
+        "year": 2023,
+        "applicants": 2,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ]
+  }
+}

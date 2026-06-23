@@ -1,0 +1,93 @@
+{
+  "jmcd": "2025",
+  "name": "컴퓨터응용가공산업기사",
+  "series": "기사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "",
+    "practical": "",
+    "raw": ""
+  },
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.작업형- 머시닝센터 수동프로그램작업과 CAM프로그램작업을 수행하여 머시닝센터에서 공구선정, 장착 및 가공작업 수행- CNC선반 수동프로그램작업을 하여 CNC선반에서 공구선정, 장착 및 가공작업 수행(공개도면 참조)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}컴퓨터응용가공산업기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312;시행처 : 한국산업인력공단&#9313; 관련학과 : 전문대학 및 대학의 기계공학, 기계가공, CAM전공 등 관련학과&#9314; 시험과목- 필기: 1.도면해독 및 측정2.CAM프로그래밍 3.컴퓨터수치제어(CNC) 절삭가공- 실기: 컴퓨터응용가공 작업&#9315; 검정방법- 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분)- 실기 : 작업형(4시간 50분, 100점)&#9316; 합격기준- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전 과목 평균 60점이상- 실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보안전등급(safety Level) :4 등급▼위험경고주의관심&middot; 시험장소 구분실내 &middot; 외&middot; 주요시설 및 장비머시닝센터, CNC선반, 컴퓨터 등&middot; 보호구보안경, 안전화, 안전보호구등보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2141,
+        "passers": 862,
+        "passRate": 40.3
+      },
+      {
+        "year": 2022,
+        "applicants": 1746,
+        "passers": 909,
+        "passRate": 52.1
+      },
+      {
+        "year": 2023,
+        "applicants": 1564,
+        "passers": 815,
+        "passRate": 52.1
+      },
+      {
+        "year": 2024,
+        "applicants": 1291,
+        "passers": 632,
+        "passRate": 49.0
+      },
+      {
+        "year": 2025,
+        "applicants": 1345,
+        "passers": 635,
+        "passRate": 47.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 962,
+        "passers": 422,
+        "passRate": 43.9
+      },
+      {
+        "year": 2022,
+        "applicants": 1057,
+        "passers": 554,
+        "passRate": 52.4
+      },
+      {
+        "year": 2023,
+        "applicants": 908,
+        "passers": 547,
+        "passRate": 60.2
+      },
+      {
+        "year": 2024,
+        "applicants": 679,
+        "passers": 369,
+        "passRate": 54.3
+      },
+      {
+        "year": 2025,
+        "applicants": 697,
+        "passers": 400,
+        "passRate": 57.4
+      }
+    ]
+  }
+}

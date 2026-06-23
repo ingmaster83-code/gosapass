@@ -1,0 +1,80 @@
+{
+  "jmcd": "7960",
+  "name": "세탁기능사",
+  "series": "기능사",
+  "field": "섬유.의복",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "27400",
+    "raw": "1차 : 14500, 2차 : 27400"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 800,
+        "passers": 503,
+        "passRate": 62.9
+      },
+      {
+        "year": 2022,
+        "applicants": 534,
+        "passers": 337,
+        "passRate": 63.1
+      },
+      {
+        "year": 2023,
+        "applicants": 703,
+        "passers": 441,
+        "passRate": 62.7
+      },
+      {
+        "year": 2024,
+        "applicants": 698,
+        "passers": 445,
+        "passRate": 63.8
+      },
+      {
+        "year": 2025,
+        "applicants": 524,
+        "passers": 330,
+        "passRate": 63.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 577,
+        "passers": 496,
+        "passRate": 86.0
+      },
+      {
+        "year": 2022,
+        "applicants": 351,
+        "passers": 311,
+        "passRate": 88.6
+      },
+      {
+        "year": 2023,
+        "applicants": 442,
+        "passers": 389,
+        "passRate": 88.0
+      },
+      {
+        "year": 2024,
+        "applicants": 440,
+        "passers": 382,
+        "passRate": 86.8
+      },
+      {
+        "year": 2025,
+        "applicants": 327,
+        "passers": 253,
+        "passRate": 77.4
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "jmcd": "2290",
+  "name": "정보처리산업기사",
+  "series": "기사",
+  "field": "정보통신",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
+  },
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&lt;실기시험 출제 경향> 정보시스템 기반 기술을 활용하여 소프트웨어의 기능에 관한 구현 및 테스트를 수행하고 사용자에게 배포하기 위해응용 SW 기초 기술 활용, UI, 애플리케이션 테스트 등의 관련 능력과 실무에서 교육, 활용되는 C, JAVA, Python 등의프로그래밍 언어 활용 능력을 평가- 필기 및 실기시험내용은 출제기준을 참고 바랍니다. - 출제기준은 고객지원> 자료실에서도 확인할 수 있습니다.  출제기준 참조(www.q-net.or.kr)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}정보처리산업기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 모든학과 응시가능 &#9314; 시험과목- 필기 1.정보시스템 기반 기술2.프로그래밍언어 활용3. 데이터베이스 활용- 실기 : 정보처리 실무 &#9315; 검정방법 - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분) - 실기 : 필답형(2시간 30분) &#9316;합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상.- 실기 : 100점을 만점으로 하여 60점 이상."
+    }
+  ],
+  "stats": {
+    "written": [],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 6417,
+        "passers": 3618,
+        "passRate": 56.4
+      },
+      {
+        "year": 2022,
+        "applicants": 4449,
+        "passers": 1747,
+        "passRate": 39.3
+      },
+      {
+        "year": 2023,
+        "applicants": 5925,
+        "passers": 1821,
+        "passRate": 30.7
+      },
+      {
+        "year": 2024,
+        "applicants": 6264,
+        "passers": 2227,
+        "passRate": 35.6
+      },
+      {
+        "year": 2025,
+        "applicants": 5745,
+        "passers": 2521,
+        "passRate": 43.9
+      }
+    ]
+  }
+}

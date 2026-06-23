@@ -1,0 +1,33 @@
+{
+  "jmcd": "1240",
+  "name": "항공기사",
+  "series": "기사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
+  "fee": {
+    "written": "19400",
+    "practical": "22600",
+    "raw": "1차 : 19400, 2차 : 22600"
+  },
+  "info": [],
+  "stats": {
+    "written": [],
+    "practical": []
+  }
+}

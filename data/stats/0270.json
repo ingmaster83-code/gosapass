@@ -1,0 +1,49 @@
+{
+  "jmcd": "0270",
+  "name": "산업계측제어기술사",
+  "series": "기술사",
+  "field": "전기.전자",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 36,
+        "passers": 13,
+        "passRate": 36.1
+      },
+      {
+        "year": 2022,
+        "applicants": 39,
+        "passers": 7,
+        "passRate": 17.9
+      },
+      {
+        "year": 2023,
+        "applicants": 46,
+        "passers": 12,
+        "passRate": 26.1
+      },
+      {
+        "year": 2024,
+        "applicants": 42,
+        "passers": 2,
+        "passRate": 4.8
+      },
+      {
+        "year": 2025,
+        "applicants": 49,
+        "passers": 11,
+        "passRate": 22.4
+      }
+    ],
+    "practical": []
+  }
+}

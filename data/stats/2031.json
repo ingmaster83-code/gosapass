@@ -1,0 +1,49 @@
+{
+  "jmcd": "2031",
+  "name": "기계설계산업기사",
+  "series": "기사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "34900",
+    "raw": "1차 : 19400, 2차 : 34900"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 4952,
+        "passers": 2116,
+        "passRate": 42.7
+      },
+      {
+        "year": 2022,
+        "applicants": 3736,
+        "passers": 1147,
+        "passRate": 30.7
+      },
+      {
+        "year": 2023,
+        "applicants": 3420,
+        "passers": 1087,
+        "passRate": 31.8
+      },
+      {
+        "year": 2024,
+        "applicants": 3270,
+        "passers": 948,
+        "passRate": 29.0
+      },
+      {
+        "year": 2025,
+        "applicants": 3131,
+        "passers": 946,
+        "passRate": 30.2
+      }
+    ],
+    "practical": []
+  }
+}

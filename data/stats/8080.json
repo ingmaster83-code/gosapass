@@ -1,0 +1,49 @@
+{
+  "jmcd": "8080",
+  "name": "프레스금형기능사보",
+  "series": "기능사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "",
+    "practical": "",
+    "raw": ""
+  },
+  "info": [],
+  "stats": {
+    "written": [],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 1567,
+        "passers": 678,
+        "passRate": 43.3
+      }
+    ]
+  }
+}

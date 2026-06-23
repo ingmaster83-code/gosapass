@@ -1,0 +1,49 @@
+{
+  "jmcd": "7650",
+  "name": "지적기능사",
+  "series": "기능사",
+  "field": "건설",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "22000",
+    "raw": "1차 : 14500, 2차 : 22000"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1311,
+        "passers": 1027,
+        "passRate": 78.3
+      },
+      {
+        "year": 2022,
+        "applicants": 1187,
+        "passers": 902,
+        "passRate": 76.0
+      },
+      {
+        "year": 2023,
+        "applicants": 1264,
+        "passers": 842,
+        "passRate": 66.6
+      },
+      {
+        "year": 2024,
+        "applicants": 977,
+        "passers": 577,
+        "passRate": 59.1
+      },
+      {
+        "year": 2025,
+        "applicants": 888,
+        "passers": 494,
+        "passRate": 55.6
+      }
+    ],
+    "practical": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "jmcd": "2101",
+  "name": "금속재료산업기사",
+  "series": "기사",
+  "field": "재료",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "72800",
+    "raw": "1차 : 19400, 2차 : 72800"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1199,
+        "passers": 535,
+        "passRate": 44.6
+      },
+      {
+        "year": 2022,
+        "applicants": 797,
+        "passers": 365,
+        "passRate": 45.8
+      },
+      {
+        "year": 2023,
+        "applicants": 876,
+        "passers": 381,
+        "passRate": 43.5
+      },
+      {
+        "year": 2024,
+        "applicants": 890,
+        "passers": 372,
+        "passRate": 41.8
+      },
+      {
+        "year": 2025,
+        "applicants": 831,
+        "passers": 356,
+        "passRate": 42.8
+      }
+    ],
+    "practical": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "jmcd": "2520",
+  "name": "수산양식산업기사",
+  "series": "기사",
+  "field": "농림어업",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 112,
+        "passers": 50,
+        "passRate": 44.6
+      },
+      {
+        "year": 2022,
+        "applicants": 70,
+        "passers": 30,
+        "passRate": 42.9
+      },
+      {
+        "year": 2023,
+        "applicants": 76,
+        "passers": 23,
+        "passRate": 30.3
+      },
+      {
+        "year": 2024,
+        "applicants": 74,
+        "passers": 23,
+        "passRate": 31.1
+      },
+      {
+        "year": 2025,
+        "applicants": 60,
+        "passers": 15,
+        "passRate": 25.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 50,
+        "passers": 1,
+        "passRate": 2.0
+      },
+      {
+        "year": 2022,
+        "applicants": 34,
+        "passers": 14,
+        "passRate": 41.2
+      },
+      {
+        "year": 2023,
+        "applicants": 18,
+        "passers": 10,
+        "passRate": 55.6
+      },
+      {
+        "year": 2024,
+        "applicants": 16,
+        "passers": 5,
+        "passRate": 31.2
+      },
+      {
+        "year": 2025,
+        "applicants": 16,
+        "passers": 5,
+        "passRate": 31.2
+      }
+    ]
+  }
+}

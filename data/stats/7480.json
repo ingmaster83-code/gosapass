@@ -1,0 +1,80 @@
+{
+  "jmcd": "7480",
+  "name": "목공예기능사",
+  "series": "기능사",
+  "field": "인쇄.목재.가구.공예",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "28900",
+    "raw": "1차 : 14500, 2차 : 28900"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 375,
+        "passers": 219,
+        "passRate": 58.4
+      },
+      {
+        "year": 2022,
+        "applicants": 324,
+        "passers": 192,
+        "passRate": 59.3
+      },
+      {
+        "year": 2023,
+        "applicants": 405,
+        "passers": 255,
+        "passRate": 63.0
+      },
+      {
+        "year": 2024,
+        "applicants": 333,
+        "passers": 203,
+        "passRate": 61.0
+      },
+      {
+        "year": 2025,
+        "applicants": 288,
+        "passers": 188,
+        "passRate": 65.3
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 186,
+        "passers": 93,
+        "passRate": 50.0
+      },
+      {
+        "year": 2022,
+        "applicants": 180,
+        "passers": 85,
+        "passRate": 47.2
+      },
+      {
+        "year": 2023,
+        "applicants": 205,
+        "passers": 116,
+        "passRate": 56.6
+      },
+      {
+        "year": 2024,
+        "applicants": 211,
+        "passers": 101,
+        "passRate": 47.9
+      },
+      {
+        "year": 2025,
+        "applicants": 216,
+        "passers": 116,
+        "passRate": 53.7
+      }
+    ]
+  }
+}

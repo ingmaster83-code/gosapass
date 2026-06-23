@@ -1,0 +1,49 @@
+{
+  "jmcd": "9547",
+  "name": "이러닝운영관리사",
+  "series": "기사",
+  "field": "교육.자연.과학.사회과학",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 1063,
+        "passers": 776,
+        "passRate": 73.0
+      },
+      {
+        "year": 2024,
+        "applicants": 559,
+        "passers": 528,
+        "passRate": 94.5
+      },
+      {
+        "year": 2025,
+        "applicants": 472,
+        "passers": 361,
+        "passRate": 76.5
+      }
+    ],
+    "practical": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "jmcd": "2175",
+  "name": "반도체커스텀레이아웃산업기사",
+  "series": "기사",
+  "field": "전기.전자",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "",
+    "practical": "",
+    "raw": ""
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 121,
+        "passers": 35,
+        "passRate": 28.9
+      },
+      {
+        "year": 2022,
+        "applicants": 105,
+        "passers": 50,
+        "passRate": 47.6
+      },
+      {
+        "year": 2023,
+        "applicants": 112,
+        "passers": 45,
+        "passRate": 40.2
+      },
+      {
+        "year": 2024,
+        "applicants": 156,
+        "passers": 65,
+        "passRate": 41.7
+      },
+      {
+        "year": 2025,
+        "applicants": 181,
+        "passers": 73,
+        "passRate": 40.3
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 27,
+        "passers": 22,
+        "passRate": 81.5
+      },
+      {
+        "year": 2022,
+        "applicants": 38,
+        "passers": 30,
+        "passRate": 78.9
+      },
+      {
+        "year": 2023,
+        "applicants": 39,
+        "passers": 33,
+        "passRate": 84.6
+      },
+      {
+        "year": 2024,
+        "applicants": 48,
+        "passers": 34,
+        "passRate": 70.8
+      },
+      {
+        "year": 2025,
+        "applicants": 48,
+        "passers": 41,
+        "passRate": 85.4
+      }
+    ]
+  }
+}

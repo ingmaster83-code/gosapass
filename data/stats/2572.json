@@ -1,0 +1,80 @@
+{
+  "jmcd": "2572",
+  "name": "수질환경산업기사",
+  "series": "기사",
+  "field": "환경.에너지",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2070,
+        "passers": 574,
+        "passRate": 27.7
+      },
+      {
+        "year": 2022,
+        "applicants": 1623,
+        "passers": 449,
+        "passRate": 27.7
+      },
+      {
+        "year": 2023,
+        "applicants": 1433,
+        "passers": 357,
+        "passRate": 24.9
+      },
+      {
+        "year": 2024,
+        "applicants": 1340,
+        "passers": 316,
+        "passRate": 23.6
+      },
+      {
+        "year": 2025,
+        "applicants": 1271,
+        "passers": 253,
+        "passRate": 19.9
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 889,
+        "passers": 305,
+        "passRate": 34.3
+      },
+      {
+        "year": 2022,
+        "applicants": 679,
+        "passers": 319,
+        "passRate": 47.0
+      },
+      {
+        "year": 2023,
+        "applicants": 559,
+        "passers": 151,
+        "passRate": 27.0
+      },
+      {
+        "year": 2024,
+        "applicants": 581,
+        "passers": 180,
+        "passRate": 31.0
+      },
+      {
+        "year": 2025,
+        "applicants": 422,
+        "passers": 96,
+        "passRate": 22.7
+      }
+    ]
+  }
+}

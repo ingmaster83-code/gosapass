@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>국가자격증 전체 목록 — 500종 자격증 시험일정 | gosapass</title>
+  <meta name="description" content="국가기술자격 500종 전체 목록. 전기기사, 정보처리기사, 건축기사 등 분야별 자격증 시험일정과 합격률을 확인하세요.">
+  <meta name="keywords" content="국가자격증 목록, 자격증 종류, 기사 자격증, 산업기사, 기능사, 기술사, 기능장, 시험일정">
+  <link rel="canonical" href="https://gosapass.kr/list.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="국가자격증 전체 목록 | gosapass">
+  <meta property="og:description" content="500종 국가기술자격 목록. 분야별 필터·검색으로 원하는 자격증을 찾으세요.">
+  <meta property="og:site_name" content="gosapass">
+  <meta property="og:locale" content="ko_KR">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+  <style>
+    .list-controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+    .list-search {
+      flex: 1;
+      min-width: 200px;
+      position: relative;
+    }
+    .list-search input {
+      width: 100%;
+      padding: 10px 16px 10px 40px;
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius);
+      font-size: 0.9375rem;
+      font-family: inherit;
+      box-sizing: border-box;
+    }
+    .list-search svg {
+      position: absolute;
+      left: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-secondary);
+    }
+    .filter-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .filter-btn {
+      padding: 6px 14px;
+      border: 1.5px solid var(--border);
+      border-radius: 20px;
+      background: white;
+      font-size: 0.8125rem;
+      cursor: pointer;
+      font-family: inherit;
+      transition: all .15s;
+    }
+    .filter-btn:hover,
+    .filter-btn.active {
+      border-color: var(--primary);
+      color: var(--primary);
+      background: var(--primary-light);
+    }
+    .list-meta {
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+      margin-bottom: 16px;
+    }
+    .exam-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 12px;
+    }
+    .exam-card {
+      display: block;
+      padding: 16px;
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius-lg);
+      background: white;
+      text-decoration: none;
+      color: inherit;
+      transition: border-color .15s, box-shadow .15s;
+    }
+    .exam-card:hover {
+      border-color: var(--primary);
+      box-shadow: 0 2px 8px rgba(37,99,235,.12);
+    }
+    .exam-card-name {
+      font-weight: 700;
+      font-size: 0.9375rem;
+      color: var(--text-primary);
+      margin-bottom: 6px;
+    }
+    .exam-card-meta {
+      font-size: 0.8125rem;
+      color: var(--text-secondary);
+    }
+    .no-results {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-secondary);
+    }
+    @media (max-width: 600px) {
+      .exam-grid { grid-template-columns: 1fr 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ===== Header ===== -->
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="logo">gosapass</a>
+    <form class="header-search" action="/list.html" method="get" role="search">
+      <svg class="search-ico" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <input type="search" name="q" placeholder="자격증 검색 (예: 전기기사)" aria-label="자격증 검색">
+    </form>
+    <nav class="site-nav" aria-label="주요 메뉴">
+      <a href="/">메인</a>
+      <a href="/list.html" class="active">자격증 목록</a>
+      <a href="/calendar.html">시험 캘린더</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="container section">
+    <h1 style="font-size:1.5rem;font-weight:700;margin-bottom:4px;">국가자격증 전체 목록</h1>
+    <p style="color:var(--text-secondary);font-size:0.9rem;margin-bottom:24px;">한국산업인력공단 국가기술자격 — 매일 자동 업데이트</p>
+
+    <!-- AdSense -->
+    <div class="ad-wrap">
+      <div class="ad-label">광고</div>
+      <div class="ad-block ad-leaderboard">728 × 90 광고 영역</div>
+    </div>
+
+    <!-- 검색 & 필터 -->
+    <div class="list-controls">
+      <div class="list-search">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        <input type="text" id="searchInput" placeholder="자격증명 검색...">
+      </div>
+      <div class="filter-row" id="seriesFilter">
+        <button class="filter-btn active" data-series="">전체</button>
+        <button class="filter-btn" data-series="기술사">기술사</button>
+        <button class="filter-btn" data-series="기능장">기능장</button>
+        <button class="filter-btn" data-series="기사">기사</button>
+        <button class="filter-btn" data-series="산업기사">산업기사</button>
+        <button class="filter-btn" data-series="기능사">기능사</button>
+      </div>
+    </div>
+
+    <!-- 분야 필터 -->
+    <div class="filter-row" id="fieldFilter" style="margin-bottom:16px;">
+      <button class="filter-btn active" data-field="">전체 분야</button>
+    </div>
+
+    <div class="list-meta" id="listMeta">로딩 중...</div>
+
+    <!-- 목록 -->
+    <div class="exam-grid" id="examGrid"></div>
+    <div class="no-results" id="noResults" style="display:none;">검색 결과가 없습니다.</div>
+
+    <!-- AdSense -->
+    <div class="ad-wrap" style="margin-top:32px;">
+      <div class="ad-label">광고</div>
+      <div class="ad-block ad-leaderboard">728 × 90 광고 영역</div>
+    </div>
+  </div>
+</main>
+
+<!-- ===== Footer ===== -->
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>
+      <div class="footer-brand">gosapass</div>
+      <p class="footer-desc">
+        국가자격증 시험일정, 원서접수, 합격률을 무료로 제공합니다.<br>
+        한국산업인력공단 공공데이터 기반으로 매일 자동 업데이트됩니다.
+      </p>
+    </div>
+    <div class="footer-col">
+      <h4>분야별 자격증</h4>
+      <a href="/list.html?cat=전기전자">전기·전자</a>
+      <a href="/list.html?cat=IT정보">IT·정보</a>
+      <a href="/list.html?cat=건설">건설</a>
+      <a href="/list.html?cat=안전">안전</a>
+      <a href="/list.html?cat=기계">기계</a>
+    </div>
+    <div class="footer-col">
+      <h4>사이트 정보</h4>
+      <a href="/list.html">자격증 전체 목록</a>
+      <a href="/calendar.html">시험 캘린더</a>
+      <a href="/privacy.html">개인정보처리방침</a>
+    </div>
+  </div>
+  <div class="footer-copy">
+    © 2026 gosapass.kr · 데이터 출처: 한국산업인력공단 공공데이터포털<br>
+    본 사이트의 시험일정은 참고용이며, 정확한 정보는 <a href="https://www.q-net.or.kr" style="color:var(--primary);">큐넷(Q-Net)</a>에서 확인하세요.
+  </div>
+</footer>
+
+<script src="/js/list.js"></script>
+</body>
+</html>

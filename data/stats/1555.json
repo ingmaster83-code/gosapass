@@ -1,0 +1,80 @@
+{
+  "jmcd": "1555",
+  "name": "승강기기사",
+  "series": "기사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "22600",
+    "raw": "1차 : 19400, 2차 : 22600"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1793,
+        "passers": 632,
+        "passRate": 35.2
+      },
+      {
+        "year": 2022,
+        "applicants": 1498,
+        "passers": 421,
+        "passRate": 28.1
+      },
+      {
+        "year": 2023,
+        "applicants": 1353,
+        "passers": 446,
+        "passRate": 33.0
+      },
+      {
+        "year": 2024,
+        "applicants": 1154,
+        "passers": 362,
+        "passRate": 31.4
+      },
+      {
+        "year": 2025,
+        "applicants": 1113,
+        "passers": 325,
+        "passRate": 29.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 849,
+        "passers": 338,
+        "passRate": 39.8
+      },
+      {
+        "year": 2022,
+        "applicants": 911,
+        "passers": 314,
+        "passRate": 34.5
+      },
+      {
+        "year": 2023,
+        "applicants": 668,
+        "passers": 259,
+        "passRate": 38.8
+      },
+      {
+        "year": 2024,
+        "applicants": 736,
+        "passers": 172,
+        "passRate": 23.4
+      },
+      {
+        "year": 2025,
+        "applicants": 696,
+        "passers": 221,
+        "passRate": 31.8
+      }
+    ]
+  }
+}

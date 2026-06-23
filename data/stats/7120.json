@@ -1,0 +1,80 @@
+{
+  "jmcd": "7120",
+  "name": "비계기능사",
+  "series": "기능사",
+  "field": "건설",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "47300",
+    "practical": "",
+    "raw": ", 2차 : 47300"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1905,
+        "passers": 1138,
+        "passRate": 59.7
+      },
+      {
+        "year": 2022,
+        "applicants": 1979,
+        "passers": 1187,
+        "passRate": 60.0
+      },
+      {
+        "year": 2023,
+        "applicants": 1964,
+        "passers": 1176,
+        "passRate": 59.9
+      },
+      {
+        "year": 2024,
+        "applicants": 1671,
+        "passers": 1024,
+        "passRate": 61.3
+      },
+      {
+        "year": 2025,
+        "applicants": 1547,
+        "passers": 946,
+        "passRate": 61.2
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "jmcd": "6836",
+  "name": "자동차보수도장기능사",
+  "series": "기능사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "143900",
+    "raw": "1차 : 14500, 2차 : 143900"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2131,
+        "passers": 1363,
+        "passRate": 64.0
+      },
+      {
+        "year": 2022,
+        "applicants": 1592,
+        "passers": 929,
+        "passRate": 58.4
+      },
+      {
+        "year": 2023,
+        "applicants": 2084,
+        "passers": 1250,
+        "passRate": 60.0
+      },
+      {
+        "year": 2024,
+        "applicants": 2061,
+        "passers": 1004,
+        "passRate": 48.7
+      },
+      {
+        "year": 2025,
+        "applicants": 2372,
+        "passers": 1142,
+        "passRate": 48.1
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1401,
+        "passers": 1149,
+        "passRate": 82.0
+      },
+      {
+        "year": 2022,
+        "applicants": 968,
+        "passers": 800,
+        "passRate": 82.6
+      },
+      {
+        "year": 2023,
+        "applicants": 1249,
+        "passers": 1046,
+        "passRate": 83.7
+      },
+      {
+        "year": 2024,
+        "applicants": 1113,
+        "passers": 932,
+        "passRate": 83.7
+      },
+      {
+        "year": 2025,
+        "applicants": 1185,
+        "passers": 1024,
+        "passRate": 86.4
+      }
+    ]
+  }
+}

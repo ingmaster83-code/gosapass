@@ -1,0 +1,80 @@
+{
+  "jmcd": "1617",
+  "name": "누설비파괴검사기사",
+  "series": "기사",
+  "field": "안전관리",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "38300",
+    "raw": "1차 : 19400, 2차 : 38300"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 283,
+        "passers": 129,
+        "passRate": 45.6
+      },
+      {
+        "year": 2022,
+        "applicants": 200,
+        "passers": 109,
+        "passRate": 54.5
+      },
+      {
+        "year": 2023,
+        "applicants": 108,
+        "passers": 68,
+        "passRate": 63.0
+      },
+      {
+        "year": 2024,
+        "applicants": 180,
+        "passers": 98,
+        "passRate": 54.4
+      },
+      {
+        "year": 2025,
+        "applicants": 162,
+        "passers": 94,
+        "passRate": 58.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 116,
+        "passers": 60,
+        "passRate": 51.7
+      },
+      {
+        "year": 2022,
+        "applicants": 110,
+        "passers": 51,
+        "passRate": 46.4
+      },
+      {
+        "year": 2023,
+        "applicants": 62,
+        "passers": 42,
+        "passRate": 67.7
+      },
+      {
+        "year": 2024,
+        "applicants": 88,
+        "passers": 48,
+        "passRate": 54.5
+      },
+      {
+        "year": 2025,
+        "applicants": 88,
+        "passers": 41,
+        "passRate": 46.6
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "jmcd": "9700",
+  "name": "경매사(약용)",
+  "series": "경매사",
+  "field": "",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "50000",
+    "practical": "35000",
+    "raw": "1차 : 50000, 2차 : 35000"
+  },
+  "info": [],
+  "stats": {
+    "written": [],
+    "practical": []
+  }
+}

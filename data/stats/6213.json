@@ -1,0 +1,80 @@
+{
+  "jmcd": "6213",
+  "name": "배관기능사",
+  "series": "기능사",
+  "field": "건설",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "64300",
+    "raw": "1차 : 14500, 2차 : 64300"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 811,
+        "passers": 391,
+        "passRate": 48.2
+      },
+      {
+        "year": 2022,
+        "applicants": 774,
+        "passers": 356,
+        "passRate": 46.0
+      },
+      {
+        "year": 2023,
+        "applicants": 952,
+        "passers": 453,
+        "passRate": 47.6
+      },
+      {
+        "year": 2024,
+        "applicants": 995,
+        "passers": 476,
+        "passRate": 47.8
+      },
+      {
+        "year": 2025,
+        "applicants": 1016,
+        "passers": 397,
+        "passRate": 39.1
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 442,
+        "passers": 292,
+        "passRate": 66.1
+      },
+      {
+        "year": 2022,
+        "applicants": 448,
+        "passers": 275,
+        "passRate": 61.4
+      },
+      {
+        "year": 2023,
+        "applicants": 443,
+        "passers": 291,
+        "passRate": 65.7
+      },
+      {
+        "year": 2024,
+        "applicants": 444,
+        "passers": 276,
+        "passRate": 62.2
+      },
+      {
+        "year": 2025,
+        "applicants": 437,
+        "passers": 263,
+        "passRate": 60.2
+      }
+    ]
+  }
+}

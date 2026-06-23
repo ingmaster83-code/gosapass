@@ -1,0 +1,49 @@
+{
+  "jmcd": "9546",
+  "name": "스포츠경영관리사",
+  "series": "기사",
+  "field": "이용.숙박.여행.오락.스포츠",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2313,
+        "passers": 1590,
+        "passRate": 68.7
+      },
+      {
+        "year": 2022,
+        "applicants": 1961,
+        "passers": 1238,
+        "passRate": 63.1
+      },
+      {
+        "year": 2023,
+        "applicants": 1996,
+        "passers": 1281,
+        "passRate": 64.2
+      },
+      {
+        "year": 2024,
+        "applicants": 2345,
+        "passers": 1250,
+        "passRate": 53.3
+      },
+      {
+        "year": 2025,
+        "applicants": 2626,
+        "passers": 1454,
+        "passRate": 55.4
+      }
+    ],
+    "practical": []
+  }
+}

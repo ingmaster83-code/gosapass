@@ -1,0 +1,18 @@
+{
+  "jmcd": "3925",
+  "name": "이용장",
+  "series": "기능장",
+  "field": "이용.숙박.여행.오락.스포츠",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "34400",
+    "practical": "31100",
+    "raw": "1차 : 34400, 2차 : 31100"
+  },
+  "info": [],
+  "stats": {
+    "written": [],
+    "practical": []
+  }
+}

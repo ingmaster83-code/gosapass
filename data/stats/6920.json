@@ -1,0 +1,80 @@
+{
+  "jmcd": "6920",
+  "name": "선체건조기능사",
+  "series": "기능사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "53500",
+    "raw": "1차 : 14500, 2차 : 53500"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 3,
+        "passers": 1,
+        "passRate": 33.3
+      },
+      {
+        "year": 2022,
+        "applicants": 11,
+        "passers": 6,
+        "passRate": 54.5
+      },
+      {
+        "year": 2023,
+        "applicants": 12,
+        "passers": 6,
+        "passRate": 50.0
+      },
+      {
+        "year": 2024,
+        "applicants": 13,
+        "passers": 2,
+        "passRate": 15.4
+      },
+      {
+        "year": 2025,
+        "applicants": 42,
+        "passers": 20,
+        "passRate": 47.6
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 29,
+        "passers": 26,
+        "passRate": 89.7
+      },
+      {
+        "year": 2022,
+        "applicants": 37,
+        "passers": 33,
+        "passRate": 89.2
+      },
+      {
+        "year": 2023,
+        "applicants": 22,
+        "passers": 19,
+        "passRate": 86.4
+      },
+      {
+        "year": 2024,
+        "applicants": 25,
+        "passers": 21,
+        "passRate": 84.0
+      },
+      {
+        "year": 2025,
+        "applicants": 44,
+        "passers": 36,
+        "passRate": 81.8
+      }
+    ]
+  }
+}

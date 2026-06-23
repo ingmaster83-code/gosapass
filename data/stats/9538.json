@@ -1,0 +1,80 @@
+{
+  "jmcd": "9538",
+  "name": "소비자전문상담사2급",
+  "series": "기사",
+  "field": "경영.회계.사무",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 680,
+        "passers": 380,
+        "passRate": 55.9
+      },
+      {
+        "year": 2022,
+        "applicants": 489,
+        "passers": 263,
+        "passRate": 53.8
+      },
+      {
+        "year": 2023,
+        "applicants": 391,
+        "passers": 232,
+        "passRate": 59.3
+      },
+      {
+        "year": 2024,
+        "applicants": 430,
+        "passers": 220,
+        "passRate": 51.2
+      },
+      {
+        "year": 2025,
+        "applicants": 421,
+        "passers": 227,
+        "passRate": 53.9
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 395,
+        "passers": 169,
+        "passRate": 42.8
+      },
+      {
+        "year": 2022,
+        "applicants": 271,
+        "passers": 168,
+        "passRate": 62.0
+      },
+      {
+        "year": 2023,
+        "applicants": 232,
+        "passers": 86,
+        "passRate": 37.1
+      },
+      {
+        "year": 2024,
+        "applicants": 236,
+        "passers": 98,
+        "passRate": 41.5
+      },
+      {
+        "year": 2025,
+        "applicants": 228,
+        "passers": 121,
+        "passRate": 53.1
+      }
+    ]
+  }
+}

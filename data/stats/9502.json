@@ -1,0 +1,23 @@
+{
+  "jmcd": "9502",
+  "name": "기계경비지도사",
+  "series": "경비지도사",
+  "field": "",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "28000",
+    "practical": "28000",
+    "raw": "1차 : 28000, 2차 : 28000"
+  },
+  "info": [
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}일반경비지도사 내용 참조"
+    }
+  ],
+  "stats": {
+    "written": [],
+    "practical": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "jmcd": "2282",
+  "name": "실내건축산업기사",
+  "series": "기사",
+  "field": "건설",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "27900",
+    "raw": "1차 : 19400, 2차 : 27900"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2261,
+        "passers": 1107,
+        "passRate": 49.0
+      },
+      {
+        "year": 2022,
+        "applicants": 2004,
+        "passers": 617,
+        "passRate": 30.8
+      },
+      {
+        "year": 2023,
+        "applicants": 2069,
+        "passers": 672,
+        "passRate": 32.5
+      },
+      {
+        "year": 2024,
+        "applicants": 1917,
+        "passers": 684,
+        "passRate": 35.7
+      },
+      {
+        "year": 2025,
+        "applicants": 1851,
+        "passers": 569,
+        "passRate": 30.7
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1013,
+        "passers": 674,
+        "passRate": 66.5
+      },
+      {
+        "year": 2022,
+        "applicants": 651,
+        "passers": 393,
+        "passRate": 60.4
+      },
+      {
+        "year": 2023,
+        "applicants": 590,
+        "passers": 280,
+        "passRate": 47.5
+      },
+      {
+        "year": 2024,
+        "applicants": 646,
+        "passers": 347,
+        "passRate": 53.7
+      },
+      {
+        "year": 2025,
+        "applicants": 538,
+        "passers": 293,
+        "passRate": 54.5
+      }
+    ]
+  }
+}

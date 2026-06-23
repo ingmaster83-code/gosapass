@@ -1,0 +1,80 @@
+{
+  "jmcd": "7670",
+  "name": "항공사진기능사",
+  "series": "기능사",
+  "field": "건설",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "52900",
+    "practical": "",
+    "raw": ", 2차 : 52900"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 173,
+        "passers": 80,
+        "passRate": 46.2
+      },
+      {
+        "year": 2022,
+        "applicants": 208,
+        "passers": 164,
+        "passRate": 78.8
+      },
+      {
+        "year": 2023,
+        "applicants": 261,
+        "passers": 191,
+        "passRate": 73.2
+      },
+      {
+        "year": 2024,
+        "applicants": 384,
+        "passers": 299,
+        "passRate": 77.9
+      },
+      {
+        "year": 2025,
+        "applicants": 471,
+        "passers": 332,
+        "passRate": 70.5
+      }
+    ]
+  }
+}

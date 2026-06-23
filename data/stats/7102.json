@@ -1,0 +1,80 @@
+{
+  "jmcd": "7102",
+  "name": "금속재창호기능사",
+  "series": "기능사",
+  "field": "건설",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "68900",
+    "practical": "",
+    "raw": ", 2차 : 68900"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 987,
+        "passers": 522,
+        "passRate": 52.9
+      },
+      {
+        "year": 2022,
+        "applicants": 902,
+        "passers": 470,
+        "passRate": 52.1
+      },
+      {
+        "year": 2023,
+        "applicants": 796,
+        "passers": 440,
+        "passRate": 55.3
+      },
+      {
+        "year": 2024,
+        "applicants": 639,
+        "passers": 335,
+        "passRate": 52.4
+      },
+      {
+        "year": 2025,
+        "applicants": 579,
+        "passers": 298,
+        "passRate": 51.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "jmcd": "1612",
+  "name": "초음파비파괴검사기사",
+  "series": "기사",
+  "field": "안전관리",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "42800",
+    "raw": "1차 : 19400, 2차 : 42800"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 545,
+        "passers": 285,
+        "passRate": 52.3
+      },
+      {
+        "year": 2022,
+        "applicants": 433,
+        "passers": 208,
+        "passRate": 48.0
+      },
+      {
+        "year": 2023,
+        "applicants": 469,
+        "passers": 274,
+        "passRate": 58.4
+      },
+      {
+        "year": 2024,
+        "applicants": 478,
+        "passers": 251,
+        "passRate": 52.5
+      },
+      {
+        "year": 2025,
+        "applicants": 474,
+        "passers": 228,
+        "passRate": 48.1
+      }
+    ],
+    "practical": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "jmcd": "7151",
+  "name": "유리시공기능사",
+  "series": "기능사",
+  "field": "건설",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "65100",
+    "practical": "",
+    "raw": ", 2차 : 65100"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 166,
+        "passers": 81,
+        "passRate": 48.8
+      },
+      {
+        "year": 2022,
+        "applicants": 163,
+        "passers": 78,
+        "passRate": 47.9
+      },
+      {
+        "year": 2023,
+        "applicants": 127,
+        "passers": 56,
+        "passRate": 44.1
+      },
+      {
+        "year": 2024,
+        "applicants": 139,
+        "passers": 71,
+        "passRate": 51.1
+      },
+      {
+        "year": 2025,
+        "applicants": 118,
+        "passers": 50,
+        "passRate": 42.4
+      }
+    ]
+  }
+}

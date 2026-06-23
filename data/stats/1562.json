@@ -1,0 +1,49 @@
+{
+  "jmcd": "1562",
+  "name": "식물보호기사",
+  "series": "기사",
+  "field": "농림어업",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "22600",
+    "raw": "1차 : 19400, 2차 : 22600"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 4933,
+        "passers": 2718,
+        "passRate": 55.1
+      },
+      {
+        "year": 2022,
+        "applicants": 3952,
+        "passers": 2251,
+        "passRate": 57.0
+      },
+      {
+        "year": 2023,
+        "applicants": 4264,
+        "passers": 2320,
+        "passRate": 54.4
+      },
+      {
+        "year": 2024,
+        "applicants": 4716,
+        "passers": 2581,
+        "passRate": 54.7
+      },
+      {
+        "year": 2025,
+        "applicants": 5234,
+        "passers": 3055,
+        "passRate": 58.4
+      }
+    ],
+    "practical": []
+  }
+}

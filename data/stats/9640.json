@@ -1,0 +1,18 @@
+{
+  "jmcd": "9640",
+  "name": "관세사",
+  "series": "관세사",
+  "field": "",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "30000",
+    "practical": "30000",
+    "raw": "1차 : 30000, 2차 : 30000"
+  },
+  "info": [],
+  "stats": {
+    "written": [],
+    "practical": []
+  }
+}

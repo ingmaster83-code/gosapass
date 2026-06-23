@@ -1,0 +1,62 @@
+{
+  "jmcd": "1022",
+  "name": "용접기사",
+  "series": "기사",
+  "field": "재료",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "",
+    "practical": "",
+    "raw": ""
+  },
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고 바랍니다.- 실기시험은 주어진 도면을 해독하여 실무에서 사용되는 용접방법으로 용접작업을 수행하는 평가입니다.(공개문제 참조)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}용접기사 출제기준 입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 대학의 기계공학, 금속공학 등 관련학과 &#9314; 시험과목 - 필기 1. 기계제작법 2. 재료역학 3. 용접야금 4. 용접구조설계 5. 용접일반 및 안전관리- 실기 : 용접실무 &#9315; 검정방법 - 필기 : 객관식 4지 택일형 과목당 20문항(과목당 30분) - 실기 : 복형형((필답형(1시간30분, 45점)+작업형(1시간 20분정도, 55점)&#9316; 합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점이상 - 실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보 안전등급(safety Level) : 4 등급▼위험경고주의관심&middot; 시험장소 구분실내 &middot; 외&middot; 주요시설 및 장비피복아크용접기, CO2 용접기&middot; 보호구용접헬멧, 방진마스크, 안전화, 용접앞치마, 용접장갑등보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
+  "stats": {
+    "written": [],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 178,
+        "passers": 59,
+        "passRate": 33.1
+      },
+      {
+        "year": 2022,
+        "applicants": 203,
+        "passers": 43,
+        "passRate": 21.2
+      },
+      {
+        "year": 2023,
+        "applicants": 241,
+        "passers": 79,
+        "passRate": 32.8
+      },
+      {
+        "year": 2024,
+        "applicants": 215,
+        "passers": 64,
+        "passRate": 29.8
+      },
+      {
+        "year": 2025,
+        "applicants": 187,
+        "passers": 58,
+        "passRate": 31.0
+      }
+    ]
+  }
+}

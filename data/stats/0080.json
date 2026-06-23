@@ -1,0 +1,80 @@
+{
+  "jmcd": "0080",
+  "name": "건설기계기술사",
+  "series": "기술사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 134,
+        "passers": 17,
+        "passRate": 12.7
+      },
+      {
+        "year": 2022,
+        "applicants": 108,
+        "passers": 41,
+        "passRate": 38.0
+      },
+      {
+        "year": 2023,
+        "applicants": 116,
+        "passers": 22,
+        "passRate": 19.0
+      },
+      {
+        "year": 2024,
+        "applicants": 113,
+        "passers": 19,
+        "passRate": 16.8
+      },
+      {
+        "year": 2025,
+        "applicants": 126,
+        "passers": 16,
+        "passRate": 12.7
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 36,
+        "passers": 13,
+        "passRate": 36.1
+      },
+      {
+        "year": 2022,
+        "applicants": 72,
+        "passers": 31,
+        "passRate": 43.1
+      },
+      {
+        "year": 2023,
+        "applicants": 51,
+        "passers": 18,
+        "passRate": 35.3
+      },
+      {
+        "year": 2024,
+        "applicants": 50,
+        "passers": 20,
+        "passRate": 40.0
+      },
+      {
+        "year": 2025,
+        "applicants": 36,
+        "passers": 18,
+        "passRate": 50.0
+      }
+    ]
+  }
+}

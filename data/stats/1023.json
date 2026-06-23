@@ -1,0 +1,31 @@
+{
+  "jmcd": "1023",
+  "name": "농업기계기사",
+  "series": "기사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "",
+    "practical": "",
+    "raw": ""
+  },
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 복합형(작업형+필답형)으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다.- 농업기계에 관련된 재료의 특성을 이해하고 기계요소의 가공방식에 관한 전문지식을 활용하여 농업기계 및 관련기계설비와 구조물을 CAD S/W를 이용하여 CAD도면설계작업, 견적, 제작, 시공, 감리 등과 농업기계 관련 기능  인력에 대한 기술지도 감독 등 을 하여 주어진 농업기계를 능률적으로 실무에 활용하도록 하는 직무를 수행 능력  평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}농업기계기사 출제기준 입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 대학의 농업기계공학, 농업공학, 기계공학, 기계설계공학 등 관련학과 &#9314; 시험과목- 필기 1. 재료역학 2. 기계열역학 3. 기계유체역학 4. 농업동력학 5. 농업기계학- 실기 : 농업기계설계&#9315; 검정방법 - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분)-실기 : 복합형[필답형(2시간) + 작업형(4시간 정도)] &#9316; 합격기준- 필기 : 100점으로 만점으로 하여 과목당 40점 이상, 전과목 평균 60점이상 - 실기 : 100점을 만점으로 하여 60점이상 작업형 실기시험 기본정보 안전등급(safety Level) : 2 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비컴퓨터, 프린트&middot; 보호구해당사항없음보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
+  "stats": {
+    "written": [],
+    "practical": []
+  }
+}

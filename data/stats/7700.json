@@ -1,0 +1,62 @@
+{
+  "jmcd": "7700",
+  "name": "수산양식기능사",
+  "series": "기능사",
+  "field": "농림어업",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "45700",
+    "raw": "1차 : 14500, 2차 : 45700"
+  },
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "- 출제기준 세부항목 참조 실기 : '공개문제 참조'"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}수산양식기능사 출제기준입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 시험과목 - 필기 :1. 수산양식2. 수산생물3.양식장 수질관리 및 양식생물 질병 - 실기 : 수산양식실무 &#9314; 검정방법 - 필기 : 객관식 4지 택일형 60문항(60분) - 실기 : 작업형(4시간, 배점 100점)&#9315;합격기준 - 100점 만점에 60점 이상 득점자"
+    }
+  ],
+  "stats": {
+    "written": [],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 117,
+        "passers": 113,
+        "passRate": 96.6
+      },
+      {
+        "year": 2022,
+        "applicants": 120,
+        "passers": 111,
+        "passRate": 92.5
+      },
+      {
+        "year": 2023,
+        "applicants": 82,
+        "passers": 76,
+        "passRate": 92.7
+      },
+      {
+        "year": 2024,
+        "applicants": 100,
+        "passers": 99,
+        "passRate": 99.0
+      },
+      {
+        "year": 2025,
+        "applicants": 130,
+        "passers": 130,
+        "passRate": 100.0
+      }
+    ]
+  }
+}

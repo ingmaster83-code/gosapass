@@ -1,0 +1,80 @@
+{
+  "jmcd": "1626",
+  "name": "어병기사",
+  "series": "기사",
+  "field": "농림어업",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "18000",
+    "practical": "86000",
+    "raw": "1차 : 18000, 2차 : 86000"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 109,
+        "passers": 49,
+        "passRate": 45.0
+      },
+      {
+        "year": 2022,
+        "applicants": 101,
+        "passers": 31,
+        "passRate": 30.7
+      },
+      {
+        "year": 2023,
+        "applicants": 101,
+        "passers": 44,
+        "passRate": 43.6
+      },
+      {
+        "year": 2024,
+        "applicants": 100,
+        "passers": 56,
+        "passRate": 56.0
+      },
+      {
+        "year": 2025,
+        "applicants": 97,
+        "passers": 44,
+        "passRate": 45.4
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 58,
+        "passers": 52,
+        "passRate": 89.7
+      },
+      {
+        "year": 2022,
+        "applicants": 30,
+        "passers": 15,
+        "passRate": 50.0
+      },
+      {
+        "year": 2023,
+        "applicants": 52,
+        "passers": 46,
+        "passRate": 88.5
+      },
+      {
+        "year": 2024,
+        "applicants": 56,
+        "passers": 44,
+        "passRate": 78.6
+      },
+      {
+        "year": 2025,
+        "applicants": 50,
+        "passers": 19,
+        "passRate": 38.0
+      }
+    ]
+  }
+}

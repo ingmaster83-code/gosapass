@@ -1,0 +1,49 @@
+{
+  "jmcd": "3410",
+  "name": "전자기능장",
+  "series": "기능장",
+  "field": "전기.전자",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "",
+    "practical": "",
+    "raw": ""
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 145,
+        "passers": 73,
+        "passRate": 50.3
+      },
+      {
+        "year": 2022,
+        "applicants": 151,
+        "passers": 63,
+        "passRate": 41.7
+      },
+      {
+        "year": 2023,
+        "applicants": 213,
+        "passers": 95,
+        "passRate": 44.6
+      },
+      {
+        "year": 2024,
+        "applicants": 267,
+        "passers": 141,
+        "passRate": 52.8
+      },
+      {
+        "year": 2025,
+        "applicants": 280,
+        "passers": 152,
+        "passRate": 54.3
+      }
+    ],
+    "practical": []
+  }
+}

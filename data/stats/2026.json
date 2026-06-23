@@ -1,0 +1,80 @@
+{
+  "jmcd": "2026",
+  "name": "용접산업기사",
+  "series": "기사",
+  "field": "재료",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "",
+    "practical": "",
+    "raw": ""
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2033,
+        "passers": 1293,
+        "passRate": 63.6
+      },
+      {
+        "year": 2022,
+        "applicants": 2044,
+        "passers": 1253,
+        "passRate": 61.3
+      },
+      {
+        "year": 2023,
+        "applicants": 2112,
+        "passers": 1288,
+        "passRate": 61.0
+      },
+      {
+        "year": 2024,
+        "applicants": 2037,
+        "passers": 1212,
+        "passRate": 59.5
+      },
+      {
+        "year": 2025,
+        "applicants": 2064,
+        "passers": 1218,
+        "passRate": 59.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1484,
+        "passers": 503,
+        "passRate": 33.9
+      },
+      {
+        "year": 2022,
+        "applicants": 1558,
+        "passers": 505,
+        "passRate": 32.4
+      },
+      {
+        "year": 2023,
+        "applicants": 1571,
+        "passers": 454,
+        "passRate": 28.9
+      },
+      {
+        "year": 2024,
+        "applicants": 1555,
+        "passers": 510,
+        "passRate": 32.8
+      },
+      {
+        "year": 2025,
+        "applicants": 1549,
+        "passers": 479,
+        "passRate": 30.9
+      }
+    ]
+  }
+}

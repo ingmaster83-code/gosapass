@@ -1,0 +1,49 @@
+{
+  "jmcd": "2040",
+  "name": "건설기계설비산업기사",
+  "series": "기사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 179,
+        "passers": 82,
+        "passRate": 45.8
+      },
+      {
+        "year": 2022,
+        "applicants": 124,
+        "passers": 34,
+        "passRate": 27.4
+      },
+      {
+        "year": 2023,
+        "applicants": 88,
+        "passers": 27,
+        "passRate": 30.7
+      },
+      {
+        "year": 2024,
+        "applicants": 71,
+        "passers": 22,
+        "passRate": 31.0
+      },
+      {
+        "year": 2025,
+        "applicants": 91,
+        "passers": 25,
+        "passRate": 27.5
+      }
+    ],
+    "practical": []
+  }
+}

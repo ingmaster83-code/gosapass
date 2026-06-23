@@ -1,0 +1,49 @@
+{
+  "jmcd": "2760",
+  "name": "귀금속가공산업기사",
+  "series": "기사",
+  "field": "인쇄.목재.가구.공예",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "",
+    "practical": "",
+    "raw": ""
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 54,
+        "passers": 33,
+        "passRate": 61.1
+      },
+      {
+        "year": 2022,
+        "applicants": 46,
+        "passers": 30,
+        "passRate": 65.2
+      },
+      {
+        "year": 2023,
+        "applicants": 42,
+        "passers": 24,
+        "passRate": 57.1
+      },
+      {
+        "year": 2024,
+        "applicants": 29,
+        "passers": 19,
+        "passRate": 65.5
+      },
+      {
+        "year": 2025,
+        "applicants": 58,
+        "passers": 40,
+        "passRate": 69.0
+      }
+    ],
+    "practical": []
+  }
+}

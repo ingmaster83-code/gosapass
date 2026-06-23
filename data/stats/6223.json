@@ -1,0 +1,80 @@
+{
+  "jmcd": "6223",
+  "name": "피복아크용접기능사",
+  "series": "기능사",
+  "field": "재료",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "40000",
+    "raw": "1차 : 14500, 2차 : 40000"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 14356,
+        "passers": 4420,
+        "passRate": 30.8
+      },
+      {
+        "year": 2022,
+        "applicants": 12615,
+        "passers": 3727,
+        "passRate": 29.5
+      },
+      {
+        "year": 2023,
+        "applicants": 11787,
+        "passers": 3569,
+        "passRate": 30.3
+      },
+      {
+        "year": 2024,
+        "applicants": 11593,
+        "passers": 3364,
+        "passRate": 29.0
+      },
+      {
+        "year": 2025,
+        "applicants": 11805,
+        "passers": 3565,
+        "passRate": 30.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 6696,
+        "passers": 3508,
+        "passRate": 52.4
+      },
+      {
+        "year": 2022,
+        "applicants": 5804,
+        "passers": 2743,
+        "passRate": 47.3
+      },
+      {
+        "year": 2023,
+        "applicants": 5082,
+        "passers": 2299,
+        "passRate": 45.2
+      },
+      {
+        "year": 2024,
+        "applicants": 4942,
+        "passers": 2237,
+        "passRate": 45.3
+      },
+      {
+        "year": 2025,
+        "applicants": 5293,
+        "passers": 2342,
+        "passRate": 44.2
+      }
+    ]
+  }
+}

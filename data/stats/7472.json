@@ -1,0 +1,80 @@
+{
+  "jmcd": "7472",
+  "name": "초음파비파괴검사기능사",
+  "series": "기능사",
+  "field": "안전관리",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "33600",
+    "raw": "1차 : 14500, 2차 : 33600"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 791,
+        "passers": 298,
+        "passRate": 37.7
+      },
+      {
+        "year": 2022,
+        "applicants": 641,
+        "passers": 257,
+        "passRate": 40.1
+      },
+      {
+        "year": 2023,
+        "applicants": 648,
+        "passers": 223,
+        "passRate": 34.4
+      },
+      {
+        "year": 2024,
+        "applicants": 775,
+        "passers": 228,
+        "passRate": 29.4
+      },
+      {
+        "year": 2025,
+        "applicants": 786,
+        "passers": 246,
+        "passRate": 31.3
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 445,
+        "passers": 221,
+        "passRate": 49.7
+      },
+      {
+        "year": 2022,
+        "applicants": 298,
+        "passers": 173,
+        "passRate": 58.1
+      },
+      {
+        "year": 2023,
+        "applicants": 279,
+        "passers": 153,
+        "passRate": 54.8
+      },
+      {
+        "year": 2024,
+        "applicants": 299,
+        "passers": 108,
+        "passRate": 36.1
+      },
+      {
+        "year": 2025,
+        "applicants": 384,
+        "passers": 124,
+        "passRate": 32.3
+      }
+    ]
+  }
+}

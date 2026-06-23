@@ -1,0 +1,93 @@
+{
+  "jmcd": "6042",
+  "name": "기계가공조립기능사",
+  "series": "기능사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "47300",
+    "raw": "1차 : 14500, 2차 : 47300"
+  },
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 수가공 및 선반 &middot; 밀링작업 등 각 요소별직무수행능력 평가(공개도면 참조)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}기계가공조립기능사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시행처 : 한국산업인력공단&#9313; 시험과목- 필기 : 1.도면해독 2.기계가공 3. 측정 및 조립- 실기 : 기계조립 작업&#9314;검정방법- 필기 : 객관식 4지 택일형 60 문항(60분)- 실기 : 작업형(4시간, 100점)&#9315; 합격기준- 필기 : 100점을 만점으로 하여 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보안전등급(safety Level) :4 등급▼위험경고주의관심&middot; 시험장소 구분실내 &middot; 외&middot; 주요시설 및 장비범용밀링, 범용선반 등&middot; 보호구보안경, 안전화, 안전보호구등보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1698,
+        "passers": 815,
+        "passRate": 48.0
+      },
+      {
+        "year": 2022,
+        "applicants": 1229,
+        "passers": 579,
+        "passRate": 47.1
+      },
+      {
+        "year": 2023,
+        "applicants": 1496,
+        "passers": 694,
+        "passRate": 46.4
+      },
+      {
+        "year": 2024,
+        "applicants": 1516,
+        "passers": 711,
+        "passRate": 46.9
+      },
+      {
+        "year": 2025,
+        "applicants": 1681,
+        "passers": 814,
+        "passRate": 48.4
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 901,
+        "passers": 620,
+        "passRate": 68.8
+      },
+      {
+        "year": 2022,
+        "applicants": 796,
+        "passers": 532,
+        "passRate": 66.8
+      },
+      {
+        "year": 2023,
+        "applicants": 825,
+        "passers": 560,
+        "passRate": 67.9
+      },
+      {
+        "year": 2024,
+        "applicants": 776,
+        "passers": 444,
+        "passRate": 57.2
+      },
+      {
+        "year": 2025,
+        "applicants": 899,
+        "passers": 564,
+        "passRate": 62.7
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "jmcd": "6289",
+  "name": "항공전기·전자정비기능사",
+  "series": "기능사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "53500",
+    "raw": "1차 : 14500, 2차 : 53500"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 575,
+        "passers": 94,
+        "passRate": 16.3
+      },
+      {
+        "year": 2025,
+        "applicants": 942,
+        "passers": 326,
+        "passRate": 34.6
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 345,
+        "passers": 306,
+        "passRate": 88.7
+      },
+      {
+        "year": 2025,
+        "applicants": 668,
+        "passers": 633,
+        "passRate": 94.8
+      }
+    ]
+  }
+}

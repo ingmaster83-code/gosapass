@@ -1,0 +1,18 @@
+{
+  "jmcd": "9744",
+  "name": "주택관리사보",
+  "series": "주택관리사보",
+  "field": "",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "21000",
+    "practical": "14000",
+    "raw": "1차 : 21000, 2차 : 14000"
+  },
+  "info": [],
+  "stats": {
+    "written": [],
+    "practical": []
+  }
+}

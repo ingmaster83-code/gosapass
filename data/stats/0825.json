@@ -1,0 +1,78 @@
+{
+  "jmcd": "0825",
+  "name": "지질및지반기술사",
+  "series": "기술사",
+  "field": "건설",
+  "updated": "2026-06-23",
+  "schedule": [
+    {
+      "round": "제138회",
+      "written_reg_start": "2026-01-06",
+      "written_reg_end": "2026-01-09",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-25",
+      "prac_reg_start": "2026-03-03",
+      "prac_reg_end": "2026-04-02",
+      "prac_exam_start": "2026-05-02",
+      "prac_exam_end": "2026-05-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제140회",
+      "written_reg_start": "2026-07-13",
+      "written_reg_end": "2026-07-16",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-10-07",
+      "prac_reg_start": "2026-08-31",
+      "prac_reg_end": "2026-10-15",
+      "prac_exam_start": "2026-11-14",
+      "prac_exam_end": "2026-11-25",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
+  "fee": {
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 63,
+        "passers": 14,
+        "passRate": 22.2
+      },
+      {
+        "year": 2022,
+        "applicants": 88,
+        "passers": 19,
+        "passRate": 21.6
+      },
+      {
+        "year": 2023,
+        "applicants": 90,
+        "passers": 22,
+        "passRate": 24.4
+      },
+      {
+        "year": 2024,
+        "applicants": 73,
+        "passers": 12,
+        "passRate": 16.4
+      },
+      {
+        "year": 2025,
+        "applicants": 93,
+        "passers": 21,
+        "passRate": 22.6
+      }
+    ],
+    "practical": []
+  }
+}

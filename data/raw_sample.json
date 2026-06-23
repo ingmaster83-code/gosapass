@@ -1,0 +1,85 @@
+{
+  "getEList": [
+    {
+      "description": "기사,산업기사(2026년도 제1회)",
+      "docexamdt": "20260130",
+      "docpassdt": "20260311",
+      "docregenddt": "20260115",
+      "docregstartdt": "20260112",
+      "docsubmitentdt": "20260320",
+      "docsubmitstartdt": "20260130",
+      "pracexamenddt": "20260506",
+      "pracexamstartdt": "20260418",
+      "pracpassdt": "20260605",
+      "pracregenddt": "20260326",
+      "pracregstartdt": "20260323"
+    },
+    {
+      "description": "기사,산업기사(2026년도 제1회)",
+      "docexamdt": "20260130",
+      "docpassdt": "20260311",
+      "docregenddt": "20260125",
+      "docregstartdt": "20260124",
+      "docsubmitentdt": "20260320",
+      "docsubmitstartdt": "20260130",
+      "pracexamenddt": "20260506",
+      "pracexamstartdt": "20260418",
+      "pracpassdt": "20260605",
+      "pracregenddt": "20260413",
+      "pracregstartdt": "20260412"
+    },
+    {
+      "description": "기사,산업기사(2026년도 제2회)",
+      "docexamdt": "20260509",
+      "docpassdt": "20260610",
+      "docregenddt": "20260423",
+      "docregstartdt": "20260420",
+      "docsubmitentdt": "20260619",
+      "docsubmitstartdt": "20260511",
+      "pracexamenddt": "20260805",
+      "pracexamstartdt": "20260718",
+      "pracpassdt": "20260904",
+      "pracregenddt": "20260625",
+      "pracregstartdt": "20260622"
+    }
+  ],
+  "getCList": [
+    {
+      "description": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
+      "docexamdt": "XXXXXXXX",
+      "docpassdt": "XXXXXXXX",
+      "docregenddt": "XXXXXXXX",
+      "docregstartdt": "XXXXXXXX",
+      "pracexamenddt": "20260624",
+      "pracexamstartdt": "20260613",
+      "pracpassdt": "20260710",
+      "pracregenddt": "20260514",
+      "pracregstartdt": "20260511"
+    },
+    {
+      "description": "2026년 정기 기능사 1회",
+      "docexamdt": "20260120",
+      "docpassdt": "20260130",
+      "docregenddt": "20260109",
+      "docregstartdt": "20260106",
+      "pracexamenddt": "20260405",
+      "pracexamstartdt": "20260314",
+      "pracpassdt": "20260410",
+      "pracregenddt": "20260205",
+      "pracregstartdt": "20260202"
+    },
+    {
+      "description": "2026년 정기 기능사 1회",
+      "docexamdt": "20260120",
+      "docpassdt": "20260130",
+      "docregenddt": "20260115",
+      "docregstartdt": "20260114",
+      "pracexamenddt": "20260405",
+      "pracexamstartdt": "20260314",
+      "pracpassdt": "20260410",
+      "pracregenddt": "20260309",
+      "pracregstartdt": "20260308"
+    }
+  ],
+  "getPEList": []
+}

@@ -1,0 +1,61 @@
+{
+  "jmcd": "0400",
+  "name": "토목구조기술사",
+  "series": "기술사",
+  "field": "건설",
+  "updated": "2026-06-23",
+  "schedule": [
+    {
+      "round": "제138회",
+      "written_reg_start": "2026-01-06",
+      "written_reg_end": "2026-01-09",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-25",
+      "prac_reg_start": "2026-03-03",
+      "prac_reg_end": "2026-04-02",
+      "prac_exam_start": "2026-05-02",
+      "prac_exam_end": "2026-05-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제139회",
+      "written_reg_start": "2026-04-13",
+      "written_reg_end": "2026-04-16",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-24",
+      "prac_reg_start": "2026-06-08",
+      "prac_reg_end": "2026-07-02",
+      "prac_exam_start": "2026-08-01",
+      "prac_exam_end": "2026-08-15",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제140회",
+      "written_reg_start": "2026-07-13",
+      "written_reg_end": "2026-07-16",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-10-07",
+      "prac_reg_start": "2026-08-31",
+      "prac_reg_end": "2026-10-15",
+      "prac_exam_start": "2026-11-14",
+      "prac_exam_end": "2026-11-25",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
+  "fee": {
+    "written": "",
+    "practical": "",
+    "raw": ""
+  },
+  "info": [],
+  "stats": {
+    "written": [],
+    "practical": []
+  }
+}

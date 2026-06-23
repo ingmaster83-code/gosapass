@@ -1,0 +1,62 @@
+{
+  "jmcd": "9540",
+  "name": "임상심리사2급",
+  "series": "기사",
+  "field": "보건.의료",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "",
+    "practical": "",
+    "raw": ""
+  },
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}임상심리사2급 출제기준입니다.  메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시행처 : 한국산업인력공단 &#9313; 시험과목  - 필기 : 1. 심리학개론 2. 이상심리학 3. 심리검사 4. 임상심리학 5. 심리상담  - 실기 : 임상실무&#9314; 검정방법- 필기 : 객관식 4지 택일형 과목당 20문항(2시간30분) - 실기 : 필답형(3시간, 100점)&#9315; 합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상 - 실기 : 100점을 만점으로 하여 과목당 60점 이상"
+    }
+  ],
+  "stats": {
+    "written": [],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 6461,
+        "passers": 2614,
+        "passRate": 40.5
+      },
+      {
+        "year": 2022,
+        "applicants": 6792,
+        "passers": 2054,
+        "passRate": 30.2
+      },
+      {
+        "year": 2023,
+        "applicants": 7521,
+        "passers": 2965,
+        "passRate": 39.4
+      },
+      {
+        "year": 2024,
+        "applicants": 7634,
+        "passers": 3028,
+        "passRate": 39.7
+      },
+      {
+        "year": 2025,
+        "applicants": 8178,
+        "passers": 3739,
+        "passRate": 45.7
+      }
+    ]
+  }
+}

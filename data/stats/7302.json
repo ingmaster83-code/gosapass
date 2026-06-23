@@ -1,0 +1,80 @@
+{
+  "jmcd": "7302",
+  "name": "염색기능사(날염)",
+  "series": "기능사",
+  "field": "섬유.의복",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "54100",
+    "raw": "1차 : 14500, 2차 : 54100"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 1,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 1,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 25,
+        "passers": 25,
+        "passRate": 100.0
+      },
+      {
+        "year": 2022,
+        "applicants": 22,
+        "passers": 22,
+        "passRate": 100.0
+      },
+      {
+        "year": 2023,
+        "applicants": 17,
+        "passers": 17,
+        "passRate": 100.0
+      },
+      {
+        "year": 2024,
+        "applicants": 18,
+        "passers": 18,
+        "passRate": 100.0
+      },
+      {
+        "year": 2025,
+        "applicants": 19,
+        "passers": 19,
+        "passRate": 100.0
+      }
+    ]
+  }
+}

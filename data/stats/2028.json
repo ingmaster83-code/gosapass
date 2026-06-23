@@ -1,0 +1,80 @@
+{
+  "jmcd": "2028",
+  "name": "사출금형산업기사",
+  "series": "기사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "38300",
+    "raw": "1차 : 19400, 2차 : 38300"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 337,
+        "passers": 123,
+        "passRate": 36.5
+      },
+      {
+        "year": 2022,
+        "applicants": 328,
+        "passers": 128,
+        "passRate": 39.0
+      },
+      {
+        "year": 2023,
+        "applicants": 216,
+        "passers": 84,
+        "passRate": 38.9
+      },
+      {
+        "year": 2024,
+        "applicants": 119,
+        "passers": 39,
+        "passRate": 32.8
+      },
+      {
+        "year": 2025,
+        "applicants": 54,
+        "passers": 21,
+        "passRate": 38.9
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 117,
+        "passers": 66,
+        "passRate": 56.4
+      },
+      {
+        "year": 2022,
+        "applicants": 108,
+        "passers": 68,
+        "passRate": 63.0
+      },
+      {
+        "year": 2023,
+        "applicants": 47,
+        "passers": 29,
+        "passRate": 61.7
+      },
+      {
+        "year": 2024,
+        "applicants": 32,
+        "passers": 18,
+        "passRate": 56.2
+      },
+      {
+        "year": 2025,
+        "applicants": 15,
+        "passers": 7,
+        "passRate": 46.7
+      }
+    ]
+  }
+}

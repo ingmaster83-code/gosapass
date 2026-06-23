@@ -1,0 +1,80 @@
+{
+  "jmcd": "7631",
+  "name": "버섯종균기능사",
+  "series": "기능사",
+  "field": "농림어업",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "58500",
+    "raw": "1차 : 14500, 2차 : 58500"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1687,
+        "passers": 1002,
+        "passRate": 59.4
+      },
+      {
+        "year": 2022,
+        "applicants": 1419,
+        "passers": 868,
+        "passRate": 61.2
+      },
+      {
+        "year": 2023,
+        "applicants": 1390,
+        "passers": 783,
+        "passRate": 56.3
+      },
+      {
+        "year": 2024,
+        "applicants": 1263,
+        "passers": 684,
+        "passRate": 54.2
+      },
+      {
+        "year": 2025,
+        "applicants": 1001,
+        "passers": 496,
+        "passRate": 49.6
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1045,
+        "passers": 932,
+        "passRate": 89.2
+      },
+      {
+        "year": 2022,
+        "applicants": 901,
+        "passers": 750,
+        "passRate": 83.2
+      },
+      {
+        "year": 2023,
+        "applicants": 774,
+        "passers": 681,
+        "passRate": 88.0
+      },
+      {
+        "year": 2024,
+        "applicants": 717,
+        "passers": 628,
+        "passRate": 87.6
+      },
+      {
+        "year": 2025,
+        "applicants": 509,
+        "passers": 456,
+        "passRate": 89.6
+      }
+    ]
+  }
+}

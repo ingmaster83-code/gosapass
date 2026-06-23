@@ -1,0 +1,80 @@
+{
+  "jmcd": "7908",
+  "name": "이용사",
+  "series": "기능사",
+  "field": "이용.숙박.여행.오락.스포츠",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "20100",
+    "raw": "1차 : 14500, 2차 : 20100"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 6122,
+        "passers": 3953,
+        "passRate": 64.6
+      },
+      {
+        "year": 2022,
+        "applicants": 5765,
+        "passers": 3733,
+        "passRate": 64.8
+      },
+      {
+        "year": 2023,
+        "applicants": 6546,
+        "passers": 3926,
+        "passRate": 60.0
+      },
+      {
+        "year": 2024,
+        "applicants": 6537,
+        "passers": 3899,
+        "passRate": 59.6
+      },
+      {
+        "year": 2025,
+        "applicants": 6753,
+        "passers": 4295,
+        "passRate": 63.6
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 4942,
+        "passers": 2340,
+        "passRate": 47.3
+      },
+      {
+        "year": 2022,
+        "applicants": 4813,
+        "passers": 2310,
+        "passRate": 48.0
+      },
+      {
+        "year": 2023,
+        "applicants": 5018,
+        "passers": 2355,
+        "passRate": 46.9
+      },
+      {
+        "year": 2024,
+        "applicants": 5063,
+        "passers": 2244,
+        "passRate": 44.3
+      },
+      {
+        "year": 2025,
+        "applicants": 5610,
+        "passers": 2323,
+        "passRate": 41.4
+      }
+    ]
+  }
+}

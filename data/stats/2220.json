@@ -1,0 +1,49 @@
+{
+  "jmcd": "2220",
+  "name": "조선산업기사",
+  "series": "기사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "45900",
+    "raw": "1차 : 19400, 2차 : 45900"
+  },
+  "info": [],
+  "stats": {
+    "written": [],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 48,
+        "passers": 40,
+        "passRate": 83.3
+      },
+      {
+        "year": 2022,
+        "applicants": 34,
+        "passers": 26,
+        "passRate": 76.5
+      },
+      {
+        "year": 2023,
+        "applicants": 19,
+        "passers": 15,
+        "passRate": 78.9
+      },
+      {
+        "year": 2024,
+        "applicants": 32,
+        "passers": 12,
+        "passRate": 37.5
+      },
+      {
+        "year": 2025,
+        "applicants": 28,
+        "passers": 11,
+        "passRate": 39.3
+      }
+    ]
+  }
+}

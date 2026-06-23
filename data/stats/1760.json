@@ -1,0 +1,108 @@
+{
+  "jmcd": "1760",
+  "name": "철도토목기사",
+  "series": "기사",
+  "field": "건설",
+  "updated": "2026-06-23",
+  "schedule": [
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
+  "fee": {
+    "written": "",
+    "practical": "",
+    "raw": ""
+  },
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}철도토목기사 출제기준입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 대학 및 전문대학에 개설되어 있는 토목공학, 철도시설토목학, 철도보선 관련학과 &#9314; 시험과목- 필기 :1. 철도공학 2. 측량학 3. 응용역학 4. 건설재료 및 시공 5. 철도보선관계법규- 실기 : 철도보선설계 및 시공실무 &#9315; 검정방법- 필기 : 객관식 4지 택일형 과목당 20문항(과목당 30분)- 실기 : 필답형(2시간 30분) &#9316; 합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 179,
+        "passers": 86,
+        "passRate": 48.0
+      },
+      {
+        "year": 2022,
+        "applicants": 189,
+        "passers": 100,
+        "passRate": 52.9
+      },
+      {
+        "year": 2023,
+        "applicants": 232,
+        "passers": 111,
+        "passRate": 47.8
+      },
+      {
+        "year": 2024,
+        "applicants": 198,
+        "passers": 72,
+        "passRate": 36.4
+      },
+      {
+        "year": 2025,
+        "applicants": 267,
+        "passers": 120,
+        "passRate": 44.9
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 94,
+        "passers": 41,
+        "passRate": 43.6
+      },
+      {
+        "year": 2022,
+        "applicants": 131,
+        "passers": 80,
+        "passRate": 61.1
+      },
+      {
+        "year": 2023,
+        "applicants": 124,
+        "passers": 100,
+        "passRate": 80.6
+      },
+      {
+        "year": 2024,
+        "applicants": 78,
+        "passers": 18,
+        "passRate": 23.1
+      },
+      {
+        "year": 2025,
+        "applicants": 150,
+        "passers": 85,
+        "passRate": 56.7
+      }
+    ]
+  }
+}

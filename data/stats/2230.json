@@ -1,0 +1,80 @@
+{
+  "jmcd": "2230",
+  "name": "항공산업기사",
+  "series": "기사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "57100",
+    "raw": "1차 : 19400, 2차 : 57100"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 3437,
+        "passers": 1418,
+        "passRate": 41.3
+      },
+      {
+        "year": 2022,
+        "applicants": 2565,
+        "passers": 1054,
+        "passRate": 41.1
+      },
+      {
+        "year": 2023,
+        "applicants": 1958,
+        "passers": 706,
+        "passRate": 36.1
+      },
+      {
+        "year": 2024,
+        "applicants": 1655,
+        "passers": 597,
+        "passRate": 36.1
+      },
+      {
+        "year": 2025,
+        "applicants": 1307,
+        "passers": 502,
+        "passRate": 38.4
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1885,
+        "passers": 1135,
+        "passRate": 60.2
+      },
+      {
+        "year": 2022,
+        "applicants": 1377,
+        "passers": 907,
+        "passRate": 65.9
+      },
+      {
+        "year": 2023,
+        "applicants": 923,
+        "passers": 581,
+        "passRate": 62.9
+      },
+      {
+        "year": 2024,
+        "applicants": 687,
+        "passers": 416,
+        "passRate": 60.6
+      },
+      {
+        "year": 2025,
+        "applicants": 610,
+        "passers": 378,
+        "passRate": 62.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "jmcd": "9723",
+  "name": "해사행정사",
+  "series": "행정사",
+  "field": "",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "10000",
+    "practical": "40000",
+    "raw": "1차 : 10000, 2차 : 40000"
+  },
+  "info": [],
+  "stats": {
+    "written": [],
+    "practical": []
+  }
+}

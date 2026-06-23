@@ -1,0 +1,49 @@
+{
+  "jmcd": "7620",
+  "name": "종자기능사",
+  "series": "기능사",
+  "field": "농림어업",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "17200",
+    "raw": "1차 : 14500, 2차 : 17200"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2459,
+        "passers": 1466,
+        "passRate": 59.6
+      },
+      {
+        "year": 2022,
+        "applicants": 2363,
+        "passers": 1397,
+        "passRate": 59.1
+      },
+      {
+        "year": 2023,
+        "applicants": 2819,
+        "passers": 1593,
+        "passRate": 56.5
+      },
+      {
+        "year": 2024,
+        "applicants": 2923,
+        "passers": 1694,
+        "passRate": 58.0
+      },
+      {
+        "year": 2025,
+        "applicants": 2948,
+        "passers": 1607,
+        "passRate": 54.5
+      }
+    ],
+    "practical": []
+  }
+}

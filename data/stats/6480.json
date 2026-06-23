@@ -1,0 +1,49 @@
+{
+  "jmcd": "6480",
+  "name": "표면처리기능사",
+  "series": "기능사",
+  "field": "재료",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "76200",
+    "raw": "1차 : 14500, 2차 : 76200"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 109,
+        "passers": 29,
+        "passRate": 26.6
+      },
+      {
+        "year": 2022,
+        "applicants": 128,
+        "passers": 31,
+        "passRate": 24.2
+      },
+      {
+        "year": 2023,
+        "applicants": 148,
+        "passers": 43,
+        "passRate": 29.1
+      },
+      {
+        "year": 2024,
+        "applicants": 258,
+        "passers": 76,
+        "passRate": 29.5
+      },
+      {
+        "year": 2025,
+        "applicants": 231,
+        "passers": 42,
+        "passRate": 18.2
+      }
+    ],
+    "practical": []
+  }
+}

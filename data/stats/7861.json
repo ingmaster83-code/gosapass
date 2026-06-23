@@ -1,0 +1,80 @@
+{
+  "jmcd": "7861",
+  "name": "기중기운전기능사",
+  "series": "기능사",
+  "field": "건설",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "30600",
+    "raw": "1차 : 14500, 2차 : 30600"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 4724,
+        "passers": 3727,
+        "passRate": 78.9
+      },
+      {
+        "year": 2022,
+        "applicants": 4284,
+        "passers": 3584,
+        "passRate": 83.7
+      },
+      {
+        "year": 2023,
+        "applicants": 4986,
+        "passers": 4082,
+        "passRate": 81.9
+      },
+      {
+        "year": 2024,
+        "applicants": 4162,
+        "passers": 3419,
+        "passRate": 82.1
+      },
+      {
+        "year": 2025,
+        "applicants": 3422,
+        "passers": 2953,
+        "passRate": 86.3
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 4886,
+        "passers": 2150,
+        "passRate": 44.0
+      },
+      {
+        "year": 2022,
+        "applicants": 4743,
+        "passers": 2038,
+        "passRate": 43.0
+      },
+      {
+        "year": 2023,
+        "applicants": 4959,
+        "passers": 2265,
+        "passRate": 45.7
+      },
+      {
+        "year": 2024,
+        "applicants": 4459,
+        "passers": 2003,
+        "passRate": 44.9
+      },
+      {
+        "year": 2025,
+        "applicants": 3752,
+        "passers": 1651,
+        "passRate": 44.0
+      }
+    ]
+  }
+}

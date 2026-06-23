@@ -1,0 +1,49 @@
+{
+  "jmcd": "1938",
+  "name": "자연생태복원기사",
+  "series": "기사",
+  "field": "환경.에너지",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "28500",
+    "raw": "1차 : 19400, 2차 : 28500"
+  },
+  "info": [],
+  "stats": {
+    "written": [],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 891,
+        "passers": 473,
+        "passRate": 53.1
+      },
+      {
+        "year": 2022,
+        "applicants": 685,
+        "passers": 403,
+        "passRate": 58.8
+      },
+      {
+        "year": 2023,
+        "applicants": 621,
+        "passers": 341,
+        "passRate": 54.9
+      },
+      {
+        "year": 2024,
+        "applicants": 778,
+        "passers": 367,
+        "passRate": 47.2
+      },
+      {
+        "year": 2025,
+        "applicants": 844,
+        "passers": 414,
+        "passRate": 49.1
+      }
+    ]
+  }
+}

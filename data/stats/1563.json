@@ -1,0 +1,62 @@
+{
+  "jmcd": "1563",
+  "name": "화학분석기사",
+  "series": "기사",
+  "field": "화학",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "62900",
+    "raw": "1차 : 19400, 2차 : 62900"
+  },
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필답형: 출제기준참조- 작업형: 분석화학 및 기기분석작업이 부과되며, 화학제품의 개발, 재료, 검사시 성분의 분석계획수립, 분석작업, 분석결과 해석 및 평가능력을 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}화학분석기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시행처 : 한국산업인력공단&#9313; 관련학과 : 대학의 화학과, 화학공학 등 관련학과&#9314; 시험과목-필기 :1.화학분석의 이해와 환경&middot;안전관리2.분석계획 수립과 분석화학기초3.화학물질 특성분석 4.화학물질 구조분석 및표면 분석&#9315;검정방법- 필기 : 객관식 4지 택일형, 과목당과목당 20문항(과목당30분)- 실기 : 복합형[필답형(2시간) + 작업형(약 3시간 30분)]&#9316;합격기준- 필기 : 100점 만점에 과목당 40점이상, 전과목 평균 60점이상- 실기 : 100점 만점에 60점 이상작업형 실기시험 기본정보 안전등급(safety Level) : 4 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비분광광도계, 유리 실험기구 등&middot; 보호구실험복, 보안경, 니트릴 장갑 등보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될 수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
+  "stats": {
+    "written": [],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 3130,
+        "passers": 781,
+        "passRate": 25.0
+      },
+      {
+        "year": 2022,
+        "applicants": 2897,
+        "passers": 716,
+        "passRate": 24.7
+      },
+      {
+        "year": 2023,
+        "applicants": 3050,
+        "passers": 455,
+        "passRate": 14.9
+      },
+      {
+        "year": 2024,
+        "applicants": 3194,
+        "passers": 677,
+        "passRate": 21.2
+      },
+      {
+        "year": 2025,
+        "applicants": 3300,
+        "passers": 539,
+        "passRate": 16.3
+      }
+    ]
+  }
+}

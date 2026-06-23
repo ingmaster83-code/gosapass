@@ -1,0 +1,80 @@
+{
+  "jmcd": "7632",
+  "name": "산림기능사",
+  "series": "기능사",
+  "field": "농림어업",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "64200",
+    "raw": "1차 : 14500, 2차 : 64200"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 5290,
+        "passers": 2926,
+        "passRate": 55.3
+      },
+      {
+        "year": 2022,
+        "applicants": 4921,
+        "passers": 2770,
+        "passRate": 56.3
+      },
+      {
+        "year": 2023,
+        "applicants": 5118,
+        "passers": 2842,
+        "passRate": 55.5
+      },
+      {
+        "year": 2024,
+        "applicants": 5090,
+        "passers": 2792,
+        "passRate": 54.9
+      },
+      {
+        "year": 2025,
+        "applicants": 5864,
+        "passers": 3170,
+        "passRate": 54.1
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 3129,
+        "passers": 2294,
+        "passRate": 73.3
+      },
+      {
+        "year": 2022,
+        "applicants": 2982,
+        "passers": 2325,
+        "passRate": 78.0
+      },
+      {
+        "year": 2023,
+        "applicants": 2995,
+        "passers": 2320,
+        "passRate": 77.5
+      },
+      {
+        "year": 2024,
+        "applicants": 2929,
+        "passers": 2217,
+        "passRate": 75.7
+      },
+      {
+        "year": 2025,
+        "applicants": 3312,
+        "passers": 2580,
+        "passRate": 77.9
+      }
+    ]
+  }
+}

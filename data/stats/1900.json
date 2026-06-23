@@ -1,0 +1,49 @@
+{
+  "jmcd": "1900",
+  "name": "소방설비기사(기계분야)",
+  "series": "기사",
+  "field": "안전관리",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "22600",
+    "raw": "1차 : 19400, 2차 : 22600"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 17736,
+        "passers": 9048,
+        "passRate": 51.0
+      },
+      {
+        "year": 2022,
+        "applicants": 17523,
+        "passers": 8206,
+        "passRate": 46.8
+      },
+      {
+        "year": 2023,
+        "applicants": 23350,
+        "passers": 10669,
+        "passRate": 45.7
+      },
+      {
+        "year": 2024,
+        "applicants": 20888,
+        "passers": 9662,
+        "passRate": 46.3
+      },
+      {
+        "year": 2025,
+        "applicants": 22919,
+        "passers": 10900,
+        "passRate": 47.6
+      }
+    ],
+    "practical": []
+  }
+}

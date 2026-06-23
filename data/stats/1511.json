@@ -1,0 +1,80 @@
+{
+  "jmcd": "1511",
+  "name": "포장기사",
+  "series": "기사",
+  "field": "경영.회계.사무",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "22600",
+    "raw": "1차 : 19400, 2차 : 22600"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 65,
+        "passers": 20,
+        "passRate": 30.8
+      },
+      {
+        "year": 2022,
+        "applicants": 75,
+        "passers": 47,
+        "passRate": 62.7
+      },
+      {
+        "year": 2023,
+        "applicants": 86,
+        "passers": 56,
+        "passRate": 65.1
+      },
+      {
+        "year": 2024,
+        "applicants": 80,
+        "passers": 51,
+        "passRate": 63.7
+      },
+      {
+        "year": 2025,
+        "applicants": 72,
+        "passers": 40,
+        "passRate": 55.6
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 31,
+        "passers": 3,
+        "passRate": 9.7
+      },
+      {
+        "year": 2022,
+        "applicants": 46,
+        "passers": 5,
+        "passRate": 10.9
+      },
+      {
+        "year": 2023,
+        "applicants": 67,
+        "passers": 40,
+        "passRate": 59.7
+      },
+      {
+        "year": 2024,
+        "applicants": 70,
+        "passers": 13,
+        "passRate": 18.6
+      },
+      {
+        "year": 2025,
+        "applicants": 58,
+        "passers": 24,
+        "passRate": 41.4
+      }
+    ]
+  }
+}

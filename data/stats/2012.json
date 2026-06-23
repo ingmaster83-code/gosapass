@@ -1,0 +1,49 @@
+{
+  "jmcd": "2012",
+  "name": "판금제관산업기사",
+  "series": "기사",
+  "field": "재료",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "100900",
+    "raw": "1차 : 19400, 2차 : 100900"
+  },
+  "info": [],
+  "stats": {
+    "written": [],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 2,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 2,
+        "passers": 1,
+        "passRate": 50.0
+      },
+      {
+        "year": 2023,
+        "applicants": 6,
+        "passers": 3,
+        "passRate": 50.0
+      },
+      {
+        "year": 2024,
+        "applicants": 1,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 4,
+        "passers": 1,
+        "passRate": 25.0
+      }
+    ]
+  }
+}

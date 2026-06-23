@@ -1,0 +1,80 @@
+{
+  "jmcd": "2043",
+  "name": "철도동력차전기정비산업기사",
+  "series": "기사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "18000",
+    "practical": "22700",
+    "raw": "1차 : 18000, 2차 : 22700"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 123,
+        "passers": 55,
+        "passRate": 44.7
+      },
+      {
+        "year": 2022,
+        "applicants": 78,
+        "passers": 37,
+        "passRate": 47.4
+      },
+      {
+        "year": 2023,
+        "applicants": 54,
+        "passers": 11,
+        "passRate": 20.4
+      },
+      {
+        "year": 2024,
+        "applicants": 32,
+        "passers": 26,
+        "passRate": 81.2
+      },
+      {
+        "year": 2025,
+        "applicants": 21,
+        "passers": 15,
+        "passRate": 71.4
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 57,
+        "passers": 44,
+        "passRate": 77.2
+      },
+      {
+        "year": 2022,
+        "applicants": 48,
+        "passers": 33,
+        "passRate": 68.8
+      },
+      {
+        "year": 2023,
+        "applicants": 21,
+        "passers": 11,
+        "passRate": 52.4
+      },
+      {
+        "year": 2024,
+        "applicants": 32,
+        "passers": 24,
+        "passRate": 75.0
+      },
+      {
+        "year": 2025,
+        "applicants": 17,
+        "passers": 14,
+        "passRate": 82.4
+      }
+    ]
+  }
+}

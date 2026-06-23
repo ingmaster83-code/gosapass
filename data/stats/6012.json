@@ -1,0 +1,80 @@
+{
+  "jmcd": "6012",
+  "name": "컴퓨터응용선반기능사",
+  "series": "기능사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "",
+    "practical": "",
+    "raw": ""
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 9195,
+        "passers": 2549,
+        "passRate": 27.7
+      },
+      {
+        "year": 2022,
+        "applicants": 6790,
+        "passers": 1624,
+        "passRate": 23.9
+      },
+      {
+        "year": 2023,
+        "applicants": 7914,
+        "passers": 1715,
+        "passRate": 21.7
+      },
+      {
+        "year": 2024,
+        "applicants": 8330,
+        "passers": 1819,
+        "passRate": 21.8
+      },
+      {
+        "year": 2025,
+        "applicants": 8697,
+        "passers": 1979,
+        "passRate": 22.8
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 5374,
+        "passers": 3681,
+        "passRate": 68.5
+      },
+      {
+        "year": 2022,
+        "applicants": 3073,
+        "passers": 2091,
+        "passRate": 68.0
+      },
+      {
+        "year": 2023,
+        "applicants": 2830,
+        "passers": 1884,
+        "passRate": 66.6
+      },
+      {
+        "year": 2024,
+        "applicants": 2855,
+        "passers": 1927,
+        "passRate": 67.5
+      },
+      {
+        "year": 2025,
+        "applicants": 3008,
+        "passers": 2024,
+        "passRate": 67.3
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "jmcd": "9763",
+  "name": "손해평가사",
+  "series": "손해평가사",
+  "field": "",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "20000",
+    "practical": "33000",
+    "raw": "1차 : 20000, 2차 : 33000"
+  },
+  "info": [],
+  "stats": {
+    "written": [],
+    "practical": []
+  }
+}

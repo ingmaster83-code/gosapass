@@ -1,0 +1,62 @@
+{
+  "jmcd": "2036",
+  "name": "전기철도산업기사",
+  "series": "기사",
+  "field": "전기.전자",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
+  },
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}전기철도산업기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 대학 및 전문대학의 전기과, 전기제어공학, 전기전자공학, 전자공학, 철도전기제어과 등 관련학과 &#9314;시험과목- 필기 : 1. 전기자기학 2. 전력공학 3. 전기철도공학 4. 전기철도구조물공학 - 실기 : 전기철도 실무&#9315;검정방법 - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분) - 실기 : 필답형(2시간30분)&#9316;합격기준 - 필기 : 100점 만점 40점 이상 전과목 평균 60점 이상 - 실기 : 100점 만점 60점 이상"
+    }
+  ],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 76,
+        "passers": 22,
+        "passRate": 28.9
+      },
+      {
+        "year": 2022,
+        "applicants": 64,
+        "passers": 14,
+        "passRate": 21.9
+      },
+      {
+        "year": 2023,
+        "applicants": 89,
+        "passers": 24,
+        "passRate": 27.0
+      },
+      {
+        "year": 2024,
+        "applicants": 111,
+        "passers": 43,
+        "passRate": 38.7
+      },
+      {
+        "year": 2025,
+        "applicants": 126,
+        "passers": 41,
+        "passRate": 32.5
+      }
+    ],
+    "practical": []
+  }
+}

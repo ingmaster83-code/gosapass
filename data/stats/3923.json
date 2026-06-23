@@ -1,0 +1,49 @@
+{
+  "jmcd": "3923",
+  "name": "제과기능장",
+  "series": "기능장",
+  "field": "식품.가공",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "34400",
+    "practical": "78200",
+    "raw": "1차 : 34400, 2차 : 78200"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 394,
+        "passers": 152,
+        "passRate": 38.6
+      },
+      {
+        "year": 2022,
+        "applicants": 378,
+        "passers": 158,
+        "passRate": 41.8
+      },
+      {
+        "year": 2023,
+        "applicants": 421,
+        "passers": 175,
+        "passRate": 41.6
+      },
+      {
+        "year": 2024,
+        "applicants": 479,
+        "passers": 216,
+        "passRate": 45.1
+      },
+      {
+        "year": 2025,
+        "applicants": 508,
+        "passers": 221,
+        "passRate": 43.5
+      }
+    ],
+    "practical": []
+  }
+}

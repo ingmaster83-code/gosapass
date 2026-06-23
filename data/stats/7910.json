@@ -1,0 +1,80 @@
+{
+  "jmcd": "7910",
+  "name": "한식조리기능사",
+  "series": "기능사",
+  "field": "음식서비스",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "26900",
+    "raw": "1차 : 14500, 2차 : 26900"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 88691,
+        "passers": 39800,
+        "passRate": 44.9
+      },
+      {
+        "year": 2022,
+        "applicants": 68845,
+        "passers": 30139,
+        "passRate": 43.8
+      },
+      {
+        "year": 2023,
+        "applicants": 67640,
+        "passers": 28597,
+        "passRate": 42.3
+      },
+      {
+        "year": 2024,
+        "applicants": 65022,
+        "passers": 25749,
+        "passRate": 39.6
+      },
+      {
+        "year": 2025,
+        "applicants": 61122,
+        "passers": 24187,
+        "passRate": 39.6
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 65302,
+        "passers": 22520,
+        "passRate": 34.5
+      },
+      {
+        "year": 2022,
+        "applicants": 52460,
+        "passers": 18781,
+        "passRate": 35.8
+      },
+      {
+        "year": 2023,
+        "applicants": 47515,
+        "passers": 17493,
+        "passRate": 36.8
+      },
+      {
+        "year": 2024,
+        "applicants": 40594,
+        "passers": 15152,
+        "passRate": 37.3
+      },
+      {
+        "year": 2025,
+        "applicants": 38824,
+        "passers": 14251,
+        "passRate": 36.7
+      }
+    ]
+  }
+}

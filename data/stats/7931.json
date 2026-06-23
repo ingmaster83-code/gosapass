@@ -1,0 +1,80 @@
+{
+  "jmcd": "7931",
+  "name": "남성복기능사",
+  "series": "기능사",
+  "field": "섬유.의복",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "50500",
+    "raw": "1차 : 14500, 2차 : 50500"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 76,
+        "passers": 63,
+        "passRate": 82.9
+      },
+      {
+        "year": 2022,
+        "applicants": 104,
+        "passers": 78,
+        "passRate": 75.0
+      },
+      {
+        "year": 2023,
+        "applicants": 69,
+        "passers": 52,
+        "passRate": 75.4
+      },
+      {
+        "year": 2024,
+        "applicants": 106,
+        "passers": 78,
+        "passRate": 73.6
+      },
+      {
+        "year": 2025,
+        "applicants": 108,
+        "passers": 68,
+        "passRate": 63.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 77,
+        "passers": 65,
+        "passRate": 84.4
+      },
+      {
+        "year": 2022,
+        "applicants": 74,
+        "passers": 46,
+        "passRate": 62.2
+      },
+      {
+        "year": 2023,
+        "applicants": 61,
+        "passers": 50,
+        "passRate": 82.0
+      },
+      {
+        "year": 2024,
+        "applicants": 76,
+        "passers": 29,
+        "passRate": 38.2
+      },
+      {
+        "year": 2025,
+        "applicants": 66,
+        "passers": 42,
+        "passRate": 63.6
+      }
+    ]
+  }
+}

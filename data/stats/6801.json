@@ -1,0 +1,80 @@
+{
+  "jmcd": "6801",
+  "name": "임베디드기능사",
+  "series": "기능사",
+  "field": "전기.전자",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "33000",
+    "raw": "1차 : 14500, 2차 : 33000"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1852,
+        "passers": 894,
+        "passRate": 48.3
+      },
+      {
+        "year": 2022,
+        "applicants": 1178,
+        "passers": 399,
+        "passRate": 33.9
+      },
+      {
+        "year": 2023,
+        "applicants": 1430,
+        "passers": 509,
+        "passRate": 35.6
+      },
+      {
+        "year": 2024,
+        "applicants": 1332,
+        "passers": 478,
+        "passRate": 35.9
+      },
+      {
+        "year": 2025,
+        "applicants": 1455,
+        "passers": 582,
+        "passRate": 40.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1039,
+        "passers": 692,
+        "passRate": 66.6
+      },
+      {
+        "year": 2022,
+        "applicants": 701,
+        "passers": 530,
+        "passRate": 75.6
+      },
+      {
+        "year": 2023,
+        "applicants": 741,
+        "passers": 573,
+        "passRate": 77.3
+      },
+      {
+        "year": 2024,
+        "applicants": 637,
+        "passers": 487,
+        "passRate": 76.5
+      },
+      {
+        "year": 2025,
+        "applicants": 812,
+        "passers": 626,
+        "passRate": 77.1
+      }
+    ]
+  }
+}

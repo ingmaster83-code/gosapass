@@ -1,0 +1,80 @@
+{
+  "jmcd": "9511",
+  "name": "직업상담사2급",
+  "series": "기사",
+  "field": "사회복지.종교",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 24155,
+        "passers": 13364,
+        "passRate": 55.3
+      },
+      {
+        "year": 2022,
+        "applicants": 18059,
+        "passers": 8778,
+        "passRate": 48.6
+      },
+      {
+        "year": 2023,
+        "applicants": 16060,
+        "passers": 9440,
+        "passRate": 58.8
+      },
+      {
+        "year": 2024,
+        "applicants": 15513,
+        "passers": 9099,
+        "passRate": 58.7
+      },
+      {
+        "year": 2025,
+        "applicants": 15497,
+        "passers": 8819,
+        "passRate": 56.9
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 16135,
+        "passers": 7731,
+        "passRate": 47.9
+      },
+      {
+        "year": 2022,
+        "applicants": 13011,
+        "passers": 4937,
+        "passRate": 37.9
+      },
+      {
+        "year": 2023,
+        "applicants": 11479,
+        "passers": 5187,
+        "passRate": 45.2
+      },
+      {
+        "year": 2024,
+        "applicants": 11951,
+        "passers": 5630,
+        "passRate": 47.1
+      },
+      {
+        "year": 2025,
+        "applicants": 10932,
+        "passers": 3406,
+        "passRate": 31.2
+      }
+    ]
+  }
+}

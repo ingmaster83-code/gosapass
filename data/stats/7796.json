@@ -1,0 +1,80 @@
+{
+  "jmcd": "7796",
+  "name": "컴퓨터그래픽기능사",
+  "series": "기능사",
+  "field": "문화.예술.디자인.방송",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "23700",
+    "raw": "1차 : 14500, 2차 : 23700"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 14918,
+        "passers": 10141,
+        "passRate": 68.0
+      },
+      {
+        "year": 2022,
+        "applicants": 11548,
+        "passers": 7471,
+        "passRate": 64.7
+      },
+      {
+        "year": 2023,
+        "applicants": 11289,
+        "passers": 7436,
+        "passRate": 65.9
+      },
+      {
+        "year": 2024,
+        "applicants": 10488,
+        "passers": 6633,
+        "passRate": 63.2
+      },
+      {
+        "year": 2025,
+        "applicants": 9088,
+        "passers": 5123,
+        "passRate": 56.4
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 10836,
+        "passers": 8122,
+        "passRate": 75.0
+      },
+      {
+        "year": 2022,
+        "applicants": 9152,
+        "passers": 7116,
+        "passRate": 77.8
+      },
+      {
+        "year": 2023,
+        "applicants": 8951,
+        "passers": 6610,
+        "passRate": 73.8
+      },
+      {
+        "year": 2024,
+        "applicants": 8299,
+        "passers": 6758,
+        "passRate": 81.4
+      },
+      {
+        "year": 2025,
+        "applicants": 7275,
+        "passers": 5657,
+        "passRate": 77.8
+      }
+    ]
+  }
+}

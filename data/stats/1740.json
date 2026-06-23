@@ -1,0 +1,49 @@
+{
+  "jmcd": "1740",
+  "name": "철도신호기사",
+  "series": "기사",
+  "field": "전기.전자",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "105900",
+    "raw": "1차 : 19400, 2차 : 105900"
+  },
+  "info": [],
+  "stats": {
+    "written": [],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 140,
+        "passers": 72,
+        "passRate": 51.4
+      },
+      {
+        "year": 2022,
+        "applicants": 142,
+        "passers": 63,
+        "passRate": 44.4
+      },
+      {
+        "year": 2023,
+        "applicants": 162,
+        "passers": 104,
+        "passRate": 64.2
+      },
+      {
+        "year": 2024,
+        "applicants": 134,
+        "passers": 83,
+        "passRate": 61.9
+      },
+      {
+        "year": 2025,
+        "applicants": 148,
+        "passers": 107,
+        "passRate": 72.3
+      }
+    ]
+  }
+}

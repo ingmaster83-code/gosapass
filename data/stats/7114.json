@@ -1,0 +1,80 @@
+{
+  "jmcd": "7114",
+  "name": "신재생에너지발전설비기능사(태양광)",
+  "series": "기능사",
+  "field": "환경.에너지",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "17200",
+    "raw": "1차 : 14500, 2차 : 17200"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2790,
+        "passers": 1634,
+        "passRate": 58.6
+      },
+      {
+        "year": 2022,
+        "applicants": 2252,
+        "passers": 1266,
+        "passRate": 56.2
+      },
+      {
+        "year": 2023,
+        "applicants": 2870,
+        "passers": 1636,
+        "passRate": 57.0
+      },
+      {
+        "year": 2024,
+        "applicants": 2951,
+        "passers": 1466,
+        "passRate": 49.7
+      },
+      {
+        "year": 2025,
+        "applicants": 3316,
+        "passers": 1335,
+        "passRate": 40.3
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 2234,
+        "passers": 742,
+        "passRate": 33.2
+      },
+      {
+        "year": 2022,
+        "applicants": 1784,
+        "passers": 675,
+        "passRate": 37.8
+      },
+      {
+        "year": 2023,
+        "applicants": 1974,
+        "passers": 965,
+        "passRate": 48.9
+      },
+      {
+        "year": 2024,
+        "applicants": 1759,
+        "passers": 906,
+        "passRate": 51.5
+      },
+      {
+        "year": 2025,
+        "applicants": 1841,
+        "passers": 575,
+        "passRate": 31.2
+      }
+    ]
+  }
+}

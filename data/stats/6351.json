@@ -1,0 +1,93 @@
+{
+  "jmcd": "6351",
+  "name": "항로표지기능사",
+  "series": "기능사",
+  "field": "건설",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "37100",
+    "raw": "1차 : 14500, 2차 : 37100"
+  },
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 항로표지 시스템에 대한설치 및 유지보수등에 관한 능력을 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}항로표지기능사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 시험과목  - 필기 1. 항로표지 전원관리2.고정 및 부표항로표지3.항로표지시스템의 운영 - 실기 : 항로표지 실무 &#9314; 검정방법  - 필기 : 객관식 4지 택일형 60문항(60분) - 실기 : 작업형(1시간, 100점) &#9315; 합격기준  - 필기 : 100점 만점 60점 이상 - 실기 : 100점 만점 60점 이상 작업형 실기시험 기본정보안전등급(safety Level) : 3 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비등명기, 축전지, 조립도구(스패너, 프라이어, 니퍼 등)&middot; 보호구고무장갑, 고무장화, 보안경, 앞치마보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 167,
+        "passers": 104,
+        "passRate": 62.3
+      },
+      {
+        "year": 2022,
+        "applicants": 161,
+        "passers": 108,
+        "passRate": 67.1
+      },
+      {
+        "year": 2023,
+        "applicants": 134,
+        "passers": 96,
+        "passRate": 71.6
+      },
+      {
+        "year": 2024,
+        "applicants": 139,
+        "passers": 93,
+        "passRate": 66.9
+      },
+      {
+        "year": 2025,
+        "applicants": 148,
+        "passers": 101,
+        "passRate": 68.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 102,
+        "passers": 81,
+        "passRate": 79.4
+      },
+      {
+        "year": 2022,
+        "applicants": 113,
+        "passers": 91,
+        "passRate": 80.5
+      },
+      {
+        "year": 2023,
+        "applicants": 96,
+        "passers": 87,
+        "passRate": 90.6
+      },
+      {
+        "year": 2024,
+        "applicants": 87,
+        "passers": 77,
+        "passRate": 88.5
+      },
+      {
+        "year": 2025,
+        "applicants": 93,
+        "passers": 86,
+        "passRate": 92.5
+      }
+    ]
+  }
+}

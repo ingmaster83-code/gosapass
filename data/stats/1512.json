@@ -1,0 +1,49 @@
+{
+  "jmcd": "1512",
+  "name": "제품디자인기사",
+  "series": "기사",
+  "field": "문화.예술.디자인.방송",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "30000",
+    "raw": "1차 : 19400, 2차 : 30000"
+  },
+  "info": [],
+  "stats": {
+    "written": [],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 20,
+        "passers": 12,
+        "passRate": 60.0
+      },
+      {
+        "year": 2022,
+        "applicants": 5,
+        "passers": 3,
+        "passRate": 60.0
+      },
+      {
+        "year": 2023,
+        "applicants": 9,
+        "passers": 7,
+        "passRate": 77.8
+      },
+      {
+        "year": 2024,
+        "applicants": 2,
+        "passers": 1,
+        "passRate": 50.0
+      },
+      {
+        "year": 2025,
+        "applicants": 9,
+        "passers": 4,
+        "passRate": 44.4
+      }
+    ]
+  }
+}

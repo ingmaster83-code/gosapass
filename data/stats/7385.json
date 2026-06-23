@@ -1,0 +1,49 @@
+{
+  "jmcd": "7385",
+  "name": "광산보안기능사(화약분야)",
+  "series": "기능사",
+  "field": "광업자원",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "11000",
+    "practical": "27600",
+    "raw": "1차 : 11000, 2차 : 27600"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 5,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 8,
+        "passers": 3,
+        "passRate": 37.5
+      },
+      {
+        "year": 2023,
+        "applicants": 11,
+        "passers": 2,
+        "passRate": 18.2
+      },
+      {
+        "year": 2024,
+        "applicants": 11,
+        "passers": 6,
+        "passRate": 54.5
+      },
+      {
+        "year": 2025,
+        "applicants": 25,
+        "passers": 12,
+        "passRate": 48.0
+      }
+    ],
+    "practical": []
+  }
+}

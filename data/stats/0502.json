@@ -1,0 +1,62 @@
+{
+  "jmcd": "0502",
+  "name": "건축전기설비기술사",
+  "series": "기술사",
+  "field": "전기.전자",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "",
+    "practical": "",
+    "raw": ""
+  },
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "- 건축전기설비와 관련된 실무경험, 일반지식, 전문지식 및 응용능력 - 기술자로서의 지도감리·경영관리능력, 자질 및 품위 등 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}건축전기설비기술사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시 행 처 : 한국산업인력공단② 관련학과 : 대학의 전기공학, 전기시스템공학, 전기제어공학, 전기전자공학 등                관련학과③ 시험과목   - 건축전기설비의 계획과 설계, 감리 및 의장, 기타 건축전기설비에 관한             사항④ 검정방법   - 필기 : 단답형 및 주관식 논술형(매교시당 100분, 총400분)   - 면접 : 구술형 면접(30분 정도)⑤ 합격기준   - 필기 ·면접 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
+  "stats": {
+    "written": [],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 59,
+        "passers": 31,
+        "passRate": 52.5
+      },
+      {
+        "year": 2022,
+        "applicants": 51,
+        "passers": 24,
+        "passRate": 47.1
+      },
+      {
+        "year": 2023,
+        "applicants": 57,
+        "passers": 26,
+        "passRate": 45.6
+      },
+      {
+        "year": 2024,
+        "applicants": 63,
+        "passers": 36,
+        "passRate": 57.1
+      },
+      {
+        "year": 2025,
+        "applicants": 72,
+        "passers": 34,
+        "passRate": 47.2
+      }
+    ]
+  }
+}

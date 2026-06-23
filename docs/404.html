@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>페이지를 찾을 수 없습니다 | gosapass</title>
+  <meta name="robots" content="noindex">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+  <style>
+    .error-page {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 60vh;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    .error-code {
+      font-size: 6rem;
+      font-weight: 700;
+      color: var(--primary);
+      line-height: 1;
+      margin-bottom: 16px;
+    }
+    .error-title {
+      font-size: 1.25rem;
+      font-weight: 700;
+      margin-bottom: 12px;
+    }
+    .error-desc {
+      color: var(--text-secondary);
+      margin-bottom: 32px;
+    }
+    .error-actions {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .btn-primary {
+      display: inline-block;
+      padding: 12px 24px;
+      background: var(--primary);
+      color: white;
+      border-radius: var(--radius);
+      font-weight: 600;
+      text-decoration: none;
+      font-size: 0.9375rem;
+    }
+    .btn-secondary {
+      display: inline-block;
+      padding: 12px 24px;
+      border: 1.5px solid var(--border);
+      color: var(--text-primary);
+      border-radius: var(--radius);
+      font-weight: 600;
+      text-decoration: none;
+      font-size: 0.9375rem;
+    }
+  </style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="logo">gosapass</a>
+    <nav class="site-nav" aria-label="주요 메뉴">
+      <a href="/">메인</a>
+      <a href="/list.html">자격증 목록</a>
+      <a href="/calendar.html">시험 캘린더</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="error-page">
+    <div class="error-code">404</div>
+    <h1 class="error-title">페이지를 찾을 수 없습니다</h1>
+    <p class="error-desc">
+      요청하신 페이지가 존재하지 않거나 이동되었습니다.<br>
+      자격증명을 확인하거나 목록에서 검색해 보세요.
+    </p>
+    <div class="error-actions">
+      <a href="/" class="btn-primary">메인으로 돌아가기</a>
+      <a href="/list.html" class="btn-secondary">자격증 목록 보기</a>
+    </div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>
+      <div class="footer-brand">gosapass</div>
+      <p class="footer-desc">국가자격증 시험일정, 원서접수, 합격률을 무료로 제공합니다.</p>
+    </div>
+  </div>
+  <div class="footer-copy">© 2026 gosapass.kr</div>
+</footer>
+
+</body>
+</html>

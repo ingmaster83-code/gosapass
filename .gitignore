@@ -1,0 +1,28 @@
+# 환경변수 (API 키 절대 커밋 금지)
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# 임시 데이터 (원시 API 응답)
+data/raw/
+
+# 빌드 산출물 (GitHub Actions에서 자동 생성)
+# docs/exam/ 은 생성된 파일이지만 GitHub Pages용이므로 추적

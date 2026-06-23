@@ -1,0 +1,80 @@
+{
+  "jmcd": "6990",
+  "name": "석공기능사",
+  "series": "기능사",
+  "field": "건설",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "50200",
+    "practical": "",
+    "raw": ", 2차 : 50200"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 223,
+        "passers": 126,
+        "passRate": 56.5
+      },
+      {
+        "year": 2022,
+        "applicants": 245,
+        "passers": 145,
+        "passRate": 59.2
+      },
+      {
+        "year": 2023,
+        "applicants": 128,
+        "passers": 70,
+        "passRate": 54.7
+      },
+      {
+        "year": 2024,
+        "applicants": 122,
+        "passers": 77,
+        "passRate": 63.1
+      },
+      {
+        "year": 2025,
+        "applicants": 88,
+        "passers": 60,
+        "passRate": 68.2
+      }
+    ]
+  }
+}

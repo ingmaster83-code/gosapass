@@ -1,0 +1,80 @@
+{
+  "jmcd": "0071",
+  "name": "공조냉동기계기술사",
+  "series": "기술사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 315,
+        "passers": 34,
+        "passRate": 10.8
+      },
+      {
+        "year": 2022,
+        "applicants": 265,
+        "passers": 31,
+        "passRate": 11.7
+      },
+      {
+        "year": 2023,
+        "applicants": 399,
+        "passers": 17,
+        "passRate": 4.3
+      },
+      {
+        "year": 2024,
+        "applicants": 437,
+        "passers": 16,
+        "passRate": 3.7
+      },
+      {
+        "year": 2025,
+        "applicants": 429,
+        "passers": 41,
+        "passRate": 9.6
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 64,
+        "passers": 25,
+        "passRate": 39.1
+      },
+      {
+        "year": 2022,
+        "applicants": 65,
+        "passers": 34,
+        "passRate": 52.3
+      },
+      {
+        "year": 2023,
+        "applicants": 36,
+        "passers": 15,
+        "passRate": 41.7
+      },
+      {
+        "year": 2024,
+        "applicants": 38,
+        "passers": 12,
+        "passRate": 31.6
+      },
+      {
+        "year": 2025,
+        "applicants": 94,
+        "passers": 34,
+        "passRate": 36.2
+      }
+    ]
+  }
+}

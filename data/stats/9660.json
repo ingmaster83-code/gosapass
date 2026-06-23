@@ -1,0 +1,18 @@
+{
+  "jmcd": "9660",
+  "name": "한국어교육능력검정시험",
+  "series": "한국어교육능력검정시험",
+  "field": "",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "45000",
+    "practical": "25000",
+    "raw": "1차 : 45000, 2차 : 25000"
+  },
+  "info": [],
+  "stats": {
+    "written": [],
+    "practical": []
+  }
+}

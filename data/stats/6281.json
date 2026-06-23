@@ -1,0 +1,49 @@
+{
+  "jmcd": "6281",
+  "name": "자동차정비기능사",
+  "series": "기능사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "41300",
+    "raw": "1차 : 14500, 2차 : 41300"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 14935,
+        "passers": 6138,
+        "passRate": 41.1
+      },
+      {
+        "year": 2022,
+        "applicants": 12221,
+        "passers": 4250,
+        "passRate": 34.8
+      },
+      {
+        "year": 2023,
+        "applicants": 13542,
+        "passers": 5142,
+        "passRate": 38.0
+      },
+      {
+        "year": 2024,
+        "applicants": 13605,
+        "passers": 5004,
+        "passRate": 36.8
+      },
+      {
+        "year": 2025,
+        "applicants": 15303,
+        "passers": 6560,
+        "passRate": 42.9
+      }
+    ],
+    "practical": []
+  }
+}

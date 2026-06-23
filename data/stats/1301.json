@@ -1,0 +1,80 @@
+{
+  "jmcd": "1301",
+  "name": "의류기사",
+  "series": "기사",
+  "field": "섬유.의복",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "63600",
+    "raw": "1차 : 19400, 2차 : 63600"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 64,
+        "passers": 32,
+        "passRate": 50.0
+      },
+      {
+        "year": 2022,
+        "applicants": 56,
+        "passers": 17,
+        "passRate": 30.4
+      },
+      {
+        "year": 2023,
+        "applicants": 80,
+        "passers": 42,
+        "passRate": 52.5
+      },
+      {
+        "year": 2024,
+        "applicants": 69,
+        "passers": 34,
+        "passRate": 49.3
+      },
+      {
+        "year": 2025,
+        "applicants": 71,
+        "passers": 27,
+        "passRate": 38.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 47,
+        "passers": 22,
+        "passRate": 46.8
+      },
+      {
+        "year": 2022,
+        "applicants": 32,
+        "passers": 6,
+        "passRate": 18.8
+      },
+      {
+        "year": 2023,
+        "applicants": 56,
+        "passers": 4,
+        "passRate": 7.1
+      },
+      {
+        "year": 2024,
+        "applicants": 52,
+        "passers": 4,
+        "passRate": 7.7
+      },
+      {
+        "year": 2025,
+        "applicants": 55,
+        "passers": 15,
+        "passRate": 27.3
+      }
+    ]
+  }
+}

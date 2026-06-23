@@ -1,0 +1,80 @@
+{
+  "jmcd": "7917",
+  "name": "피아노조율기능사",
+  "series": "기능사",
+  "field": "인쇄.목재.가구.공예",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "39000",
+    "raw": "1차 : 14500, 2차 : 39000"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 75,
+        "passers": 61,
+        "passRate": 81.3
+      },
+      {
+        "year": 2022,
+        "applicants": 77,
+        "passers": 61,
+        "passRate": 79.2
+      },
+      {
+        "year": 2023,
+        "applicants": 90,
+        "passers": 75,
+        "passRate": 83.3
+      },
+      {
+        "year": 2024,
+        "applicants": 64,
+        "passers": 46,
+        "passRate": 71.9
+      },
+      {
+        "year": 2025,
+        "applicants": 76,
+        "passers": 43,
+        "passRate": 56.6
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 55,
+        "passers": 10,
+        "passRate": 18.2
+      },
+      {
+        "year": 2022,
+        "applicants": 67,
+        "passers": 23,
+        "passRate": 34.3
+      },
+      {
+        "year": 2023,
+        "applicants": 70,
+        "passers": 11,
+        "passRate": 15.7
+      },
+      {
+        "year": 2024,
+        "applicants": 59,
+        "passers": 13,
+        "passRate": 22.0
+      },
+      {
+        "year": 2025,
+        "applicants": 54,
+        "passers": 11,
+        "passRate": 20.4
+      }
+    ]
+  }
+}

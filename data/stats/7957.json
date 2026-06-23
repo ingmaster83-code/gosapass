@@ -1,0 +1,80 @@
+{
+  "jmcd": "7957",
+  "name": "미용사(네일)",
+  "series": "기능사",
+  "field": "이용.숙박.여행.오락.스포츠",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "17200",
+    "raw": "1차 : 14500, 2차 : 17200"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 35220,
+        "passers": 17322,
+        "passRate": 49.2
+      },
+      {
+        "year": 2022,
+        "applicants": 32452,
+        "passers": 13928,
+        "passRate": 42.9
+      },
+      {
+        "year": 2023,
+        "applicants": 34803,
+        "passers": 14098,
+        "passRate": 40.5
+      },
+      {
+        "year": 2024,
+        "applicants": 30685,
+        "passers": 11847,
+        "passRate": 38.6
+      },
+      {
+        "year": 2025,
+        "applicants": 28034,
+        "passers": 10714,
+        "passRate": 38.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 27558,
+        "passers": 10377,
+        "passRate": 37.7
+      },
+      {
+        "year": 2022,
+        "applicants": 24028,
+        "passers": 8867,
+        "passRate": 36.9
+      },
+      {
+        "year": 2023,
+        "applicants": 22951,
+        "passers": 8343,
+        "passRate": 36.4
+      },
+      {
+        "year": 2024,
+        "applicants": 20673,
+        "passers": 7302,
+        "passRate": 35.3
+      },
+      {
+        "year": 2025,
+        "applicants": 18116,
+        "passers": 6245,
+        "passRate": 34.5
+      }
+    ]
+  }
+}

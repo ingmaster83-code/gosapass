@@ -1,0 +1,49 @@
+{
+  "jmcd": "7785",
+  "name": "3D프린터운용기능사",
+  "series": "기능사",
+  "field": "전기.전자",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "",
+    "practical": "",
+    "raw": ""
+  },
+  "info": [],
+  "stats": {
+    "written": [],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 3858,
+        "passers": 2926,
+        "passRate": 75.8
+      },
+      {
+        "year": 2022,
+        "applicants": 3613,
+        "passers": 2654,
+        "passRate": 73.5
+      },
+      {
+        "year": 2023,
+        "applicants": 4719,
+        "passers": 3430,
+        "passRate": 72.7
+      },
+      {
+        "year": 2024,
+        "applicants": 4284,
+        "passers": 2989,
+        "passRate": 69.8
+      },
+      {
+        "year": 2025,
+        "applicants": 4597,
+        "passers": 3192,
+        "passRate": 69.4
+      }
+    ]
+  }
+}

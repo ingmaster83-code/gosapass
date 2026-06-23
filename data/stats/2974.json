@@ -1,0 +1,80 @@
+{
+  "jmcd": "2974",
+  "name": "중식조리산업기사",
+  "series": "기사",
+  "field": "음식서비스",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "57900",
+    "raw": "1차 : 19400, 2차 : 57900"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 73,
+        "passers": 46,
+        "passRate": 63.0
+      },
+      {
+        "year": 2022,
+        "applicants": 130,
+        "passers": 63,
+        "passRate": 48.5
+      },
+      {
+        "year": 2023,
+        "applicants": 157,
+        "passers": 75,
+        "passRate": 47.8
+      },
+      {
+        "year": 2024,
+        "applicants": 160,
+        "passers": 86,
+        "passRate": 53.8
+      },
+      {
+        "year": 2025,
+        "applicants": 173,
+        "passers": 73,
+        "passRate": 42.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 58,
+        "passers": 24,
+        "passRate": 41.4
+      },
+      {
+        "year": 2022,
+        "applicants": 51,
+        "passers": 22,
+        "passRate": 43.1
+      },
+      {
+        "year": 2023,
+        "applicants": 57,
+        "passers": 26,
+        "passRate": 45.6
+      },
+      {
+        "year": 2024,
+        "applicants": 71,
+        "passers": 32,
+        "passRate": 45.1
+      },
+      {
+        "year": 2025,
+        "applicants": 71,
+        "passers": 15,
+        "passRate": 21.1
+      }
+    ]
+  }
+}

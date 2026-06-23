@@ -1,0 +1,80 @@
+{
+  "jmcd": "1110",
+  "name": "화공기사",
+  "series": "기사",
+  "field": "화학",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "55700",
+    "raw": "1차 : 19400, 2차 : 55700"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 6988,
+        "passers": 2544,
+        "passRate": 36.4
+      },
+      {
+        "year": 2022,
+        "applicants": 4177,
+        "passers": 1232,
+        "passRate": 29.5
+      },
+      {
+        "year": 2023,
+        "applicants": 3967,
+        "passers": 927,
+        "passRate": 23.4
+      },
+      {
+        "year": 2024,
+        "applicants": 3505,
+        "passers": 861,
+        "passRate": 24.6
+      },
+      {
+        "year": 2025,
+        "applicants": 2705,
+        "passers": 640,
+        "passRate": 23.7
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 4833,
+        "passers": 1690,
+        "passRate": 35.0
+      },
+      {
+        "year": 2022,
+        "applicants": 2969,
+        "passers": 623,
+        "passRate": 21.0
+      },
+      {
+        "year": 2023,
+        "applicants": 2073,
+        "passers": 438,
+        "passRate": 21.1
+      },
+      {
+        "year": 2024,
+        "applicants": 1606,
+        "passers": 235,
+        "passRate": 14.6
+      },
+      {
+        "year": 2025,
+        "applicants": 1350,
+        "passers": 345,
+        "passRate": 25.6
+      }
+    ]
+  }
+}

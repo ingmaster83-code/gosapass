@@ -1,0 +1,80 @@
+{
+  "jmcd": "6420",
+  "name": "열처리기능사",
+  "series": "기능사",
+  "field": "재료",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "14500",
+    "practical": "39800",
+    "raw": "1차 : 14500, 2차 : 39800"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 723,
+        "passers": 353,
+        "passRate": 48.8
+      },
+      {
+        "year": 2022,
+        "applicants": 764,
+        "passers": 261,
+        "passRate": 34.2
+      },
+      {
+        "year": 2023,
+        "applicants": 636,
+        "passers": 211,
+        "passRate": 33.2
+      },
+      {
+        "year": 2024,
+        "applicants": 764,
+        "passers": 278,
+        "passRate": 36.4
+      },
+      {
+        "year": 2025,
+        "applicants": 707,
+        "passers": 278,
+        "passRate": 39.3
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 415,
+        "passers": 405,
+        "passRate": 97.6
+      },
+      {
+        "year": 2022,
+        "applicants": 309,
+        "passers": 281,
+        "passRate": 90.9
+      },
+      {
+        "year": 2023,
+        "applicants": 251,
+        "passers": 239,
+        "passRate": 95.2
+      },
+      {
+        "year": 2024,
+        "applicants": 277,
+        "passers": 270,
+        "passRate": 97.5
+      },
+      {
+        "year": 2025,
+        "applicants": 260,
+        "passers": 243,
+        "passRate": 93.5
+      }
+    ]
+  }
+}

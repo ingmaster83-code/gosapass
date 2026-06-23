@@ -1,0 +1,58 @@
+{
+  "jmcd": "0872",
+  "name": "기계기술사",
+  "series": "기술사",
+  "field": "기계",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
+  },
+  "info": [
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}기계기술사 출제기준입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시 행 처 : 한국산업인력공단 ② 관련학과 : 대학 및 전문대학의 기계공학 관련학과 ③ 시험과목 - 공정설계, 기계공작법(기계가공, 주조, 소성가공, 용접, 열처리, 정밀측정, 특수가공), 기계재료, 최적설계,  자원재활용, 생산자동화, 공작기계에 관한 내용④ 검정방법 - 필기 : 단답형 및 주관식 논술형(매교시당 100분, 총 400분) - 면접 : 구술형 면접시험(30분 정도) ⑤ 합격기준 - 100점 만점에 60점 이상"
+    }
+  ],
+  "stats": {
+    "written": [],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 21,
+        "passers": 9,
+        "passRate": 42.9
+      },
+      {
+        "year": 2022,
+        "applicants": 20,
+        "passers": 4,
+        "passRate": 20.0
+      },
+      {
+        "year": 2023,
+        "applicants": 27,
+        "passers": 14,
+        "passRate": 51.9
+      },
+      {
+        "year": 2024,
+        "applicants": 15,
+        "passers": 3,
+        "passRate": 20.0
+      },
+      {
+        "year": 2025,
+        "applicants": 13,
+        "passers": 5,
+        "passRate": 38.5
+      }
+    ]
+  }
+}

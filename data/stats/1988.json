@@ -1,0 +1,93 @@
+{
+  "jmcd": "1988",
+  "name": "생물분류기사(식물)",
+  "series": "기사",
+  "field": "환경.에너지",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "21000",
+    "raw": "1차 : 19400, 2차 : 21000"
+  },
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 생물분류 방법을 이해하고 문헌 및 표본을 통하여 생물체의 전반적인 특성 및 세부 특징을 파악하여, 생물종을 감별 동정 및 정확한 생물분류를 기반으로 희귀 및 멸종위기종 식물보전을 위한 전략 수립 등을 수행"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}생물분류기사(식물) 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 관련학과 : 4년제 대학에 개설되어 있는 생물학과(부), 생물교육학과, 응용생물학과, 농생물학과 등 관련학과&#9314; 시험과목 - 필기 : 1. 계통분류학 2. 환경생태학 3. 형태학 4. 보존 및 자원생물학 5. 자연환경관계법규- 실기 : 식물분류에 관한 사항&#9315; 검정방법 - 필기 : 객관식 4지 택일형 과목당 20문항(과목당 30분)- 실기 : 작업형(2시간 30분, 100점))&#9316; 합격기준- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상> 작업형 실기시험 기본정보 안전등급(safety Level) : 2 등급▼위험경고주의관심&middot; 시험장소 구분실내 &middot; 외&middot; 주요시설 및 장비생물 채집 도구, 표본 제작 및 보관 도구 등&middot; 보호구장갑, 안전화 및야외 활동 도구등보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다. 안전등급 관련 시험장소, 시설 및 장비 등의 내용은 실무를 기반하고 있으며 실제 자격시험과는 차이가 날 수 있습니다."
+    }
+  ],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 213,
+        "passers": 118,
+        "passRate": 55.4
+      },
+      {
+        "year": 2022,
+        "applicants": 320,
+        "passers": 198,
+        "passRate": 61.9
+      },
+      {
+        "year": 2023,
+        "applicants": 354,
+        "passers": 207,
+        "passRate": 58.5
+      },
+      {
+        "year": 2024,
+        "applicants": 310,
+        "passers": 210,
+        "passRate": 67.7
+      },
+      {
+        "year": 2025,
+        "applicants": 361,
+        "passers": 234,
+        "passRate": 64.8
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 166,
+        "passers": 109,
+        "passRate": 65.7
+      },
+      {
+        "year": 2022,
+        "applicants": 231,
+        "passers": 158,
+        "passRate": 68.4
+      },
+      {
+        "year": 2023,
+        "applicants": 257,
+        "passers": 169,
+        "passRate": 65.8
+      },
+      {
+        "year": 2024,
+        "applicants": 254,
+        "passers": 179,
+        "passRate": 70.5
+      },
+      {
+        "year": 2025,
+        "applicants": 279,
+        "passers": 152,
+        "passRate": 54.5
+      }
+    ]
+  }
+}

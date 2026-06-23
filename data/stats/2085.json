@@ -1,0 +1,49 @@
+{
+  "jmcd": "2085",
+  "name": "패션머천다이징산업기사",
+  "series": "기사",
+  "field": "섬유.의복",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "19400",
+    "practical": "30000",
+    "raw": "1차 : 19400, 2차 : 30000"
+  },
+  "info": [],
+  "stats": {
+    "written": [],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 235,
+        "passers": 142,
+        "passRate": 60.4
+      },
+      {
+        "year": 2022,
+        "applicants": 210,
+        "passers": 141,
+        "passRate": 67.1
+      },
+      {
+        "year": 2023,
+        "applicants": 83,
+        "passers": 57,
+        "passRate": 68.7
+      },
+      {
+        "year": 2024,
+        "applicants": 112,
+        "passers": 92,
+        "passRate": 82.1
+      },
+      {
+        "year": 2025,
+        "applicants": 83,
+        "passers": 72,
+        "passRate": 86.7
+      }
+    ]
+  }
+}

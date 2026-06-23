@@ -1,0 +1,80 @@
+{
+  "jmcd": "7101",
+  "name": "목재창호기능사",
+  "series": "기능사",
+  "field": "건설",
+  "updated": "2026-06-23",
+  "schedule": [],
+  "fee": {
+    "written": "31200",
+    "practical": "",
+    "raw": ", 2차 : 31200"
+  },
+  "info": [],
+  "stats": {
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 161,
+        "passers": 128,
+        "passRate": 79.5
+      },
+      {
+        "year": 2022,
+        "applicants": 151,
+        "passers": 122,
+        "passRate": 80.8
+      },
+      {
+        "year": 2023,
+        "applicants": 142,
+        "passers": 133,
+        "passRate": 93.7
+      },
+      {
+        "year": 2024,
+        "applicants": 176,
+        "passers": 158,
+        "passRate": 89.8
+      },
+      {
+        "year": 2025,
+        "applicants": 124,
+        "passers": 116,
+        "passRate": 93.5
+      }
+    ]
+  }
+}
