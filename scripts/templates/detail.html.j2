@@ -153,24 +153,57 @@
 {% endif %}
       </div>
 
-      <!-- 응시자격 -->
-{% set eligibility = info | selectattr('type', 'equalto', '응시자격') | list %}
-{% if eligibility %}
+      <!-- 시험과목 -->
+{% if exam_info.written_subjects or exam_info.prac_subject %}
       <div class="content-section">
-        <h2>응시자격</h2>
+        <h2>시험과목</h2>
         <div class="info-card" style="padding:20px 24px;">
-          <p style="font-size:0.9375rem;line-height:1.85;color:var(--text-primary);">{{ eligibility[0].content | replace('\n', '<br>') }}</p>
+{% if exam_info.written_subjects %}
+          <div style="margin-bottom:12px;">
+            <span style="font-size:0.75rem;font-weight:600;color:var(--text-secondary);text-transform:uppercase;letter-spacing:.5px;">필기</span>
+            <p style="margin-top:4px;font-size:0.9375rem;line-height:1.75;color:var(--text-primary);">{{ exam_info.written_subjects }}</p>
+          </div>
+{% endif %}
+{% if exam_info.prac_subject %}
+          <div style="{% if exam_info.written_subjects %}border-top:1px solid var(--border);padding-top:12px;{% endif %}">
+            <span style="font-size:0.75rem;font-weight:600;color:var(--text-secondary);text-transform:uppercase;letter-spacing:.5px;">실기</span>
+            <p style="margin-top:4px;font-size:0.9375rem;line-height:1.75;color:var(--text-primary);">{{ exam_info.prac_subject }}</p>
+          </div>
+{% endif %}
         </div>
       </div>
 {% endif %}
 
-      <!-- 시험과목 -->
-{% set subjects = info | selectattr('type', 'equalto', '시험과목') | list %}
-{% if subjects %}
+      <!-- 합격기준 -->
+{% if exam_info.written_criteria or exam_info.prac_criteria or exam_info.criteria_raw %}
       <div class="content-section">
-        <h2>시험과목</h2>
+        <h2>합격기준</h2>
         <div class="info-card" style="padding:20px 24px;">
-          <p style="font-size:0.9375rem;line-height:1.85;color:var(--text-primary);">{{ subjects[0].content | replace('\n', '<br>') }}</p>
+{% if exam_info.written_criteria %}
+          <div style="display:flex;gap:12px;align-items:flex-start;{% if exam_info.prac_criteria %}margin-bottom:10px;{% endif %}">
+            <span style="flex-shrink:0;font-size:0.75rem;font-weight:700;background:#EFF6FF;color:var(--primary);padding:2px 8px;border-radius:4px;margin-top:2px;">필기</span>
+            <span style="font-size:0.9375rem;line-height:1.7;">{{ exam_info.written_criteria }}</span>
+          </div>
+{% endif %}
+{% if exam_info.prac_criteria %}
+          <div style="display:flex;gap:12px;align-items:flex-start;">
+            <span style="flex-shrink:0;font-size:0.75rem;font-weight:700;background:#F0FDF4;color:var(--success);padding:2px 8px;border-radius:4px;margin-top:2px;">실기</span>
+            <span style="font-size:0.9375rem;line-height:1.7;">{{ exam_info.prac_criteria }}</span>
+          </div>
+{% endif %}
+{% if exam_info.criteria_raw and not exam_info.written_criteria %}
+          <p style="font-size:0.9375rem;line-height:1.75;">{{ exam_info.criteria_raw }}</p>
+{% endif %}
+        </div>
+      </div>
+{% endif %}
+
+      <!-- 출제경향 -->
+{% if tendency %}
+      <div class="content-section">
+        <h2>출제경향</h2>
+        <div class="info-card" style="padding:20px 24px;border-left:3px solid var(--primary);">
+          <p style="font-size:0.9375rem;line-height:1.85;color:var(--text-primary);">{{ tendency }}</p>
         </div>
       </div>
 {% endif %}
@@ -271,6 +304,12 @@
         <div class="info-row">
           <span class="info-label">최근 합격자</span>
           <span class="info-value">{{ "{:,}".format(recent_passers) }}명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">({{ recent_year }})</span></span>
+        </div>
+{% endif %}
+{% if transition %}
+        <div class="info-row">
+          <span class="info-label">필기→실기 전환율</span>
+          <span class="info-value">{{ transition.rate }}%</span>
         </div>
 {% endif %}
         <div class="info-row" style="border-top:1px solid var(--border);margin-top:8px;padding-top:12px;">

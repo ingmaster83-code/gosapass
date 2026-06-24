@@ -11,6 +11,7 @@ data/ JSON → docs/exam/*.html (Jinja2 템플릿)
 import json
 import sys
 import re
+import html as html_module
 import argparse
 from datetime import date
 from pathlib import Path
@@ -173,6 +174,73 @@ def build_stats_json(stats: dict) -> str:
     return json.dumps(rows, ensure_ascii=False)
 
 
+def parse_취득방법(info: list) -> dict:
+    """취득방법 필드에서 시험과목·합격기준·검정방법을 추출"""
+    for row in info:
+        if row.get("type") != "취득방법":
+            continue
+        raw = row.get("content", "")
+        # CSS 헤더 제거 (기사/산업기사 형식)
+        raw = re.sub(r"^BODY\s*\{.*?\}", "", raw, flags=re.DOTALL)
+        # HTML 엔티티 디코딩 (&#9312; → ①)
+        raw = html_module.unescape(raw)
+        # 여러 공백 정리
+        raw = re.sub(r"\s{2,}", " ", raw).strip()
+
+        result = {}
+
+        # ③ 시험과목
+        m = re.search(r"[③③][^\n]*?시험과목[:\s]*(.+?)(?=[④④⑥⑥]|$)", raw, re.DOTALL)
+        if m:
+            subj = m.group(1).strip()
+            written_m = re.search(r"[-－]\s*필기\s*[:：]?\s*(.+?)(?=[-－]\s*(?:실기|면접)|$)", subj, re.DOTALL)
+            prac_m = re.search(r"[-－]\s*실기\s*[:：]?\s*(.+?)(?=[-－]|$)", subj, re.DOTALL)
+            int_m = re.search(r"[-－]\s*면접\s*[:：]?\s*(.+?)(?=[-－]|$)", subj, re.DOTALL)
+            if written_m:
+                result["written_subjects"] = re.sub(r"\s+", " ", written_m.group(1)).strip().rstrip(".")
+            if prac_m:
+                result["prac_subject"] = re.sub(r"\s+", " ", prac_m.group(1)).strip().rstrip(".")
+            elif int_m:
+                result["prac_subject"] = re.sub(r"\s+", " ", int_m.group(1)).strip().rstrip(".")
+
+        # ⑤ 합격기준
+        m = re.search(r"[⑤⑤][^\n]*?합격기준[:\s]*(.+?)$", raw, re.DOTALL)
+        if m:
+            crit = m.group(1).strip()
+            crit = re.sub(r"\s+", " ", crit).strip()
+            # 필기(·면접 포함) / 실기 분리
+            wr_m = re.search(r"[-－]\s*필기[·.]?(?:면접)?\s*[:：]?\s*(.+?)(?=[-－]\s*(?:실기|면접)|$)", crit, re.DOTALL)
+            pr_m = re.search(r"[-－]\s*(?:실기|면접)\s*[:：]?\s*(.+?)$", crit, re.DOTALL)
+            if wr_m:
+                result["written_criteria"] = re.sub(r"\s+", " ", wr_m.group(1)).strip().rstrip(".")
+            if pr_m:
+                result["prac_criteria"] = re.sub(r"\s+", " ", pr_m.group(1)).strip().rstrip(".")
+            if not wr_m and not pr_m:
+                result["criteria_raw"] = crit
+
+        return result
+    return {}
+
+
+def compute_transition_rate(stats: dict) -> dict | None:
+    """필기 합격자 → 실기 응시자 전환율 (같은 연도 기준, 100% 초과는 제외)"""
+    written = stats.get("written", [])
+    practical = stats.get("practical", [])
+    if not written or not practical:
+        return None
+    # 같은 연도가 있는 최근 연도 사용
+    prac_by_year = {r["year"]: r for r in practical if r.get("applicants", 0) > 0}
+    for row in reversed(written):
+        yr = row.get("year")
+        passers = row.get("passers", 0)
+        if passers > 0 and yr in prac_by_year:
+            prac_app = prac_by_year[yr]["applicants"]
+            rate = round(prac_app / passers * 100, 1)
+            if rate <= 100:
+                return {"rate": rate, "written_passers": passers, "prac_applicants": prac_app, "year": yr}
+    return None
+
+
 def compute_difficulty(stats: dict) -> dict | None:
     practical = stats.get("practical", [])
     written = stats.get("written", [])
@@ -278,6 +346,16 @@ def generate_pages(target_jmcd: str = None, limit: int = None):
         # 난이도
         difficulty = compute_difficulty(stats) if stats else None
 
+        # 취득방법 파싱 (시험과목·합격기준)
+        exam_info = parse_취득방법(info)
+
+        # 출제경향
+        tendency_row = next((r for r in info if r.get("type") == "출제경향"), None)
+        tendency = tendency_row["content"].strip() if tendency_row else ""
+
+        # 필기→실기 전환율
+        transition = compute_transition_rate(stats) if stats else None
+
         # 사이드바 추가 데이터
         exam_rounds = len(schedule) if schedule else 0
 
@@ -318,6 +396,9 @@ def generate_pages(target_jmcd: str = None, limit: int = None):
             "recent_applicants": recent_applicants,
             "recent_passers": recent_passers,
             "recent_year": recent_year,
+            "exam_info": exam_info,
+            "tendency": tendency,
+            "transition": transition,
         }
 
         # 파일명: 슬래시 등 경로 구분자 제거 (GitHub Pages 지원)
