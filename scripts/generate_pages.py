@@ -175,51 +175,93 @@ def build_stats_json(stats: dict) -> str:
 
 
 def parse_취득방법(info: list) -> dict:
-    """취득방법 필드에서 시험과목·합격기준·검정방법을 추출"""
+    """취득방법 필드에서 시험과목·합격기준·검정방법·관련학과를 추출"""
     for row in info:
         if row.get("type") != "취득방법":
             continue
         raw = row.get("content", "")
-        # CSS 헤더 제거 (기사/산업기사 형식)
-        raw = re.sub(r"^BODY\s*\{.*?\}", "", raw, flags=re.DOTALL)
-        # HTML 엔티티 디코딩 (&#9312; → ①)
+        raw = re.sub(r"[A-Z][A-Z0-9\s]*\{[^}]*\}", "", raw, flags=re.DOTALL)
         raw = html_module.unescape(raw)
-        # 여러 공백 정리
         raw = re.sub(r"\s{2,}", " ", raw).strip()
 
         result = {}
 
+        def _clean(s: str) -> str:
+            return re.sub(r"\s+", " ", s).strip()
+
+        # ② 관련학과
+        m = re.search(r"②[^\n]*?관련학과[:\s]*(.*?)(?=③|$)", raw, re.DOTALL)
+        if not m:
+            m = re.search(r"②\s*(.*?)(?=③|$)", raw, re.DOTALL)
+        if m:
+            dept = _clean(m.group(1))
+            dept = re.sub(r"^관련학과\s*[:：-]?\s*", "", dept).strip()
+            if dept and len(dept) > 3:
+                result["related_dept"] = dept
+
         # ③ 시험과목
-        m = re.search(r"[③③][^\n]*?시험과목[:\s]*(.+?)(?=[④④⑥⑥]|$)", raw, re.DOTALL)
+        m = re.search(r"③[^\n]*?시험과목[:\s]*(.+?)(?=[④⑥]|$)", raw, re.DOTALL)
         if m:
             subj = m.group(1).strip()
             written_m = re.search(r"[-－]\s*필기\s*[:：]?\s*(.+?)(?=[-－]\s*(?:실기|면접)|$)", subj, re.DOTALL)
             prac_m = re.search(r"[-－]\s*실기\s*[:：]?\s*(.+?)(?=[-－]|$)", subj, re.DOTALL)
             int_m = re.search(r"[-－]\s*면접\s*[:：]?\s*(.+?)(?=[-－]|$)", subj, re.DOTALL)
             if written_m:
-                result["written_subjects"] = re.sub(r"\s+", " ", written_m.group(1)).strip().rstrip(".")
+                result["written_subjects"] = _clean(written_m.group(1)).rstrip(".")
             if prac_m:
-                result["prac_subject"] = re.sub(r"\s+", " ", prac_m.group(1)).strip().rstrip(".")
+                result["prac_subject"] = _clean(prac_m.group(1)).rstrip(".")
             elif int_m:
-                result["prac_subject"] = re.sub(r"\s+", " ", int_m.group(1)).strip().rstrip(".")
+                result["prac_subject"] = _clean(int_m.group(1)).rstrip(".")
+
+        # ④ 검정방법
+        m = re.search(r"④[^\n]*?검정방법[:\s]*(.*?)(?=⑤|$)", raw, re.DOTALL)
+        if not m:
+            m = re.search(r"④\s*(.*?)(?=⑤|$)", raw, re.DOTALL)
+        if m:
+            method = _clean(m.group(1))
+            method = re.sub(r"^검정방법\s*[:：-]?\s*", "", method).strip()
+            method = re.sub(r"작업형\s*실기시험\s*기본정보.*$", "", method).strip()
+            if method and len(method) > 5:
+                result["exam_method"] = method
+                # 필기 / 실기(면접) 분리
+                wm = re.search(r"[-－]\s*필기\s*[:：]?\s*(.+?)(?=[-－]\s*(?:실기|면접)|$)", method, re.DOTALL)
+                pm = re.search(r"[-－]\s*(?:실기|면접)\s*[:：]?\s*(.+?)$", method, re.DOTALL)
+                if wm:
+                    result["exam_method_written"] = _clean(wm.group(1))
+                if pm:
+                    result["exam_method_prac"] = _clean(pm.group(1))
 
         # ⑤ 합격기준
         m = re.search(r"[⑤⑤][^\n]*?합격기준[:\s]*(.+?)$", raw, re.DOTALL)
         if m:
-            crit = m.group(1).strip()
-            crit = re.sub(r"\s+", " ", crit).strip()
-            # 필기(·면접 포함) / 실기 분리
+            crit = _clean(m.group(1))
             wr_m = re.search(r"[-－]\s*필기[·.]?(?:면접)?\s*[:：]?\s*(.+?)(?=[-－]\s*(?:실기|면접)|$)", crit, re.DOTALL)
             pr_m = re.search(r"[-－]\s*(?:실기|면접)\s*[:：]?\s*(.+?)$", crit, re.DOTALL)
             if wr_m:
-                result["written_criteria"] = re.sub(r"\s+", " ", wr_m.group(1)).strip().rstrip(".")
+                result["written_criteria"] = _clean(wr_m.group(1)).rstrip(".")
             if pr_m:
-                result["prac_criteria"] = re.sub(r"\s+", " ", pr_m.group(1)).strip().rstrip(".")
+                result["prac_criteria"] = _clean(pr_m.group(1)).rstrip(".")
             if not wr_m and not pr_m:
                 result["criteria_raw"] = crit
 
         return result
     return {}
+
+
+def compute_pass_trend(stats: dict) -> dict | None:
+    """최근 3년간 합격률 추이 (↑상승 / →보합 / ↓하락)"""
+    result = {}
+    for key in ("written", "practical"):
+        rows = [r for r in stats.get(key, []) if r.get("passRate", 0) > 0]
+        if len(rows) >= 3:
+            diff = round(rows[-1]["passRate"] - rows[-3]["passRate"], 1)
+            if diff >= 3:
+                result[key] = {"dir": "up",     "label": f"↑ {abs(diff)}%p 상승"}
+            elif diff <= -3:
+                result[key] = {"dir": "down",   "label": f"↓ {abs(diff)}%p 하락"}
+            else:
+                result[key] = {"dir": "stable", "label": "→ 보합세"}
+    return result if result else None
 
 
 def compute_transition_rate(stats: dict) -> dict | None:
@@ -365,6 +407,9 @@ def generate_pages(target_jmcd: str = None, limit: int = None):
         # 필기→실기 전환율
         transition = compute_transition_rate(stats) if stats else None
 
+        # 합격률 트렌드
+        trend = compute_pass_trend(stats) if stats else None
+
         # 사이드바 추가 데이터
         exam_rounds = len(schedule) if schedule else 0
 
@@ -408,6 +453,7 @@ def generate_pages(target_jmcd: str = None, limit: int = None):
             "exam_info": exam_info,
             "tendency": tendency,
             "transition": transition,
+            "trend": trend,
         }
 
         # 파일명: 슬래시 등 경로 구분자 제거 (GitHub Pages 지원)

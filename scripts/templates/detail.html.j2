@@ -163,6 +163,30 @@
 {% endif %}
       </div>
 
+      <!-- 검정방법 -->
+{% if exam_info.exam_method %}
+      <div class="content-section">
+        <h2>검정방법</h2>
+        <div class="info-card" style="padding:20px 24px;">
+{% if exam_info.exam_method_written %}
+          <div style="display:flex;gap:12px;align-items:flex-start;{% if exam_info.exam_method_prac %}margin-bottom:10px;{% endif %}">
+            <span style="flex-shrink:0;font-size:0.75rem;font-weight:700;background:#EFF6FF;color:var(--primary);padding:2px 8px;border-radius:4px;margin-top:2px;">필기</span>
+            <span style="font-size:0.9375rem;line-height:1.7;">{{ exam_info.exam_method_written }}</span>
+          </div>
+{% endif %}
+{% if exam_info.exam_method_prac %}
+          <div style="display:flex;gap:12px;align-items:flex-start;{% if exam_info.exam_method_written %}border-top:1px solid var(--border);padding-top:10px;{% endif %}">
+            <span style="flex-shrink:0;font-size:0.75rem;font-weight:700;background:#F0FDF4;color:var(--success);padding:2px 8px;border-radius:4px;margin-top:2px;">실기</span>
+            <span style="font-size:0.9375rem;line-height:1.7;">{{ exam_info.exam_method_prac }}</span>
+          </div>
+{% endif %}
+{% if not exam_info.exam_method_written and not exam_info.exam_method_prac %}
+          <p style="font-size:0.9375rem;line-height:1.75;">{{ exam_info.exam_method }}</p>
+{% endif %}
+        </div>
+      </div>
+{% endif %}
+
       <!-- 시험과목 -->
 {% if exam_info.written_subjects or exam_info.prac_subject %}
       <div class="content-section">
@@ -282,6 +306,12 @@
           <span class="info-label">직무분야</span>
           <span class="info-value">{{ exam.field }}</span>
         </div>
+{% if exam_info.related_dept %}
+        <div class="info-row">
+          <span class="info-label">관련학과</span>
+          <span class="info-value" style="font-size:0.8125rem;">{{ exam_info.related_dept }}</span>
+        </div>
+{% endif %}
         <div class="info-row">
           <span class="info-label">시행기관</span>
           <span class="info-value">한국산업인력공단</span>
@@ -321,6 +351,20 @@
           <span class="info-label">필기→실기 전환율</span>
           <span class="info-value">{{ transition.rate }}%</span>
         </div>
+{% endif %}
+{% if trend %}
+{% if trend.written %}
+        <div class="info-row">
+          <span class="info-label">필기 합격률 추이</span>
+          <span class="info-value" style="font-size:0.8125rem;{% if trend.written.dir == 'up' %}color:#16A34A;{% elif trend.written.dir == 'down' %}color:#DC2626;{% else %}color:var(--text-secondary);{% endif %}">{{ trend.written.label }}</span>
+        </div>
+{% endif %}
+{% if trend.practical %}
+        <div class="info-row">
+          <span class="info-label">실기 합격률 추이</span>
+          <span class="info-value" style="font-size:0.8125rem;{% if trend.practical.dir == 'up' %}color:#16A34A;{% elif trend.practical.dir == 'down' %}color:#DC2626;{% else %}color:var(--text-secondary);{% endif %}">{{ trend.practical.label }}</span>
+        </div>
+{% endif %}
 {% endif %}
         <div class="info-row" style="border-top:1px solid var(--border);margin-top:8px;padding-top:12px;">
           <a href="https://wooagosa.wooahouse.com/" target="_blank" rel="noopener"
