@@ -82,27 +82,38 @@
       }
     };
 
+    const hasWritten = writtenRates.some(v => v > 0);
+    const hasPractical = practicalRates.some(v => v > 0);
+    const hasApplicants = writtenApplicants.some(v => v > 0);
+
     const writtenCtx = document.getElementById('writtenChart');
     if (writtenCtx) {
-      new Chart(writtenCtx, {
-        type: 'bar',
-        data: {
-          labels: years,
-          datasets: [{
-            data: writtenRates,
-            backgroundColor: '#BFDBFE',
-            borderColor: '#2563EB',
-            borderWidth: 2,
-            borderRadius: 6,
-            borderSkipped: false
-          }]
-        },
-        options: baseOpts
-      });
+      if (hasWritten) {
+        new Chart(writtenCtx, {
+          type: 'bar',
+          data: {
+            labels: years,
+            datasets: [{
+              data: writtenRates,
+              backgroundColor: '#BFDBFE',
+              borderColor: '#2563EB',
+              borderWidth: 2,
+              borderRadius: 6,
+              borderSkipped: false
+            }]
+          },
+          options: baseOpts
+        });
+      } else {
+        writtenCtx.closest('.chart-box').style.display = 'none';
+      }
     }
 
     const practicalCtx = document.getElementById('practicalChart');
-    if (practicalCtx) {
+    if (practicalCtx && !hasPractical) {
+      practicalCtx.closest('.chart-box').style.display = 'none';
+    }
+    if (practicalCtx && hasPractical) {
       new Chart(practicalCtx, {
         type: 'bar',
         data: {
@@ -126,8 +137,17 @@
       });
     }
 
+    if (!hasWritten && !hasPractical) {
+      const rateSection = document.querySelector('.chart-grid');
+      if (rateSection) rateSection.closest('.content-section').style.display = 'none';
+    }
+
     const applicantsCtx = document.getElementById('applicantsChart');
-    if (applicantsCtx) {
+    if (applicantsCtx && !hasApplicants) {
+      const section = applicantsCtx.closest('.content-section') || applicantsCtx.closest('.chart-box');
+      if (section) section.style.display = 'none';
+    }
+    if (applicantsCtx && hasApplicants) {
       new Chart(applicantsCtx, {
         type: 'line',
         data: {
