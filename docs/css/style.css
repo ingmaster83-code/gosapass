@@ -322,26 +322,8 @@ tbody tr:hover td { background: #FAFAFA; }
   border: 1px solid var(--border);
 }
 
-/* 11. Ad Placeholder */
-.ad-wrap { margin: 28px 0; }
-.ad-label {
-  font-size: 0.6875rem;
-  color: #CBD5E1;
-  text-align: center;
-  margin-bottom: 4px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-.ad-block {
-  background: #F8FAFC;
-  border: 1.5px dashed #CBD5E1;
-  border-radius: var(--radius);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: #94A3B8;
-  font-size: 0.8125rem;
-}
+/* 11. Ad — 광고 승인 후 display:none 제거 */
+.ad-wrap { display: none; }
 .ad-leaderboard { height: 90px; }
 .ad-rectangle { height: 280px; max-width: 336px; margin: 0 auto; }
 .ad-sidebar { height: 600px; }
