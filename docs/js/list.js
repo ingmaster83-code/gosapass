@@ -1,4 +1,5 @@
 // list.html — 자격증 목록 검색 & 필터
+function examPath(name) { return encodeURIComponent(name).replace(/%28/g,'(').replace(/%29/g,')'); }
 (function () {
   const grid = document.getElementById("examGrid");
   const metaEl = document.getElementById("listMeta");
@@ -28,7 +29,7 @@
     grid.innerHTML = items
       .map(
         (e) => `
-      <a href="/exam/${encodeURIComponent(e.name)}.html" class="exam-card">
+      <a href="/exam/${examPath(e.name)}.html" class="exam-card">
         <div class="exam-card-name">${e.name}</div>
         <div class="exam-card-meta">
           <span class="cat-badge cat-${e.field_class}" style="font-size:0.75rem;padding:2px 8px;">${e.field}</span>

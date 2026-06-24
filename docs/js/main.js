@@ -1,4 +1,5 @@
 // index.html — D-Day 섹션 & 이번달 일정 동적 업데이트
+function examPath(name) { return encodeURIComponent(name).replace(/%28/g,'(').replace(/%29/g,')'); }
 (function () {
   const ddayGrid = document.getElementById("ddayGrid");
   const monthTable = document.getElementById("monthTableBody");
@@ -44,7 +45,7 @@
               const { text, cls } = ddayLabel(item.dday);
               const isOngoing = item.dday >= 0 && item.event.includes("접수");
               return `
-              <a href="/exam/${encodeURIComponent(item.name)}.html" class="dday-card ${isOngoing ? "ongoing" : ""}">
+              <a href="/exam/${examPath(item.name)}.html" class="dday-card ${isOngoing ? "ongoing" : ""}">
                 <div class="dday-top">
                   <div class="dday-name">${item.name}</div>
                   <span class="dday-pill ${cls}">${isOngoing && item.dday > 0 ? "접수중" : text}</span>
@@ -74,7 +75,7 @@
                 <td class="td-round">${item.round}</td>
                 <td>${item.event}</td>
                 <td><span class="date-chip ${chipCls}">${item.date.slice(5)}</span></td>
-                <td><a href="/exam/${encodeURIComponent(item.name)}.html" style="color:var(--primary);font-size:0.8125rem;font-weight:500;">→ 상세</a></td>
+                <td><a href="/exam/${examPath(item.name)}.html" style="color:var(--primary);font-size:0.8125rem;font-weight:500;">→ 상세</a></td>
               </tr>`;
             })
             .join("");

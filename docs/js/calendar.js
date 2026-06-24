@@ -1,4 +1,5 @@
 // calendar.html — 월별 시험 캘린더
+function examPath(name) { return encodeURIComponent(name).replace(/%28/g,'(').replace(/%29/g,')'); }
 (function () {
   const grid = document.getElementById("calGrid");
   const calTitle = document.getElementById("calTitle");
@@ -166,7 +167,7 @@
     calList.innerHTML = sorted
       .map((ev) => {
         const link = ev.jmcd
-          ? `/exam/${encodeURIComponent(ev.name)}.html`
+          ? `/exam/${examPath(ev.name)}.html`
           : "#";
         return `
         <div class="cal-list-item">
