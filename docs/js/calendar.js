@@ -92,7 +92,7 @@ function examPath(name) { return encodeURIComponent(name).replace(/%28/g,'(').re
     const monthStr = `${year}-${String(month + 1).padStart(2, "0")}`;
     const filtered = allEvents.filter((e) => {
       const inMonth = e.date.startsWith(monthStr);
-      const matchSeries = !activeSeries || e.series.includes(activeSeries);
+      const matchSeries = !activeSeries || e.series === activeSeries;
       return inMonth && matchSeries;
     });
 

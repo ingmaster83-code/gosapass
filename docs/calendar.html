@@ -158,6 +158,30 @@
     .cal-list-name { font-weight: 600; }
     .cal-list-event { color: var(--text-secondary); font-size: 0.8125rem; }
 
+    .filter-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .filter-btn {
+      padding: 6px 16px;
+      border: 1.5px solid var(--border);
+      border-radius: 20px;
+      background: white;
+      font-size: 0.8125rem;
+      cursor: pointer;
+      font-family: inherit;
+      font-weight: 500;
+      transition: all .15s;
+      color: var(--text-secondary);
+    }
+    .filter-btn:hover,
+    .filter-btn.active {
+      border-color: var(--primary);
+      color: var(--primary);
+      background: var(--primary-light);
+    }
+
     @media (max-width: 640px) {
       .cal-day { min-height: 60px; }
       .cal-event { font-size: 0.625rem; }
