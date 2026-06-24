@@ -221,8 +221,21 @@ def generate_pages(target_jmcd: str = None, limit: int = None):
         print("[ERROR] data/exams.json 없음")
         sys.exit(1)
 
-    # schedules.json은 달력/인덱스용 그룹 일정 — 개별 일정은 stats/{jmcd}.json에서 읽음
-    schedule_map: dict[str, list] = {}
+    # 그룹 일정 로드 (개별 일정 없는 경우 폴백용)
+    group_schedule_map: dict[str, list] = {}
+    schedules_data = load_json(DATA_DIR.parent / "docs" / "data" / "schedules.json") or {}
+    for s in schedules_data.get("items", []):
+        key = s["name"]
+        group_schedule_map.setdefault(key, []).append(s)
+
+    # qual_name → 그룹 일정 키 매핑
+    QUAL_GROUP = {
+        "기사":      "기사/산업기사",
+        "산업기사":  "기사/산업기사",
+        "기술사":    "기술사",
+        "기능장":    "기능장",
+        "기능사":    "기능사",
+    }
 
     today = date.today()
     year = today.year
@@ -248,8 +261,13 @@ def generate_pages(target_jmcd: str = None, limit: int = None):
         info = detail.get("info", [])
         stats = detail.get("stats", {})
 
-        # 시험일정: stats/{jmcd}.json에 포함 (Phase2 fetch_jm_schedule 결과)
+        # 시험일정: 개별 일정 우선, 없으면 그룹 일정 폴백
         schedule = detail.get("schedule", [])
+        if not schedule:
+            qual_name = exam.get("series", "")
+            group_key = QUAL_GROUP.get(qual_name, "")
+            if group_key and group_key in group_schedule_map:
+                schedule = group_schedule_map[group_key]
 
         # D-Day 계산
         dday = compute_dday(schedule, today) if schedule else None
