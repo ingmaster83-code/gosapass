@@ -349,9 +349,18 @@ def generate_pages(target_jmcd: str = None, limit: int = None):
         # 취득방법 파싱 (시험과목·합격기준)
         exam_info = parse_취득방법(info)
 
-        # 출제경향
+        # 출제경향 (CSS 헤더 제거)
         tendency_row = next((r for r in info if r.get("type") == "출제경향"), None)
-        tendency = tendency_row["content"].strip() if tendency_row else ""
+        if tendency_row:
+            import html as _html
+            t = tendency_row["content"]
+            # CSS 블록 제거: BODY{} P{} LI{} 등 모든 선택자+규칙
+            t = re.sub(r"[A-Z][A-Z0-9\s]*\{[^}]*\}", "", t)
+            t = _html.unescape(t)
+            t = re.sub(r"\s{2,}", " ", t).strip()
+            tendency = t
+        else:
+            tendency = ""
 
         # 필기→실기 전환율
         transition = compute_transition_rate(stats) if stats else None
