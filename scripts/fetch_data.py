@@ -262,30 +262,89 @@ def phase1():
 
 
 def _build_upcoming(schedules: list[dict]):
-    """30일 이내 이벤트 -> docs/data/upcoming.json"""
+    """개별 시험 단위 30일 이내 이벤트 -> docs/data/upcoming.json"""
     today = date.today()
-    upcoming = []
+
+    # 그룹 일정 룩업: "기사/산업기사" → [schedule_item, ...]
+    group_sched: dict[str, list] = {}
     for s in schedules:
-        for event_key, event_label in [
-            ("written_reg_end",   "필기 접수마감"),
-            ("written_exam_start","필기 시험"),
-            ("written_pass",      "필기 합격발표"),
-            ("prac_reg_end",      "실기 접수마감"),
-            ("prac_exam_start",   "실기 시험"),
-            ("prac_pass_end",     "실기 합격발표"),
-        ]:
-            d_str = s.get(event_key, "")
-            if not d_str:
-                continue
-            try:
-                d = date.fromisoformat(d_str)
-            except ValueError:
-                continue
-            diff = (d - today).days
-            if -3 <= diff <= 30:
+        group_sched.setdefault(s["name"], []).append(s)
+
+    SERIES_GROUP = {
+        "기사":   "기사/산업기사",
+        "기술사": "기술사",
+        "기능장": "기능장",
+        "기능사": "기능사",
+    }
+
+    EVENT_KEYS = [
+        ("written_reg_end",    "필기 접수마감"),
+        ("written_exam_start", "필기 시험"),
+        ("written_pass",       "필기 합격발표"),
+        ("prac_reg_end",       "실기 접수마감"),
+        ("prac_exam_start",    "실기 시험"),
+        ("prac_pass_end",      "실기 합격발표"),
+    ]
+
+    # 종목 목록 로드
+    exams_path = DATA_DIR / "exams.json"
+    if not exams_path.exists():
+        return
+    exams = json.loads(exams_path.read_text(encoding="utf-8")).get("items", [])
+
+    # 응시자 수 기준 정렬 (인기 종목 우선 노출)
+    def get_applicants(jmcd: str) -> int:
+        p = DATA_DIR / "stats" / f"{jmcd}.json"
+        if p.exists():
+            d = json.loads(p.read_text(encoding="utf-8"))
+            for row in reversed(d.get("stats", {}).get("written", [])):
+                if row.get("applicants", 0) > 0:
+                    return row["applicants"]
+        return 0
+
+    exams_sorted = sorted(exams, key=lambda e: get_applicants(e["jmcd"]), reverse=True)
+
+    upcoming = []
+    # (그룹, 회차, 이벤트, 날짜) 조합당 가장 인기 있는 1개만 노출
+    seen: set[tuple] = set()
+
+    for exam in exams_sorted:
+        jmcd  = exam["jmcd"]
+        name  = exam["name"]
+        series = exam.get("series", "")
+        if not jmcd or not name:
+            continue
+
+        # 개별 일정 우선, 없으면 그룹 폴백
+        exam_schedule: list[dict] = []
+        stats_path = DATA_DIR / "stats" / f"{jmcd}.json"
+        if stats_path.exists():
+            exam_schedule = json.loads(stats_path.read_text(encoding="utf-8")).get("schedule", [])
+        if not exam_schedule:
+            group_key = SERIES_GROUP.get(series, "")
+            exam_schedule = group_sched.get(group_key, [])
+
+        for s in exam_schedule:
+            round_str = s.get("round", "")
+            group_key = SERIES_GROUP.get(series, series)
+            for event_key, event_label in EVENT_KEYS:
+                d_str = s.get(event_key, "")
+                if not d_str:
+                    continue
+                try:
+                    d = date.fromisoformat(d_str)
+                except ValueError:
+                    continue
+                diff = (d - today).days
+                if not (-3 <= diff <= 30):
+                    continue
+                dedup = (group_key, round_str, event_label, d_str)
+                if dedup in seen:
+                    continue
+                seen.add(dedup)
                 upcoming.append({
-                    "name":  s["name"],
-                    "round": s["round"],
+                    "name":  name,
+                    "round": round_str,
                     "event": event_label,
                     "date":  d_str,
                     "dday":  diff,
@@ -295,7 +354,7 @@ def _build_upcoming(schedules: list[dict]):
     out_path = DATA_DIR.parent / "docs" / "data"
     out_path.mkdir(exist_ok=True)
     save_json(out_path / "upcoming.json", {
-        "updated": date.today().isoformat(),
+        "updated": today.isoformat(),
         "items": upcoming,
     })
 
