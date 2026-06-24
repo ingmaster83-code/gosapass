@@ -278,6 +278,28 @@ def generate_pages(target_jmcd: str = None, limit: int = None):
         # 난이도
         difficulty = compute_difficulty(stats) if stats else None
 
+        # 사이드바 추가 데이터
+        exam_rounds = len(schedule) if schedule else 0
+
+        recent_applicants = 0
+        recent_passers = 0
+        recent_year = ""
+        written = stats.get("written", []) if stats else []
+        practical = stats.get("practical", []) if stats else []
+        for row in reversed(written):
+            if row.get("applicants", 0) > 0:
+                recent_applicants = row["applicants"]
+                recent_passers = row.get("passers", 0)
+                recent_year = str(row["year"])
+                break
+        if not recent_applicants:
+            for row in reversed(practical):
+                if row.get("applicants", 0) > 0:
+                    recent_applicants = row["applicants"]
+                    recent_passers = row.get("passers", 0)
+                    recent_year = str(row["year"])
+                    break
+
         ctx = {
             "exam": {
                 **exam,
@@ -292,6 +314,10 @@ def generate_pages(target_jmcd: str = None, limit: int = None):
             "stats": stats,
             "stats_json": stats_json,
             "difficulty": difficulty,
+            "exam_rounds": exam_rounds,
+            "recent_applicants": recent_applicants,
+            "recent_passers": recent_passers,
+            "recent_year": recent_year,
         }
 
         # 파일명: 슬래시 등 경로 구분자 제거 (GitHub Pages 지원)
