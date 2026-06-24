@@ -118,6 +118,14 @@ def load_json(path: Path) -> dict | list | None:
 def is_stale(path: Path, days: int = CACHE_DAYS) -> bool:
     if not path.exists():
         return True
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        updated_str = data.get("updated", "")
+        if updated_str:
+            updated_dt = date.fromisoformat(updated_str)
+            return (date.today() - updated_dt).days >= days
+    except (json.JSONDecodeError, ValueError):
+        pass
     mtime = datetime.fromtimestamp(path.stat().st_mtime)
     return (datetime.now() - mtime).days >= days
 
@@ -224,6 +232,16 @@ def phase1():
     time.sleep(REQUEST_DELAY)
 
     # 등급별 일정
+    existing_schedules = load_json(DATA_DIR / "schedules.json")
+    existing_items = existing_schedules.get("items", []) if existing_schedules else []
+
+    ENDPOINT_GROUPS = {
+        "getEList":  "기사/산업기사",
+        "getPEList": "기술사",
+        "getMCList": "기능장",
+        "getCList":  "기능사",
+    }
+
     all_schedules = []
     for endpoint, label in [
         ("getEList",  "기사/산업기사"),
@@ -232,7 +250,14 @@ def phase1():
         ("getCList",  "기능사"),
     ]:
         rows = fetch_schedule_bulk(endpoint, label)
-        all_schedules.extend(rows)
+        if rows:
+            all_schedules.extend(rows)
+        else:
+            group = ENDPOINT_GROUPS[endpoint]
+            fallback = [s for s in existing_items if group in s.get("name", "")]
+            if fallback:
+                print(f"  [경고] API 실패 — 기존 {group} 데이터 {len(fallback)}건 유지")
+                all_schedules.extend(fallback)
         time.sleep(REQUEST_DELAY)
 
     save_json(DATA_DIR / "schedules.json", {
