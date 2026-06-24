@@ -44,7 +44,11 @@ function examPath(name) { return encodeURIComponent(name).replace(/%28/g,'(').re
     const q = searchInput.value.trim();
     const filtered = allExams.filter((e) => {
       const matchQ = !q || e.name.includes(q) || e.field.includes(q);
-      const matchSeries = !activeSeries || e.series.includes(activeSeries);
+      const isSanup = e.name.includes("산업기사");
+      const matchSeries = !activeSeries ||
+        (activeSeries === "산업기사" ? isSanup :
+         activeSeries === "기사" ? (e.series === "기사" && !isSanup) :
+         e.series === activeSeries);
       const matchField = !activeField || e.field.includes(activeField);
       return matchQ && matchSeries && matchField;
     });
