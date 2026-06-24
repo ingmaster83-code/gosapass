@@ -71,7 +71,7 @@ function examPath(name) { return encodeURIComponent(name).replace(/%28/g,'(').re
   }
 
   function buildFieldButtons(exams) {
-    const fields = [...new Set(exams.map((e) => e.field))].sort();
+    const fields = [...new Set(exams.map((e) => e.field))].filter(f => f).sort();
     fieldFilter.innerHTML = `<button class="filter-btn ${!initCat ? "active" : ""}" data-field="">전체 분야</button>`;
     fields.forEach((f) => {
       const btn = document.createElement("button");
