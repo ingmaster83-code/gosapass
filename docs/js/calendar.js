@@ -54,10 +54,19 @@ function examPath(name) { return encodeURIComponent(name).replace(/%28/g,'(').re
     const examMap = {};
     (exams.items || []).forEach((e) => { examMap[e.name] = e; });
 
-    // schedules.json 기반 (그룹 수준)
+    // 스케줄 이름 → 시리즈 매핑
+  function seriesFromName(name) {
+    if (name === "기술사") return "기술사";
+    if (name === "기능장") return "기능장";
+    if (name.includes("기능사")) return "기능사";
+    if (name.includes("기사")) return "기사/산업기사";
+    return name;
+  }
+
+  // schedules.json 기반 (그룹 수준)
     (schedules.items || []).forEach((s) => {
       const name = s.name;
-      const series = examMap[name]?.series || "";
+      const series = seriesFromName(name);
       const jmcd = examMap[name]?.jmcd || "";
 
       const pairs = [
@@ -92,7 +101,9 @@ function examPath(name) { return encodeURIComponent(name).replace(/%28/g,'(').re
     const monthStr = `${year}-${String(month + 1).padStart(2, "0")}`;
     const filtered = allEvents.filter((e) => {
       const inMonth = e.date.startsWith(monthStr);
-      const matchSeries = !activeSeries || e.series === activeSeries;
+      const matchSeries = !activeSeries ||
+        e.series === activeSeries ||
+        (e.series === "기사/산업기사" && (activeSeries === "기사" || activeSeries === "산업기사"));
       return inMonth && matchSeries;
     });
 
