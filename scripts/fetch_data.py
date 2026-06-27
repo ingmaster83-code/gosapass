@@ -224,6 +224,11 @@ def phase1():
 
     # 종목 목록
     exams = fetch_exam_list()
+    if not exams:
+        existing_exams = load_json(DATA_DIR / "exams.json")
+        if existing_exams and existing_exams.get("items"):
+            print(f"  [경고] API 실패 — 기존 종목 데이터 {len(existing_exams['items'])}건 유지")
+            exams = existing_exams["items"]
     save_json(DATA_DIR / "exams.json", {
         "updated": date.today().isoformat(),
         "count": len(exams),
