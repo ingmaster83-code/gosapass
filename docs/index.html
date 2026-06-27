@@ -25,7 +25,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/style.css?v=2">
   <!-- Google AdSense (승인 후 실제 코드로 교체) -->
   <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXX" crossorigin="anonymous"></script> -->
 </head>
@@ -82,144 +82,24 @@
       마감 임박 자격증
       <span class="badge-live">LIVE</span>
     </h2>
-    <div class="dday-grid" id="ddayGrid">
-
-      <!-- 1: 접수 진행중 -->
-      <a href="/exam/전기기사.html" class="dday-card ongoing">
-        <div class="dday-top">
-          <div class="dday-name">전기기사</div>
-          <span class="dday-pill ongoing">접수중</span>
-        </div>
-        <div class="dday-event">2회 실기 원서접수 진행중</div>
-        <div class="dday-date">~ 2026.06.26 (목) 마감</div>
-      </a>
-
-      <!-- 2: D-2 -->
-      <a href="/exam/화학분석기사.html" class="dday-card urgent">
-        <div class="dday-top">
-          <div class="dday-name">화학분석기사</div>
-          <span class="dday-pill urgent">D-2</span>
-        </div>
-        <div class="dday-event">2회 필기 원서접수 마감</div>
-        <div class="dday-date">2026.06.25 (목)</div>
-      </a>
-
-      <!-- 3: D-5 -->
-      <a href="/exam/소방설비기사(전기분야).html" class="dday-card warning">
-        <div class="dday-top">
-          <div class="dday-name">소방설비기사(전기분야)</div>
-          <span class="dday-pill warning">D-5</span>
-        </div>
-        <div class="dday-event">2회 실기 원서접수 마감</div>
-        <div class="dday-date">2026.06.28 (일)</div>
-      </a>
-
-      <!-- 4: D-7 -->
-      <a href="/exam/일반기계기사.html" class="dday-card warning">
-        <div class="dday-top">
-          <div class="dday-name">일반기계기사</div>
-          <span class="dday-pill warning">D-7</span>
-        </div>
-        <div class="dday-event">2회 실기 원서접수 마감</div>
-        <div class="dday-date">2026.06.30 (화)</div>
-      </a>
-
-      <!-- 5: D-12 -->
-      <a href="/exam/산업안전기사.html" class="dday-card">
-        <div class="dday-top">
-          <div class="dday-name">산업안전기사</div>
-          <span class="dday-pill normal">D-12</span>
-        </div>
-        <div class="dday-event">2회 합격자 발표</div>
-        <div class="dday-date">2026.07.05 (일)</div>
-      </a>
-
-      <!-- 6: D-15 -->
-      <a href="/exam/건설안전기사.html" class="dday-card">
-        <div class="dday-top">
-          <div class="dday-name">건설안전기사</div>
-          <span class="dday-pill normal">D-15</span>
-        </div>
-        <div class="dday-event">2회 실기 원서접수 시작</div>
-        <div class="dday-date">2026.07.08 (수)</div>
-      </a>
-
-    </div>
+    <div class="dday-grid" id="ddayGrid"></div>
   </section>
 
   <!-- This Month Schedule -->
   <section class="container section">
-    <h2 class="section-title">이번달 시험일정 <small style="font-size:0.875rem;font-weight:400;color:var(--text-secondary);">2026년 6월</small></h2>
+    <h2 class="section-title">이번달 시험일정 <small id="monthTitle" style="font-size:0.875rem;font-weight:400;color:var(--text-secondary);"></small></h2>
     <div class="table-wrap">
       <table>
         <thead>
           <tr>
             <th>자격증명</th>
-            <th>분야</th>
             <th>회차</th>
             <th>일정 구분</th>
             <th>날짜</th>
             <th>상세</th>
           </tr>
         </thead>
-        <tbody id="monthTableBody">
-          <tr>
-            <td><strong>전기기사</strong></td>
-            <td><span class="cat-badge cat-electric">전기전자</span></td>
-            <td class="td-round">2회</td>
-            <td>실기 원서접수</td>
-            <td><span class="date-chip ongoing">06.23 ~ 06.26</span></td>
-            <td><a href="/exam/전기기사.html" style="color:var(--primary);font-size:0.8125rem;font-weight:500;">→ 상세</a></td>
-          </tr>
-          <tr>
-            <td><strong>화학분석기사</strong></td>
-            <td><span class="cat-badge cat-chem">화학</span></td>
-            <td class="td-round">2회</td>
-            <td>필기 원서접수</td>
-            <td><span class="date-chip ongoing">06.22 ~ 06.25</span></td>
-            <td><a href="/exam/화학분석기사.html" style="color:var(--primary);font-size:0.8125rem;font-weight:500;">→ 상세</a></td>
-          </tr>
-          <tr>
-            <td><strong>정보처리기사</strong></td>
-            <td><span class="cat-badge cat-it">IT정보</span></td>
-            <td class="td-round">2회</td>
-            <td>필기 합격발표</td>
-            <td><span class="date-chip">06.11</span></td>
-            <td><a href="/exam/정보처리기사.html" style="color:var(--primary);font-size:0.8125rem;font-weight:500;">→ 상세</a></td>
-          </tr>
-          <tr>
-            <td><strong>소방설비기사 (전기)</strong></td>
-            <td><span class="cat-badge cat-safety">안전</span></td>
-            <td class="td-round">2회</td>
-            <td>실기 원서접수</td>
-            <td><span class="date-chip">06.24 ~ 06.28</span></td>
-            <td><a href="/exam/소방설비기사(전기분야).html" style="color:var(--primary);font-size:0.8125rem;font-weight:500;">→ 상세</a></td>
-          </tr>
-          <tr>
-            <td><strong>건축기사</strong></td>
-            <td><span class="cat-badge cat-construction">건설</span></td>
-            <td class="td-round">2회</td>
-            <td>필기시험</td>
-            <td><span class="date-chip done">06.15</span></td>
-            <td><a href="/exam/건축기사.html" style="color:var(--primary);font-size:0.8125rem;font-weight:500;">→ 상세</a></td>
-          </tr>
-          <tr>
-            <td><strong>기계기사</strong></td>
-            <td><span class="cat-badge cat-machine">기계</span></td>
-            <td class="td-round">2회</td>
-            <td>실기 원서접수</td>
-            <td><span class="date-chip">06.24 ~ 06.30</span></td>
-            <td><a href="/exam/일반기계기사.html" style="color:var(--primary);font-size:0.8125rem;font-weight:500;">→ 상세</a></td>
-          </tr>
-          <tr>
-            <td><strong>산업안전기사</strong></td>
-            <td><span class="cat-badge cat-safety">안전</span></td>
-            <td class="td-round">2회</td>
-            <td>실기 원서접수</td>
-            <td><span class="date-chip done">06.10 ~ 06.13</span></td>
-            <td><a href="/exam/산업안전기사.html" style="color:var(--primary);font-size:0.8125rem;font-weight:500;">→ 상세</a></td>
-          </tr>
-        </tbody>
+        <tbody id="monthTableBody"></tbody>
       </table>
     </div>
     <div style="text-align:right;margin-top:12px;">
@@ -314,5 +194,6 @@
   </div>
 </footer>
 
+<script src="/js/main.js?v=2"></script>
 </body>
 </html>
