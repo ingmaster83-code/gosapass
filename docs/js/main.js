@@ -36,9 +36,12 @@ function examPath(name) { return encodeURIComponent(name).replace(/%28/g,'(').re
     .then((data) => {
       const items = data.items || [];
 
-      // D-Day 카드 (최대 6개, 30일 이내)
+      // D-Day 카드 (최대 6개, 30일 이내) — dday는 JSON 생성 시점 값이므로 런타임 재계산
       if (ddayGrid) {
-        const upcoming = items.filter((i) => i.dday >= -1 && i.dday <= 30).slice(0, 6);
+        const upcoming = items
+          .map((i) => ({ ...i, dday: dday(i.date) }))
+          .filter((i) => i.dday >= 0 && i.dday <= 30)
+          .slice(0, 6);
         if (upcoming.length > 0) {
           ddayGrid.innerHTML = upcoming
             .map((item) => {
