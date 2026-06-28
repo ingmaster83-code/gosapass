@@ -290,6 +290,29 @@
       </div>
 {% endif %}
 
+      <!-- 관련 자격증 -->
+{% if related_exams %}
+      <div class="content-section">
+        <h2>관련 자격증</h2>
+        <div class="related-grid">
+{% for rel in related_exams %}
+          <a href="/exam/{{ rel.name }}.html" class="related-card">
+            <div class="related-badges">
+              <span class="cat-badge cat-{{ rel.field_class }}" style="font-size:0.7rem;padding:2px 7px;">{{ rel.series }}</span>
+{% if rel.dday_text %}
+              <span style="font-size:0.75rem;font-weight:700;{% if rel.dday_color == 'color-urgent' %}color:#DC2626;{% elif rel.dday_color == 'color-warning' %}color:#D97706;{% else %}color:var(--primary);{% endif %}">{{ rel.dday_text }}</span>
+{% endif %}
+            </div>
+            <div class="related-name">{{ rel.name }}</div>
+{% if rel.pass_rate %}
+            <div class="related-passrate">실기 합격률 <strong>{{ rel.pass_rate }}%</strong></div>
+{% endif %}
+          </a>
+{% endfor %}
+        </div>
+      </div>
+{% endif %}
+
     </div><!-- /detail-main -->
 
     <!-- ── 사이드바 ── -->
@@ -367,8 +390,8 @@
 {% endif %}
 {% endif %}
         <a href="https://wooagosa.wooahouse.com/" target="_blank" rel="noopener"
-           style="display:block;margin-top:14px;background:#6366F1;color:white;text-align:center;padding:10px;border-radius:var(--radius);font-size:0.875rem;font-weight:600;">
-          📝 인터넷 모의고사 바로가기 →
+           style="display:block;margin-top:14px;background:linear-gradient(135deg,#6366F1 0%,#8B5CF6 100%);color:white;text-align:center;padding:11px 16px;border-radius:var(--radius);font-size:0.875rem;font-weight:700;letter-spacing:0.2px;box-shadow:0 2px 8px rgba(99,102,241,0.35);">
+          ✏️ 인터넷 모의고사 바로가기 →
         </a>
       </div>
 

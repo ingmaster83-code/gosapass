@@ -283,6 +283,76 @@ def compute_transition_rate(stats: dict) -> dict | None:
     return None
 
 
+def precompute_exam_summaries(all_exams: list) -> dict:
+    """jmcd → {pass_rate} 사전 빌드 (관련 자격증 카드용)"""
+    result = {}
+    for exam in all_exams:
+        jmcd = exam["jmcd"]
+        p = DATA_DIR / "stats" / f"{jmcd}.json"
+        pass_rate = None
+        if p.exists():
+            try:
+                d = json.loads(p.read_text(encoding="utf-8"))
+                for row in reversed(d.get("stats", {}).get("practical", [])):
+                    if row.get("passRate", 0) > 0:
+                        pass_rate = row["passRate"]
+                        break
+            except Exception:
+                pass
+        result[jmcd] = {"pass_rate": pass_rate}
+    return result
+
+
+def compute_related_exams(current_exam, all_exams, exam_stats_cache, group_schedule_map, today):
+    """같은 직무분야 자격증 3개, 부족하면 같은 등급으로 채움"""
+    QUAL_GROUP = {
+        "기사":     "기사/산업기사",
+        "산업기사": "기사/산업기사",
+        "기술사":   "기술사",
+        "기능장":   "기능장",
+        "기능사":   "기능사",
+    }
+
+    current_jmcd = current_exam["jmcd"]
+    current_field = current_exam.get("field", "")
+    current_series = current_exam.get("series", "")
+    current_is_sanup = "산업기사" in current_exam["name"]
+    current_eff = "산업기사" if current_is_sanup else current_series
+
+    def effective_series(e):
+        return "산업기사" if "산업기사" in e["name"] else e.get("series", "")
+
+    same_field = [e for e in all_exams
+                  if e.get("field", "") == current_field and e["jmcd"] != current_jmcd]
+    same_level = [e for e in all_exams
+                  if effective_series(e) == current_eff
+                  and e.get("field", "") != current_field
+                  and e["jmcd"] != current_jmcd]
+
+    candidates = same_field[:3]
+    if len(candidates) < 3:
+        candidates += same_level[:3 - len(candidates)]
+    candidates = candidates[:3]
+
+    result = []
+    for e in candidates:
+        jmcd = e["jmcd"]
+        eff = effective_series(e)
+        qual_group = QUAL_GROUP.get(eff, eff)
+        schedule = group_schedule_map.get(qual_group, [])
+        dday = compute_dday(schedule, today)
+        summary = exam_stats_cache.get(jmcd, {})
+        result.append({
+            "name": e["name"],
+            "series": eff,
+            "field_class": get_field_class(e.get("field", "")),
+            "dday_text": dday["dday_text"] if dday else None,
+            "dday_color": dday["color_class"] if dday else None,
+            "pass_rate": summary.get("pass_rate"),
+        })
+    return result
+
+
 def compute_difficulty(stats: dict) -> dict | None:
     practical = stats.get("practical", [])
     written = stats.get("written", [])
@@ -351,7 +421,10 @@ def generate_pages(target_jmcd: str = None, limit: int = None):
     year = today.year
     today_str = today.isoformat()
 
-    exams = exams_data["items"]
+    all_exams = exams_data["items"]
+    exam_stats_cache = precompute_exam_summaries(all_exams)
+
+    exams = all_exams
     if target_jmcd:
         exams = [e for e in exams if e["jmcd"] == target_jmcd]
     if limit:
@@ -410,6 +483,9 @@ def generate_pages(target_jmcd: str = None, limit: int = None):
         # 합격률 트렌드
         trend = compute_pass_trend(stats) if stats else None
 
+        # 관련 자격증 (같은 직무분야 3개)
+        related_exams = compute_related_exams(exam, all_exams, exam_stats_cache, group_schedule_map, today)
+
         # 사이드바 추가 데이터
         exam_rounds = len(schedule) if schedule else 0
 
@@ -454,6 +530,7 @@ def generate_pages(target_jmcd: str = None, limit: int = None):
             "tendency": tendency,
             "transition": transition,
             "trend": trend,
+            "related_exams": related_exams,
         }
 
         # 파일명: 슬래시 등 경로 구분자 제거 (GitHub Pages 지원)
