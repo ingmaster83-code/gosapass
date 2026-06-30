@@ -3,47 +3,16 @@
   "name": "주조기능장",
   "series": "기능장",
   "field": "재료",
-  "updated": "2026-06-23",
+  "updated": "2026-06-30",
   "schedule": [],
   "fee": {
-    "written": "34400",
-    "practical": "24800",
-    "raw": "1차 : 34400, 2차 : 24800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 437,
-        "passers": 390,
-        "passRate": 89.2
-      },
-      {
-        "year": 2022,
-        "applicants": 351,
-        "passers": 282,
-        "passRate": 80.3
-      },
-      {
-        "year": 2023,
-        "applicants": 315,
-        "passers": 274,
-        "passRate": 87.0
-      },
-      {
-        "year": 2024,
-        "applicants": 274,
-        "passers": 234,
-        "passRate": 85.4
-      },
-      {
-        "year": 2025,
-        "applicants": 361,
-        "passers": 280,
-        "passRate": 77.6
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

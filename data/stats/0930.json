@@ -3,27 +3,14 @@
   "name": "수질관리기술사",
   "series": "기술사",
   "field": "환경.에너지",
-  "updated": "2026-06-23",
+  "updated": "2026-06-30",
   "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "- 수질관리에 관한 실무경험, 전문지식 및 응용능력 - 기술사로서의 지도감리·경영관리능력, 자질 및 품위"
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}수질관리기술사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "① 시 행 처 : 한국산업인력공단② 관련학과 : 대학이나 전문대학의 환경공학, 수질폐기물, 환경시스템공학, 환경공업               화학 관련학과③ 시험과목 : 폐수 및 폐기물처리, 토양, 하천 및 해양오염, 기타 환경오염의 현상,               계획 및 관리, 방지에 관한 사항.④ 검정방법   - 필기 : 단답형 및 주관식 논술형(매교시당 100분 총 400분)   - 면접 : 구술형 면접시험(30분 정도)⑤ 합격기준 : 100점 만점에 60점 이상"
-    }
-  ],
+  "info": [],
   "stats": {
     "written": [],
     "practical": []

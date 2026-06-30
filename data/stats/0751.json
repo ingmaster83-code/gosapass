@@ -3,27 +3,14 @@
   "name": "산업위생관리기술사",
   "series": "기술사",
   "field": "안전관리",
-  "updated": "2026-06-23",
+  "updated": "2026-06-30",
   "schedule": [],
   "fee": {
-    "written": "67800",
-    "practical": "87100",
-    "raw": "1차 : 67800, 2차 : 87100"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "- 산업위생관리와 관련된 실무경험, 일반지식, 전문지식 및 응용능력- 기술사로서의 지도감리능력, 자질 및 품위 등을 평가함."
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}산업위생관리기술사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "① 시 행 처 : 한국산업인력공단② 관련학과 : 대학 및 전문대학의 보건관리학, 보건위생학 관련학과③ 시험과목 : 산업위생학, 산업환기, 작업환경측정 및 평가방법, 작업환경 관리에                관한 사항.④ 검정방법    - 필기 : 단답형 및 주관식 논술형(매교시당 100분 총 400분)   - 면접 : 구술형 면접시험(30분 정도)⑤ 합격기준 : 100점 만점에 60점 이상"
-    }
-  ],
+  "info": [],
   "stats": {
     "written": [],
     "practical": []

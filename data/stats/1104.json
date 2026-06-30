@@ -3,91 +3,16 @@
   "name": "금속재료기사",
   "series": "기사",
   "field": "재료",
-  "updated": "2026-06-23",
+  "updated": "2026-06-30",
   "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 복합형(필답형+작업형)으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다.-금속 및 합금에 기계적, 물리적, 화학적 성질의 응용과 개발을 통하여 유용한 형상의 소재 및 제품을 만들고 시험 및검사하는 능력을 평가한다.(공개문제 참조)"
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}금속재료기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 관련학과 : 대학 및 전문대학의 금속재료공학, 신소재공학, 첨단소재공학 관련학과&#9314; 시험과목- 필기 : 1.금속조직학 2. 금속재료학 3.야금공학 4.금속가공학 5.표면공학- 실기 :금속재료 실무&#9315; 검정방법- 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분)- 실기 : 복합형［필답형(1시간30분, 60점)+ 작업형(2시간 정도, 40점)]&#9316; 합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보안전등급(safety Level) : 3 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비연마장비, 충격시험기, 에칭액&middot; 보호구재료시험용 안전복장보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
-    }
-  ],
+  "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 741,
-        "passers": 346,
-        "passRate": 46.7
-      },
-      {
-        "year": 2022,
-        "applicants": 545,
-        "passers": 239,
-        "passRate": 43.9
-      },
-      {
-        "year": 2023,
-        "applicants": 612,
-        "passers": 231,
-        "passRate": 37.7
-      },
-      {
-        "year": 2024,
-        "applicants": 681,
-        "passers": 298,
-        "passRate": 43.8
-      },
-      {
-        "year": 2025,
-        "applicants": 686,
-        "passers": 275,
-        "passRate": 40.1
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 433,
-        "passers": 268,
-        "passRate": 61.9
-      },
-      {
-        "year": 2022,
-        "applicants": 333,
-        "passers": 129,
-        "passRate": 38.7
-      },
-      {
-        "year": 2023,
-        "applicants": 283,
-        "passers": 154,
-        "passRate": 54.4
-      },
-      {
-        "year": 2024,
-        "applicants": 299,
-        "passers": 197,
-        "passRate": 65.9
-      },
-      {
-        "year": 2025,
-        "applicants": 347,
-        "passers": 171,
-        "passRate": 49.3
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

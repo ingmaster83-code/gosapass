@@ -3,47 +3,16 @@
   "name": "건설기계정비기능장",
   "series": "기능장",
   "field": "기계",
-  "updated": "2026-06-23",
+  "updated": "2026-06-30",
   "schedule": [],
   "fee": {
-    "written": "34400",
-    "practical": "100200",
-    "raw": "1차 : 34400, 2차 : 100200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 113,
-        "passers": 14,
-        "passRate": 12.4
-      },
-      {
-        "year": 2022,
-        "applicants": 122,
-        "passers": 17,
-        "passRate": 13.9
-      },
-      {
-        "year": 2023,
-        "applicants": 121,
-        "passers": 54,
-        "passRate": 44.6
-      },
-      {
-        "year": 2024,
-        "applicants": 122,
-        "passers": 27,
-        "passRate": 22.1
-      },
-      {
-        "year": 2025,
-        "applicants": 155,
-        "passers": 45,
-        "passRate": 29.0
-      }
-    ]
+    "practical": []
   }
 }

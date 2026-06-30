@@ -3,78 +3,16 @@
   "name": "3D프린터개발산업기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-06-23",
+  "updated": "2026-06-30",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "96000",
-    "raw": "1차 : 19400, 2차 : 96000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 149,
-        "passers": 85,
-        "passRate": 57.0
-      },
-      {
-        "year": 2022,
-        "applicants": 101,
-        "passers": 46,
-        "passRate": 45.5
-      },
-      {
-        "year": 2023,
-        "applicants": 90,
-        "passers": 50,
-        "passRate": 55.6
-      },
-      {
-        "year": 2024,
-        "applicants": 72,
-        "passers": 39,
-        "passRate": 54.2
-      },
-      {
-        "year": 2025,
-        "applicants": 63,
-        "passers": 38,
-        "passRate": 60.3
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 55,
-        "passers": 26,
-        "passRate": 47.3
-      },
-      {
-        "year": 2022,
-        "applicants": 42,
-        "passers": 13,
-        "passRate": 31.0
-      },
-      {
-        "year": 2023,
-        "applicants": 39,
-        "passers": 15,
-        "passRate": 38.5
-      },
-      {
-        "year": 2024,
-        "applicants": 29,
-        "passers": 5,
-        "passRate": 17.2
-      },
-      {
-        "year": 2025,
-        "applicants": 37,
-        "passers": 9,
-        "passRate": 24.3
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

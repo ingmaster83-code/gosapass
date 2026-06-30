@@ -3,60 +3,16 @@
   "name": "잠수기능장",
   "series": "기능장",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-06-30",
   "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기:(작업형)실무면접, 기압조절실 점검 및 운용, 잠수작업, 지필식 실무평가로 구성"
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}잠수기능장 출제기준입니다.  메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행처: 한국산업인력공단 &#9313; 관련학과: 한국폴리텍대학 강릉캠퍼스 산업잠수과 등 잠수관련학과훈련기관: 협회((사)한국산업잠수기술인협회) 및 사설 학원&#9314; 시험과목 -필기: 해양학 및 물리학, 잠수 생리 및 의학, 잠수장비, 잠수작업, 산업안전에 관한 사항 - 실기: 잠수현장관리 감독 및 잠수작업 실무&#9315; 검정방법 -필기: 객관식 4지택일형 60문항(60분) - 실기: 작업형(5시간 정도)&#9316; 합격기준:  - 필기: 100점을 만점으로 하여 60점 이상 - 실기: 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보 안전등급(safety Level) : 4 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비산업잠수장비, 수중용접기,제압챔버&middot; 보호구용접장갑(수중용)보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
-    }
-  ],
+  "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 21,
-        "passers": 1,
-        "passRate": 4.8
-      },
-      {
-        "year": 2022,
-        "applicants": 15,
-        "passers": 3,
-        "passRate": 20.0
-      },
-      {
-        "year": 2023,
-        "applicants": 8,
-        "passers": 4,
-        "passRate": 50.0
-      },
-      {
-        "year": 2024,
-        "applicants": 12,
-        "passers": 2,
-        "passRate": 16.7
-      },
-      {
-        "year": 2025,
-        "applicants": 11,
-        "passers": 1,
-        "passRate": 9.1
-      }
-    ]
+    "practical": []
   }
 }

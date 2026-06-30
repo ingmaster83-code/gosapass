@@ -3,7 +3,7 @@
   "name": "배관기능장",
   "series": "기능장",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-06-30",
   "schedule": [],
   "fee": {
     "written": "",
@@ -12,69 +12,7 @@
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1549,
-        "passers": 1027,
-        "passRate": 66.3
-      },
-      {
-        "year": 2022,
-        "applicants": 1395,
-        "passers": 915,
-        "passRate": 65.6
-      },
-      {
-        "year": 2023,
-        "applicants": 1324,
-        "passers": 850,
-        "passRate": 64.2
-      },
-      {
-        "year": 2024,
-        "applicants": 1486,
-        "passers": 943,
-        "passRate": 63.5
-      },
-      {
-        "year": 2025,
-        "applicants": 1547,
-        "passers": 912,
-        "passRate": 59.0
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 1446,
-        "passers": 578,
-        "passRate": 40.0
-      },
-      {
-        "year": 2022,
-        "applicants": 1634,
-        "passers": 466,
-        "passRate": 28.5
-      },
-      {
-        "year": 2023,
-        "applicants": 1677,
-        "passers": 536,
-        "passRate": 32.0
-      },
-      {
-        "year": 2024,
-        "applicants": 1593,
-        "passers": 611,
-        "passRate": 38.4
-      },
-      {
-        "year": 2025,
-        "applicants": 1628,
-        "passers": 531,
-        "passRate": 32.6
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

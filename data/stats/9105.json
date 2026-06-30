@@ -3,93 +3,16 @@
   "name": "국제의료관광코디네이터",
   "series": "기사",
   "field": "보건.의료",
-  "updated": "2026-06-23",
-  "schedule": [
-    {
-      "round": "제2회",
-      "written_reg_start": "2026-04-20",
-      "written_reg_end": "2026-04-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-06-10",
-      "prac_reg_start": "2026-06-22",
-      "prac_reg_end": "2026-06-25",
-      "prac_exam_start": "2026-07-18",
-      "prac_exam_end": "2026-08-05",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-06-30",
+  "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "20800",
-    "raw": "1차 : 19400, 2차 : 20800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 251,
-        "passers": 201,
-        "passRate": 80.1
-      },
-      {
-        "year": 2022,
-        "applicants": 237,
-        "passers": 187,
-        "passRate": 78.9
-      },
-      {
-        "year": 2023,
-        "applicants": 124,
-        "passers": 103,
-        "passRate": 83.1
-      },
-      {
-        "year": 2024,
-        "applicants": 185,
-        "passers": 134,
-        "passRate": 72.4
-      },
-      {
-        "year": 2025,
-        "applicants": 195,
-        "passers": 136,
-        "passRate": 69.7
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 214,
-        "passers": 161,
-        "passRate": 75.2
-      },
-      {
-        "year": 2022,
-        "applicants": 171,
-        "passers": 102,
-        "passRate": 59.6
-      },
-      {
-        "year": 2023,
-        "applicants": 120,
-        "passers": 74,
-        "passRate": 61.7
-      },
-      {
-        "year": 2024,
-        "applicants": 132,
-        "passers": 68,
-        "passRate": 51.5
-      },
-      {
-        "year": 2025,
-        "applicants": 141,
-        "passers": 71,
-        "passRate": 50.4
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

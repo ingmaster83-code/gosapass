@@ -3,89 +3,16 @@
   "name": "그린전동자동차기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-06-23",
-  "schedule": [
-    {
-      "round": "제2회",
-      "written_reg_start": "2026-04-20",
-      "written_reg_end": "2026-04-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-06-10",
-      "prac_reg_start": "2026-06-22",
-      "prac_reg_end": "2026-06-25",
-      "prac_exam_start": "2026-07-18",
-      "prac_exam_end": "2026-08-05",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    },
-    {
-      "round": "제3회",
-      "written_reg_start": "2026-07-20",
-      "written_reg_end": "2026-07-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-09-09",
-      "prac_reg_start": "2026-09-21",
-      "prac_reg_end": "2026-09-28",
-      "prac_exam_start": "2026-10-24",
-      "prac_exam_end": "2026-11-13",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-06-30",
+  "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다.자동차, 기계, 전기 등에 대한 지식과 기술을 가지고 전동기를 주동력 또는 보조동력으로 사용하는 자동차 및 그 핵심부품인 전동기, 배터리, 충전기, 전력변환기, 변속기 등을 벤치마킹, 사양선정, 시험제작, 성능평가 및 데이터를 분석하는 직무의 수행능력을 평가함.※ 그린전동자동차기사는 자동차정비기사 (자동차에 관한 지식 및 기능을 가지고 각종 공구 및 기기와 점검 장비를 이용하여 엔진, 섀시, 전기장치 등의 결함이나 고장부위를 진단하여 정비작업 수행)와 달리 '친환경자동차' 연구개발 인력의 효과적인 양성을 목적으로 하는 자격임."
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}그린전동자동차기사 출제기준입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 대학의 그린카 학과, 하이브리드시스템 학과, 하이브리드 자동차과, 자동차공학, 기계공학 관련학과&#9314; 시험과목 - 필기 : 1.그린전동자동차공학 2.그린전동자동차 전동기와 제어기 3.그린전동자동차 배터리  4.그린전동자동차 구동성능 5.그린전동자동차 측정과 시험평가 - 실기 : 그린전동자동차 사양설계 및 성능평가&#9315; 검정방법 - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분)  - 실기 : 필답형(2시간 30분, 100점)&#9316; 합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균60점 이상 - 실기 : 100점을 만점으로 하여 60점 이상"
-    }
-  ],
+  "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 453,
-        "passers": 19,
-        "passRate": 4.2
-      },
-      {
-        "year": 2022,
-        "applicants": 310,
-        "passers": 22,
-        "passRate": 7.1
-      },
-      {
-        "year": 2023,
-        "applicants": 375,
-        "passers": 33,
-        "passRate": 8.8
-      },
-      {
-        "year": 2024,
-        "applicants": 214,
-        "passers": 31,
-        "passRate": 14.5
-      },
-      {
-        "year": 2025,
-        "applicants": 177,
-        "passers": 36,
-        "passRate": 20.3
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

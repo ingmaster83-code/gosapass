@@ -3,47 +3,16 @@
   "name": "미용장",
   "series": "기능장",
   "field": "이용.숙박.여행.오락.스포츠",
-  "updated": "2026-06-23",
+  "updated": "2026-06-30",
   "schedule": [],
   "fee": {
-    "written": "34400",
-    "practical": "29400",
-    "raw": "1차 : 34400, 2차 : 29400"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 263,
-        "passers": 161,
-        "passRate": 61.2
-      },
-      {
-        "year": 2022,
-        "applicants": 285,
-        "passers": 175,
-        "passRate": 61.4
-      },
-      {
-        "year": 2023,
-        "applicants": 290,
-        "passers": 172,
-        "passRate": 59.3
-      },
-      {
-        "year": 2024,
-        "applicants": 290,
-        "passers": 176,
-        "passRate": 60.7
-      },
-      {
-        "year": 2025,
-        "applicants": 277,
-        "passers": 168,
-        "passRate": 60.6
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

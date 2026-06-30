@@ -3,7 +3,7 @@
   "name": "정보관리기술사",
   "series": "기술사",
   "field": "정보통신",
-  "updated": "2026-06-23",
+  "updated": "2026-06-30",
   "schedule": [],
   "fee": {
     "written": "",
@@ -12,38 +12,7 @@
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1092,
-        "passers": 96,
-        "passRate": 8.8
-      },
-      {
-        "year": 2022,
-        "applicants": 1140,
-        "passers": 59,
-        "passRate": 5.2
-      },
-      {
-        "year": 2023,
-        "applicants": 1185,
-        "passers": 50,
-        "passRate": 4.2
-      },
-      {
-        "year": 2024,
-        "applicants": 1534,
-        "passers": 52,
-        "passRate": 3.4
-      },
-      {
-        "year": 2025,
-        "applicants": 1824,
-        "passers": 41,
-        "passRate": 2.2
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

@@ -3,103 +3,16 @@
   "name": "건설안전기술사",
   "series": "기술사",
   "field": "안전관리",
-  "updated": "2026-06-23",
-  "schedule": [
-    {
-      "round": "제138회",
-      "written_reg_start": "2026-01-06",
-      "written_reg_end": "2026-01-09",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-03-25",
-      "prac_reg_start": "2026-03-03",
-      "prac_reg_end": "2026-04-02",
-      "prac_exam_start": "2026-05-02",
-      "prac_exam_end": "2026-05-16",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    },
-    {
-      "round": "제139회",
-      "written_reg_start": "2026-04-13",
-      "written_reg_end": "2026-04-16",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-06-24",
-      "prac_reg_start": "2026-06-08",
-      "prac_reg_end": "2026-07-02",
-      "prac_exam_start": "2026-08-01",
-      "prac_exam_end": "2026-08-15",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    },
-    {
-      "round": "제140회",
-      "written_reg_start": "2026-07-13",
-      "written_reg_end": "2026-07-16",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-10-07",
-      "prac_reg_start": "2026-08-31",
-      "prac_reg_end": "2026-10-15",
-      "prac_exam_start": "2026-11-14",
-      "prac_exam_end": "2026-11-25",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-06-30",
+  "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "- 건설안전에 관한 실무경험, 일반지식, 전문지식 및 응용능력 - 기술사로서의 지도감리·경영관리능력, 지질 및 품위"
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}건설안전기술사 출제기준입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "① 시 행 처 : 한국산업인력공단② 관련학과 : 대학과 전문대학의 산업안전공학 및 건설안전공학, 건축공학 관련학과③ 시험과목 : 산업안전관리론(사고원인분석 및 대책, 방호장치 및 보호구, 안전점검                요령), 산업심리 및 교육(인간공학), 산업안전관계법규, 건설산업의                안전운영에 관한 계획, 관리, 조사, 기타 건설안전에 관한 사항④ 검정방법    - 필기 : 단답형 및 주관식 논술형(매교시당 100분 총 400분)   - 면접 : 구술형 면접시험(30분 정도)⑤ 합격기준 : 100점 만점에 60점 이상."
-    }
-  ],
+  "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 125,
-        "passers": 58,
-        "passRate": 46.4
-      },
-      {
-        "year": 2022,
-        "applicants": 260,
-        "passers": 116,
-        "passRate": 44.6
-      },
-      {
-        "year": 2023,
-        "applicants": 229,
-        "passers": 100,
-        "passRate": 43.7
-      },
-      {
-        "year": 2024,
-        "applicants": 210,
-        "passers": 98,
-        "passRate": 46.7
-      },
-      {
-        "year": 2025,
-        "applicants": 293,
-        "passers": 99,
-        "passRate": 33.8
-      }
-    ]
+    "practical": []
   }
 }

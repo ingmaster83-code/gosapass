@@ -3,47 +3,16 @@
   "name": "금속가공기술사",
   "series": "기술사",
   "field": "재료",
-  "updated": "2026-06-23",
+  "updated": "2026-06-30",
   "schedule": [],
   "fee": {
-    "written": "67800",
-    "practical": "87100",
-    "raw": "1차 : 67800, 2차 : 87100"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 10,
-        "passers": 6,
-        "passRate": 60.0
-      },
-      {
-        "year": 2022,
-        "applicants": 9,
-        "passers": 6,
-        "passRate": 66.7
-      },
-      {
-        "year": 2023,
-        "applicants": 18,
-        "passers": 7,
-        "passRate": 38.9
-      },
-      {
-        "year": 2024,
-        "applicants": 15,
-        "passers": 7,
-        "passRate": 46.7
-      },
-      {
-        "year": 2025,
-        "applicants": 7,
-        "passers": 2,
-        "passRate": 28.6
-      }
-    ]
+    "practical": []
   }
 }

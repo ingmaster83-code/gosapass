@@ -3,78 +3,16 @@
   "name": "농화학기술사",
   "series": "기술사",
   "field": "농림어업",
-  "updated": "2026-06-23",
+  "updated": "2026-06-30",
   "schedule": [],
   "fee": {
-    "written": "67800",
-    "practical": "87100",
-    "raw": "1차 : 67800, 2차 : 87100"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 10,
-        "passers": 3,
-        "passRate": 30.0
-      },
-      {
-        "year": 2022,
-        "applicants": 14,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 12,
-        "passers": 4,
-        "passRate": 33.3
-      },
-      {
-        "year": 2024,
-        "applicants": 18,
-        "passers": 2,
-        "passRate": 11.1
-      },
-      {
-        "year": 2025,
-        "applicants": 19,
-        "passers": 3,
-        "passRate": 15.8
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 9,
-        "passers": 3,
-        "passRate": 33.3
-      },
-      {
-        "year": 2022,
-        "applicants": 1,
-        "passers": 1,
-        "passRate": 100.0
-      },
-      {
-        "year": 2023,
-        "applicants": 4,
-        "passers": 2,
-        "passRate": 50.0
-      },
-      {
-        "year": 2024,
-        "applicants": 4,
-        "passers": 3,
-        "passRate": 75.0
-      },
-      {
-        "year": 2025,
-        "applicants": 3,
-        "passers": 3,
-        "passRate": 100.0
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

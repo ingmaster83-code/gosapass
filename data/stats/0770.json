@@ -3,78 +3,16 @@
   "name": "품질관리기술사",
   "series": "기술사",
   "field": "경영.회계.사무",
-  "updated": "2026-06-23",
+  "updated": "2026-06-30",
   "schedule": [],
   "fee": {
-    "written": "67800",
-    "practical": "87100",
-    "raw": "1차 : 67800, 2차 : 87100"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 155,
-        "passers": 73,
-        "passRate": 47.1
-      },
-      {
-        "year": 2022,
-        "applicants": 130,
-        "passers": 36,
-        "passRate": 27.7
-      },
-      {
-        "year": 2023,
-        "applicants": 147,
-        "passers": 38,
-        "passRate": 25.9
-      },
-      {
-        "year": 2024,
-        "applicants": 178,
-        "passers": 38,
-        "passRate": 21.3
-      },
-      {
-        "year": 2025,
-        "applicants": 157,
-        "passers": 31,
-        "passRate": 19.7
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 97,
-        "passers": 39,
-        "passRate": 40.2
-      },
-      {
-        "year": 2022,
-        "applicants": 94,
-        "passers": 40,
-        "passRate": 42.6
-      },
-      {
-        "year": 2023,
-        "applicants": 96,
-        "passers": 42,
-        "passRate": 43.8
-      },
-      {
-        "year": 2024,
-        "applicants": 77,
-        "passers": 29,
-        "passRate": 37.7
-      },
-      {
-        "year": 2025,
-        "applicants": 77,
-        "passers": 27,
-        "passRate": 35.1
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

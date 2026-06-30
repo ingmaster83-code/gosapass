@@ -3,78 +3,16 @@
   "name": "축산기술사",
   "series": "기술사",
   "field": "농림어업",
-  "updated": "2026-06-23",
+  "updated": "2026-06-30",
   "schedule": [],
   "fee": {
-    "written": "67800",
-    "practical": "87100",
-    "raw": "1차 : 67800, 2차 : 87100"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 24,
-        "passers": 3,
-        "passRate": 12.5
-      },
-      {
-        "year": 2022,
-        "applicants": 18,
-        "passers": 5,
-        "passRate": 27.8
-      },
-      {
-        "year": 2023,
-        "applicants": 14,
-        "passers": 3,
-        "passRate": 21.4
-      },
-      {
-        "year": 2024,
-        "applicants": 11,
-        "passers": 1,
-        "passRate": 9.1
-      },
-      {
-        "year": 2025,
-        "applicants": 20,
-        "passers": 7,
-        "passRate": 35.0
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 5,
-        "passers": 4,
-        "passRate": 80.0
-      },
-      {
-        "year": 2022,
-        "applicants": 5,
-        "passers": 3,
-        "passRate": 60.0
-      },
-      {
-        "year": 2023,
-        "applicants": 5,
-        "passers": 3,
-        "passRate": 60.0
-      },
-      {
-        "year": 2024,
-        "applicants": 3,
-        "passers": 1,
-        "passRate": 33.3
-      },
-      {
-        "year": 2025,
-        "applicants": 8,
-        "passers": 4,
-        "passRate": 50.0
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

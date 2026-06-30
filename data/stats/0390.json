@@ -3,56 +3,16 @@
   "name": "토질및기초기술사",
   "series": "기술사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-06-30",
   "schedule": [],
   "fee": {
-    "written": "67800",
-    "practical": "87100",
-    "raw": "1차 : 67800, 2차 : 87100"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
-  "info": [
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}토질및기초기술사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "① 시 행 처 : 한국산업인력공단② 관련학과 : 대학 및 전문대학의 토목공학, 지질공학 관련학과③ 시험과목   - 토질, 토질구조물 및 기초, 기타 토질과 기초에 관한 사항④ 검정방법   - 필기 : 단답형 및 주관식 논술형(매교시당 100분, 총 400분)   - 면접 : 구술형 면접시험(30분 정도)⑤ 합격기준   - 전과목 평균 60점 이상 득점자"
-    }
-  ],
+  "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 106,
-        "passers": 61,
-        "passRate": 57.5
-      },
-      {
-        "year": 2022,
-        "applicants": 81,
-        "passers": 48,
-        "passRate": 59.3
-      },
-      {
-        "year": 2023,
-        "applicants": 62,
-        "passers": 39,
-        "passRate": 62.9
-      },
-      {
-        "year": 2024,
-        "applicants": 121,
-        "passers": 62,
-        "passRate": 51.2
-      },
-      {
-        "year": 2025,
-        "applicants": 170,
-        "passers": 79,
-        "passRate": 46.5
-      }
-    ]
+    "practical": []
   }
 }

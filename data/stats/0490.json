@@ -3,78 +3,16 @@
   "name": "건축구조기술사",
   "series": "기술사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-06-30",
   "schedule": [],
   "fee": {
-    "written": "67800",
-    "practical": "87100",
-    "raw": "1차 : 67800, 2차 : 87100"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1025,
-        "passers": 60,
-        "passRate": 5.9
-      },
-      {
-        "year": 2022,
-        "applicants": 996,
-        "passers": 75,
-        "passRate": 7.5
-      },
-      {
-        "year": 2023,
-        "applicants": 1145,
-        "passers": 21,
-        "passRate": 1.8
-      },
-      {
-        "year": 2024,
-        "applicants": 1268,
-        "passers": 50,
-        "passRate": 3.9
-      },
-      {
-        "year": 2025,
-        "applicants": 1294,
-        "passers": 31,
-        "passRate": 2.4
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 83,
-        "passers": 48,
-        "passRate": 57.8
-      },
-      {
-        "year": 2022,
-        "applicants": 139,
-        "passers": 69,
-        "passRate": 49.6
-      },
-      {
-        "year": 2023,
-        "applicants": 63,
-        "passers": 29,
-        "passRate": 46.0
-      },
-      {
-        "year": 2024,
-        "applicants": 75,
-        "passers": 39,
-        "passRate": 52.0
-      },
-      {
-        "year": 2025,
-        "applicants": 86,
-        "passers": 44,
-        "passRate": 51.2
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

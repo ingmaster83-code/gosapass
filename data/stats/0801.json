@@ -3,76 +3,16 @@
   "name": "산림기술사",
   "series": "기술사",
   "field": "농림어업",
-  "updated": "2026-06-23",
-  "schedule": [
-    {
-      "round": "제138회",
-      "written_reg_start": "2026-01-06",
-      "written_reg_end": "2026-01-09",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-03-25",
-      "prac_reg_start": "2026-03-03",
-      "prac_reg_end": "2026-04-02",
-      "prac_exam_start": "2026-05-02",
-      "prac_exam_end": "2026-05-16",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    },
-    {
-      "round": "제140회",
-      "written_reg_start": "2026-07-13",
-      "written_reg_end": "2026-07-16",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-10-07",
-      "prac_reg_start": "2026-08-31",
-      "prac_reg_end": "2026-10-15",
-      "prac_exam_start": "2026-11-14",
-      "prac_exam_end": "2026-11-25",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-06-30",
+  "schedule": [],
   "fee": {
-    "written": "67800",
-    "practical": "87100",
-    "raw": "1차 : 67800, 2차 : 87100"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 129,
-        "passers": 2,
-        "passRate": 1.6
-      },
-      {
-        "year": 2022,
-        "applicants": 119,
-        "passers": 3,
-        "passRate": 2.5
-      },
-      {
-        "year": 2023,
-        "applicants": 151,
-        "passers": 9,
-        "passRate": 6.0
-      },
-      {
-        "year": 2024,
-        "applicants": 141,
-        "passers": 5,
-        "passRate": 3.5
-      },
-      {
-        "year": 2025,
-        "applicants": 159,
-        "passers": 11,
-        "passRate": 6.9
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

@@ -3,7 +3,7 @@
   "name": "차량기술사",
   "series": "기술사",
   "field": "기계",
-  "updated": "2026-06-23",
+  "updated": "2026-06-30",
   "schedule": [],
   "fee": {
     "written": "",
@@ -13,37 +13,6 @@
   "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 36,
-        "passers": 14,
-        "passRate": 38.9
-      },
-      {
-        "year": 2022,
-        "applicants": 24,
-        "passers": 4,
-        "passRate": 16.7
-      },
-      {
-        "year": 2023,
-        "applicants": 39,
-        "passers": 10,
-        "passRate": 25.6
-      },
-      {
-        "year": 2024,
-        "applicants": 34,
-        "passers": 12,
-        "passRate": 35.3
-      },
-      {
-        "year": 2025,
-        "applicants": 33,
-        "passers": 6,
-        "passRate": 18.2
-      }
-    ]
+    "practical": []
   }
 }

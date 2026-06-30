@@ -3,75 +3,16 @@
   "name": "화공기술사",
   "series": "기술사",
   "field": "화학",
-  "updated": "2026-06-23",
-  "schedule": [
-    {
-      "round": "제139회",
-      "written_reg_start": "2026-04-13",
-      "written_reg_end": "2026-04-16",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-06-24",
-      "prac_reg_start": "2026-06-08",
-      "prac_reg_end": "2026-07-02",
-      "prac_exam_start": "2026-08-01",
-      "prac_exam_end": "2026-08-15",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-06-30",
+  "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "- 해당종목과 관련된 실무경험, 일반지식, 전문지식 및 응용능력- 기술사로서의 경영관리, 지도감리능력, 자질 등"
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}화공기술사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "① 시 행 처 : 한국산업인력공단② 관련학과 : 대학의 화학공학, 화학공정 등 관련학과③ 시험과목    - 유기.무기화합물, 고분자제품, 정밀화학제품 등을 생산하는 각종 화학설비 및 화학공장설립에 따른 사업계획, 사업성검토, 설계, 구매, 조달, 검사, 건설, 공정묘사(Process Simulation),공장설립에 관한 인.허가업무, 관련 법률, 엔지니어링 문서해석 및 안전관련 사항④ 검정방법   - 필기 : 단답형 및 주관식 논술형(매교시당100분, 총 400분)   - 면접 : 구술형 면접(30분정도)⑤ 합격기준   - 필기·면접 : 100점을 만점으로 하여 60점 이상"
-    }
-  ],
+  "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 40,
-        "passers": 6,
-        "passRate": 15.0
-      },
-      {
-        "year": 2022,
-        "applicants": 32,
-        "passers": 13,
-        "passRate": 40.6
-      },
-      {
-        "year": 2023,
-        "applicants": 47,
-        "passers": 11,
-        "passRate": 23.4
-      },
-      {
-        "year": 2024,
-        "applicants": 42,
-        "passers": 7,
-        "passRate": 16.7
-      },
-      {
-        "year": 2025,
-        "applicants": 39,
-        "passers": 5,
-        "passRate": 12.8
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

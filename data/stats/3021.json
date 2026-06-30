@@ -3,78 +3,16 @@
   "name": "기계가공기능장",
   "series": "기능장",
   "field": "기계",
-  "updated": "2026-06-23",
+  "updated": "2026-06-30",
   "schedule": [],
   "fee": {
-    "written": "34400",
-    "practical": "82400",
-    "raw": "1차 : 34400, 2차 : 82400"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 421,
-        "passers": 230,
-        "passRate": 54.6
-      },
-      {
-        "year": 2022,
-        "applicants": 412,
-        "passers": 218,
-        "passRate": 52.9
-      },
-      {
-        "year": 2023,
-        "applicants": 632,
-        "passers": 311,
-        "passRate": 49.2
-      },
-      {
-        "year": 2024,
-        "applicants": 546,
-        "passers": 281,
-        "passRate": 51.5
-      },
-      {
-        "year": 2025,
-        "applicants": 505,
-        "passers": 240,
-        "passRate": 47.5
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 283,
-        "passers": 114,
-        "passRate": 40.3
-      },
-      {
-        "year": 2022,
-        "applicants": 347,
-        "passers": 148,
-        "passRate": 42.7
-      },
-      {
-        "year": 2023,
-        "applicants": 379,
-        "passers": 193,
-        "passRate": 50.9
-      },
-      {
-        "year": 2024,
-        "applicants": 345,
-        "passers": 164,
-        "passRate": 47.5
-      },
-      {
-        "year": 2025,
-        "applicants": 339,
-        "passers": 165,
-        "passRate": 48.7
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

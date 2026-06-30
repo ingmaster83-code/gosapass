@@ -3,62 +3,16 @@
   "name": "산업기계설비기술사",
   "series": "기술사",
   "field": "기계",
-  "updated": "2026-06-23",
-  "schedule": [
-    {
-      "round": "제138회",
-      "written_reg_start": "2026-01-06",
-      "written_reg_end": "2026-01-09",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-03-25",
-      "prac_reg_start": "2026-03-03",
-      "prac_reg_end": "2026-04-02",
-      "prac_exam_start": "2026-05-02",
-      "prac_exam_end": "2026-05-16",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-06-30",
+  "schedule": [],
   "fee": {
-    "written": "67800",
-    "practical": "87100",
-    "raw": "1차 : 67800, 2차 : 87100"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 39,
-        "passers": 8,
-        "passRate": 20.5
-      },
-      {
-        "year": 2022,
-        "applicants": 35,
-        "passers": 8,
-        "passRate": 22.9
-      },
-      {
-        "year": 2023,
-        "applicants": 36,
-        "passers": 4,
-        "passRate": 11.1
-      },
-      {
-        "year": 2024,
-        "applicants": 31,
-        "passers": 13,
-        "passRate": 41.9
-      },
-      {
-        "year": 2025,
-        "applicants": 28,
-        "passers": 13,
-        "passRate": 46.4
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

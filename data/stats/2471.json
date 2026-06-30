@@ -3,78 +3,16 @@
   "name": "가스산업기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-06-23",
+  "updated": "2026-06-30",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "24100",
-    "raw": "1차 : 19400, 2차 : 24100"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 7280,
-        "passers": 1875,
-        "passRate": 25.8
-      },
-      {
-        "year": 2022,
-        "applicants": 7082,
-        "passers": 1508,
-        "passRate": 21.3
-      },
-      {
-        "year": 2023,
-        "applicants": 6542,
-        "passers": 2315,
-        "passRate": 35.4
-      },
-      {
-        "year": 2024,
-        "applicants": 5511,
-        "passers": 1748,
-        "passRate": 31.7
-      },
-      {
-        "year": 2025,
-        "applicants": 5405,
-        "passers": 1661,
-        "passRate": 30.7
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 3253,
-        "passers": 981,
-        "passRate": 30.2
-      },
-      {
-        "year": 2022,
-        "applicants": 2582,
-        "passers": 548,
-        "passRate": 21.2
-      },
-      {
-        "year": 2023,
-        "applicants": 2992,
-        "passers": 953,
-        "passRate": 31.9
-      },
-      {
-        "year": 2024,
-        "applicants": 3106,
-        "passers": 704,
-        "passRate": 22.7
-      },
-      {
-        "year": 2025,
-        "applicants": 2927,
-        "passers": 890,
-        "passRate": 30.4
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

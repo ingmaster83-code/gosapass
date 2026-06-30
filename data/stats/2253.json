@@ -3,47 +3,16 @@
   "name": "건축목공산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-06-30",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "60200",
-    "raw": "1차 : 19400, 2차 : 60200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 59,
-        "passers": 34,
-        "passRate": 57.6
-      },
-      {
-        "year": 2022,
-        "applicants": 66,
-        "passers": 44,
-        "passRate": 66.7
-      },
-      {
-        "year": 2023,
-        "applicants": 65,
-        "passers": 30,
-        "passRate": 46.2
-      },
-      {
-        "year": 2024,
-        "applicants": 62,
-        "passers": 40,
-        "passRate": 64.5
-      },
-      {
-        "year": 2025,
-        "applicants": 69,
-        "passers": 45,
-        "passRate": 65.2
-      }
-    ]
+    "practical": []
   }
 }
