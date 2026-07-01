@@ -3,78 +3,16 @@
   "name": "조경기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "46700",
-    "raw": "1차 : 19400, 2차 : 46700"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 4923,
-        "passers": 1008,
-        "passRate": 20.5
-      },
-      {
-        "year": 2022,
-        "applicants": 4516,
-        "passers": 1202,
-        "passRate": 26.6
-      },
-      {
-        "year": 2023,
-        "applicants": 5073,
-        "passers": 1118,
-        "passRate": 22.0
-      },
-      {
-        "year": 2024,
-        "applicants": 4991,
-        "passers": 1344,
-        "passRate": 26.9
-      },
-      {
-        "year": 2025,
-        "applicants": 5357,
-        "passers": 1121,
-        "passRate": 20.9
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 1694,
-        "passers": 730,
-        "passRate": 43.1
-      },
-      {
-        "year": 2022,
-        "applicants": 2035,
-        "passers": 864,
-        "passRate": 42.5
-      },
-      {
-        "year": 2023,
-        "applicants": 1991,
-        "passers": 652,
-        "passRate": 32.7
-      },
-      {
-        "year": 2024,
-        "applicants": 2382,
-        "passers": 1123,
-        "passRate": 47.1
-      },
-      {
-        "year": 2025,
-        "applicants": 1739,
-        "passers": 662,
-        "passRate": 38.1
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

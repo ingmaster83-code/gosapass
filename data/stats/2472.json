@@ -3,91 +3,16 @@
   "name": "산업위생관리산업기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}산업위생관리산업기사 출제기준입니다.  메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 관련학과 : 대학 및 전문대학의 보건관리학, 보건위생학 관련학과&#9314; 시험과목- 필기 : 1. 산업위생학 개론 2. 작업환경측정 및 평가 3. 작업환경관리 4. 산업환기- 실기 : 작업환경관리 실무&#9315; 검정방법- 필기 : 객관식 4지 택일형 과목당 20문항(과목당 30분)- 실기 : 필답형(2시간 30분, 100점)&#9316; 합격기준- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상"
-    }
-  ],
+  "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 2032,
-        "passers": 743,
-        "passRate": 36.6
-      },
-      {
-        "year": 2022,
-        "applicants": 2168,
-        "passers": 732,
-        "passRate": 33.8
-      },
-      {
-        "year": 2023,
-        "applicants": 2445,
-        "passers": 868,
-        "passRate": 35.5
-      },
-      {
-        "year": 2024,
-        "applicants": 2144,
-        "passers": 791,
-        "passRate": 36.9
-      },
-      {
-        "year": 2025,
-        "applicants": 1841,
-        "passers": 631,
-        "passRate": 34.3
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 890,
-        "passers": 514,
-        "passRate": 57.8
-      },
-      {
-        "year": 2022,
-        "applicants": 902,
-        "passers": 555,
-        "passRate": 61.5
-      },
-      {
-        "year": 2023,
-        "applicants": 930,
-        "passers": 571,
-        "passRate": 61.4
-      },
-      {
-        "year": 2024,
-        "applicants": 1081,
-        "passers": 458,
-        "passRate": 42.4
-      },
-      {
-        "year": 2025,
-        "applicants": 881,
-        "passers": 498,
-        "passRate": 56.5
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

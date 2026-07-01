@@ -3,47 +3,16 @@
   "name": "식품안전기사",
   "series": "기사",
   "field": "식품.가공",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 7032,
-        "passers": 1264,
-        "passRate": 18.0
-      },
-      {
-        "year": 2022,
-        "applicants": 5661,
-        "passers": 1919,
-        "passRate": 33.9
-      },
-      {
-        "year": 2023,
-        "applicants": 5517,
-        "passers": 1469,
-        "passRate": 26.6
-      },
-      {
-        "year": 2024,
-        "applicants": 6869,
-        "passers": 1255,
-        "passRate": 18.3
-      },
-      {
-        "year": 2025,
-        "applicants": 6143,
-        "passers": 1604,
-        "passRate": 26.1
-      }
-    ]
+    "practical": []
   }
 }

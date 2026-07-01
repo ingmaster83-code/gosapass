@@ -3,47 +3,16 @@
   "name": "방사선비파괴검사기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "41900",
-    "raw": "1차 : 19400, 2차 : 41900"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 402,
-        "passers": 163,
-        "passRate": 40.5
-      },
-      {
-        "year": 2022,
-        "applicants": 376,
-        "passers": 162,
-        "passRate": 43.1
-      },
-      {
-        "year": 2023,
-        "applicants": 364,
-        "passers": 144,
-        "passRate": 39.6
-      },
-      {
-        "year": 2024,
-        "applicants": 330,
-        "passers": 129,
-        "passRate": 39.1
-      },
-      {
-        "year": 2025,
-        "applicants": 333,
-        "passers": 118,
-        "passRate": 35.4
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

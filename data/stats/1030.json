@@ -3,75 +3,16 @@
   "name": "철도차량기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-06-23",
-  "schedule": [
-    {
-      "round": "제2회",
-      "written_reg_start": "2026-04-20",
-      "written_reg_end": "2026-04-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-06-10",
-      "prac_reg_start": "2026-06-22",
-      "prac_reg_end": "2026-06-25",
-      "prac_exam_start": "2026-07-18",
-      "prac_exam_end": "2026-08-05",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-07-01",
+  "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}철도차량기사 출제기준 입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 관련학과 : 대학 및 전문대학의 철도, 철도시스템, 철도차량, 철도공학 관련학과&#9314; 시험과목  - 필기 : 1.철도차량설계 2.철도차량구조 3.철도차량제어 4.철도차량 검사 및 시험  - 실기 : 철도차량 설계 및 검사 실무&#9315; 검정방법  - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분)  - 실기 : 필답형(2시간 30분, 100점) &#9316; 합격기준  - 필기 : 100점을 만점으로 하여 과목당 40점이상, 전과목 평균 60점이상  - 실기 : 100점을 만점으로 하여 60점이상"
-    }
-  ],
+  "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 4,
-        "passers": 1,
-        "passRate": 25.0
-      },
-      {
-        "year": 2022,
-        "applicants": 4,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 14,
-        "passers": 2,
-        "passRate": 14.3
-      },
-      {
-        "year": 2024,
-        "applicants": 9,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2025,
-        "applicants": 24,
-        "passers": 0,
-        "passRate": 0.0
-      }
-    ]
+    "practical": []
   }
 }

@@ -15,7 +15,27 @@
   <!-- JSON-LD 구조화 데이터 -->
 
   <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"Event","name":"유기농업산업기사 필기시험 2026 제1회","startDate":"2026-01-30","endDate":"2026-01-30","location":{"@type":"Place","name":"전국 시험장"},"organizer":{"@type":"Organization","name":"한국산업인력공단"}}
+  </script>
+
+  <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"Event","name":"유기농업산업기사 실기시험 2026 제1회","startDate":"2026-04-18","endDate":"2026-05-06","location":{"@type":"Place","name":"전국 시험장"},"organizer":{"@type":"Organization","name":"한국산업인력공단"}}
+  </script>
+
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"Event","name":"유기농업산업기사 필기시험 2026 제2회","startDate":"2026-05-09","endDate":"2026-05-09","location":{"@type":"Place","name":"전국 시험장"},"organizer":{"@type":"Organization","name":"한국산업인력공단"}}
+  </script>
+
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"Event","name":"유기농업산업기사 실기시험 2026 제2회","startDate":"2026-07-18","endDate":"2026-08-05","location":{"@type":"Place","name":"전국 시험장"},"organizer":{"@type":"Organization","name":"한국산업인력공단"}}
+  </script>
+
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"Event","name":"유기농업산업기사 필기시험 2026 제3회","startDate":"2026-08-07","endDate":"2026-08-07","location":{"@type":"Place","name":"전국 시험장"},"organizer":{"@type":"Organization","name":"한국산업인력공단"}}
+  </script>
+
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"Event","name":"유기농업산업기사 실기시험 2026 제3회","startDate":"2026-10-24","endDate":"2026-11-13","location":{"@type":"Place","name":"전국 시험장"},"organizer":{"@type":"Organization","name":"한국산업인력공단"}}
   </script>
 
 
@@ -66,6 +86,19 @@
 </div>
 
 <!-- ===== D-Day Banner ===== -->
+
+<div id="dday-banner"
+     class="dday-banner color-normal"
+     data-start="2026-07-18"
+     data-end="2026-07-18"
+     data-event-label="제2회 실기시험"
+     data-next-label=""
+     data-next-date="">
+  <div class="banner-label">제2회 실기시험</div>
+  <div class="banner-dday">D-17</div>
+  <div class="banner-desc">2026-07-18</div>
+  <div class="banner-next"></div>
+</div>
 
 
 <!-- ===== Main Content ===== -->
@@ -119,11 +152,31 @@
               <tr>
                 <td class="td-round">제1회</td>
                 <td><span class="date-chip done">01-12~01-15</span></td>
-                <td>-</td>
+                <td><span class="date-chip done">01-30</span></td>
                 <td><span class="date-chip done">03-11</span></td>
                 <td><span class="date-chip done">03-23~03-26</span></td>
                 <td><span class="date-chip done">04-18~05-06</span></td>
-                <td>-</td>
+                <td><span class="date-chip done">06-05</span></td>
+              </tr>
+
+              <tr style="background:#F0FDF4;">
+                <td class="td-round">제2회</td>
+                <td><span class="date-chip done">04-20~04-23</span></td>
+                <td><span class="date-chip done">05-09</span></td>
+                <td><span class="date-chip done">06-10</span></td>
+                <td><span class="date-chip done">06-22~06-25</span></td>
+                <td><span class="date-chip">07-18~08-05</span></td>
+                <td><span class="date-chip">09-04</span></td>
+              </tr>
+
+              <tr>
+                <td class="td-round">제3회</td>
+                <td><span class="date-chip">07-20~07-23</span></td>
+                <td><span class="date-chip">08-07</span></td>
+                <td><span class="date-chip">09-09</span></td>
+                <td><span class="date-chip">09-21~09-23</span></td>
+                <td><span class="date-chip">10-24~11-13</span></td>
+                <td><span class="date-chip">12-11</span></td>
               </tr>
 
             </tbody>
@@ -147,35 +200,6 @@
 
       <!-- 합격률 차트 -->
 
-      <div class="content-section">
-        <h2>연도별 합격률</h2>
-        <div class="chart-grid">
-          <div class="chart-box">
-            <h3>필기 합격률</h3>
-            <div class="chart-wrap">
-              <canvas id="writtenChart"></canvas>
-            </div>
-          </div>
-          <div class="chart-box">
-            <h3>실기 합격률</h3>
-            <div class="chart-wrap">
-              <canvas id="practicalChart"></canvas>
-            </div>
-          </div>
-        </div>
-
-        <div class="ad-wrap" style="margin-top:24px;">
-            <div class="ad-block ad-leaderboard">728 × 90 광고 영역</div>
-        </div>
-      </div>
-
-      <div class="content-section">
-        <h2>연도별 응시자수 추이</h2>
-        <div class="chart-wrap-wide">
-          <canvas id="applicantsChart"></canvas>
-        </div>
-      </div>
-
 
       <!-- 난이도 -->
 
@@ -190,7 +214,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-agri" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-2</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-1</span>
 
             </div>
             <div class="related-name">농화학기술사</div>
@@ -201,7 +225,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-agri" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-2</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-1</span>
 
             </div>
             <div class="related-name">산림기술사</div>
@@ -212,7 +236,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-agri" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-2</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-1</span>
 
             </div>
             <div class="related-name">수산양식기술사</div>
@@ -249,29 +273,11 @@
 
         <div class="info-row">
           <span class="info-label">연간 시험</span>
-          <span class="info-value">연 1회</span>
-        </div>
-
-
-        <div class="info-row">
-          <span class="info-label">최근 응시자</span>
-          <span class="info-value">41명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
-        </div>
-
-
-        <div class="info-row">
-          <span class="info-label">최근 합격자</span>
-          <span class="info-value">30명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+          <span class="info-value">연 3회</span>
         </div>
 
 
 
-
-
-        <div class="info-row">
-          <span class="info-label">실기 합격률 추이</span>
-          <span class="info-value" style="font-size:0.8125rem;color:#16A34A;">↑ 38.1%p 상승</span>
-        </div>
 
 
         <a href="https://wooagosa.wooahouse.com/" target="_blank" rel="noopener"
@@ -281,6 +287,19 @@
       </div>
 
       <!-- 현재 진행 상황 -->
+
+      <div class="info-card" style="border-color:#BBF7D0;background:var(--success-light);">
+        <h3 style="color:var(--success);">현재 일정</h3>
+        <div style="font-size:0.875rem;line-height:1.7;">
+          <div style="font-weight:700;color:var(--success);margin-bottom:6px;">🟢 제2회 실기시험</div>
+          <div style="color:var(--text-secondary);">2026-07-18</div>
+
+        </div>
+        <a href="https://www.q-net.or.kr"
+           style="display:block;margin-top:14px;background:var(--success);color:white;text-align:center;padding:10px;border-radius:var(--radius);font-size:0.875rem;font-weight:600;">
+          큐넷에서 접수하기 →
+        </a>
+      </div>
 
 
       <!-- 사이드바 광고 -->
@@ -325,13 +344,6 @@
   </div>
 </footer>
 
-
-<!-- 차트 데이터 -->
-<script id="stats-data" type="application/json">
-[{"year": 2021, "practicalApplicants": 56, "practicalPassRate": 26.8, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2022, "practicalApplicants": 40, "practicalPassRate": 55.0, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2023, "practicalApplicants": 37, "practicalPassRate": 35.1, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2024, "practicalApplicants": 39, "practicalPassRate": 71.8, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2025, "practicalApplicants": 41, "practicalPassRate": 73.2, "writtenApplicants": 0, "writtenPassRate": 0}]
-</script>
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script src="/js/detail.js?v=2"></script>
 
 
 </body>

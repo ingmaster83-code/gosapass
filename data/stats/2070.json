@@ -3,60 +3,16 @@
   "name": "자동차정비산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "58200",
-    "raw": "1차 : 19400, 2차 : 58200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 작업형 실기시험(공개문제 참조)자동차정비 및 검사에 관한 지식 및 기능을 가지고 작업현장의 지도, 경영층과 정비 생산계층을 유기적으로 결합시켜주는 중간관리자로서의 역할과 각종 공구 및 기기와 점검장비를 이용하여 엔진, 섀시, 전기장치 등의 결함이나 고장 부위를 진단, 정비, 검사하고 안전사항 등을 준수하는직무 수행능력을 평가"
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}자동차정비산업기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 대학 및 전문대학의 자동차과, 자동차공학관련학과 &#9314; 시험과목- 필기 : 1.자동차 엔진정비 2.자동차 섀시정비 3.자동차 전기&middot;전자장치정비 4.친환경 자동차정비 - 실기 : 자동차정비 작업&#9315; 검정방법  - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분)  - 실기 : 작업형(5시간 30분 정도, 100점) &#9316; 합격기준  - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상  - 실기 : 100점을 만점으로 하여 60점 이상  작업형 실기시험 기본정보 안전등급(safety Level) : 4 등급▼위험경고주의관심&middot; 시험장소 구분실내 &middot; 외&middot; 주요시설 및 장비자동차, 엔진, 검사기기, 각종 수공구 등&middot; 보호구정비작업에 위해가 없는 복장보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
-    }
-  ],
+  "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 8806,
-        "passers": 2116,
-        "passRate": 24.0
-      },
-      {
-        "year": 2022,
-        "applicants": 7560,
-        "passers": 1097,
-        "passRate": 14.5
-      },
-      {
-        "year": 2023,
-        "applicants": 6055,
-        "passers": 1714,
-        "passRate": 28.3
-      },
-      {
-        "year": 2024,
-        "applicants": 5753,
-        "passers": 1725,
-        "passRate": 30.0
-      },
-      {
-        "year": 2025,
-        "applicants": 5974,
-        "passers": 2124,
-        "passRate": 35.6
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

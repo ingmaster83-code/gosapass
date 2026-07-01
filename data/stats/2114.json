@@ -3,78 +3,16 @@
   "name": "신재생에너지발전설비산업기사(태양광)",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "20800",
-    "raw": "1차 : 19400, 2차 : 20800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1943,
-        "passers": 867,
-        "passRate": 44.6
-      },
-      {
-        "year": 2022,
-        "applicants": 1545,
-        "passers": 483,
-        "passRate": 31.3
-      },
-      {
-        "year": 2023,
-        "applicants": 1595,
-        "passers": 502,
-        "passRate": 31.5
-      },
-      {
-        "year": 2024,
-        "applicants": 1539,
-        "passers": 456,
-        "passRate": 29.6
-      },
-      {
-        "year": 2025,
-        "applicants": 1648,
-        "passers": 445,
-        "passRate": 27.0
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 1626,
-        "passers": 280,
-        "passRate": 17.2
-      },
-      {
-        "year": 2022,
-        "applicants": 1151,
-        "passers": 250,
-        "passRate": 21.7
-      },
-      {
-        "year": 2023,
-        "applicants": 1030,
-        "passers": 306,
-        "passRate": 29.7
-      },
-      {
-        "year": 2024,
-        "applicants": 902,
-        "passers": 309,
-        "passRate": 34.3
-      },
-      {
-        "year": 2025,
-        "applicants": 777,
-        "passers": 278,
-        "passRate": 35.8
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

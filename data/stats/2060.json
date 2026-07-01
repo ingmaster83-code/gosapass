@@ -3,78 +3,16 @@
   "name": "메카트로닉스산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "18000",
-    "practical": "75200",
-    "raw": "1차 : 18000, 2차 : 75200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1419,
-        "passers": 342,
-        "passRate": 24.1
-      },
-      {
-        "year": 2022,
-        "applicants": 1544,
-        "passers": 643,
-        "passRate": 41.6
-      },
-      {
-        "year": 2023,
-        "applicants": 1334,
-        "passers": 714,
-        "passRate": 53.5
-      },
-      {
-        "year": 2024,
-        "applicants": 1603,
-        "passers": 822,
-        "passRate": 51.3
-      },
-      {
-        "year": 2025,
-        "applicants": 1254,
-        "passers": 513,
-        "passRate": 40.9
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 378,
-        "passers": 226,
-        "passRate": 59.8
-      },
-      {
-        "year": 2022,
-        "applicants": 621,
-        "passers": 355,
-        "passRate": 57.2
-      },
-      {
-        "year": 2023,
-        "applicants": 812,
-        "passers": 453,
-        "passRate": 55.8
-      },
-      {
-        "year": 2024,
-        "applicants": 843,
-        "passers": 383,
-        "passRate": 45.4
-      },
-      {
-        "year": 2025,
-        "applicants": 667,
-        "passers": 445,
-        "passRate": 66.7
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

@@ -3,60 +3,16 @@
   "name": "조선의장기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}조선의장기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 관련학과 : 대학의 선박해양공학, 조선해양공학 관련학과&#9314; 시험과목 - 필기 1. 선박기본설계 2. 철의장 설계 3. 기장 및 선박배관설계 4. 선실 및 전장설계 - 실기 : 선박의장설계 실무&#9315; 검정방법 - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분) - 실기 : 필답형(2시간)&#9316; 합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상 - 실기 : 100점을 만점으로 하여 60점 이상"
-    }
-  ],
+  "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 56,
-        "passers": 5,
-        "passRate": 8.9
-      },
-      {
-        "year": 2024,
-        "applicants": 58,
-        "passers": 9,
-        "passRate": 15.5
-      },
-      {
-        "year": 2025,
-        "applicants": 47,
-        "passers": 17,
-        "passRate": 36.2
-      }
-    ]
+    "practical": []
   }
 }

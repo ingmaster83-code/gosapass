@@ -3,7 +3,7 @@
   "name": "유기농업기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
     "written": "",
@@ -12,38 +12,7 @@
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1033,
-        "passers": 571,
-        "passRate": 55.3
-      },
-      {
-        "year": 2022,
-        "applicants": 895,
-        "passers": 545,
-        "passRate": 60.9
-      },
-      {
-        "year": 2023,
-        "applicants": 1025,
-        "passers": 635,
-        "passRate": 62.0
-      },
-      {
-        "year": 2024,
-        "applicants": 1129,
-        "passers": 642,
-        "passRate": 56.9
-      },
-      {
-        "year": 2025,
-        "applicants": 1379,
-        "passers": 792,
-        "passRate": 57.4
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

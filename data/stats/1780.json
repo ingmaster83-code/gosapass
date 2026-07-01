@@ -3,91 +3,16 @@
   "name": "시설원예기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족 -> 자료실의 출제기준을 참고바랍니다.- 실기시험은 복합형(필답형+작업형)으로 시행되며 고객만족 ->자료실의 출제기준을 참고바랍니다.- 작업형 관련 사항은 설계하중을 계산하고, 시설의 설계도를 작성하여 자재 및 품셈을 계산하며, 시설구조에 적합한 자재 및 피복재 등 배지 및 관수 자재의 시설하우스 내의 환경측정 및 환경 조절, 양액재배시스템 구성 및 설계, 분화재배시스템 구성 및 설계, 기타 재배시스템 구성 및 설계, 시설하우스 내에 작물을 재배하고, 재배에 따른 작물의 진단 및 병 해충의 방제 진단 할 수 있는 능력을 평가"
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}시설원예기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시행처 : 한국산업인력공단 &#9313; 관련학과 : 대학의 원예학과, 관상원예학과, 환경원예학과, 원예과학과 등 &#9314; 시험과목(2021년 부터 적용)- 필기 :1.원예학개론, 2. 시설원예학, 3.재배원론,4. 작물생리학, 5.수경재배학 - 실기 : 시설원예 실무 &#9315; 검정방법- 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분) - 실기 : 복합형[필답형(1시간 30분) + 작업형(3시간 정도)] &#9316; 합격기준- 필기: 100점을 만점으로 하여 과목당 40점이상, 전과목 평균 60점 이상- 실기: 100점을 만점으로 하여 60점 이상 득점작업형 실기시험 기본정보안전등급(safety Level) : 3 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비접칼 등&middot; 보호구실험복 등보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
-    }
-  ],
+  "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 103,
-        "passers": 45,
-        "passRate": 43.7
-      },
-      {
-        "year": 2022,
-        "applicants": 115,
-        "passers": 52,
-        "passRate": 45.2
-      },
-      {
-        "year": 2023,
-        "applicants": 219,
-        "passers": 101,
-        "passRate": 46.1
-      },
-      {
-        "year": 2024,
-        "applicants": 264,
-        "passers": 88,
-        "passRate": 33.3
-      },
-      {
-        "year": 2025,
-        "applicants": 310,
-        "passers": 117,
-        "passRate": 37.7
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 53,
-        "passers": 6,
-        "passRate": 11.3
-      },
-      {
-        "year": 2022,
-        "applicants": 70,
-        "passers": 9,
-        "passRate": 12.9
-      },
-      {
-        "year": 2023,
-        "applicants": 94,
-        "passers": 28,
-        "passRate": 29.8
-      },
-      {
-        "year": 2024,
-        "applicants": 93,
-        "passers": 33,
-        "passRate": 35.5
-      },
-      {
-        "year": 2025,
-        "applicants": 115,
-        "passers": 79,
-        "passRate": 68.7
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

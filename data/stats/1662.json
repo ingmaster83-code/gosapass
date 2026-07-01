@@ -3,78 +3,16 @@
   "name": "수질환경기사",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 10255,
-        "passers": 3782,
-        "passRate": 36.9
-      },
-      {
-        "year": 2022,
-        "applicants": 9089,
-        "passers": 2750,
-        "passRate": 30.3
-      },
-      {
-        "year": 2023,
-        "applicants": 8827,
-        "passers": 2610,
-        "passRate": 29.6
-      },
-      {
-        "year": 2024,
-        "applicants": 9002,
-        "passers": 2871,
-        "passRate": 31.9
-      },
-      {
-        "year": 2025,
-        "applicants": 9581,
-        "passers": 2784,
-        "passRate": 29.1
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 6776,
-        "passers": 2981,
-        "passRate": 44.0
-      },
-      {
-        "year": 2022,
-        "applicants": 4452,
-        "passers": 2249,
-        "passRate": 50.5
-      },
-      {
-        "year": 2023,
-        "applicants": 4897,
-        "passers": 1222,
-        "passRate": 25.0
-      },
-      {
-        "year": 2024,
-        "applicants": 5463,
-        "passers": 2073,
-        "passRate": 37.9
-      },
-      {
-        "year": 2025,
-        "applicants": 5372,
-        "passers": 1915,
-        "passRate": 35.6
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

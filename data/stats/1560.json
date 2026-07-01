@@ -3,78 +3,16 @@
   "name": "종자기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1919,
-        "passers": 1120,
-        "passRate": 58.4
-      },
-      {
-        "year": 2022,
-        "applicants": 1833,
-        "passers": 1190,
-        "passRate": 64.9
-      },
-      {
-        "year": 2023,
-        "applicants": 2229,
-        "passers": 1716,
-        "passRate": 77.0
-      },
-      {
-        "year": 2024,
-        "applicants": 2436,
-        "passers": 1247,
-        "passRate": 51.2
-      },
-      {
-        "year": 2025,
-        "applicants": 2739,
-        "passers": 1359,
-        "passRate": 49.6
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 1933,
-        "passers": 642,
-        "passRate": 33.2
-      },
-      {
-        "year": 2022,
-        "applicants": 1715,
-        "passers": 966,
-        "passRate": 56.3
-      },
-      {
-        "year": 2023,
-        "applicants": 2080,
-        "passers": 987,
-        "passRate": 47.5
-      },
-      {
-        "year": 2024,
-        "applicants": 1831,
-        "passers": 927,
-        "passRate": 50.6
-      },
-      {
-        "year": 2025,
-        "applicants": 1729,
-        "passers": 828,
-        "passRate": 47.9
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

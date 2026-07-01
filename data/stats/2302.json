@@ -3,91 +3,16 @@
   "name": "신발산업기사",
   "series": "기사",
   "field": "섬유.의복",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}신발 신상품 생산을 위해 기획과 디자인을 통해 신상품의 패턴 및 금형을 설계하고, 견본을 제작&middot;검증하여 기능성과 심미성이 있는 신발 제품을 개발하는 내용 등을 평가"
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}신발산업기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다.*신발산업기사 실기시험 홍보동영상(아래 링크를 새창으로 열거나, shift+마우스클릭 하시기 바랍니다.)https://youtu.be/dzG9yO1g-dY"
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312;시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 전문대학 및 대학의신발 관련 학과&#9314; 시험과목- 필기(3과목) : 1.신발 기획 및 디자인 2.신발 설계 3.신발견본 개발- 실기 : 신발개발 실무&#9315; 검정방법 - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분) - 실기 : 작업형(4시간 정도) &#9316; 합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균60점 이상 - 실기 : 100점을 만점으로 하여 60점 이상 작업형 실기시험 기본정보 안전등급(safety Level) : 1 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비가위&middot; 보호구해당사항없음정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
-    }
-  ],
+  "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 65,
-        "passers": 51,
-        "passRate": 78.5
-      },
-      {
-        "year": 2022,
-        "applicants": 34,
-        "passers": 25,
-        "passRate": 73.5
-      },
-      {
-        "year": 2023,
-        "applicants": 46,
-        "passers": 30,
-        "passRate": 65.2
-      },
-      {
-        "year": 2024,
-        "applicants": 36,
-        "passers": 26,
-        "passRate": 72.2
-      },
-      {
-        "year": 2025,
-        "applicants": 28,
-        "passers": 21,
-        "passRate": 75.0
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 66,
-        "passers": 55,
-        "passRate": 83.3
-      },
-      {
-        "year": 2022,
-        "applicants": 22,
-        "passers": 17,
-        "passRate": 77.3
-      },
-      {
-        "year": 2023,
-        "applicants": 23,
-        "passers": 18,
-        "passRate": 78.3
-      },
-      {
-        "year": 2024,
-        "applicants": 25,
-        "passers": 21,
-        "passRate": 84.0
-      },
-      {
-        "year": 2025,
-        "applicants": 18,
-        "passers": 17,
-        "passRate": 94.4
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

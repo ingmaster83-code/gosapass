@@ -3,78 +3,16 @@
   "name": "방수산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "20000",
-    "raw": "1차 : 19400, 2차 : 20000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 241,
-        "passers": 179,
-        "passRate": 74.3
-      },
-      {
-        "year": 2022,
-        "applicants": 241,
-        "passers": 165,
-        "passRate": 68.5
-      },
-      {
-        "year": 2023,
-        "applicants": 273,
-        "passers": 195,
-        "passRate": 71.4
-      },
-      {
-        "year": 2024,
-        "applicants": 270,
-        "passers": 175,
-        "passRate": 64.8
-      },
-      {
-        "year": 2025,
-        "applicants": 288,
-        "passers": 192,
-        "passRate": 66.7
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 195,
-        "passers": 96,
-        "passRate": 49.2
-      },
-      {
-        "year": 2022,
-        "applicants": 184,
-        "passers": 34,
-        "passRate": 18.5
-      },
-      {
-        "year": 2023,
-        "applicants": 211,
-        "passers": 41,
-        "passRate": 19.4
-      },
-      {
-        "year": 2024,
-        "applicants": 216,
-        "passers": 156,
-        "passRate": 72.2
-      },
-      {
-        "year": 2025,
-        "applicants": 203,
-        "passers": 97,
-        "passRate": 47.8
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

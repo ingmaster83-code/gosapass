@@ -3,78 +3,16 @@
   "name": "보석감정산업기사",
   "series": "기사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "48400",
-    "raw": "1차 : 19400, 2차 : 48400"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 59,
-        "passers": 26,
-        "passRate": 44.1
-      },
-      {
-        "year": 2022,
-        "applicants": 52,
-        "passers": 22,
-        "passRate": 42.3
-      },
-      {
-        "year": 2023,
-        "applicants": 58,
-        "passers": 29,
-        "passRate": 50.0
-      },
-      {
-        "year": 2024,
-        "applicants": 47,
-        "passers": 22,
-        "passRate": 46.8
-      },
-      {
-        "year": 2025,
-        "applicants": 36,
-        "passers": 17,
-        "passRate": 47.2
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 38,
-        "passers": 10,
-        "passRate": 26.3
-      },
-      {
-        "year": 2022,
-        "applicants": 23,
-        "passers": 7,
-        "passRate": 30.4
-      },
-      {
-        "year": 2023,
-        "applicants": 28,
-        "passers": 8,
-        "passRate": 28.6
-      },
-      {
-        "year": 2024,
-        "applicants": 24,
-        "passers": 4,
-        "passRate": 16.7
-      },
-      {
-        "year": 2025,
-        "applicants": 21,
-        "passers": 8,
-        "passRate": 38.1
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

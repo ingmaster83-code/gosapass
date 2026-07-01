@@ -3,91 +3,16 @@
   "name": "주조산업기사",
   "series": "기사",
   "field": "재료",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 작업형 주조제작에 관한 상급숙련기능을 가지고 이에 관련되는 지도적 기능업무 수행. 즉, 주조 설계를 통하여 각종  제품을 제작하며 기계부품 및 공예품을 생산하고, 용해로를 이용하여 합금배합 및 용해 업무를 수행하는  능력을 평가"
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}주조산업기사 출제기준 입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 전문대학, 기능대학 및 대학의 금속과, 재료과, 재료정보과, 재료응용과, 열처리과, 신소재과 등 &#9314; 시험과목 - 필기 1. 금속재료 2.원형설계 3. 일반주조 4. 특수주조 - 실기 : 주조관련 작업 &#9315; 검정방법 - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분) - 실기 : 작업형[4시간정도) &#9316; 합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점이상, 전과목 평균 60점 이상(과락있음) - 실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보안전등급(safety Level) : 3 등급▼위험경고주의관심&middot; 시험장소 구분실내(작업장)&middot; 주요시설 및 장비용해로, 램머 및 스템프&middot; 보호구주조용 안전복장, 안전화, 방열장갑 등보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 됩니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
-    }
-  ],
+  "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 14,
-        "passers": 8,
-        "passRate": 57.1
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 20,
-        "passers": 13,
-        "passRate": 65.0
-      },
-      {
-        "year": 2024,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2025,
-        "applicants": 26,
-        "passers": 10,
-        "passRate": 38.5
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 4,
-        "passers": 3,
-        "passRate": 75.0
-      },
-      {
-        "year": 2022,
-        "applicants": 2,
-        "passers": 2,
-        "passRate": 100.0
-      },
-      {
-        "year": 2023,
-        "applicants": 8,
-        "passers": 5,
-        "passRate": 62.5
-      },
-      {
-        "year": 2024,
-        "applicants": 4,
-        "passers": 1,
-        "passRate": 25.0
-      },
-      {
-        "year": 2025,
-        "applicants": 9,
-        "passers": 2,
-        "passRate": 22.2
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

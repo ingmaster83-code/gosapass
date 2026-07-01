@@ -3,78 +3,16 @@
   "name": "온실가스관리기사",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 655,
-        "passers": 418,
-        "passRate": 63.8
-      },
-      {
-        "year": 2022,
-        "applicants": 1012,
-        "passers": 659,
-        "passRate": 65.1
-      },
-      {
-        "year": 2023,
-        "applicants": 1309,
-        "passers": 739,
-        "passRate": 56.5
-      },
-      {
-        "year": 2024,
-        "applicants": 1205,
-        "passers": 741,
-        "passRate": 61.5
-      },
-      {
-        "year": 2025,
-        "applicants": 1396,
-        "passers": 902,
-        "passRate": 64.6
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 400,
-        "passers": 236,
-        "passRate": 59.0
-      },
-      {
-        "year": 2022,
-        "applicants": 678,
-        "passers": 321,
-        "passRate": 47.3
-      },
-      {
-        "year": 2023,
-        "applicants": 826,
-        "passers": 382,
-        "passRate": 46.2
-      },
-      {
-        "year": 2024,
-        "applicants": 871,
-        "passers": 512,
-        "passRate": 58.8
-      },
-      {
-        "year": 2025,
-        "applicants": 1062,
-        "passers": 483,
-        "passRate": 45.5
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

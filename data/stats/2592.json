@@ -3,23 +3,8 @@
   "name": "유기농업산업기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-06-23",
-  "schedule": [
-    {
-      "round": "제1회",
-      "written_reg_start": "2026-01-12",
-      "written_reg_end": "2026-01-15",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-03-11",
-      "prac_reg_start": "2026-03-23",
-      "prac_reg_end": "2026-03-26",
-      "prac_exam_start": "2026-04-18",
-      "prac_exam_end": "2026-05-06",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-07-01",
+  "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
@@ -28,37 +13,6 @@
   "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 56,
-        "passers": 15,
-        "passRate": 26.8
-      },
-      {
-        "year": 2022,
-        "applicants": 40,
-        "passers": 22,
-        "passRate": 55.0
-      },
-      {
-        "year": 2023,
-        "applicants": 37,
-        "passers": 13,
-        "passRate": 35.1
-      },
-      {
-        "year": 2024,
-        "applicants": 39,
-        "passers": 28,
-        "passRate": 71.8
-      },
-      {
-        "year": 2025,
-        "applicants": 41,
-        "passers": 30,
-        "passRate": 73.2
-      }
-    ]
+    "practical": []
   }
 }

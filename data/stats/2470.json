@@ -3,47 +3,16 @@
   "name": "종자산업기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "20800",
-    "raw": "1차 : 19400, 2차 : 20800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 472,
-        "passers": 279,
-        "passRate": 59.1
-      },
-      {
-        "year": 2022,
-        "applicants": 325,
-        "passers": 174,
-        "passRate": 53.5
-      },
-      {
-        "year": 2023,
-        "applicants": 336,
-        "passers": 203,
-        "passRate": 60.4
-      },
-      {
-        "year": 2024,
-        "applicants": 322,
-        "passers": 141,
-        "passRate": 43.8
-      },
-      {
-        "year": 2025,
-        "applicants": 339,
-        "passers": 168,
-        "passRate": 49.6
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

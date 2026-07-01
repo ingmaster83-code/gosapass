@@ -3,78 +3,16 @@
   "name": "시각디자인기사",
   "series": "기사",
   "field": "문화.예술.디자인.방송",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "29900",
-    "raw": "1차 : 19400, 2차 : 29900"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 345,
-        "passers": 237,
-        "passRate": 68.7
-      },
-      {
-        "year": 2022,
-        "applicants": 346,
-        "passers": 237,
-        "passRate": 68.5
-      },
-      {
-        "year": 2023,
-        "applicants": 337,
-        "passers": 215,
-        "passRate": 63.8
-      },
-      {
-        "year": 2024,
-        "applicants": 381,
-        "passers": 232,
-        "passRate": 60.9
-      },
-      {
-        "year": 2025,
-        "applicants": 358,
-        "passers": 200,
-        "passRate": 55.9
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 256,
-        "passers": 157,
-        "passRate": 61.3
-      },
-      {
-        "year": 2022,
-        "applicants": 234,
-        "passers": 144,
-        "passRate": 61.5
-      },
-      {
-        "year": 2023,
-        "applicants": 206,
-        "passers": 108,
-        "passRate": 52.4
-      },
-      {
-        "year": 2024,
-        "applicants": 236,
-        "passers": 92,
-        "passRate": 39.0
-      },
-      {
-        "year": 2025,
-        "applicants": 215,
-        "passers": 85,
-        "passRate": 39.5
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

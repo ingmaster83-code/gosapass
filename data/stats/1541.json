@@ -3,78 +3,16 @@
   "name": "식육가공기사",
   "series": "기사",
   "field": "식품.가공",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "77000",
-    "raw": "1차 : 19400, 2차 : 77000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 107,
-        "passers": 45,
-        "passRate": 42.1
-      },
-      {
-        "year": 2022,
-        "applicants": 72,
-        "passers": 36,
-        "passRate": 50.0
-      },
-      {
-        "year": 2023,
-        "applicants": 92,
-        "passers": 47,
-        "passRate": 51.1
-      },
-      {
-        "year": 2024,
-        "applicants": 53,
-        "passers": 27,
-        "passRate": 50.9
-      },
-      {
-        "year": 2025,
-        "applicants": 43,
-        "passers": 20,
-        "passRate": 46.5
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 42,
-        "passers": 37,
-        "passRate": 88.1
-      },
-      {
-        "year": 2022,
-        "applicants": 30,
-        "passers": 22,
-        "passRate": 73.3
-      },
-      {
-        "year": 2023,
-        "applicants": 33,
-        "passers": 24,
-        "passRate": 72.7
-      },
-      {
-        "year": 2024,
-        "applicants": 27,
-        "passers": 26,
-        "passRate": 96.3
-      },
-      {
-        "year": 2025,
-        "applicants": 17,
-        "passers": 14,
-        "passRate": 82.4
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

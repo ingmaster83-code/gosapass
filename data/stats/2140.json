@@ -3,103 +3,16 @@
   "name": "전기산업기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-06-23",
-  "schedule": [
-    {
-      "round": "제1회",
-      "written_reg_start": "2026-01-12",
-      "written_reg_end": "2026-01-15",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-03-11",
-      "prac_reg_start": "2026-03-23",
-      "prac_reg_end": "2026-03-26",
-      "prac_exam_start": "2026-04-18",
-      "prac_exam_end": "2026-05-06",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    },
-    {
-      "round": "제2회",
-      "written_reg_start": "2026-04-20",
-      "written_reg_end": "2026-04-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-06-10",
-      "prac_reg_start": "2026-06-22",
-      "prac_reg_end": "2026-06-25",
-      "prac_exam_start": "2026-07-18",
-      "prac_exam_end": "2026-08-05",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    },
-    {
-      "round": "제3회",
-      "written_reg_start": "2026-07-20",
-      "written_reg_end": "2026-07-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-09-09",
-      "prac_reg_start": "2026-09-21",
-      "prac_reg_end": "2026-09-28",
-      "prac_exam_start": "2026-10-24",
-      "prac_exam_end": "2026-11-13",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-07-01",
+  "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다.- 전기설비기술기준, 한국전기설비규정 등은 시험일자 기준으로 시험 시행 전 최근 고시된 기준 및 규정으로 수험준비에 임하여야 합니다."
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}전기산업기사 출제기준 입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 대학의 전기공학, 전기제어공학, 전기전자공학 등 관련학과&#9314;시험과목 - 필기 1. 전기자기학 2. 전력공학 3. 전기기기 4. 회로이론 5. 전기설비기술기준- 실기 : 전기설비설계 및 관리&#9315;검정방법 - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분) - 실기 : 필답형(2시간)&#9316;합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점이상 - 실기 : 100점을 만점으로 하여 60점이상"
-    }
-  ],
+  "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 37892,
-        "passers": 6991,
-        "passRate": 18.4
-      },
-      {
-        "year": 2022,
-        "applicants": 31121,
-        "passers": 6692,
-        "passRate": 21.5
-      },
-      {
-        "year": 2023,
-        "applicants": 29955,
-        "passers": 5577,
-        "passRate": 18.6
-      },
-      {
-        "year": 2024,
-        "applicants": 31584,
-        "passers": 6189,
-        "passRate": 19.6
-      },
-      {
-        "year": 2025,
-        "applicants": 33021,
-        "passers": 7327,
-        "passRate": 22.2
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

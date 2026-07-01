@@ -3,47 +3,16 @@
   "name": "배관산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "91000",
-    "raw": "1차 : 19400, 2차 : 91000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 39,
-        "passers": 5,
-        "passRate": 12.8
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 50,
-        "passers": 12,
-        "passRate": 24.0
-      },
-      {
-        "year": 2024,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2025,
-        "applicants": 104,
-        "passers": 40,
-        "passRate": 38.5
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

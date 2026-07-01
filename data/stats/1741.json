@@ -3,93 +3,16 @@
   "name": "전기철도기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-06-23",
-  "schedule": [
-    {
-      "round": "제3회",
-      "written_reg_start": "2026-07-20",
-      "written_reg_end": "2026-07-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-09-09",
-      "prac_reg_start": "2026-09-21",
-      "prac_reg_end": "2026-09-28",
-      "prac_exam_start": "2026-10-24",
-      "prac_exam_end": "2026-11-13",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-07-01",
+  "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 210,
-        "passers": 99,
-        "passRate": 47.1
-      },
-      {
-        "year": 2022,
-        "applicants": 251,
-        "passers": 107,
-        "passRate": 42.6
-      },
-      {
-        "year": 2023,
-        "applicants": 338,
-        "passers": 146,
-        "passRate": 43.2
-      },
-      {
-        "year": 2024,
-        "applicants": 348,
-        "passers": 187,
-        "passRate": 53.7
-      },
-      {
-        "year": 2025,
-        "applicants": 411,
-        "passers": 214,
-        "passRate": 52.1
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 96,
-        "passers": 63,
-        "passRate": 65.6
-      },
-      {
-        "year": 2022,
-        "applicants": 102,
-        "passers": 68,
-        "passRate": 66.7
-      },
-      {
-        "year": 2023,
-        "applicants": 152,
-        "passers": 73,
-        "passRate": 48.0
-      },
-      {
-        "year": 2024,
-        "applicants": 207,
-        "passers": 83,
-        "passRate": 40.1
-      },
-      {
-        "year": 2025,
-        "applicants": 247,
-        "passers": 93,
-        "passRate": 37.7
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

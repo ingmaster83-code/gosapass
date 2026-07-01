@@ -3,47 +3,16 @@
   "name": "위험물산업기사",
   "series": "기사",
   "field": "화학",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "20800",
-    "raw": "1차 : 19400, 2차 : 20800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 18232,
-        "passers": 8691,
-        "passRate": 47.7
-      },
-      {
-        "year": 2022,
-        "applicants": 17393,
-        "passers": 8412,
-        "passRate": 48.4
-      },
-      {
-        "year": 2023,
-        "applicants": 19896,
-        "passers": 9116,
-        "passRate": 45.8
-      },
-      {
-        "year": 2024,
-        "applicants": 21003,
-        "passers": 9567,
-        "passRate": 45.6
-      },
-      {
-        "year": 2025,
-        "applicants": 20747,
-        "passers": 10631,
-        "passRate": 51.2
-      }
-    ]
+    "practical": []
   }
 }

@@ -3,90 +3,16 @@
   "name": "소방설비산업기사(전기분야)",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-06-23",
-  "schedule": [
-    {
-      "round": "제1회",
-      "written_reg_start": "2026-01-12",
-      "written_reg_end": "2026-01-15",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-03-11",
-      "prac_reg_start": "2026-03-23",
-      "prac_reg_end": "2026-03-26",
-      "prac_exam_start": "2026-04-18",
-      "prac_exam_end": "2026-05-06",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    },
-    {
-      "round": "제2회",
-      "written_reg_start": "2026-04-20",
-      "written_reg_end": "2026-04-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-06-10",
-      "prac_reg_start": "2026-06-22",
-      "prac_reg_end": "2026-06-25",
-      "prac_exam_start": "2026-07-18",
-      "prac_exam_end": "2026-08-05",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    },
-    {
-      "round": "제3회",
-      "written_reg_start": "2026-07-20",
-      "written_reg_end": "2026-07-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-09-09",
-      "prac_reg_start": "2026-09-21",
-      "prac_reg_end": "2026-09-28",
-      "prac_exam_start": "2026-10-24",
-      "prac_exam_end": "2026-11-13",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-07-01",
+  "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "20800",
-    "raw": "1차 : 19400, 2차 : 20800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 8050,
-        "passers": 3752,
-        "passRate": 46.6
-      },
-      {
-        "year": 2022,
-        "applicants": 7413,
-        "passers": 3451,
-        "passRate": 46.6
-      },
-      {
-        "year": 2023,
-        "applicants": 8281,
-        "passers": 3697,
-        "passRate": 44.6
-      },
-      {
-        "year": 2024,
-        "applicants": 7970,
-        "passers": 3197,
-        "passRate": 40.1
-      },
-      {
-        "year": 2025,
-        "applicants": 8219,
-        "passers": 3776,
-        "passRate": 45.9
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

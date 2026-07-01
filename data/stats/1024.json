@@ -3,47 +3,16 @@
   "name": "사출금형기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "30200",
-    "raw": "1차 : 19400, 2차 : 30200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 17,
-        "passers": 11,
-        "passRate": 64.7
-      },
-      {
-        "year": 2022,
-        "applicants": 17,
-        "passers": 9,
-        "passRate": 52.9
-      },
-      {
-        "year": 2023,
-        "applicants": 19,
-        "passers": 9,
-        "passRate": 47.4
-      },
-      {
-        "year": 2024,
-        "applicants": 22,
-        "passers": 14,
-        "passRate": 63.6
-      },
-      {
-        "year": 2025,
-        "applicants": 16,
-        "passers": 8,
-        "passRate": 50.0
-      }
-    ]
+    "practical": []
   }
 }

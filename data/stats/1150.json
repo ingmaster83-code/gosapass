@@ -3,78 +3,16 @@
   "name": "전기기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 60500,
-        "passers": 13365,
-        "passRate": 22.1
-      },
-      {
-        "year": 2022,
-        "applicants": 52187,
-        "passers": 11611,
-        "passRate": 22.2
-      },
-      {
-        "year": 2023,
-        "applicants": 51630,
-        "passers": 11477,
-        "passRate": 22.2
-      },
-      {
-        "year": 2024,
-        "applicants": 57417,
-        "passers": 15005,
-        "passRate": 26.1
-      },
-      {
-        "year": 2025,
-        "applicants": 64080,
-        "passers": 19149,
-        "passRate": 29.9
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 33816,
-        "passers": 9916,
-        "passRate": 29.3
-      },
-      {
-        "year": 2022,
-        "applicants": 32640,
-        "passers": 12901,
-        "passRate": 39.5
-      },
-      {
-        "year": 2023,
-        "applicants": 23643,
-        "passers": 8774,
-        "passRate": 37.1
-      },
-      {
-        "year": 2024,
-        "applicants": 27063,
-        "passers": 10115,
-        "passRate": 37.4
-      },
-      {
-        "year": 2025,
-        "applicants": 41957,
-        "passers": 13918,
-        "passRate": 33.2
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

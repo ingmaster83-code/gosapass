@@ -3,78 +3,16 @@
   "name": "설비보전산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "60300",
-    "raw": "1차 : 19400, 2차 : 60300"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 5977,
-        "passers": 2478,
-        "passRate": 41.5
-      },
-      {
-        "year": 2022,
-        "applicants": 5493,
-        "passers": 2240,
-        "passRate": 40.8
-      },
-      {
-        "year": 2023,
-        "applicants": 6374,
-        "passers": 2528,
-        "passRate": 39.7
-      },
-      {
-        "year": 2024,
-        "applicants": 7176,
-        "passers": 2832,
-        "passRate": 39.5
-      },
-      {
-        "year": 2025,
-        "applicants": 4640,
-        "passers": 815,
-        "passRate": 17.6
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 2778,
-        "passers": 2027,
-        "passRate": 73.0
-      },
-      {
-        "year": 2022,
-        "applicants": 2406,
-        "passers": 1671,
-        "passRate": 69.5
-      },
-      {
-        "year": 2023,
-        "applicants": 2783,
-        "passers": 1993,
-        "passRate": 71.6
-      },
-      {
-        "year": 2024,
-        "applicants": 3170,
-        "passers": 2329,
-        "passRate": 73.5
-      },
-      {
-        "year": 2025,
-        "applicants": 1046,
-        "passers": 547,
-        "passRate": 52.3
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

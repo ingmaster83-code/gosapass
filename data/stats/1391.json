@@ -3,91 +3,16 @@
   "name": "인쇄설계기사",
   "series": "기사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.-인쇄레오로지, 표면과학, 인쇄적성 등의 전문지식을 바탕으로전산편집작업,인쇄판제작, 인쇄, 제책, 인쇄물검사,인쇄생산관리 등의 직무를 수행하는 능력을 평가 (공개문제 참조)"
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}인쇄기사 출제기준 입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 관련 학과 : 대학의 인쇄, 출판등 관련학과&#9314; 시험과목- 필기 : 1. 인쇄공학 2. 인쇄재료학 3. 특수인쇄학 4. 인쇄색채학 5. 인쇄작업론 및 품질관리- 실기 : 전산편집 및 인쇄실무&#9315; 검정방법- 필기 : 과목당 객관식 20문항(과목당 30분)- 실기 : 작업형(4시간 정도)&#9316; 합격기준- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보 안전등급(safety Level) : 4 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비인쇄기계 등&middot; 보호구작업복, 장갑 등보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
-    }
-  ],
+  "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 41,
-        "passers": 17,
-        "passRate": 41.5
-      },
-      {
-        "year": 2022,
-        "applicants": 28,
-        "passers": 16,
-        "passRate": 57.1
-      },
-      {
-        "year": 2023,
-        "applicants": 30,
-        "passers": 17,
-        "passRate": 56.7
-      },
-      {
-        "year": 2024,
-        "applicants": 46,
-        "passers": 30,
-        "passRate": 65.2
-      },
-      {
-        "year": 2025,
-        "applicants": 12,
-        "passers": 3,
-        "passRate": 25.0
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 16,
-        "passers": 16,
-        "passRate": 100.0
-      },
-      {
-        "year": 2022,
-        "applicants": 16,
-        "passers": 15,
-        "passRate": 93.8
-      },
-      {
-        "year": 2023,
-        "applicants": 20,
-        "passers": 20,
-        "passRate": 100.0
-      },
-      {
-        "year": 2024,
-        "applicants": 30,
-        "passers": 30,
-        "passRate": 100.0
-      },
-      {
-        "year": 2025,
-        "applicants": 4,
-        "passers": 2,
-        "passRate": 50.0
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

@@ -3,75 +3,16 @@
   "name": "어업생산관리기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-06-23",
-  "schedule": [
-    {
-      "round": "제1회",
-      "written_reg_start": "2026-01-12",
-      "written_reg_end": "2026-01-15",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-03-11",
-      "prac_reg_start": "2026-03-23",
-      "prac_reg_end": "2026-03-26",
-      "prac_exam_start": "2026-04-18",
-      "prac_exam_end": "2026-05-06",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-07-01",
+  "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "25000",
-    "raw": "1차 : 19400, 2차 : 25000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 복합형(필답형+작업형)으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}어업생산관리기사 출제기준입니다.  메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처: 한국산업인력공단&#9313; 시험과목- 필기: 1.어구학 2.어법학 3.수산자원학 및 어업관리학4.어업어장정보론 5.해양수산법규- 실기:해양생산 및 자원관리 실무&#9314; 검정방법- 필기: 객관식 4지 택일형, 과목당 20문항(과목당 30분)- 실기: 복합형［필답형(1시간30분)+ 작업형(2시간 정도)]&#9315; 합격기준- 필기: 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상- 실기: 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보 안전등급(safety Level) : 1 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비책상, 의자&middot; 보호구불필요보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
-    }
-  ],
+  "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 13,
-        "passers": 1,
-        "passRate": 7.7
-      },
-      {
-        "year": 2022,
-        "applicants": 16,
-        "passers": 9,
-        "passRate": 56.2
-      },
-      {
-        "year": 2023,
-        "applicants": 17,
-        "passers": 2,
-        "passRate": 11.8
-      },
-      {
-        "year": 2024,
-        "applicants": 14,
-        "passers": 4,
-        "passRate": 28.6
-      },
-      {
-        "year": 2025,
-        "applicants": 17,
-        "passers": 12,
-        "passRate": 70.6
-      }
-    ]
+    "practical": []
   }
 }

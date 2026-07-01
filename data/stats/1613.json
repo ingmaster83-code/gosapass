@@ -3,47 +3,16 @@
   "name": "자기비파괴검사기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "45200",
-    "raw": "1차 : 19400, 2차 : 45200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 614,
-        "passers": 295,
-        "passRate": 48.0
-      },
-      {
-        "year": 2022,
-        "applicants": 480,
-        "passers": 261,
-        "passRate": 54.4
-      },
-      {
-        "year": 2023,
-        "applicants": 480,
-        "passers": 285,
-        "passRate": 59.4
-      },
-      {
-        "year": 2024,
-        "applicants": 423,
-        "passers": 257,
-        "passRate": 60.8
-      },
-      {
-        "year": 2025,
-        "applicants": 419,
-        "passers": 224,
-        "passRate": 53.5
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

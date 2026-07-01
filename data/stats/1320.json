@@ -3,78 +3,16 @@
   "name": "정보처리기사",
   "series": "기사",
   "field": "정보통신",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 51640,
-        "passers": 32865,
-        "passRate": 63.6
-      },
-      {
-        "year": 2022,
-        "applicants": 48470,
-        "passers": 27208,
-        "passRate": 56.1
-      },
-      {
-        "year": 2023,
-        "applicants": 60024,
-        "passers": 35428,
-        "passRate": 59.0
-      },
-      {
-        "year": 2024,
-        "applicants": 66169,
-        "passers": 40207,
-        "passRate": 60.8
-      },
-      {
-        "year": 2025,
-        "applicants": 66308,
-        "passers": 43132,
-        "passRate": 65.0
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 52945,
-        "passers": 16323,
-        "passRate": 30.8
-      },
-      {
-        "year": 2022,
-        "applicants": 53307,
-        "passers": 11111,
-        "passRate": 20.8
-      },
-      {
-        "year": 2023,
-        "applicants": 58088,
-        "passers": 12205,
-        "passRate": 21.0
-      },
-      {
-        "year": 2024,
-        "applicants": 68745,
-        "passers": 19881,
-        "passRate": 28.9
-      },
-      {
-        "year": 2025,
-        "applicants": 73858,
-        "passers": 16326,
-        "passRate": 22.1
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

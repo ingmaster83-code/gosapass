@@ -3,78 +3,16 @@
   "name": "산업위생관리기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 5474,
-        "passers": 2825,
-        "passRate": 51.6
-      },
-      {
-        "year": 2022,
-        "applicants": 7027,
-        "passers": 3343,
-        "passRate": 47.6
-      },
-      {
-        "year": 2023,
-        "applicants": 10554,
-        "passers": 5084,
-        "passRate": 48.2
-      },
-      {
-        "year": 2024,
-        "applicants": 12197,
-        "passers": 5925,
-        "passRate": 48.6
-      },
-      {
-        "year": 2025,
-        "applicants": 11825,
-        "passers": 5417,
-        "passRate": 45.8
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 3316,
-        "passers": 1967,
-        "passRate": 59.3
-      },
-      {
-        "year": 2022,
-        "applicants": 4613,
-        "passers": 2630,
-        "passRate": 57.0
-      },
-      {
-        "year": 2023,
-        "applicants": 5598,
-        "passers": 3274,
-        "passRate": 58.5
-      },
-      {
-        "year": 2024,
-        "applicants": 8354,
-        "passers": 3926,
-        "passRate": 47.0
-      },
-      {
-        "year": 2025,
-        "applicants": 7837,
-        "passers": 3917,
-        "passRate": 50.0
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

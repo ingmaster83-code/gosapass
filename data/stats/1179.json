@@ -3,47 +3,16 @@
   "name": "로봇하드웨어개발기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "54300",
-    "raw": "1차 : 19400, 2차 : 54300"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 7,
-        "passers": 1,
-        "passRate": 14.3
-      },
-      {
-        "year": 2022,
-        "applicants": 6,
-        "passers": 2,
-        "passRate": 33.3
-      },
-      {
-        "year": 2023,
-        "applicants": 3,
-        "passers": 1,
-        "passRate": 33.3
-      },
-      {
-        "year": 2024,
-        "applicants": 7,
-        "passers": 1,
-        "passRate": 14.3
-      },
-      {
-        "year": 2025,
-        "applicants": 10,
-        "passers": 5,
-        "passRate": 50.0
-      }
-    ]
+    "practical": []
   }
 }

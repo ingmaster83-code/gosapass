@@ -3,78 +3,16 @@
   "name": "소비자전문상담사1급",
   "series": "기사",
   "field": "경영.회계.사무",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "20800",
-    "raw": "1차 : 19400, 2차 : 20800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 37,
-        "passers": 31,
-        "passRate": 83.8
-      },
-      {
-        "year": 2022,
-        "applicants": 28,
-        "passers": 23,
-        "passRate": 82.1
-      },
-      {
-        "year": 2023,
-        "applicants": 38,
-        "passers": 21,
-        "passRate": 55.3
-      },
-      {
-        "year": 2024,
-        "applicants": 34,
-        "passers": 19,
-        "passRate": 55.9
-      },
-      {
-        "year": 2025,
-        "applicants": 43,
-        "passers": 28,
-        "passRate": 65.1
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 35,
-        "passers": 6,
-        "passRate": 17.1
-      },
-      {
-        "year": 2022,
-        "applicants": 29,
-        "passers": 12,
-        "passRate": 41.4
-      },
-      {
-        "year": 2023,
-        "applicants": 27,
-        "passers": 9,
-        "passRate": 33.3
-      },
-      {
-        "year": 2024,
-        "applicants": 26,
-        "passers": 10,
-        "passRate": 38.5
-      },
-      {
-        "year": 2025,
-        "applicants": 30,
-        "passers": 21,
-        "passRate": 70.0
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

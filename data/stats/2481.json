@@ -3,47 +3,16 @@
   "name": "산림산업기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "36400",
-    "raw": "1차 : 19400, 2차 : 36400"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1856,
-        "passers": 745,
-        "passRate": 40.1
-      },
-      {
-        "year": 2022,
-        "applicants": 1782,
-        "passers": 636,
-        "passRate": 35.7
-      },
-      {
-        "year": 2023,
-        "applicants": 1619,
-        "passers": 626,
-        "passRate": 38.7
-      },
-      {
-        "year": 2024,
-        "applicants": 1629,
-        "passers": 622,
-        "passRate": 38.2
-      },
-      {
-        "year": 2025,
-        "applicants": 1726,
-        "passers": 659,
-        "passRate": 38.2
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

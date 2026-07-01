@@ -3,78 +3,16 @@
   "name": "철도신호산업기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "105900",
-    "raw": "1차 : 19400, 2차 : 105900"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 135,
-        "passers": 43,
-        "passRate": 31.9
-      },
-      {
-        "year": 2022,
-        "applicants": 138,
-        "passers": 34,
-        "passRate": 24.6
-      },
-      {
-        "year": 2023,
-        "applicants": 141,
-        "passers": 31,
-        "passRate": 22.0
-      },
-      {
-        "year": 2024,
-        "applicants": 131,
-        "passers": 32,
-        "passRate": 24.4
-      },
-      {
-        "year": 2025,
-        "applicants": 158,
-        "passers": 41,
-        "passRate": 25.9
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 43,
-        "passers": 30,
-        "passRate": 69.8
-      },
-      {
-        "year": 2022,
-        "applicants": 42,
-        "passers": 36,
-        "passRate": 85.7
-      },
-      {
-        "year": 2023,
-        "applicants": 30,
-        "passers": 26,
-        "passRate": 86.7
-      },
-      {
-        "year": 2024,
-        "applicants": 28,
-        "passers": 21,
-        "passRate": 75.0
-      },
-      {
-        "year": 2025,
-        "applicants": 44,
-        "passers": 37,
-        "passRate": 84.1
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

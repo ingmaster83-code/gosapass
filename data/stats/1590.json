@@ -3,78 +3,16 @@
   "name": "임산가공기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-06-23",
+  "updated": "2026-07-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 132,
-        "passers": 74,
-        "passRate": 56.1
-      },
-      {
-        "year": 2022,
-        "applicants": 95,
-        "passers": 57,
-        "passRate": 60.0
-      },
-      {
-        "year": 2023,
-        "applicants": 96,
-        "passers": 67,
-        "passRate": 69.8
-      },
-      {
-        "year": 2024,
-        "applicants": 94,
-        "passers": 21,
-        "passRate": 22.3
-      },
-      {
-        "year": 2025,
-        "applicants": 59,
-        "passers": 18,
-        "passRate": 30.5
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 90,
-        "passers": 53,
-        "passRate": 58.9
-      },
-      {
-        "year": 2022,
-        "applicants": 77,
-        "passers": 49,
-        "passRate": 63.6
-      },
-      {
-        "year": 2023,
-        "applicants": 72,
-        "passers": 59,
-        "passRate": 81.9
-      },
-      {
-        "year": 2024,
-        "applicants": 26,
-        "passers": 15,
-        "passRate": 57.7
-      },
-      {
-        "year": 2025,
-        "applicants": 21,
-        "passers": 12,
-        "passRate": 57.1
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

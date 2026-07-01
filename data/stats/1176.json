@@ -3,107 +3,16 @@
   "name": "의공기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-06-23",
-  "schedule": [
-    {
-      "round": "제1회",
-      "written_reg_start": "2026-01-12",
-      "written_reg_end": "2026-01-15",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-03-11",
-      "prac_reg_start": "2026-03-23",
-      "prac_reg_end": "2026-03-26",
-      "prac_exam_start": "2026-04-18",
-      "prac_exam_end": "2026-05-06",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    },
-    {
-      "round": "제3회",
-      "written_reg_start": "2026-07-20",
-      "written_reg_end": "2026-07-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-09-09",
-      "prac_reg_start": "2026-09-21",
-      "prac_reg_end": "2026-09-28",
-      "prac_exam_start": "2026-10-24",
-      "prac_exam_end": "2026-11-13",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-07-01",
+  "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 774,
-        "passers": 413,
-        "passRate": 53.4
-      },
-      {
-        "year": 2022,
-        "applicants": 721,
-        "passers": 483,
-        "passRate": 67.0
-      },
-      {
-        "year": 2023,
-        "applicants": 726,
-        "passers": 451,
-        "passRate": 62.1
-      },
-      {
-        "year": 2024,
-        "applicants": 581,
-        "passers": 198,
-        "passRate": 34.1
-      },
-      {
-        "year": 2025,
-        "applicants": 616,
-        "passers": 221,
-        "passRate": 35.9
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 526,
-        "passers": 317,
-        "passRate": 60.3
-      },
-      {
-        "year": 2022,
-        "applicants": 608,
-        "passers": 186,
-        "passRate": 30.6
-      },
-      {
-        "year": 2023,
-        "applicants": 687,
-        "passers": 196,
-        "passRate": 28.5
-      },
-      {
-        "year": 2024,
-        "applicants": 453,
-        "passers": 102,
-        "passRate": 22.5
-      },
-      {
-        "year": 2025,
-        "applicants": 375,
-        "passers": 77,
-        "passRate": 20.5
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

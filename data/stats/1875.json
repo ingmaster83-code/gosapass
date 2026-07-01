@@ -3,121 +3,16 @@
   "name": "인간공학기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-06-23",
-  "schedule": [
-    {
-      "round": "제1회",
-      "written_reg_start": "2026-01-12",
-      "written_reg_end": "2026-01-15",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-03-11",
-      "prac_reg_start": "2026-03-23",
-      "prac_reg_end": "2026-03-26",
-      "prac_exam_start": "2026-04-18",
-      "prac_exam_end": "2026-05-06",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    },
-    {
-      "round": "제2회",
-      "written_reg_start": "2026-04-20",
-      "written_reg_end": "2026-04-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-06-10",
-      "prac_reg_start": "2026-06-22",
-      "prac_reg_end": "2026-06-25",
-      "prac_exam_start": "2026-07-18",
-      "prac_exam_end": "2026-08-05",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    },
-    {
-      "round": "제3회",
-      "written_reg_start": "2026-07-20",
-      "written_reg_end": "2026-07-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-09-09",
-      "prac_reg_start": "2026-09-21",
-      "prac_reg_end": "2026-09-28",
-      "prac_exam_start": "2026-10-24",
-      "prac_exam_end": "2026-11-13",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-07-01",
+  "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1573,
-        "passers": 1288,
-        "passRate": 81.9
-      },
-      {
-        "year": 2022,
-        "applicants": 2129,
-        "passers": 1490,
-        "passRate": 70.0
-      },
-      {
-        "year": 2023,
-        "applicants": 5494,
-        "passers": 4129,
-        "passRate": 75.2
-      },
-      {
-        "year": 2024,
-        "applicants": 8182,
-        "passers": 5686,
-        "passRate": 69.5
-      },
-      {
-        "year": 2025,
-        "applicants": 8617,
-        "passers": 5996,
-        "passRate": 69.6
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 1113,
-        "passers": 698,
-        "passRate": 62.7
-      },
-      {
-        "year": 2022,
-        "applicants": 1511,
-        "passers": 1159,
-        "passRate": 76.7
-      },
-      {
-        "year": 2023,
-        "applicants": 3829,
-        "passers": 2837,
-        "passRate": 74.1
-      },
-      {
-        "year": 2024,
-        "applicants": 6166,
-        "passers": 3674,
-        "passRate": 59.6
-      },
-      {
-        "year": 2025,
-        "applicants": 7645,
-        "passers": 2021,
-        "passRate": 26.4
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }
