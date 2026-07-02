@@ -3,47 +3,16 @@
   "name": "건설재료시험기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "27500",
-    "raw": "1차 : 14500, 2차 : 27500"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1473,
-        "passers": 673,
-        "passRate": 45.7
-      },
-      {
-        "year": 2022,
-        "applicants": 1417,
-        "passers": 672,
-        "passRate": 47.4
-      },
-      {
-        "year": 2023,
-        "applicants": 1578,
-        "passers": 700,
-        "passRate": 44.4
-      },
-      {
-        "year": 2024,
-        "applicants": 1327,
-        "passers": 587,
-        "passRate": 44.2
-      },
-      {
-        "year": 2025,
-        "applicants": 1312,
-        "passers": 565,
-        "passRate": 43.1
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

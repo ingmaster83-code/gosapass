@@ -3,78 +3,16 @@
   "name": "텔레마케팅관리사",
   "series": "기사",
   "field": "영업.판매",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "20800",
-    "raw": "1차 : 19400, 2차 : 20800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 3568,
-        "passers": 2850,
-        "passRate": 79.9
-      },
-      {
-        "year": 2022,
-        "applicants": 2279,
-        "passers": 1893,
-        "passRate": 83.1
-      },
-      {
-        "year": 2023,
-        "applicants": 2428,
-        "passers": 1969,
-        "passRate": 81.1
-      },
-      {
-        "year": 2024,
-        "applicants": 2647,
-        "passers": 1863,
-        "passRate": 70.4
-      },
-      {
-        "year": 2025,
-        "applicants": 2784,
-        "passers": 1981,
-        "passRate": 71.2
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 3066,
-        "passers": 1496,
-        "passRate": 48.8
-      },
-      {
-        "year": 2022,
-        "applicants": 1988,
-        "passers": 886,
-        "passRate": 44.6
-      },
-      {
-        "year": 2023,
-        "applicants": 1835,
-        "passers": 1146,
-        "passRate": 62.5
-      },
-      {
-        "year": 2024,
-        "applicants": 1851,
-        "passers": 800,
-        "passRate": 43.2
-      },
-      {
-        "year": 2025,
-        "applicants": 1824,
-        "passers": 1186,
-        "passRate": 65.0
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

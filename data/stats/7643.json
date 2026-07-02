@@ -3,78 +3,16 @@
   "name": "목질재료기능사",
   "series": "기능사",
   "field": "농림어업",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "11000",
-    "practical": "54700",
-    "raw": "1차 : 11000, 2차 : 54700"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2024,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2025,
-        "applicants": 1,
-        "passers": 0,
-        "passRate": 0.0
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2024,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2025,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

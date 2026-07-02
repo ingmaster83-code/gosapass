@@ -3,56 +3,16 @@
   "name": "목재가공기능사",
   "series": "기능사",
   "field": "농림어업",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "79000",
-    "raw": "1차 : 14500, 2차 : 79000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험: 출제기준 참고-실기시험 :원목 수종 구분, 재적 계산, 제재목 수종 구분, 밀도 계산, 목재제품 종류 구분, 제재목 종류 구분 (작업형 실기시험 공개 문제 참고)"
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313;시험과목  - 필기 :목재생산, 가공 및 품질관리 - 실기 : 목재가공 실무 (세부내용 공개문제 참고)&#9314; 검정방법  - 필기 : 전과목 혼합, 객관식 60문항 (60분)  - 실기 :작업형 (2시간 정도, 100점) &#9315; 합격기준  - 필기 및 실기 : 100점 만점에60점 이상 득점자* 세부내용은 출제기준 참고"
-    }
-  ],
+  "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2024,
-        "applicants": 3,
-        "passers": 3,
-        "passRate": 100.0
-      },
-      {
-        "year": 2025,
-        "applicants": 4,
-        "passers": 4,
-        "passRate": 100.0
-      }
-    ]
+    "practical": []
   }
 }

@@ -3,7 +3,7 @@
   "name": "모터그레이더운전기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
     "written": "",
@@ -13,37 +13,6 @@
   "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 181,
-        "passers": 58,
-        "passRate": 32.0
-      },
-      {
-        "year": 2022,
-        "applicants": 130,
-        "passers": 32,
-        "passRate": 24.6
-      },
-      {
-        "year": 2023,
-        "applicants": 104,
-        "passers": 14,
-        "passRate": 13.5
-      },
-      {
-        "year": 2024,
-        "applicants": 32,
-        "passers": 5,
-        "passRate": 15.6
-      },
-      {
-        "year": 2025,
-        "applicants": 3,
-        "passers": 2,
-        "passRate": 66.7
-      }
-    ]
+    "practical": []
   }
 }

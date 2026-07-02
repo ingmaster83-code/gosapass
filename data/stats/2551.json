@@ -3,78 +3,16 @@
   "name": "피아노조율산업기사",
   "series": "기사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "50200",
-    "raw": "1차 : 19400, 2차 : 50200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 18,
-        "passers": 13,
-        "passRate": 72.2
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 66,
-        "passers": 60,
-        "passRate": 90.9
-      },
-      {
-        "year": 2024,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2025,
-        "applicants": 62,
-        "passers": 46,
-        "passRate": 74.2
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 20,
-        "passers": 7,
-        "passRate": 35.0
-      },
-      {
-        "year": 2022,
-        "applicants": 5,
-        "passers": 2,
-        "passRate": 40.0
-      },
-      {
-        "year": 2023,
-        "applicants": 47,
-        "passers": 24,
-        "passRate": 51.1
-      },
-      {
-        "year": 2024,
-        "applicants": 15,
-        "passers": 14,
-        "passRate": 93.3
-      },
-      {
-        "year": 2025,
-        "applicants": 35,
-        "passers": 11,
-        "passRate": 31.4
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

@@ -3,91 +3,16 @@
   "name": "건설기계정비기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.-건설기계의 구조 및 기능을 이해하고, 각종 공구 및 시험 장비를 사용하여 건설기계의 결함부위를 점검ㆍ정비할 수있는 능력을 평가(공개문제 참조)"
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}건설기계정비기능사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 시험과목- 필기 : 건설기계점검 및 정비, 안전관리- 실기 :건설기계정비작업(작업형)&#9314;검정방법 - 필기 : 객관식 4지 택일형, 과목당 60문항(60분) - 실기 : 작업형(4시간 정도) &#9315; 합격기준 - 필기 : 100점을 만점으로 하여 60점 이상 - 실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보 안전등급(safety Level) : 4 등급▼위험경고주의관심&middot; 시험장소 구분실내 &middot; 외&middot; 주요시설 및 장비건설기계, 엔진,각종 검사기기 및공구등&middot; 보호구작업복, 장갑 등보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될 수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
-    }
-  ],
+  "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1617,
-        "passers": 861,
-        "passRate": 53.2
-      },
-      {
-        "year": 2022,
-        "applicants": 1483,
-        "passers": 821,
-        "passRate": 55.4
-      },
-      {
-        "year": 2023,
-        "applicants": 1372,
-        "passers": 757,
-        "passRate": 55.2
-      },
-      {
-        "year": 2024,
-        "applicants": 1715,
-        "passers": 984,
-        "passRate": 57.4
-      },
-      {
-        "year": 2025,
-        "applicants": 1796,
-        "passers": 1008,
-        "passRate": 56.1
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 1069,
-        "passers": 602,
-        "passRate": 56.3
-      },
-      {
-        "year": 2022,
-        "applicants": 1051,
-        "passers": 613,
-        "passRate": 58.3
-      },
-      {
-        "year": 2023,
-        "applicants": 866,
-        "passers": 498,
-        "passRate": 57.5
-      },
-      {
-        "year": 2024,
-        "applicants": 953,
-        "passers": 585,
-        "passRate": 61.4
-      },
-      {
-        "year": 2025,
-        "applicants": 1000,
-        "passers": 664,
-        "passRate": 66.4
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

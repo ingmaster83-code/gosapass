@@ -3,78 +3,16 @@
   "name": "방사선비파괴검사기능사",
   "series": "기능사",
   "field": "안전관리",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "35500",
-    "raw": "1차 : 14500, 2차 : 35500"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 494,
-        "passers": 183,
-        "passRate": 37.0
-      },
-      {
-        "year": 2022,
-        "applicants": 352,
-        "passers": 125,
-        "passRate": 35.5
-      },
-      {
-        "year": 2023,
-        "applicants": 243,
-        "passers": 88,
-        "passRate": 36.2
-      },
-      {
-        "year": 2024,
-        "applicants": 350,
-        "passers": 115,
-        "passRate": 32.9
-      },
-      {
-        "year": 2025,
-        "applicants": 366,
-        "passers": 115,
-        "passRate": 31.4
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 237,
-        "passers": 180,
-        "passRate": 75.9
-      },
-      {
-        "year": 2022,
-        "applicants": 137,
-        "passers": 96,
-        "passRate": 70.1
-      },
-      {
-        "year": 2023,
-        "applicants": 82,
-        "passers": 55,
-        "passRate": 67.1
-      },
-      {
-        "year": 2024,
-        "applicants": 111,
-        "passers": 73,
-        "passRate": 65.8
-      },
-      {
-        "year": 2025,
-        "applicants": 108,
-        "passers": 71,
-        "passRate": 65.7
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

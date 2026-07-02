@@ -3,78 +3,16 @@
   "name": "메카트로닉스기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "11000",
-    "practical": "44700",
-    "raw": "1차 : 11000, 2차 : 44700"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 104,
-        "passers": 21,
-        "passRate": 20.2
-      },
-      {
-        "year": 2022,
-        "applicants": 291,
-        "passers": 94,
-        "passRate": 32.3
-      },
-      {
-        "year": 2023,
-        "applicants": 137,
-        "passers": 50,
-        "passRate": 36.5
-      },
-      {
-        "year": 2024,
-        "applicants": 129,
-        "passers": 53,
-        "passRate": 41.1
-      },
-      {
-        "year": 2025,
-        "applicants": 71,
-        "passers": 14,
-        "passRate": 19.7
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 361,
-        "passers": 311,
-        "passRate": 86.1
-      },
-      {
-        "year": 2022,
-        "applicants": 457,
-        "passers": 399,
-        "passRate": 87.3
-      },
-      {
-        "year": 2023,
-        "applicants": 481,
-        "passers": 454,
-        "passRate": 94.4
-      },
-      {
-        "year": 2024,
-        "applicants": 517,
-        "passers": 490,
-        "passRate": 94.8
-      },
-      {
-        "year": 2025,
-        "applicants": 492,
-        "passers": 485,
-        "passRate": 98.6
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

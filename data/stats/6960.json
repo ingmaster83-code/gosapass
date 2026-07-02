@@ -3,78 +3,16 @@
   "name": "선박기관정비기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "33000",
-    "raw": "1차 : 14500, 2차 : 33000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 43,
-        "passers": 14,
-        "passRate": 32.6
-      },
-      {
-        "year": 2022,
-        "applicants": 41,
-        "passers": 14,
-        "passRate": 34.1
-      },
-      {
-        "year": 2023,
-        "applicants": 44,
-        "passers": 20,
-        "passRate": 45.5
-      },
-      {
-        "year": 2024,
-        "applicants": 73,
-        "passers": 34,
-        "passRate": 46.6
-      },
-      {
-        "year": 2025,
-        "applicants": 104,
-        "passers": 64,
-        "passRate": 61.5
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 81,
-        "passers": 77,
-        "passRate": 95.1
-      },
-      {
-        "year": 2022,
-        "applicants": 77,
-        "passers": 73,
-        "passRate": 94.8
-      },
-      {
-        "year": 2023,
-        "applicants": 62,
-        "passers": 56,
-        "passRate": 90.3
-      },
-      {
-        "year": 2024,
-        "applicants": 63,
-        "passers": 54,
-        "passRate": 85.7
-      },
-      {
-        "year": 2025,
-        "applicants": 101,
-        "passers": 82,
-        "passRate": 81.2
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

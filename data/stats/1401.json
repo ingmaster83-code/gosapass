@@ -3,47 +3,16 @@
   "name": "해양환경기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "34200",
-    "raw": "1차 : 19400, 2차 : 34200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 378,
-        "passers": 217,
-        "passRate": 57.4
-      },
-      {
-        "year": 2022,
-        "applicants": 421,
-        "passers": 212,
-        "passRate": 50.4
-      },
-      {
-        "year": 2023,
-        "applicants": 500,
-        "passers": 302,
-        "passRate": 60.4
-      },
-      {
-        "year": 2024,
-        "applicants": 520,
-        "passers": 311,
-        "passRate": 59.8
-      },
-      {
-        "year": 2025,
-        "applicants": 651,
-        "passers": 321,
-        "passRate": 49.3
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

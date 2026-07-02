@@ -3,78 +3,16 @@
   "name": "위험물기능사",
   "series": "기능사",
   "field": "화학",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "17200",
-    "raw": "1차 : 14500, 2차 : 17200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 16322,
-        "passers": 7150,
-        "passRate": 43.8
-      },
-      {
-        "year": 2022,
-        "applicants": 14100,
-        "passers": 5932,
-        "passRate": 42.1
-      },
-      {
-        "year": 2023,
-        "applicants": 16542,
-        "passers": 6668,
-        "passRate": 40.3
-      },
-      {
-        "year": 2024,
-        "applicants": 16981,
-        "passers": 6396,
-        "passRate": 37.7
-      },
-      {
-        "year": 2025,
-        "applicants": 17438,
-        "passers": 6848,
-        "passRate": 39.3
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 9188,
-        "passers": 4070,
-        "passRate": 44.3
-      },
-      {
-        "year": 2022,
-        "applicants": 8238,
-        "passers": 3415,
-        "passRate": 41.5
-      },
-      {
-        "year": 2023,
-        "applicants": 8735,
-        "passers": 3249,
-        "passRate": 37.2
-      },
-      {
-        "year": 2024,
-        "applicants": 7864,
-        "passers": 3599,
-        "passRate": 45.8
-      },
-      {
-        "year": 2025,
-        "applicants": 8400,
-        "passers": 3914,
-        "passRate": 46.6
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

@@ -3,78 +3,16 @@
   "name": "양화장치운전기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "24400",
-    "raw": "1차 : 14500, 2차 : 24400"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 138,
-        "passers": 76,
-        "passRate": 55.1
-      },
-      {
-        "year": 2022,
-        "applicants": 192,
-        "passers": 129,
-        "passRate": 67.2
-      },
-      {
-        "year": 2023,
-        "applicants": 276,
-        "passers": 162,
-        "passRate": 58.7
-      },
-      {
-        "year": 2024,
-        "applicants": 264,
-        "passers": 159,
-        "passRate": 60.2
-      },
-      {
-        "year": 2025,
-        "applicants": 252,
-        "passers": 150,
-        "passRate": 59.5
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 117,
-        "passers": 58,
-        "passRate": 49.6
-      },
-      {
-        "year": 2022,
-        "applicants": 151,
-        "passers": 74,
-        "passRate": 49.0
-      },
-      {
-        "year": 2023,
-        "applicants": 208,
-        "passers": 85,
-        "passRate": 40.9
-      },
-      {
-        "year": 2024,
-        "applicants": 233,
-        "passers": 104,
-        "passRate": 44.6
-      },
-      {
-        "year": 2025,
-        "applicants": 217,
-        "passers": 84,
-        "passRate": 38.7
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

@@ -3,78 +3,16 @@
   "name": "화훼장식기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "56300",
-    "raw": "1차 : 19400, 2차 : 56300"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 348,
-        "passers": 289,
-        "passRate": 83.0
-      },
-      {
-        "year": 2022,
-        "applicants": 279,
-        "passers": 242,
-        "passRate": 86.7
-      },
-      {
-        "year": 2023,
-        "applicants": 336,
-        "passers": 302,
-        "passRate": 89.9
-      },
-      {
-        "year": 2024,
-        "applicants": 350,
-        "passers": 296,
-        "passRate": 84.6
-      },
-      {
-        "year": 2025,
-        "applicants": 314,
-        "passers": 239,
-        "passRate": 76.1
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 342,
-        "passers": 107,
-        "passRate": 31.3
-      },
-      {
-        "year": 2022,
-        "applicants": 291,
-        "passers": 166,
-        "passRate": 57.0
-      },
-      {
-        "year": 2023,
-        "applicants": 303,
-        "passers": 150,
-        "passRate": 49.5
-      },
-      {
-        "year": 2024,
-        "applicants": 304,
-        "passers": 174,
-        "passRate": 57.2
-      },
-      {
-        "year": 2025,
-        "applicants": 282,
-        "passers": 160,
-        "passRate": 56.7
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

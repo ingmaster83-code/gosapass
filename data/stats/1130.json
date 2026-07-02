@@ -3,7 +3,7 @@
   "name": "화약류제조기사",
   "series": "기사",
   "field": "화학",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
     "written": "",
@@ -12,69 +12,7 @@
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 76,
-        "passers": 26,
-        "passRate": 34.2
-      },
-      {
-        "year": 2022,
-        "applicants": 42,
-        "passers": 24,
-        "passRate": 57.1
-      },
-      {
-        "year": 2023,
-        "applicants": 64,
-        "passers": 22,
-        "passRate": 34.4
-      },
-      {
-        "year": 2024,
-        "applicants": 76,
-        "passers": 28,
-        "passRate": 36.8
-      },
-      {
-        "year": 2025,
-        "applicants": 109,
-        "passers": 28,
-        "passRate": 25.7
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 30,
-        "passers": 16,
-        "passRate": 53.3
-      },
-      {
-        "year": 2022,
-        "applicants": 33,
-        "passers": 23,
-        "passRate": 69.7
-      },
-      {
-        "year": 2023,
-        "applicants": 26,
-        "passers": 13,
-        "passRate": 50.0
-      },
-      {
-        "year": 2024,
-        "applicants": 34,
-        "passers": 28,
-        "passRate": 82.4
-      },
-      {
-        "year": 2025,
-        "applicants": 29,
-        "passers": 17,
-        "passRate": 58.6
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

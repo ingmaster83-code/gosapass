@@ -3,78 +3,16 @@
   "name": "해양자원개발기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 23,
-        "passers": 14,
-        "passRate": 60.9
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 30,
-        "passers": 15,
-        "passRate": 50.0
-      },
-      {
-        "year": 2024,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2025,
-        "applicants": 18,
-        "passers": 5,
-        "passRate": 27.8
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 12,
-        "passers": 1,
-        "passRate": 8.3
-      },
-      {
-        "year": 2022,
-        "applicants": 5,
-        "passers": 4,
-        "passRate": 80.0
-      },
-      {
-        "year": 2023,
-        "applicants": 8,
-        "passers": 6,
-        "passRate": 75.0
-      },
-      {
-        "year": 2024,
-        "applicants": 1,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2025,
-        "applicants": 4,
-        "passers": 1,
-        "passRate": 25.0
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

@@ -3,78 +3,16 @@
   "name": "유기농업기능사",
   "series": "기능사",
   "field": "농림어업",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "17200",
-    "raw": "1차 : 14500, 2차 : 17200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 5491,
-        "passers": 3299,
-        "passRate": 60.1
-      },
-      {
-        "year": 2022,
-        "applicants": 4507,
-        "passers": 2514,
-        "passRate": 55.8
-      },
-      {
-        "year": 2023,
-        "applicants": 5617,
-        "passers": 3056,
-        "passRate": 54.4
-      },
-      {
-        "year": 2024,
-        "applicants": 5260,
-        "passers": 2761,
-        "passRate": 52.5
-      },
-      {
-        "year": 2025,
-        "applicants": 4877,
-        "passers": 2554,
-        "passRate": 52.4
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 3338,
-        "passers": 2676,
-        "passRate": 80.2
-      },
-      {
-        "year": 2022,
-        "applicants": 3068,
-        "passers": 1075,
-        "passRate": 35.0
-      },
-      {
-        "year": 2023,
-        "applicants": 3647,
-        "passers": 3094,
-        "passRate": 84.8
-      },
-      {
-        "year": 2024,
-        "applicants": 2919,
-        "passers": 2191,
-        "passRate": 75.1
-      },
-      {
-        "year": 2025,
-        "applicants": 3000,
-        "passers": 1787,
-        "passRate": 59.6
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

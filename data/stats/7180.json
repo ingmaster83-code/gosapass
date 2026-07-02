@@ -3,60 +3,16 @@
   "name": "도배기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "- 자, 칼, 솔 등의 도배 공구를 사용하여 주어진 구조체의 천장, 내벽, 바닥, 기둥, 창호 주위등에 도배지등을 재단, 풀 및 접착제 등을 사용하여 부착하는 능력을 평가(공개도면을 참조)"
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}도배기능사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 시험과목 - 실기 : 도배작업 &#9314; 검정방법 - 실기 : 작업형(3시간 20분 정도)&#9315;합격기준 - 100점 만점에 60점 이상  안전등급(Safety Level) : 1등급   ▼위험경고주의관심 &bull; 시험장소 구분 실내  &bull; 주요시설 및 장비재단칼, 풀솔, 말비계 &bull; 보호구 해당사항 없음"
-    }
-  ],
+  "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 4182,
-        "passers": 1624,
-        "passRate": 38.8
-      },
-      {
-        "year": 2022,
-        "applicants": 4688,
-        "passers": 1736,
-        "passRate": 37.0
-      },
-      {
-        "year": 2023,
-        "applicants": 5527,
-        "passers": 2361,
-        "passRate": 42.7
-      },
-      {
-        "year": 2024,
-        "applicants": 5169,
-        "passers": 2308,
-        "passRate": 44.7
-      },
-      {
-        "year": 2025,
-        "applicants": 5787,
-        "passers": 2726,
-        "passRate": 47.1
-      }
-    ]
+    "practical": []
   }
 }

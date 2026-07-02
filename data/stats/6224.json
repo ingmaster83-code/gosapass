@@ -3,78 +3,16 @@
   "name": "가스텅스텐아크용접기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "81400",
-    "raw": "1차 : 14500, 2차 : 81400"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 6062,
-        "passers": 2496,
-        "passRate": 41.2
-      },
-      {
-        "year": 2024,
-        "applicants": 5864,
-        "passers": 2246,
-        "passRate": 38.3
-      },
-      {
-        "year": 2025,
-        "applicants": 6024,
-        "passers": 2479,
-        "passRate": 41.2
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 2704,
-        "passers": 1711,
-        "passRate": 63.3
-      },
-      {
-        "year": 2024,
-        "applicants": 2871,
-        "passers": 1817,
-        "passRate": 63.3
-      },
-      {
-        "year": 2025,
-        "applicants": 3020,
-        "passers": 1906,
-        "passRate": 63.1
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

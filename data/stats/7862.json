@@ -3,47 +3,16 @@
   "name": "굴착기운전기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "27800",
-    "raw": "1차 : 14500, 2차 : 27800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 64919,
-        "passers": 25244,
-        "passRate": 38.9
-      },
-      {
-        "year": 2022,
-        "applicants": 64021,
-        "passers": 25352,
-        "passRate": 39.6
-      },
-      {
-        "year": 2023,
-        "applicants": 62522,
-        "passers": 23417,
-        "passRate": 37.5
-      },
-      {
-        "year": 2024,
-        "applicants": 55809,
-        "passers": 20573,
-        "passRate": 36.9
-      },
-      {
-        "year": 2025,
-        "applicants": 46923,
-        "passers": 17486,
-        "passRate": 37.3
-      }
-    ]
+    "practical": []
   }
 }

@@ -3,78 +3,16 @@
   "name": "금속재료시험기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "61600",
-    "raw": "1차 : 14500, 2차 : 61600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 359,
-        "passers": 215,
-        "passRate": 59.9
-      },
-      {
-        "year": 2022,
-        "applicants": 264,
-        "passers": 123,
-        "passRate": 46.6
-      },
-      {
-        "year": 2023,
-        "applicants": 406,
-        "passers": 190,
-        "passRate": 46.8
-      },
-      {
-        "year": 2024,
-        "applicants": 398,
-        "passers": 189,
-        "passRate": 47.5
-      },
-      {
-        "year": 2025,
-        "applicants": 376,
-        "passers": 167,
-        "passRate": 44.4
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 251,
-        "passers": 171,
-        "passRate": 68.1
-      },
-      {
-        "year": 2022,
-        "applicants": 139,
-        "passers": 84,
-        "passRate": 60.4
-      },
-      {
-        "year": 2023,
-        "applicants": 186,
-        "passers": 117,
-        "passRate": 62.9
-      },
-      {
-        "year": 2024,
-        "applicants": 171,
-        "passers": 117,
-        "passRate": 68.4
-      },
-      {
-        "year": 2025,
-        "applicants": 186,
-        "passers": 112,
-        "passRate": 60.2
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

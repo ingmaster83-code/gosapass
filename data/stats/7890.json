@@ -3,78 +3,16 @@
   "name": "도자공예기능사",
   "series": "기능사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "31000",
-    "raw": "1차 : 14500, 2차 : 31000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 527,
-        "passers": 360,
-        "passRate": 68.3
-      },
-      {
-        "year": 2022,
-        "applicants": 441,
-        "passers": 270,
-        "passRate": 61.2
-      },
-      {
-        "year": 2023,
-        "applicants": 685,
-        "passers": 430,
-        "passRate": 62.8
-      },
-      {
-        "year": 2024,
-        "applicants": 661,
-        "passers": 393,
-        "passRate": 59.5
-      },
-      {
-        "year": 2025,
-        "applicants": 706,
-        "passers": 439,
-        "passRate": 62.2
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 498,
-        "passers": 429,
-        "passRate": 86.1
-      },
-      {
-        "year": 2022,
-        "applicants": 397,
-        "passers": 344,
-        "passRate": 86.6
-      },
-      {
-        "year": 2023,
-        "applicants": 506,
-        "passers": 440,
-        "passRate": 87.0
-      },
-      {
-        "year": 2024,
-        "applicants": 512,
-        "passers": 453,
-        "passRate": 88.5
-      },
-      {
-        "year": 2025,
-        "applicants": 533,
-        "passers": 441,
-        "passRate": 82.7
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

@@ -3,47 +3,16 @@
   "name": "복어조리기능사",
   "series": "기능사",
   "field": "음식서비스",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "35100",
-    "raw": "1차 : 14500, 2차 : 35100"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1260,
-        "passers": 805,
-        "passRate": 63.9
-      },
-      {
-        "year": 2022,
-        "applicants": 1118,
-        "passers": 711,
-        "passRate": 63.6
-      },
-      {
-        "year": 2023,
-        "applicants": 1424,
-        "passers": 853,
-        "passRate": 59.9
-      },
-      {
-        "year": 2024,
-        "applicants": 1501,
-        "passers": 886,
-        "passRate": 59.0
-      },
-      {
-        "year": 2025,
-        "applicants": 1733,
-        "passers": 1013,
-        "passRate": 58.5
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

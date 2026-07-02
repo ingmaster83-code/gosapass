@@ -3,78 +3,16 @@
   "name": "미용사(피부)",
   "series": "기능사",
   "field": "이용.숙박.여행.오락.스포츠",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "27300",
-    "raw": "1차 : 14500, 2차 : 27300"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 35725,
-        "passers": 17793,
-        "passRate": 49.8
-      },
-      {
-        "year": 2022,
-        "applicants": 33635,
-        "passers": 16079,
-        "passRate": 47.8
-      },
-      {
-        "year": 2023,
-        "applicants": 34502,
-        "passers": 17116,
-        "passRate": 49.6
-      },
-      {
-        "year": 2024,
-        "applicants": 31575,
-        "passers": 15573,
-        "passRate": 49.3
-      },
-      {
-        "year": 2025,
-        "applicants": 31697,
-        "passers": 15020,
-        "passRate": 47.4
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 19869,
-        "passers": 8418,
-        "passRate": 42.4
-      },
-      {
-        "year": 2022,
-        "applicants": 27406,
-        "passers": 11940,
-        "passRate": 43.6
-      },
-      {
-        "year": 2023,
-        "applicants": 27261,
-        "passers": 11215,
-        "passRate": 41.1
-      },
-      {
-        "year": 2024,
-        "applicants": 24535,
-        "passers": 10254,
-        "passRate": 41.8
-      },
-      {
-        "year": 2025,
-        "applicants": 25406,
-        "passers": 9370,
-        "passRate": 36.9
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

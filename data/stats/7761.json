@@ -3,78 +3,16 @@
   "name": "에너지관리기능사",
   "series": "기능사",
   "field": "환경.에너지",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "56700",
-    "raw": "1차 : 14500, 2차 : 56700"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 8854,
-        "passers": 4220,
-        "passRate": 47.7
-      },
-      {
-        "year": 2022,
-        "applicants": 7554,
-        "passers": 3349,
-        "passRate": 44.3
-      },
-      {
-        "year": 2023,
-        "applicants": 8506,
-        "passers": 3680,
-        "passRate": 43.3
-      },
-      {
-        "year": 2024,
-        "applicants": 8610,
-        "passers": 3737,
-        "passRate": 43.4
-      },
-      {
-        "year": 2025,
-        "applicants": 9217,
-        "passers": 3949,
-        "passRate": 42.8
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 5531,
-        "passers": 3590,
-        "passRate": 64.9
-      },
-      {
-        "year": 2022,
-        "applicants": 4401,
-        "passers": 2647,
-        "passRate": 60.1
-      },
-      {
-        "year": 2023,
-        "applicants": 4690,
-        "passers": 2819,
-        "passRate": 60.1
-      },
-      {
-        "year": 2024,
-        "applicants": 4793,
-        "passers": 2943,
-        "passRate": 61.4
-      },
-      {
-        "year": 2025,
-        "applicants": 5140,
-        "passers": 3098,
-        "passRate": 60.3
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

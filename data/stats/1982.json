@@ -3,78 +3,16 @@
   "name": "컬러리스트기사",
   "series": "기사",
   "field": "문화.예술.디자인.방송",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "34000",
-    "raw": "1차 : 19400, 2차 : 34000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 2574,
-        "passers": 1429,
-        "passRate": 55.5
-      },
-      {
-        "year": 2022,
-        "applicants": 1892,
-        "passers": 944,
-        "passRate": 49.9
-      },
-      {
-        "year": 2023,
-        "applicants": 2132,
-        "passers": 1061,
-        "passRate": 49.8
-      },
-      {
-        "year": 2024,
-        "applicants": 2030,
-        "passers": 890,
-        "passRate": 43.8
-      },
-      {
-        "year": 2025,
-        "applicants": 1879,
-        "passers": 871,
-        "passRate": 46.4
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 1569,
-        "passers": 864,
-        "passRate": 55.1
-      },
-      {
-        "year": 2022,
-        "applicants": 1239,
-        "passers": 604,
-        "passRate": 48.7
-      },
-      {
-        "year": 2023,
-        "applicants": 1124,
-        "passers": 521,
-        "passRate": 46.4
-      },
-      {
-        "year": 2024,
-        "applicants": 969,
-        "passers": 542,
-        "passRate": 55.9
-      },
-      {
-        "year": 2025,
-        "applicants": 868,
-        "passers": 612,
-        "passRate": 70.5
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

@@ -3,12 +3,12 @@
   "name": "바이오공정기능사",
   "series": "기능사",
   "field": "화학",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "48000",
-    "raw": "1차 : 14500, 2차 : 48000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {

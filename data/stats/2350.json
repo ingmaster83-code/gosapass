@@ -3,78 +3,16 @@
   "name": "해양조사산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "20800",
-    "raw": "1차 : 19400, 2차 : 20800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 221,
-        "passers": 179,
-        "passRate": 81.0
-      },
-      {
-        "year": 2022,
-        "applicants": 150,
-        "passers": 114,
-        "passRate": 76.0
-      },
-      {
-        "year": 2023,
-        "applicants": 171,
-        "passers": 127,
-        "passRate": 74.3
-      },
-      {
-        "year": 2024,
-        "applicants": 158,
-        "passers": 101,
-        "passRate": 63.9
-      },
-      {
-        "year": 2025,
-        "applicants": 154,
-        "passers": 102,
-        "passRate": 66.2
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 193,
-        "passers": 54,
-        "passRate": 28.0
-      },
-      {
-        "year": 2022,
-        "applicants": 146,
-        "passers": 83,
-        "passRate": 56.8
-      },
-      {
-        "year": 2023,
-        "applicants": 120,
-        "passers": 74,
-        "passRate": 61.7
-      },
-      {
-        "year": 2024,
-        "applicants": 112,
-        "passers": 43,
-        "passRate": 38.4
-      },
-      {
-        "year": 2025,
-        "applicants": 100,
-        "passers": 31,
-        "passRate": 31.0
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

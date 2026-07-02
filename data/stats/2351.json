@@ -3,78 +3,16 @@
   "name": "항로표지산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "31400",
-    "raw": "1차 : 19400, 2차 : 31400"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 35,
-        "passers": 12,
-        "passRate": 34.3
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 17,
-        "passers": 5,
-        "passRate": 29.4
-      },
-      {
-        "year": 2024,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2025,
-        "applicants": 32,
-        "passers": 12,
-        "passRate": 37.5
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 13,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 5,
-        "passers": 2,
-        "passRate": 40.0
-      },
-      {
-        "year": 2023,
-        "applicants": 6,
-        "passers": 3,
-        "passRate": 50.0
-      },
-      {
-        "year": 2024,
-        "applicants": 2,
-        "passers": 2,
-        "passRate": 100.0
-      },
-      {
-        "year": 2025,
-        "applicants": 11,
-        "passers": 3,
-        "passRate": 27.3
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }
