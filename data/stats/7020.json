@@ -3,47 +3,16 @@
   "name": "콘크리트기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "43700",
-    "raw": "1차 : 14500, 2차 : 43700"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 2650,
-        "passers": 1306,
-        "passRate": 49.3
-      },
-      {
-        "year": 2022,
-        "applicants": 2453,
-        "passers": 1175,
-        "passRate": 47.9
-      },
-      {
-        "year": 2023,
-        "applicants": 2614,
-        "passers": 1298,
-        "passRate": 49.7
-      },
-      {
-        "year": 2024,
-        "applicants": 2466,
-        "passers": 1203,
-        "passRate": 48.8
-      },
-      {
-        "year": 2025,
-        "applicants": 2548,
-        "passers": 1216,
-        "passRate": 47.7
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

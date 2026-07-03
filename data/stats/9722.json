@@ -3,38 +3,14 @@
   "name": "외국어번역행정사",
   "series": "행정사",
   "field": "",
-  "updated": "2026-06-23",
-  "schedule": [
-    {
-      "round": "제14회",
-      "written_reg_start": "2026-04-13",
-      "written_reg_end": "2026-04-17",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-07-01",
-      "prac_reg_start": "2026-07-27",
-      "prac_reg_end": "2026-07-31",
-      "prac_exam_start": "2026-10-03",
-      "prac_exam_end": "2026-10-03",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-07-03",
+  "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [
-    {
-      "type": "응시자격",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}□ 행정사 시험 수험자는 반드시 해당 회차 시험 시행계획 공고문 확인 바랍니다.- 경력, 자격증 취득에 의한 시험 면제자는 서류 심사기간에 서류 제출 및 승인 득한 후,1차 시험 원서접수 기간에 '면제자' 유형으로 접수하여야 함□ 응시자격 (행정사법 시행령 제19조)○ 제한 없음- 다만, 행정사법 시행령 제19조에 따라 부정행위자로 처리되어, 그 처분이 있은 날부터 5년이 지나지 않은 자는 시험에 응시할 수 없음□ 결격사유 (행정사법 제5, 6조)○ 다음 각 호의 어느 하나에 해당하는 자는 행정사가 될 수 없음1) 피성년후견인 또는 피한정후견인2) 파산선고를 받고 복권되지 아니한 사람3) 금고 이상의 실형을 선고받고 그 집행이 끝나거나(집행이 끝난 것으로 보는 경우를 포함한다) 집행이 면제된 날부터 3년이 지나지 아니한 사람4) 금고 이상의 형의 집행유예를 선고받고 그 유예기간이 끝난 날부터 2년이 지나지 아니한 사람5) 금고 이상의 형의 선고유예를 받고 그 유예기간에 있는 사람6) 공무원으로서 징계처분에 따라 파면되거나 해임된 후 3년이 지나지 아니한 사람7) 행정사법 제30조(자격의 취소)에 따라 행정사 자격이 취소된 후 3년이 지나지 아니한 사람※ 결격사유 심사기준일: 최종 시험 시행일※ 행정사법 제5, 6조에 따라 결격사유 심사기준일 기준 행정사가 될 수 없는 사유에 해당하는 것으로 확인된 경우에는 합격을 취소함"
-    },
-    {
-      "type": "시험과목 및 배점",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}"
-    }
-  ],
+  "info": [],
   "stats": {
     "written": [],
     "practical": []

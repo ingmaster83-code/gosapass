@@ -3,47 +3,16 @@
   "name": "자동차차체수리기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "60000",
-    "raw": "1차 : 14500, 2차 : 60000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 938,
-        "passers": 781,
-        "passRate": 83.3
-      },
-      {
-        "year": 2022,
-        "applicants": 680,
-        "passers": 563,
-        "passRate": 82.8
-      },
-      {
-        "year": 2023,
-        "applicants": 694,
-        "passers": 584,
-        "passRate": 84.1
-      },
-      {
-        "year": 2024,
-        "applicants": 676,
-        "passers": 574,
-        "passRate": 84.9
-      },
-      {
-        "year": 2025,
-        "applicants": 905,
-        "passers": 770,
-        "passRate": 85.1
-      }
-    ]
+    "practical": []
   }
 }

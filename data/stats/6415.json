@@ -3,78 +3,16 @@
   "name": "자동화설비기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "22000",
-    "raw": "1차 : 14500, 2차 : 22000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 4672,
-        "passers": 1633,
-        "passRate": 35.0
-      },
-      {
-        "year": 2022,
-        "applicants": 4321,
-        "passers": 900,
-        "passRate": 20.8
-      },
-      {
-        "year": 2023,
-        "applicants": 4436,
-        "passers": 822,
-        "passRate": 18.5
-      },
-      {
-        "year": 2024,
-        "applicants": 4259,
-        "passers": 760,
-        "passRate": 17.8
-      },
-      {
-        "year": 2025,
-        "applicants": 5648,
-        "passers": 1012,
-        "passRate": 17.9
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 2807,
-        "passers": 2065,
-        "passRate": 73.6
-      },
-      {
-        "year": 2022,
-        "applicants": 2097,
-        "passers": 1528,
-        "passRate": 72.9
-      },
-      {
-        "year": 2023,
-        "applicants": 1868,
-        "passers": 1406,
-        "passRate": 75.3
-      },
-      {
-        "year": 2024,
-        "applicants": 1861,
-        "passers": 1454,
-        "passRate": 78.1
-      },
-      {
-        "year": 2025,
-        "applicants": 2286,
-        "passers": 1727,
-        "passRate": 75.5
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

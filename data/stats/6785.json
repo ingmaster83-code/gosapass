@@ -3,78 +3,16 @@
   "name": "전자캐드기능사",
   "series": "기능사",
   "field": "전기.전자",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "22000",
-    "raw": "1차 : 14500, 2차 : 22000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 2877,
-        "passers": 1478,
-        "passRate": 51.4
-      },
-      {
-        "year": 2022,
-        "applicants": 2360,
-        "passers": 1001,
-        "passRate": 42.4
-      },
-      {
-        "year": 2023,
-        "applicants": 2012,
-        "passers": 842,
-        "passRate": 41.8
-      },
-      {
-        "year": 2024,
-        "applicants": 2605,
-        "passers": 956,
-        "passRate": 36.7
-      },
-      {
-        "year": 2025,
-        "applicants": 2230,
-        "passers": 859,
-        "passRate": 38.5
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 1584,
-        "passers": 858,
-        "passRate": 54.2
-      },
-      {
-        "year": 2022,
-        "applicants": 1117,
-        "passers": 625,
-        "passRate": 56.0
-      },
-      {
-        "year": 2023,
-        "applicants": 896,
-        "passers": 507,
-        "passRate": 56.6
-      },
-      {
-        "year": 2024,
-        "applicants": 1074,
-        "passers": 650,
-        "passRate": 60.5
-      },
-      {
-        "year": 2025,
-        "applicants": 1004,
-        "passers": 571,
-        "passRate": 56.9
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

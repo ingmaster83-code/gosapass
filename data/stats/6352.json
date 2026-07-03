@@ -3,78 +3,16 @@
   "name": "철도차량정비기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "22000",
-    "raw": "1차 : 14500, 2차 : 22000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 41,
-        "passers": 9,
-        "passRate": 22.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 139,
-        "passers": 10,
-        "passRate": 7.2
-      },
-      {
-        "year": 2024,
-        "applicants": 188,
-        "passers": 31,
-        "passRate": 16.5
-      },
-      {
-        "year": 2025,
-        "applicants": 193,
-        "passers": 81,
-        "passRate": 42.0
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 8,
-        "passers": 8,
-        "passRate": 100.0
-      },
-      {
-        "year": 2022,
-        "applicants": 1,
-        "passers": 1,
-        "passRate": 100.0
-      },
-      {
-        "year": 2023,
-        "applicants": 10,
-        "passers": 10,
-        "passRate": 100.0
-      },
-      {
-        "year": 2024,
-        "applicants": 25,
-        "passers": 20,
-        "passRate": 80.0
-      },
-      {
-        "year": 2025,
-        "applicants": 77,
-        "passers": 69,
-        "passRate": 89.6
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

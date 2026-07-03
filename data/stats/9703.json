@@ -3,23 +3,14 @@
   "name": "경영지도사(생산관리)",
   "series": "경영지도사",
   "field": "",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "40000",
-    "practical": "40000",
-    "raw": "1차 : 40000, 2차 : 40000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
-  "info": [
-    {
-      "type": "응시자격",
-      "content": "제한없음"
-    },
-    {
-      "type": "시험과목 및 배점",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}ㅇ 제1차 시험 : 중소기업관계법령, 경영학, 회계학개론, 기업진단론, 조사방법론,영어 ㅇ 제2차 시험 (지도분야별로 구분 실시) - 인적자원관리분야(인사관리, 조직행동론, 노사관계론(노동법 포함)), - 재무관리분야(재무관리, 회계학(재무회계.관리회계 포함), 세법(세무회계 포함)) -생산관리분야(생산관리, 품질경영, 경영과학) -마케팅분야(마케팅관리론, 시장조사론, 소비자행동론)ㅇ 1,2차시험 각과목별 100점 만점"
-    }
-  ],
+  "info": [],
   "stats": {
     "written": [],
     "practical": []

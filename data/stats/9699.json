@@ -3,12 +3,12 @@
   "name": "경매사(화훼)",
   "series": "경매사",
   "field": "",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "50000",
-    "practical": "35000",
-    "raw": "1차 : 50000, 2차 : 35000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {

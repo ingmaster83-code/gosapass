@@ -3,78 +3,16 @@
   "name": "제빵기능사",
   "series": "기능사",
   "field": "식품.가공",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "33000",
-    "raw": "1차 : 14500, 2차 : 33000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 55758,
-        "passers": 26213,
-        "passRate": 47.0
-      },
-      {
-        "year": 2022,
-        "applicants": 53382,
-        "passers": 23467,
-        "passRate": 44.0
-      },
-      {
-        "year": 2023,
-        "applicants": 51897,
-        "passers": 22178,
-        "passRate": 42.7
-      },
-      {
-        "year": 2024,
-        "applicants": 49084,
-        "passers": 18072,
-        "passRate": 36.8
-      },
-      {
-        "year": 2025,
-        "applicants": 47934,
-        "passers": 16076,
-        "passRate": 33.5
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 33246,
-        "passers": 16446,
-        "passRate": 49.5
-      },
-      {
-        "year": 2022,
-        "applicants": 32513,
-        "passers": 16070,
-        "passRate": 49.4
-      },
-      {
-        "year": 2023,
-        "applicants": 31450,
-        "passers": 14916,
-        "passRate": 47.4
-      },
-      {
-        "year": 2024,
-        "applicants": 27892,
-        "passers": 13048,
-        "passRate": 46.8
-      },
-      {
-        "year": 2025,
-        "applicants": 25502,
-        "passers": 12099,
-        "passRate": 47.4
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

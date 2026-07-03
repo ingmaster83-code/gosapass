@@ -3,78 +3,16 @@
   "name": "축로기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "62500",
-    "raw": "1차 : 14500, 2차 : 62500"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 112,
-        "passers": 59,
-        "passRate": 52.7
-      },
-      {
-        "year": 2022,
-        "applicants": 80,
-        "passers": 35,
-        "passRate": 43.8
-      },
-      {
-        "year": 2023,
-        "applicants": 114,
-        "passers": 61,
-        "passRate": 53.5
-      },
-      {
-        "year": 2024,
-        "applicants": 78,
-        "passers": 29,
-        "passRate": 37.2
-      },
-      {
-        "year": 2025,
-        "applicants": 97,
-        "passers": 34,
-        "passRate": 35.1
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 66,
-        "passers": 55,
-        "passRate": 83.3
-      },
-      {
-        "year": 2022,
-        "applicants": 37,
-        "passers": 21,
-        "passRate": 56.8
-      },
-      {
-        "year": 2023,
-        "applicants": 69,
-        "passers": 60,
-        "passRate": 87.0
-      },
-      {
-        "year": 2024,
-        "applicants": 30,
-        "passers": 22,
-        "passRate": 73.3
-      },
-      {
-        "year": 2025,
-        "applicants": 37,
-        "passers": 31,
-        "passRate": 83.8
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

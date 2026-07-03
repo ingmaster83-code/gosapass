@@ -3,78 +3,16 @@
   "name": "전산응용기계제도기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "23300",
-    "raw": "1차 : 14500, 2차 : 23300"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 10856,
-        "passers": 5435,
-        "passRate": 50.1
-      },
-      {
-        "year": 2022,
-        "applicants": 8562,
-        "passers": 2840,
-        "passRate": 33.2
-      },
-      {
-        "year": 2023,
-        "applicants": 10180,
-        "passers": 3135,
-        "passRate": 30.8
-      },
-      {
-        "year": 2024,
-        "applicants": 10044,
-        "passers": 3135,
-        "passRate": 31.2
-      },
-      {
-        "year": 2025,
-        "applicants": 9752,
-        "passers": 3355,
-        "passRate": 34.4
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 5464,
-        "passers": 2475,
-        "passRate": 45.3
-      },
-      {
-        "year": 2022,
-        "applicants": 3557,
-        "passers": 1817,
-        "passRate": 51.1
-      },
-      {
-        "year": 2023,
-        "applicants": 3234,
-        "passers": 1620,
-        "passRate": 50.1
-      },
-      {
-        "year": 2024,
-        "applicants": 3100,
-        "passers": 1643,
-        "passRate": 53.0
-      },
-      {
-        "year": 2025,
-        "applicants": 3399,
-        "passers": 1721,
-        "passRate": 50.6
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

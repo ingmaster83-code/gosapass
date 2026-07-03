@@ -3,12 +3,12 @@
   "name": "호텔관리사",
   "series": "호텔관리사",
   "field": "",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "20000",
-    "practical": "20000",
-    "raw": "1차 : 20000, 2차 : 20000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {

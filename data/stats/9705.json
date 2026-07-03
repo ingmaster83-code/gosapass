@@ -3,23 +3,14 @@
   "name": "경영지도사(1차공통)",
   "series": "경영지도사",
   "field": "",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "40000",
+    "written": "",
     "practical": "",
-    "raw": "1차 : 40000,"
+    "raw": ""
   },
-  "info": [
-    {
-      "type": "응시자격",
-      "content": "BODY {\tMARGIN: 0px; FONT-FAMILY: Malgun Gothic; COLOR: #000000; FONT-SIZE: 10pt}P {\tLINE-HEIGHT: 1.2; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px}LI {\tLINE-HEIGHT: 1.2; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px}□ 응시자격o 제한 없음o 결격사유경영지도사 결격사유자1.피성년후견인2. 파산선고를 받고 복권되지 아니한 자3. 금고 이상의 실형의 선고를 받고 그 집행이 종료(종료된 것으로 보는 경우를 포함한다)되거나 집행을 받지 아니하기로  확정된 후 2년이 경과되지 아니한 자4. 금고 이상의 형의 집행유예를 받고 그 집행유예기간 중에 있는 자5. 법률 제53조에 다라 지도사의 등록이 취소된 날부터 2년이 지나지 아니한 자※ 결격사유 기준일은 제2차 시험 발표일이며, 해당자는 시험에 합격하더라도 지도사가 될수 없음"
-    },
-    {
-      "type": "시험과목 및 배점",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}□ 시험과목 및 방법o 1차 시험 구 분교시시험과목문항수시험시간시험방법제1차 시험11. 중소기업관계법령2. 회계학 개론3. 경영학4 기업진단론5. 조사방법론6. 영어(공인어학성적 제출로 대체)과목 당25문항125분 [5과목](09:30~11::35)객 관 식5지택일형o 2차 시험구 분(지도분야)시험과목문항수시험시간시험방법1교시(09:30~11:00)2교시(11:30~13:00)3교시(14:00~15:30)인적자원관리분야인사관리조직행동론노사관계론과목 당논술형 2문항약술형 4문항90분논술형및약술형재무관리분야재무관리회계학세법생산관리분야생산관리품질경영경영과학마케팅분야마케팅관리론시장조사론소비자행동론"
-    }
-  ],
+  "info": [],
   "stats": {
     "written": [],
     "practical": []

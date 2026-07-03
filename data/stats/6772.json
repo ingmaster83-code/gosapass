@@ -3,78 +3,16 @@
   "name": "철도전기신호기능사",
   "series": "기능사",
   "field": "전기.전자",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "99600",
-    "raw": "1차 : 14500, 2차 : 99600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 66,
-        "passers": 9,
-        "passRate": 13.6
-      },
-      {
-        "year": 2022,
-        "applicants": 69,
-        "passers": 12,
-        "passRate": 17.4
-      },
-      {
-        "year": 2023,
-        "applicants": 152,
-        "passers": 34,
-        "passRate": 22.4
-      },
-      {
-        "year": 2024,
-        "applicants": 352,
-        "passers": 87,
-        "passRate": 24.7
-      },
-      {
-        "year": 2025,
-        "applicants": 505,
-        "passers": 203,
-        "passRate": 40.2
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 487,
-        "passers": 474,
-        "passRate": 97.3
-      },
-      {
-        "year": 2022,
-        "applicants": 517,
-        "passers": 486,
-        "passRate": 94.0
-      },
-      {
-        "year": 2023,
-        "applicants": 512,
-        "passers": 484,
-        "passRate": 94.5
-      },
-      {
-        "year": 2024,
-        "applicants": 572,
-        "passers": 540,
-        "passRate": 94.4
-      },
-      {
-        "year": 2025,
-        "applicants": 772,
-        "passers": 704,
-        "passRate": 91.2
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

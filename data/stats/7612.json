@@ -3,47 +3,16 @@
   "name": "잠수기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "44700",
-    "raw": "1차 : 14500, 2차 : 44700"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1092,
-        "passers": 678,
-        "passRate": 62.1
-      },
-      {
-        "year": 2022,
-        "applicants": 1117,
-        "passers": 634,
-        "passRate": 56.8
-      },
-      {
-        "year": 2023,
-        "applicants": 840,
-        "passers": 490,
-        "passRate": 58.3
-      },
-      {
-        "year": 2024,
-        "applicants": 1144,
-        "passers": 697,
-        "passRate": 60.9
-      },
-      {
-        "year": 2025,
-        "applicants": 961,
-        "passers": 595,
-        "passRate": 61.9
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }

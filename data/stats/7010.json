@@ -3,78 +3,16 @@
   "name": "철도토목기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "24700",
-    "raw": "1차 : 14500, 2차 : 24700"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 26,
-        "passers": 6,
-        "passRate": 23.1
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 59,
-        "passers": 20,
-        "passRate": 33.9
-      },
-      {
-        "year": 2024,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2025,
-        "applicants": 61,
-        "passers": 17,
-        "passRate": 27.9
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 10,
-        "passers": 9,
-        "passRate": 90.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 18,
-        "passers": 18,
-        "passRate": 100.0
-      },
-      {
-        "year": 2024,
-        "applicants": 20,
-        "passers": 19,
-        "passRate": 95.0
-      },
-      {
-        "year": 2025,
-        "applicants": 26,
-        "passers": 26,
-        "passRate": 100.0
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

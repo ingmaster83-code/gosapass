@@ -3,78 +3,16 @@
   "name": "천공기운전기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "42900",
-    "raw": "1차 : 14500, 2차 : 42900"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1526,
-        "passers": 1013,
-        "passRate": 66.4
-      },
-      {
-        "year": 2022,
-        "applicants": 1609,
-        "passers": 1273,
-        "passRate": 79.1
-      },
-      {
-        "year": 2023,
-        "applicants": 1891,
-        "passers": 1425,
-        "passRate": 75.4
-      },
-      {
-        "year": 2024,
-        "applicants": 1284,
-        "passers": 996,
-        "passRate": 77.6
-      },
-      {
-        "year": 2025,
-        "applicants": 1067,
-        "passers": 838,
-        "passRate": 78.5
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 1128,
-        "passers": 668,
-        "passRate": 59.2
-      },
-      {
-        "year": 2022,
-        "applicants": 1347,
-        "passers": 754,
-        "passRate": 56.0
-      },
-      {
-        "year": 2023,
-        "applicants": 1652,
-        "passers": 822,
-        "passRate": 49.8
-      },
-      {
-        "year": 2024,
-        "applicants": 1277,
-        "passers": 633,
-        "passRate": 49.6
-      },
-      {
-        "year": 2025,
-        "applicants": 1010,
-        "passers": 546,
-        "passRate": 54.1
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

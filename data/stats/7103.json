@@ -3,78 +3,16 @@
   "name": "플라스틱창호기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "79900",
-    "raw": "1차 : 14500, 2차 : 79900"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 201,
-        "passers": 109,
-        "passRate": 54.2
-      },
-      {
-        "year": 2022,
-        "applicants": 231,
-        "passers": 130,
-        "passRate": 56.3
-      },
-      {
-        "year": 2023,
-        "applicants": 222,
-        "passers": 137,
-        "passRate": 61.7
-      },
-      {
-        "year": 2024,
-        "applicants": 170,
-        "passers": 111,
-        "passRate": 65.3
-      },
-      {
-        "year": 2025,
-        "applicants": 89,
-        "passers": 60,
-        "passRate": 67.4
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 192,
-        "passers": 99,
-        "passRate": 51.6
-      },
-      {
-        "year": 2022,
-        "applicants": 154,
-        "passers": 81,
-        "passRate": 52.6
-      },
-      {
-        "year": 2023,
-        "applicants": 177,
-        "passers": 105,
-        "passRate": 59.3
-      },
-      {
-        "year": 2024,
-        "applicants": 143,
-        "passers": 93,
-        "passRate": 65.0
-      },
-      {
-        "year": 2025,
-        "applicants": 98,
-        "passers": 48,
-        "passRate": 49.0
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

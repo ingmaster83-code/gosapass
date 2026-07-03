@@ -3,78 +3,16 @@
   "name": "전산응용건축제도기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "21000",
-    "raw": "1차 : 14500, 2차 : 21000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 14634,
-        "passers": 9470,
-        "passRate": 64.7
-      },
-      {
-        "year": 2022,
-        "applicants": 12641,
-        "passers": 8062,
-        "passRate": 63.8
-      },
-      {
-        "year": 2023,
-        "applicants": 14857,
-        "passers": 9500,
-        "passRate": 63.9
-      },
-      {
-        "year": 2024,
-        "applicants": 13846,
-        "passers": 9091,
-        "passRate": 65.7
-      },
-      {
-        "year": 2025,
-        "applicants": 13438,
-        "passers": 8934,
-        "passRate": 66.5
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 8011,
-        "passers": 5976,
-        "passRate": 74.6
-      },
-      {
-        "year": 2022,
-        "applicants": 7039,
-        "passers": 4826,
-        "passRate": 68.6
-      },
-      {
-        "year": 2023,
-        "applicants": 7614,
-        "passers": 5534,
-        "passRate": 72.7
-      },
-      {
-        "year": 2024,
-        "applicants": 7192,
-        "passers": 5290,
-        "passRate": 73.6
-      },
-      {
-        "year": 2025,
-        "applicants": 7811,
-        "passers": 5050,
-        "passRate": 64.7
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

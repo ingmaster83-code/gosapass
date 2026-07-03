@@ -3,12 +3,12 @@
   "name": "변리사",
   "series": "변리사",
   "field": "",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "50000",
-    "practical": "50000",
-    "raw": "1차 : 50000, 2차 : 50000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {

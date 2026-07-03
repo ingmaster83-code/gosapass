@@ -3,23 +3,8 @@
   "name": "국가유산수리기능자(도금공)",
   "series": "국가유산수리기능자",
   "field": "",
-  "updated": "2026-06-23",
-  "schedule": [
-    {
-      "round": "제2회",
-      "written_reg_start": "2026-05-11",
-      "written_reg_end": "2026-05-15",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-08-19",
-      "prac_reg_start": "",
-      "prac_reg_end": "",
-      "prac_exam_start": "",
-      "prac_exam_end": "",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-07-03",
+  "schedule": [],
   "fee": {
     "written": "",
     "practical": "",

@@ -3,60 +3,16 @@
   "name": "정보기기운용기능사",
   "series": "기능사",
   "field": "정보통신",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "21800",
-    "raw": "1차 : 14500, 2차 : 21800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 정보통신 광대역 네트워크를 구성하기 위한스위칭 및 라우터 설정, Ping 테스트 등 네트워크 구축을 위한작업 수행- 공개 문제 참조"
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}정보기기운용기능사 출제기준 입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단  &#9313; 시험과목 - 필기 : 1.전자계산기일반 2.정보기기일반 3.정보통신일반 - 실기 : 네트워크 운용기초 실무&#9314;검정방법- 필기 : 전과목 혼합, 객관식 60문항(60분) - 실기 : 작업형(1시간30분정도) &#9315; 합격기준 - 필기 : 100점을 만점으로 하여 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상  안전등급(Safety Level) : 1등급   ▼위험경고주의관심&bull; 시험장소 구분 실내 &bull; 주요시설 및 장비컴퓨터, USB&bull; 보호구 해당사항없음- 보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될 수 있습니다.- 반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
-    }
-  ],
+  "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 1503,
-        "passers": 1053,
-        "passRate": 70.1
-      },
-      {
-        "year": 2022,
-        "applicants": 1060,
-        "passers": 816,
-        "passRate": 77.0
-      },
-      {
-        "year": 2023,
-        "applicants": 1304,
-        "passers": 996,
-        "passRate": 76.4
-      },
-      {
-        "year": 2024,
-        "applicants": 1501,
-        "passers": 1182,
-        "passRate": 78.7
-      },
-      {
-        "year": 2025,
-        "applicants": 2186,
-        "passers": 1886,
-        "passRate": 86.3
-      }
-    ]
+    "practical": []
   }
 }

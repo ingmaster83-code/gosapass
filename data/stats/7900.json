@@ -3,78 +3,16 @@
   "name": "조경기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "30400",
-    "raw": "1차 : 14500, 2차 : 30400"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 18092,
-        "passers": 8401,
-        "passRate": 46.4
-      },
-      {
-        "year": 2022,
-        "applicants": 16486,
-        "passers": 8681,
-        "passRate": 52.7
-      },
-      {
-        "year": 2023,
-        "applicants": 17970,
-        "passers": 9282,
-        "passRate": 51.7
-      },
-      {
-        "year": 2024,
-        "applicants": 17243,
-        "passers": 8260,
-        "passRate": 47.9
-      },
-      {
-        "year": 2025,
-        "applicants": 16335,
-        "passers": 8158,
-        "passRate": 49.9
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 8537,
-        "passers": 7431,
-        "passRate": 87.0
-      },
-      {
-        "year": 2022,
-        "applicants": 8705,
-        "passers": 7474,
-        "passRate": 85.9
-      },
-      {
-        "year": 2023,
-        "applicants": 8846,
-        "passers": 7762,
-        "passRate": 87.7
-      },
-      {
-        "year": 2024,
-        "applicants": 8598,
-        "passers": 6441,
-        "passRate": 74.9
-      },
-      {
-        "year": 2025,
-        "applicants": 8767,
-        "passers": 6551,
-        "passRate": 74.7
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

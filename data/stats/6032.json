@@ -3,7 +3,7 @@
   "name": "컴퓨터응용밀링기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-06-23",
+  "updated": "2026-07-03",
   "schedule": [],
   "fee": {
     "written": "",
@@ -12,69 +12,7 @@
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 8362,
-        "passers": 2574,
-        "passRate": 30.8
-      },
-      {
-        "year": 2022,
-        "applicants": 6752,
-        "passers": 1722,
-        "passRate": 25.5
-      },
-      {
-        "year": 2023,
-        "applicants": 7711,
-        "passers": 1906,
-        "passRate": 24.7
-      },
-      {
-        "year": 2024,
-        "applicants": 8196,
-        "passers": 1812,
-        "passRate": 22.1
-      },
-      {
-        "year": 2025,
-        "applicants": 8772,
-        "passers": 2020,
-        "passRate": 23.0
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 6099,
-        "passers": 3993,
-        "passRate": 65.5
-      },
-      {
-        "year": 2022,
-        "applicants": 3681,
-        "passers": 2478,
-        "passRate": 67.3
-      },
-      {
-        "year": 2023,
-        "applicants": 3995,
-        "passers": 2682,
-        "passRate": 67.1
-      },
-      {
-        "year": 2024,
-        "applicants": 3578,
-        "passers": 2314,
-        "passRate": 64.7
-      },
-      {
-        "year": 2025,
-        "applicants": 4022,
-        "passers": 2562,
-        "passRate": 63.7
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }
