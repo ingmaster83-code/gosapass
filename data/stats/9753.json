@@ -3,23 +3,8 @@
   "name": "1급 청소년상담사",
   "series": "청소년상담사",
   "field": "",
-  "updated": "2026-06-23",
-  "schedule": [
-    {
-      "round": "제25회",
-      "written_reg_start": "2026-07-20",
-      "written_reg_end": "2026-07-24",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-10-21",
-      "prac_reg_start": "2026-11-02",
-      "prac_reg_end": "2026-11-06",
-      "prac_exam_start": "2026-11-30",
-      "prac_exam_end": "2026-12-05",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-07-04",
+  "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
