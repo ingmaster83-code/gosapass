@@ -3,16 +3,78 @@
   "name": "농업기계정비기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-07-09",
+  "updated": "2026-07-16",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "29600",
+    "raw": "1차 : 14500, 2차 : 29600"
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1351,
+        "passers": 860,
+        "passRate": 63.7
+      },
+      {
+        "year": 2022,
+        "applicants": 1222,
+        "passers": 723,
+        "passRate": 59.2
+      },
+      {
+        "year": 2023,
+        "applicants": 1498,
+        "passers": 961,
+        "passRate": 64.2
+      },
+      {
+        "year": 2024,
+        "applicants": 1407,
+        "passers": 897,
+        "passRate": 63.8
+      },
+      {
+        "year": 2025,
+        "applicants": 1286,
+        "passers": 902,
+        "passRate": 70.1
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1074,
+        "passers": 773,
+        "passRate": 72.0
+      },
+      {
+        "year": 2022,
+        "applicants": 936,
+        "passers": 700,
+        "passRate": 74.8
+      },
+      {
+        "year": 2023,
+        "applicants": 997,
+        "passers": 824,
+        "passRate": 82.6
+      },
+      {
+        "year": 2024,
+        "applicants": 948,
+        "passers": 767,
+        "passRate": 80.9
+      },
+      {
+        "year": 2025,
+        "applicants": 906,
+        "passers": 694,
+        "passRate": 76.6
+      }
+    ]
   }
 }

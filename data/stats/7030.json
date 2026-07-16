@@ -3,16 +3,78 @@
   "name": "방수기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-09",
+  "updated": "2026-07-16",
   "schedule": [],
   "fee": {
-    "written": "",
+    "written": "62700",
     "practical": "",
-    "raw": ""
+    "raw": ", 2차 : 62700"
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 37715,
+        "passers": 17437,
+        "passRate": 46.2
+      },
+      {
+        "year": 2022,
+        "applicants": 27718,
+        "passers": 13614,
+        "passRate": 49.1
+      },
+      {
+        "year": 2023,
+        "applicants": 21550,
+        "passers": 11251,
+        "passRate": 52.2
+      },
+      {
+        "year": 2024,
+        "applicants": 18404,
+        "passers": 9391,
+        "passRate": 51.0
+      },
+      {
+        "year": 2025,
+        "applicants": 15872,
+        "passers": 8081,
+        "passRate": 50.9
+      }
+    ]
   }
 }

@@ -3,7 +3,7 @@
   "name": "광산환경기능사",
   "series": "기능사",
   "field": "환경.에너지",
-  "updated": "2026-07-09",
+  "updated": "2026-07-16",
   "schedule": [],
   "fee": {
     "written": "",
@@ -12,7 +12,69 @@
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 3,
+        "passers": 1,
+        "passRate": 33.3
+      },
+      {
+        "year": 2022,
+        "applicants": 5,
+        "passers": 1,
+        "passRate": 20.0
+      },
+      {
+        "year": 2023,
+        "applicants": 5,
+        "passers": 1,
+        "passRate": 20.0
+      },
+      {
+        "year": 2024,
+        "applicants": 10,
+        "passers": 1,
+        "passRate": 10.0
+      },
+      {
+        "year": 2025,
+        "applicants": 9,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1,
+        "passers": 1,
+        "passRate": 100.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 1,
+        "passers": 1,
+        "passRate": 100.0
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ]
   }
 }

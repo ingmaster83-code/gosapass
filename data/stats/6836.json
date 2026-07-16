@@ -3,16 +3,60 @@
   "name": "자동차보수도장기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-07-09",
+  "updated": "2026-07-16",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "143900",
+    "raw": "1차 : 14500, 2차 : 143900"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 작업형 실기시험(공개문제 참조)자동차 펜더의 손상된 표면을 원상회복시키기 위해 작업공정을 결정하고 소재 종류와 도장 특성에 따라 현장 조색작업, 표준 보수도장 작업등과 같은 보수도장 관련 응용작업을 실시하며 보수도장 작업 관련 설비와 장비의 점검 및 유지,안전사항 준수에 대한 직무수행능력을 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}자동차보수도장기능사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 시험과목 - 필기 : 1.자동차보수도장 2.색채 3.도장장비 및 안전- 실기 : 자동차 보수도장실무&#9314; 검정방법 - 필기 : 객관식 4지 택일형 60문항(60분)- 실기 : 작업형(5시간 30분 정도, 100점) &#9315; 합격기준- 필기 : 100점을 만점으로 하여 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상 작업형 실기시험 기본정보 안전등급(safety Level) : 2 등급▼위험경고주의관심&middot; 시험장소 구분실내 &middot; 외&middot; 주요시설 및 장비스프레이건, 건조기, 샌더기 등&middot; 보호구방진 마스크, 방독 마스크, 장갑, 보호의, 안전화, 내용제성 장갑등보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1401,
+        "passers": 1149,
+        "passRate": 82.0
+      },
+      {
+        "year": 2022,
+        "applicants": 968,
+        "passers": 800,
+        "passRate": 82.6
+      },
+      {
+        "year": 2023,
+        "applicants": 1249,
+        "passers": 1046,
+        "passRate": 83.7
+      },
+      {
+        "year": 2024,
+        "applicants": 1113,
+        "passers": 932,
+        "passRate": 83.7
+      },
+      {
+        "year": 2025,
+        "applicants": 1185,
+        "passers": 1024,
+        "passRate": 86.4
+      }
+    ]
   }
 }

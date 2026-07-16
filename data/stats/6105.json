@@ -3,16 +3,78 @@
   "name": "금형기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-07-09",
+  "updated": "2026-07-16",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "50200",
+    "raw": "1차 : 14500, 2차 : 50200"
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 455,
+        "passers": 182,
+        "passRate": 40.0
+      },
+      {
+        "year": 2022,
+        "applicants": 377,
+        "passers": 117,
+        "passRate": 31.0
+      },
+      {
+        "year": 2023,
+        "applicants": 261,
+        "passers": 44,
+        "passRate": 16.9
+      },
+      {
+        "year": 2024,
+        "applicants": 225,
+        "passers": 28,
+        "passRate": 12.4
+      },
+      {
+        "year": 2025,
+        "applicants": 145,
+        "passers": 28,
+        "passRate": 19.3
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 966,
+        "passers": 876,
+        "passRate": 90.7
+      },
+      {
+        "year": 2022,
+        "applicants": 680,
+        "passers": 598,
+        "passRate": 87.9
+      },
+      {
+        "year": 2023,
+        "applicants": 385,
+        "passers": 332,
+        "passRate": 86.2
+      },
+      {
+        "year": 2024,
+        "applicants": 277,
+        "passers": 255,
+        "passRate": 92.1
+      },
+      {
+        "year": 2025,
+        "applicants": 297,
+        "passers": 258,
+        "passRate": 86.9
+      }
+    ]
   }
 }

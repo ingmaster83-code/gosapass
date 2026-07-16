@@ -3,16 +3,89 @@
   "name": "선박기관정비기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-07-09",
-  "schedule": [],
+  "updated": "2026-07-16",
+  "schedule": [
+    {
+      "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-05-11",
+      "prac_reg_end": "2026-05-14",
+      "prac_exam_start": "2026-06-13",
+      "prac_exam_end": "2026-06-24",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-03-16",
+      "written_reg_end": "2026-03-20",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-04-22",
+      "prac_reg_start": "2026-04-27",
+      "prac_reg_end": "2026-04-30",
+      "prac_exam_start": "2026-05-30",
+      "prac_exam_end": "2026-06-14",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 작업형은 주어진 선박기관 및 부속품을 분해, 조립, 계측, 조정하고 강관을 도면대로 절단, 조립하는 작업의 능력을 평가 (공개문제 참조)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 시험과목 - 필기 : 1. 동력기계정비 및 안전관리 2. 기계일반3. 선박이론 및 선박구조 - 실기 : 동력기계정비작업&#9314; 검정방법 - 필기 : 객관식 4지 택일형 60 문항(60분) - 실기 : 작업형(2시간30분 내외, 100점)&#9315; 합격기준 - 필기 :100점 만점으로 하여 60점 이상 - 실기 : 100점 만점으로 하여 60점 이상작업형 실기시험 기본정보안전등급(safety Level) : 3 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비선박엔진 부품, 펌프, 배관조립 수공구, 전기회로구성 공구&middot; 보호구작업복, 장갑 등보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 81,
+        "passers": 77,
+        "passRate": 95.1
+      },
+      {
+        "year": 2022,
+        "applicants": 77,
+        "passers": 73,
+        "passRate": 94.8
+      },
+      {
+        "year": 2023,
+        "applicants": 62,
+        "passers": 56,
+        "passRate": 90.3
+      },
+      {
+        "year": 2024,
+        "applicants": 63,
+        "passers": 54,
+        "passRate": 85.7
+      },
+      {
+        "year": 2025,
+        "applicants": 101,
+        "passers": 82,
+        "passRate": 81.2
+      }
+    ]
   }
 }

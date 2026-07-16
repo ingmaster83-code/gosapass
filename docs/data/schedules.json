@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15",
+  "updated": "2026-07-16",
   "count": 38,
   "items": [
     {
@@ -486,7 +486,7 @@
       "name": "2026년 상시 기능사",
       "round": "제20회",
       "written_reg_start": "2026-06-16",
-      "written_reg_end": "2026-06-16",
+      "written_reg_end": "2026-06-17",
       "written_exam_start": "2026-06-22",
       "written_exam_end": "2026-06-22",
       "written_pass": "2026-06-22",
@@ -516,7 +516,7 @@
       "name": "2026년 상시 기능사",
       "round": "제22회",
       "written_reg_start": "2026-07-14",
-      "written_reg_end": "2026-07-15",
+      "written_reg_end": "2026-07-14",
       "written_exam_start": "2026-07-20",
       "written_exam_end": "2026-07-20",
       "written_pass": "2026-07-20",

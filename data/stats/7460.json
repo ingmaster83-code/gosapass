@@ -3,16 +3,91 @@
   "name": "귀금속가공기능사",
   "series": "기능사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-07-09",
+  "updated": "2026-07-16",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "47900",
+    "raw": "1차 : 14500, 2차 : 47900"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험의 내용은 주어진 귀금속 재료를 이용하여 문제요구 및 도면과 같은 내용의 세공작업을 수행하는 능력을 평가합니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}귀금속가공기능사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시행처 : 한국산업인력공단&#9313; 시험과목- 필기 : 1.귀금속재료 2.귀금속가공 3.작업안전 4.제품관리- 실기 : 귀금속 가공 실무&#9314; 검정방법 - 필기 : 객관식 4지 택일형 60문항(60분) - 실기 : 작업형(5시간 정도, 100점)&#9315; 합격기준- 필기 : 100점을 만점으로 하여 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보 안전등급(safety Level) : 4 등급▼위험경고주의관심&middot; 시험장소 구분실내 &middot; 주요시설 및 장비가스연료 및 불대(토치), 세공톱대, 탁상용 드릴머신, 알코올 램프, 묽은황산&middot; 보호구보안경, 방진마스크, 앞치마보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다. ○ 실기시험 안전작업 교육영상 url: https://youtu.be/k_ygRAIpxss?si=46I1kyk_9oXxbB7H"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 340,
+        "passers": 231,
+        "passRate": 67.9
+      },
+      {
+        "year": 2022,
+        "applicants": 222,
+        "passers": 142,
+        "passRate": 64.0
+      },
+      {
+        "year": 2023,
+        "applicants": 195,
+        "passers": 124,
+        "passRate": 63.6
+      },
+      {
+        "year": 2024,
+        "applicants": 321,
+        "passers": 203,
+        "passRate": 63.2
+      },
+      {
+        "year": 2025,
+        "applicants": 358,
+        "passers": 212,
+        "passRate": 59.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 369,
+        "passers": 308,
+        "passRate": 83.5
+      },
+      {
+        "year": 2022,
+        "applicants": 308,
+        "passers": 257,
+        "passRate": 83.4
+      },
+      {
+        "year": 2023,
+        "applicants": 187,
+        "passers": 161,
+        "passRate": 86.1
+      },
+      {
+        "year": 2024,
+        "applicants": 272,
+        "passers": 203,
+        "passRate": 74.6
+      },
+      {
+        "year": 2025,
+        "applicants": 301,
+        "passers": 253,
+        "passRate": 84.1
+      }
+    ]
   }
 }

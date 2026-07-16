@@ -3,16 +3,91 @@
   "name": "보석감정사",
   "series": "기능사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-07-09",
+  "updated": "2026-07-16",
   "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험의 내용은 공개문제를 참고바랍니다. (시험시간 내에 시험대상 \"다이아몬드 1개\"와 유색보석 72 종류 중에서 랜덤 채취한 \"유색보석 5개\"에 대하여  감정&middot;감별할 수 있는 능력을 평가)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2} 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 시험과목- 필기 : 1. 보석학일반, 2. 다이아몬드감정법, 3. 보석감별법, 4. 보석가공기법- 실기 : 보석감정 실무&#9314; 검정방법 - 필기 : 객관식 4지 택일형 60 문항(60분)- 실기 : 작업형(2시간 정도, 100점)&#9315; 합격기준 - 필기 :100점을 만점으로 하여 60점 이상- 실기 :100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보안전등급(safety Level) : 3 등급▼위험경고주의관심&middot; 시험장소 구분실내 &middot; 주요시설 및 장비현미경, 접촉액(굴절액), 자외선 형광기&middot; 보호구해당사항 없음보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 724,
+        "passers": 504,
+        "passRate": 69.6
+      },
+      {
+        "year": 2022,
+        "applicants": 678,
+        "passers": 447,
+        "passRate": 65.9
+      },
+      {
+        "year": 2023,
+        "applicants": 660,
+        "passers": 474,
+        "passRate": 71.8
+      },
+      {
+        "year": 2024,
+        "applicants": 573,
+        "passers": 317,
+        "passRate": 55.3
+      },
+      {
+        "year": 2025,
+        "applicants": 687,
+        "passers": 384,
+        "passRate": 55.9
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 469,
+        "passers": 327,
+        "passRate": 69.7
+      },
+      {
+        "year": 2022,
+        "applicants": 476,
+        "passers": 331,
+        "passRate": 69.5
+      },
+      {
+        "year": 2023,
+        "applicants": 493,
+        "passers": 345,
+        "passRate": 70.0
+      },
+      {
+        "year": 2024,
+        "applicants": 330,
+        "passers": 208,
+        "passRate": 63.0
+      },
+      {
+        "year": 2025,
+        "applicants": 413,
+        "passers": 298,
+        "passRate": 72.2
+      }
+    ]
   }
 }

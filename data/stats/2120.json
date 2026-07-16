@@ -3,16 +3,106 @@
   "name": "화약류제조산업기사",
   "series": "기사",
   "field": "화학",
-  "updated": "2026-07-09",
-  "schedule": [],
+  "updated": "2026-07-16",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-12",
+      "written_reg_end": "2026-01-15",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-11",
+      "prac_reg_start": "2026-03-23",
+      "prac_reg_end": "2026-03-26",
+      "prac_exam_start": "2026-04-18",
+      "prac_exam_end": "2026-05-06",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}화약류제조산업기사 출제기준입니다.  메뉴 상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 전문대학 및 대학의 화학공학, 공업화학 등 관련학과 &#9314; 시험과목  - 필기 1. 화학공업양론 2. 단위조작 3. 일반화약학 4. 화약류 안전관리 관계 법규  - 실기 : 화약류제조 실무 &#9315; 검정방법  - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분)  - 실기 : 필답형(2시간, 100점)&#9316; 합격기준  - 필기 : 100점을 만점으로 하여 과목당 40점이상, 전과목 평균 60점 이상  - 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 20,
+        "passers": 9,
+        "passRate": 45.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 19,
+        "passers": 6,
+        "passRate": 31.6
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 37,
+        "passers": 10,
+        "passRate": 27.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 11,
+        "passers": 10,
+        "passRate": 90.9
+      },
+      {
+        "year": 2022,
+        "applicants": 1,
+        "passers": 1,
+        "passRate": 100.0
+      },
+      {
+        "year": 2023,
+        "applicants": 6,
+        "passers": 3,
+        "passRate": 50.0
+      },
+      {
+        "year": 2024,
+        "applicants": 2,
+        "passers": 2,
+        "passRate": 100.0
+      },
+      {
+        "year": 2025,
+        "applicants": 9,
+        "passers": 7,
+        "passRate": 77.8
+      }
+    ]
   }
 }

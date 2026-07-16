@@ -3,16 +3,60 @@
   "name": "농기계운전기능사",
   "series": "기능사",
   "field": "운전.운송",
-  "updated": "2026-07-09",
+  "updated": "2026-07-16",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "23500",
+    "raw": "1차 : 14500, 2차 : 23500"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 작업형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다.-동력경운기, 트랙터 코스운전 및 트레일러 탈부착 작업 - 이앙기, 콤바인, 방제기 및 양수기 등의 조작취급  방법 등을 평가(공개문제 참조)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}농기계운전기능사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 시험과목 - 필기 : 1.농업기계운전 2.농업기계전기 3.농업기계안전관리 - 실기 : 농업기계운전 작업&#9314; 검정방법- 필기 : 전과목 혼합, 객관식 60문항(60분) - 실기 : 작업형(1시간정도) &#9315; 합격기준- 필기 : 100점을 만점으로 하여 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상 작업형 실기시험 기본정보 안전등급(safety Level) : 4 등급▼위험경고주의관심&middot; 시험장소 구분실외&middot; 주요시설 및 장비트랙터, 경운기, 콤바인, 이앙기&middot; 보호구작업복, 작업화보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 772,
+        "passers": 466,
+        "passRate": 60.4
+      },
+      {
+        "year": 2022,
+        "applicants": 708,
+        "passers": 429,
+        "passRate": 60.6
+      },
+      {
+        "year": 2023,
+        "applicants": 780,
+        "passers": 467,
+        "passRate": 59.9
+      },
+      {
+        "year": 2024,
+        "applicants": 792,
+        "passers": 493,
+        "passRate": 62.2
+      },
+      {
+        "year": 2025,
+        "applicants": 820,
+        "passers": 522,
+        "passRate": 63.7
+      }
+    ]
   }
 }

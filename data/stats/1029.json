@@ -3,16 +3,106 @@
   "name": "환경위해관리기사",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-07-09",
-  "schedule": [],
+  "updated": "2026-07-16",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}환경위해관리기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 관련학과 : 대학 및 전문대학의 환경, 화학 관련학과&#9314; 시험과목- 필기 : 1.유해성 확인 및 독성평가2.유해화학물질안전관리, 3.노출평가, 4.위해성평가, 5.위해도 결정 및 관리- 실기 : 위해성 관리실무&#9315; 검정방법- 필기 :객관식 4지 택일형 과목당 20문학(과목당 30분)- 실기 : 필답형(3시간, 100점)&#9316;합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점이상 - 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 426,
+        "passers": 182,
+        "passRate": 42.7
+      },
+      {
+        "year": 2022,
+        "applicants": 325,
+        "passers": 208,
+        "passRate": 64.0
+      },
+      {
+        "year": 2023,
+        "applicants": 306,
+        "passers": 176,
+        "passRate": 57.5
+      },
+      {
+        "year": 2024,
+        "applicants": 277,
+        "passers": 186,
+        "passRate": 67.1
+      },
+      {
+        "year": 2025,
+        "applicants": 203,
+        "passers": 129,
+        "passRate": 63.5
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 322,
+        "passers": 55,
+        "passRate": 17.1
+      },
+      {
+        "year": 2022,
+        "applicants": 263,
+        "passers": 76,
+        "passRate": 28.9
+      },
+      {
+        "year": 2023,
+        "applicants": 217,
+        "passers": 34,
+        "passRate": 15.7
+      },
+      {
+        "year": 2024,
+        "applicants": 209,
+        "passers": 75,
+        "passRate": 35.9
+      },
+      {
+        "year": 2025,
+        "applicants": 156,
+        "passers": 13,
+        "passRate": 8.3
+      }
+    ]
   }
 }

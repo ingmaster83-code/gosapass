@@ -3,16 +3,78 @@
   "name": "콘크리트기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-07-09",
+  "updated": "2026-07-16",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "57100",
+    "raw": "1차 : 19400, 2차 : 57100"
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2182,
+        "passers": 727,
+        "passRate": 33.3
+      },
+      {
+        "year": 2022,
+        "applicants": 2358,
+        "passers": 743,
+        "passRate": 31.5
+      },
+      {
+        "year": 2023,
+        "applicants": 2923,
+        "passers": 862,
+        "passRate": 29.5
+      },
+      {
+        "year": 2024,
+        "applicants": 2853,
+        "passers": 850,
+        "passRate": 29.8
+      },
+      {
+        "year": 2025,
+        "applicants": 3099,
+        "passers": 998,
+        "passRate": 32.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 929,
+        "passers": 610,
+        "passRate": 65.7
+      },
+      {
+        "year": 2022,
+        "applicants": 1040,
+        "passers": 530,
+        "passRate": 51.0
+      },
+      {
+        "year": 2023,
+        "applicants": 1121,
+        "passers": 786,
+        "passRate": 70.1
+      },
+      {
+        "year": 2024,
+        "applicants": 1286,
+        "passers": 631,
+        "passRate": 49.1
+      },
+      {
+        "year": 2025,
+        "applicants": 1341,
+        "passers": 674,
+        "passRate": 50.3
+      }
+    ]
   }
 }

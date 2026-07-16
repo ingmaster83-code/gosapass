@@ -104,7 +104,7 @@
      data-next-label=""
      data-next-date="">
   <div class="banner-label">제3회 실기 원서접수 시작</div>
-  <div class="banner-dday">D-12</div>
+  <div class="banner-dday">D-11</div>
   <div class="banner-desc">2026-07-27</div>
   <div class="banner-next"></div>
 </div>
@@ -182,7 +182,7 @@
                 <td class="td-round">제3회</td>
                 <td><span class="date-chip done">06-08~06-11</span></td>
                 <td><span class="date-chip done">06-27</span></td>
-                <td><span class="date-chip">07-15</span></td>
+                <td><span class="date-chip done">07-15</span></td>
                 <td><span class="date-chip">07-27~07-30</span></td>
                 <td><span class="date-chip">08-29~09-16</span></td>
                 <td><span class="date-chip">10-02</span></td>
@@ -216,8 +216,44 @@
 
       <!-- 출제경향 -->
 
+      <div class="content-section">
+        <h2>출제경향</h2>
+        <div class="info-card" style="padding:20px 24px;border-left:3px solid var(--primary);">
+          <p style="font-size:0.9375rem;line-height:1.85;color:var(--text-primary);">- 필기시험의 내용은 고객만족&gt;자료실의 출제기준을 참고 바랍니다.- 실기시험은 멀티미디어(동영상) 시험 및 작업형 시험(공유압회로 구성작업, 용접 및 조립 작업)으로 평가합니다.(작업형 실기시험 공개문제 참조)</p>
+        </div>
+      </div>
+
 
       <!-- 합격률 차트 -->
+
+      <div class="content-section">
+        <h2>연도별 합격률</h2>
+        <div class="chart-grid">
+          <div class="chart-box">
+            <h3>필기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="writtenChart"></canvas>
+            </div>
+          </div>
+          <div class="chart-box">
+            <h3>실기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="practicalChart"></canvas>
+            </div>
+          </div>
+        </div>
+
+        <div class="ad-wrap" style="margin-top:24px;">
+            <div class="ad-block ad-leaderboard">728 × 90 광고 영역</div>
+        </div>
+      </div>
+
+      <div class="content-section">
+        <h2>연도별 응시자수 추이</h2>
+        <div class="chart-wrap-wide">
+          <canvas id="applicantsChart"></canvas>
+        </div>
+      </div>
 
 
       <!-- 난이도 -->
@@ -233,7 +269,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-machine" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-1</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">접수중</span>
 
             </div>
             <div class="related-name">건설기계기술사</div>
@@ -244,7 +280,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-machine" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-1</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">접수중</span>
 
             </div>
             <div class="related-name">공조냉동기계기술사</div>
@@ -255,7 +291,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-machine" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-1</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">접수중</span>
 
             </div>
             <div class="related-name">금형기술사</div>
@@ -296,7 +332,25 @@
         </div>
 
 
+        <div class="info-row">
+          <span class="info-label">최근 응시자</span>
+          <span class="info-value">1,924명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
 
+
+        <div class="info-row">
+          <span class="info-label">최근 합격자</span>
+          <span class="info-value">1,269명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
+
+
+
+
+
+        <div class="info-row">
+          <span class="info-label">실기 합격률 추이</span>
+          <span class="info-value" style="font-size:0.8125rem;color:#16A34A;">↑ 11.7%p 상승</span>
+        </div>
 
 
         <a href="https://wooagosa.wooahouse.com/" target="_blank" rel="noopener"
@@ -363,6 +417,13 @@
   </div>
 </footer>
 
+
+<!-- 차트 데이터 -->
+<script id="stats-data" type="application/json">
+[{"year": 2021, "practicalApplicants": 2648, "practicalPassRate": 51.9, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2022, "practicalApplicants": 2581, "practicalPassRate": 53.9, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2023, "practicalApplicants": 2405, "practicalPassRate": 54.3, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2024, "practicalApplicants": 2649, "practicalPassRate": 54.1, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2025, "practicalApplicants": 1924, "practicalPassRate": 66.0, "writtenApplicants": 0, "writtenPassRate": 0}]
+</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="/js/detail.js?v=2"></script>
 
 
 </body>

@@ -3,16 +3,60 @@
   "name": "염색기능사(날염)",
   "series": "기능사",
   "field": "섬유.의복",
-  "updated": "2026-07-09",
+  "updated": "2026-07-16",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "54100",
+    "raw": "1차 : 14500, 2차 : 54100"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}섬유원료에 관한 기초지식과 각종 섬유의 물성을 파악하고, 염료와 안료 및 각종 조제와 염료의 성질 등에 관한 전반적 인 이론지식을 습득하여 침염작업과 날염작업 등의 내용을 평가(실기시험은 날염작업만 평가)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313;시험과목 - 필기 : 1. 섬유원료 2. 침염 3. 날염 - 실기 : 날염 작업(작업형) &#9314;검정방법 - 필기 : 객관식 4지 택일형(60분) - 실기 : 작업형(5시간 정도) &#9315;합격기준 : 100점 만점에 60점 이상득점자 &#9316;응시자격 : 제한 없음작업형 실기시험 기본정보 안전등급(safety Level) : 1 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비-&middot; 보호구실험복(흰색까운)실험복 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 25,
+        "passers": 25,
+        "passRate": 100.0
+      },
+      {
+        "year": 2022,
+        "applicants": 22,
+        "passers": 22,
+        "passRate": 100.0
+      },
+      {
+        "year": 2023,
+        "applicants": 17,
+        "passers": 17,
+        "passRate": 100.0
+      },
+      {
+        "year": 2024,
+        "applicants": 18,
+        "passers": 18,
+        "passRate": 100.0
+      },
+      {
+        "year": 2025,
+        "applicants": 19,
+        "passers": 19,
+        "passRate": 100.0
+      }
+    ]
   }
 }

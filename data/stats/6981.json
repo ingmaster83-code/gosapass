@@ -3,16 +3,93 @@
   "name": "공간정보융합기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-09",
-  "schedule": [],
+  "updated": "2026-07-16",
+  "schedule": [
+    {
+      "round": "제4회",
+      "written_reg_start": "2026-08-24",
+      "written_reg_end": "2026-08-27",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-10-07",
+      "prac_reg_start": "2026-10-12",
+      "prac_reg_end": "2026-10-15",
+      "prac_exam_start": "2026-11-14",
+      "prac_exam_end": "2026-12-02",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "17200",
+    "raw": "1차 : 14500, 2차 : 17200"
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 435,
+        "passers": 203,
+        "passRate": 46.7
+      },
+      {
+        "year": 2024,
+        "applicants": 213,
+        "passers": 93,
+        "passRate": 43.7
+      },
+      {
+        "year": 2025,
+        "applicants": 166,
+        "passers": 90,
+        "passRate": 54.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 118,
+        "passers": 68,
+        "passRate": 57.6
+      },
+      {
+        "year": 2024,
+        "applicants": 94,
+        "passers": 46,
+        "passRate": 48.9
+      },
+      {
+        "year": 2025,
+        "applicants": 100,
+        "passers": 39,
+        "passRate": 39.0
+      }
+    ]
   }
 }

@@ -3,16 +3,91 @@
   "name": "미용사(일반)",
   "series": "기능사",
   "field": "이용.숙박.여행.오락.스포츠",
-  "updated": "2026-07-09",
+  "updated": "2026-07-16",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "24900",
+    "raw": "1차 : 14500, 2차 : 24900"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 헤어샴푸, 헤어커트, 헤어펌, 헤어세팅,헤어컬러링 등 미용작업의 숙련도, 정확성 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}미용사(일반) 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 시험과목- 필기 : 헤어스타일연출 및 두피모발관리(공중위생관리학, 피부의 이해, 화장품 분류 포함)등에 관한 사항- 실기 :미용실무&#9314; 검정방법- 필기 : 객관식 4지 택일형, 60문항(60분)- 실기 : 작업형(2시간 25분 정도, 100점)&#9315; 합격기준 - 필기 :100점을 만점으로 하여 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보 안전등급(safety Level) : 1 등급▼위험경고주의관심&middot; 시험장소 구분실내 &middot; 주요시설 및 장비가위 등&middot; 보호구 -보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 55039,
+        "passers": 19907,
+        "passRate": 36.2
+      },
+      {
+        "year": 2022,
+        "applicants": 45168,
+        "passers": 15226,
+        "passRate": 33.7
+      },
+      {
+        "year": 2023,
+        "applicants": 50530,
+        "passers": 14969,
+        "passRate": 29.6
+      },
+      {
+        "year": 2024,
+        "applicants": 53456,
+        "passers": 16020,
+        "passRate": 30.0
+      },
+      {
+        "year": 2025,
+        "applicants": 53799,
+        "passers": 15920,
+        "passRate": 29.6
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 35799,
+        "passers": 13613,
+        "passRate": 38.0
+      },
+      {
+        "year": 2022,
+        "applicants": 29585,
+        "passers": 11495,
+        "passRate": 38.9
+      },
+      {
+        "year": 2023,
+        "applicants": 26648,
+        "passers": 10188,
+        "passRate": 38.2
+      },
+      {
+        "year": 2024,
+        "applicants": 27691,
+        "passers": 10263,
+        "passRate": 37.1
+      },
+      {
+        "year": 2025,
+        "applicants": 29056,
+        "passers": 10165,
+        "passRate": 35.0
+      }
+    ]
   }
 }

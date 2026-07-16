@@ -3,16 +3,75 @@
   "name": "궤도장비정비기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-07-09",
-  "schedule": [],
+  "updated": "2026-07-16",
+  "schedule": [
+    {
+      "round": "제4회",
+      "written_reg_start": "2026-08-24",
+      "written_reg_end": "2026-08-27",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-10-07",
+      "prac_reg_start": "2026-10-12",
+      "prac_reg_end": "2026-10-15",
+      "prac_exam_start": "2026-11-14",
+      "prac_exam_end": "2026-12-02",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 궤도장비(전차/장갑차/자주포)에 대한 기초 지식과 정비에 관한 숙련기능을 가지고 제작/제조/조작/운전/보수/정비/검사 또는 작업관리에 관련되는 업무를 수행할 수 있는 능력의 유무를평가(공개문제 참조)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}궤도장비정비기능사 출제기준입니다.  메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시행처 : 한국산업인력공단&#9313; 시험과목- 필기 : 1.궤도장비정비, 2.공유압일반, 3.일반기계공학 및 안전- 실기 : 궤도장비정비작업&#9314; 검정방법 - 필기 : 객관식 4지 택일형 60문항(60분) - 실기 : 작업형 (5시간 정도)&#9315;합격기준 - 필기 : 100점을 만점으로 하여 60점 이상 - 실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보 안전등급(safety Level) : 2 등급▼위험경고주의관심&middot; 시험장소 구분실내 &middot; 외&middot; 주요시설 및 장비K계열 전차, 장갑차, 자주포, 각종 검사기기 및 공구 등&middot; 보호구작업복, 장갑 등보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될 수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 5,
+        "passers": 1,
+        "passRate": 20.0
+      },
+      {
+        "year": 2023,
+        "applicants": 3,
+        "passers": 2,
+        "passRate": 66.7
+      },
+      {
+        "year": 2024,
+        "applicants": 4,
+        "passers": 1,
+        "passRate": 25.0
+      },
+      {
+        "year": 2025,
+        "applicants": 5,
+        "passers": 3,
+        "passRate": 60.0
+      }
+    ]
   }
 }

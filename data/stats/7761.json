@@ -3,16 +3,60 @@
   "name": "에너지관리기능사",
   "series": "기능사",
   "field": "환경.에너지",
-  "updated": "2026-07-09",
+  "updated": "2026-07-16",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "56700",
+    "raw": "1차 : 14500, 2차 : 56700"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다. 에너지관리기능사 - 건물용 및 산업용 보일러와 부대설비의 운영을 위하여 기기의 설치, 배관, 용접 등의 작업과 보일러 연료와 열을 효율적이고 경제적으로 사용하기 위한 관리, 운전, 정비  등의 업무를 수행 (공개문제 참조)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}에너지관리기능사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 시험과목  - 필기 : 열설비 설치, 운전 및 관리 - 실기 :열설비취급실무&#9314; 검정방법  - 필기 : 객관식 4지 택일형 60문항 (60분)  - 실기 : 작업형[적산+종합응용배관작업](3시간 정도)&#9315; 합격기준 - 필기&middot;실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보안전등급(safety Level) : 3 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비용접기, 동력나사절삭기&middot; 보호구안전화, 보안경 등보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 5531,
+        "passers": 3590,
+        "passRate": 64.9
+      },
+      {
+        "year": 2022,
+        "applicants": 4401,
+        "passers": 2647,
+        "passRate": 60.1
+      },
+      {
+        "year": 2023,
+        "applicants": 4690,
+        "passers": 2819,
+        "passRate": 60.1
+      },
+      {
+        "year": 2024,
+        "applicants": 4793,
+        "passers": 2943,
+        "passRate": 61.4
+      },
+      {
+        "year": 2025,
+        "applicants": 5140,
+        "passers": 3098,
+        "passRate": 60.3
+      }
+    ]
   }
 }

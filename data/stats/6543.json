@@ -3,16 +3,103 @@
   "name": "압연기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-07-09",
-  "schedule": [],
+  "updated": "2026-07-16",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-06",
+      "written_reg_end": "2026-01-09",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-01-30",
+      "prac_reg_start": "2026-02-02",
+      "prac_reg_end": "2026-02-05",
+      "prac_exam_start": "2026-03-14",
+      "prac_exam_end": "2026-04-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-03-16",
+      "written_reg_end": "2026-03-20",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-04-22",
+      "prac_reg_start": "2026-04-27",
+      "prac_reg_end": "2026-04-30",
+      "prac_exam_start": "2026-05-30",
+      "prac_exam_end": "2026-06-14",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "- 필답형은 출제기준 참조- 작업형압연및부속설비 또는 이와 유사한 모형이설치된 산업현장이나 교육기관에서실기시험을 집행하며, 총 10문제 중 7문제는 수험자가 문제를 보고 작성하며, 3문제는 장비 또는 그에 따른 부속설비 등을  감독위원이 지적하여 수험자가 직접 지적된 설비 등을 작성하도록 구성되어 있습니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}압연기능사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 시험과목- 필기 : 1.열간압연 2.냉간압연 3.금속제도 4.금속재료- 실기 :압연작업&#9314; 검정방법- 필기 :객관식 4지 택일형 60문항(60분)- 실기 : 작업형(30분 정도)※ [변경사항] 실기시험 검정방법 변경('21.1.1부터)- 현행 : 작업형 (30분 정도)- 변경 : 필답형(1시간 30분)&#9315; 합격기준-100점 만점으로 하여 60점 이상득점자"
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 612,
+        "passers": 29,
+        "passRate": 4.7
+      },
+      {
+        "year": 2022,
+        "applicants": 557,
+        "passers": 117,
+        "passRate": 21.0
+      },
+      {
+        "year": 2023,
+        "applicants": 590,
+        "passers": 197,
+        "passRate": 33.4
+      },
+      {
+        "year": 2024,
+        "applicants": 737,
+        "passers": 264,
+        "passRate": 35.8
+      },
+      {
+        "year": 2025,
+        "applicants": 674,
+        "passers": 214,
+        "passRate": 31.8
+      }
+    ]
   }
 }

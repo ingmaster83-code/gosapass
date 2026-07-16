@@ -3,16 +3,106 @@
   "name": "해양자원개발기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-07-09",
-  "schedule": [],
+  "updated": "2026-07-16",
+  "schedule": [
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}해양자원개발기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관력학과 :대학의 해양학과,해양학과, 해양공학과, 해양개발학과, 해양토목학과, 지구해양과학과, 해양자원학과, 해양과학과, 해양에너지자원공학과, 해양계측공학과등&#9314; 시험과목  - 필기 1.해양학개론2.지질해양학3.해양자원학학 4. 탐사공학 5. 해양계측학 - 실기 :해양공학 실무 &#9315; 검정방법  - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분) - 실기 : 필답형(2시간 30분, 100점)&#9316; 합격기준  - 필기 : 100점 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상 - 실기 : 100점 만점 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 23,
+        "passers": 14,
+        "passRate": 60.9
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 30,
+        "passers": 15,
+        "passRate": 50.0
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 18,
+        "passers": 5,
+        "passRate": 27.8
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 12,
+        "passers": 1,
+        "passRate": 8.3
+      },
+      {
+        "year": 2022,
+        "applicants": 5,
+        "passers": 4,
+        "passRate": 80.0
+      },
+      {
+        "year": 2023,
+        "applicants": 8,
+        "passers": 6,
+        "passRate": 75.0
+      },
+      {
+        "year": 2024,
+        "applicants": 1,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 4,
+        "passers": 1,
+        "passRate": 25.0
+      }
+    ]
   }
 }

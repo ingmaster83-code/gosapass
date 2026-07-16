@@ -3,16 +3,93 @@
   "name": "화약류제조기사",
   "series": "기사",
   "field": "화학",
-  "updated": "2026-07-09",
-  "schedule": [],
+  "updated": "2026-07-16",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-12",
+      "written_reg_end": "2026-01-15",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-11",
+      "prac_reg_start": "2026-03-23",
+      "prac_reg_end": "2026-03-26",
+      "prac_exam_start": "2026-04-18",
+      "prac_exam_end": "2026-05-06",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "22600",
+    "raw": "1차 : 19400, 2차 : 22600"
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 76,
+        "passers": 26,
+        "passRate": 34.2
+      },
+      {
+        "year": 2022,
+        "applicants": 42,
+        "passers": 24,
+        "passRate": 57.1
+      },
+      {
+        "year": 2023,
+        "applicants": 64,
+        "passers": 22,
+        "passRate": 34.4
+      },
+      {
+        "year": 2024,
+        "applicants": 76,
+        "passers": 28,
+        "passRate": 36.8
+      },
+      {
+        "year": 2025,
+        "applicants": 109,
+        "passers": 28,
+        "passRate": 25.7
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 30,
+        "passers": 16,
+        "passRate": 53.3
+      },
+      {
+        "year": 2022,
+        "applicants": 33,
+        "passers": 23,
+        "passRate": 69.7
+      },
+      {
+        "year": 2023,
+        "applicants": 26,
+        "passers": 13,
+        "passRate": 50.0
+      },
+      {
+        "year": 2024,
+        "applicants": 34,
+        "passers": 28,
+        "passRate": 82.4
+      },
+      {
+        "year": 2025,
+        "applicants": 29,
+        "passers": 17,
+        "passRate": 58.6
+      }
+    ]
   }
 }

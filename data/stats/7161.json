@@ -3,16 +3,91 @@
   "name": "온수온돌기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-09",
+  "updated": "2026-07-16",
   "schedule": [],
   "fee": {
-    "written": "",
+    "written": "76300",
     "practical": "",
-    "raw": ""
+    "raw": ", 2차 : 76300"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}온수온돌기능사 - 온돌 시공지침에 따라 주어진 도면을 참조하여 온수보일러 및 방열관 연결작업을 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}온수온돌기능사 출제기준입니다.  메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 시험과목 - 실기 :온수온돌작업 &#9314; 검정방법- 실기 : 작업형(3시간정도, 100점) &#9315; 합격기준- 실기 : 100점을 만점으로 하여 60점 이상 안전등급(Safety Level) : 2등급  ▼ 위험경고주의관심 &bull; 시험장소 구분 실내  &bull; 주요시설 및 장비파이프머신, 파이프커터, 동관벤더 등 &bull; 보호구 작업복등- 보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될 수 있습니다.- 반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 17093,
+        "passers": 10039,
+        "passRate": 58.7
+      },
+      {
+        "year": 2022,
+        "applicants": 16582,
+        "passers": 9681,
+        "passRate": 58.4
+      },
+      {
+        "year": 2023,
+        "applicants": 15714,
+        "passers": 9701,
+        "passRate": 61.7
+      },
+      {
+        "year": 2024,
+        "applicants": 15770,
+        "passers": 9715,
+        "passRate": 61.6
+      },
+      {
+        "year": 2025,
+        "applicants": 13503,
+        "passers": 8090,
+        "passRate": 59.9
+      }
+    ]
   }
 }

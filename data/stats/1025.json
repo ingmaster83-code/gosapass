@@ -3,8 +3,23 @@
   "name": "프레스금형기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-07-09",
-  "schedule": [],
+  "updated": "2026-07-16",
+  "schedule": [
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
@@ -12,7 +27,69 @@
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 47,
+        "passers": 16,
+        "passRate": 34.0
+      },
+      {
+        "year": 2022,
+        "applicants": 37,
+        "passers": 13,
+        "passRate": 35.1
+      },
+      {
+        "year": 2023,
+        "applicants": 45,
+        "passers": 22,
+        "passRate": 48.9
+      },
+      {
+        "year": 2024,
+        "applicants": 46,
+        "passers": 12,
+        "passRate": 26.1
+      },
+      {
+        "year": 2025,
+        "applicants": 39,
+        "passers": 12,
+        "passRate": 30.8
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 18,
+        "passers": 6,
+        "passRate": 33.3
+      },
+      {
+        "year": 2022,
+        "applicants": 15,
+        "passers": 7,
+        "passRate": 46.7
+      },
+      {
+        "year": 2023,
+        "applicants": 22,
+        "passers": 6,
+        "passRate": 27.3
+      },
+      {
+        "year": 2024,
+        "applicants": 19,
+        "passers": 11,
+        "passRate": 57.9
+      },
+      {
+        "year": 2025,
+        "applicants": 13,
+        "passers": 6,
+        "passRate": 46.2
+      }
+    ]
   }
 }

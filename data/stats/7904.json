@@ -3,16 +3,120 @@
   "name": "신발제조기능사",
   "series": "기능사",
   "field": "섬유.의복",
-  "updated": "2026-07-09",
-  "schedule": [],
+  "updated": "2026-07-16",
+  "schedule": [
+    {
+      "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-05-11",
+      "prac_reg_end": "2026-05-14",
+      "prac_exam_start": "2026-06-13",
+      "prac_exam_end": "2026-06-24",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "53800",
+    "raw": "1차 : 14500, 2차 : 53800"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}여러 종류의 신발을 디자인하고 인체공학적 측면과 작업 능률성 및 원가절감 측면을 고려하여 신골, 갑피, 밑창 설계 후 제조, 재단, 재봉 및 제화의 과정을 거쳐 각종 형태의 신발을 제작하는 내용 등을 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}신발제조기능사 출제기준입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 시험과목 - 필기: 신발재료, 신발제조, 신발제품검사- 실기 : 신발제작 실무&#9314; 검정방법 - 필기 : 전과목 혼합, 객관식 60문항 (60분) - 실기 : 작업형(3간 30분정도) &#9315; 합격기준 - 필기&middot;실기 : 100점을 만점으로 하여 60점 이상 취득한 자&#9316;응시자격 : 제한 없음 작업형 실기시험 기본정보안전등급(safety Level) : 3 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비재단가위, 재봉기바늘, 재봉기&middot; 보호구핸드시일드 또는 헬멧, 팔덮개, 방진마스크, 안전화, 용접앞치마, 용접장갑 등정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 34,
+        "passers": 25,
+        "passRate": 73.5
+      },
+      {
+        "year": 2022,
+        "applicants": 11,
+        "passers": 8,
+        "passRate": 72.7
+      },
+      {
+        "year": 2023,
+        "applicants": 33,
+        "passers": 20,
+        "passRate": 60.6
+      },
+      {
+        "year": 2024,
+        "applicants": 24,
+        "passers": 17,
+        "passRate": 70.8
+      },
+      {
+        "year": 2025,
+        "applicants": 12,
+        "passers": 10,
+        "passRate": 83.3
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 26,
+        "passers": 21,
+        "passRate": 80.8
+      },
+      {
+        "year": 2022,
+        "applicants": 10,
+        "passers": 10,
+        "passRate": 100.0
+      },
+      {
+        "year": 2023,
+        "applicants": 35,
+        "passers": 34,
+        "passRate": 97.1
+      },
+      {
+        "year": 2024,
+        "applicants": 30,
+        "passers": 29,
+        "passRate": 96.7
+      },
+      {
+        "year": 2025,
+        "applicants": 28,
+        "passers": 28,
+        "passRate": 100.0
+      }
+    ]
   }
 }

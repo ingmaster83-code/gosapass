@@ -3,16 +3,78 @@
   "name": "광산차량기계운전기능사",
   "series": "기능사",
   "field": "광업자원",
-  "updated": "2026-07-09",
+  "updated": "2026-07-16",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "11000",
+    "practical": "31200",
+    "raw": "1차 : 11000, 2차 : 31200"
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 26,
+        "passers": 7,
+        "passRate": 26.9
+      },
+      {
+        "year": 2022,
+        "applicants": 27,
+        "passers": 13,
+        "passRate": 48.1
+      },
+      {
+        "year": 2023,
+        "applicants": 19,
+        "passers": 5,
+        "passRate": 26.3
+      },
+      {
+        "year": 2024,
+        "applicants": 28,
+        "passers": 12,
+        "passRate": 42.9
+      },
+      {
+        "year": 2025,
+        "applicants": 81,
+        "passers": 28,
+        "passRate": 34.6
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 7,
+        "passers": 5,
+        "passRate": 71.4
+      },
+      {
+        "year": 2022,
+        "applicants": 14,
+        "passers": 13,
+        "passRate": 92.9
+      },
+      {
+        "year": 2023,
+        "applicants": 6,
+        "passers": 6,
+        "passRate": 100.0
+      },
+      {
+        "year": 2024,
+        "applicants": 12,
+        "passers": 6,
+        "passRate": 50.0
+      },
+      {
+        "year": 2025,
+        "applicants": 30,
+        "passers": 27,
+        "passRate": 90.0
+      }
+    ]
   }
 }

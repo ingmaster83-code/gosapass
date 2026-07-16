@@ -3,16 +3,60 @@
   "name": "한식조리산업기사",
   "series": "기사",
   "field": "음식서비스",
-  "updated": "2026-07-09",
+  "updated": "2026-07-16",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "52500",
+    "raw": "1차 : 19400, 2차 : 52500"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 작업형으로 시행되며 고객만족>자료실의 공개문제를 참고바랍니다. (※ 요구사항의 내용과 지급된 재료로 과제를 제한시간 내에 만들어 내는 작업으로  주요평가내용은 위생상태 및 안전관리, 조리기술, 작품완성도 등을 평가합니다.)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}한식조리산업기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}1.시 행 처 : 한국산업인력공단2.관련학과 : 대학 및 전문대학의 (외식/호텔/관광)조리학과, 식품영양학과, 가정학과, 고등학교 조리과 등3.시험과목  - 필기 : 1.위생 및 안전관리 2.식재료관리 및 외식경영 3.한식조리  - 실기 : 조리작업4.검정방법  - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분) - 실기 : 작업형(2시간 정도)5.합격기준  - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상(과락있음) - 실기 : 100점을 만점으로 하여 60점 이상 작업형 실기시험 기본정보 안전등급(safety Level) : 4 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비가스레인지, 칼, 도마 등 조리기구&middot; 보호구긴소매 위생복, 앞치마, 안전화(운동화) 등보호구(긴소매 위생복, 안전화(운동화) 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 620,
+        "passers": 162,
+        "passRate": 26.1
+      },
+      {
+        "year": 2022,
+        "applicants": 613,
+        "passers": 181,
+        "passRate": 29.5
+      },
+      {
+        "year": 2023,
+        "applicants": 476,
+        "passers": 160,
+        "passRate": 33.6
+      },
+      {
+        "year": 2024,
+        "applicants": 548,
+        "passers": 180,
+        "passRate": 32.8
+      },
+      {
+        "year": 2025,
+        "applicants": 508,
+        "passers": 146,
+        "passRate": 28.7
+      }
+    ]
   }
 }

@@ -3,16 +3,78 @@
   "name": "반도체설비보전기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-07-09",
+  "updated": "2026-07-16",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "103700",
+    "raw": "1차 : 14500, 2차 : 103700"
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 336,
+        "passers": 111,
+        "passRate": 33.0
+      },
+      {
+        "year": 2022,
+        "applicants": 294,
+        "passers": 91,
+        "passRate": 31.0
+      },
+      {
+        "year": 2023,
+        "applicants": 365,
+        "passers": 86,
+        "passRate": 23.6
+      },
+      {
+        "year": 2024,
+        "applicants": 627,
+        "passers": 168,
+        "passRate": 26.8
+      },
+      {
+        "year": 2025,
+        "applicants": 1483,
+        "passers": 324,
+        "passRate": 21.8
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 193,
+        "passers": 175,
+        "passRate": 90.7
+      },
+      {
+        "year": 2022,
+        "applicants": 183,
+        "passers": 168,
+        "passRate": 91.8
+      },
+      {
+        "year": 2023,
+        "applicants": 207,
+        "passers": 168,
+        "passRate": 81.2
+      },
+      {
+        "year": 2024,
+        "applicants": 513,
+        "passers": 466,
+        "passRate": 90.8
+      },
+      {
+        "year": 2025,
+        "applicants": 758,
+        "passers": 623,
+        "passRate": 82.2
+      }
+    ]
   }
 }
