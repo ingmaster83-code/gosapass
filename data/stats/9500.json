@@ -3,12 +3,12 @@
   "name": "공인노무사",
   "series": "공인노무사",
   "field": "",
-  "updated": "2026-07-10",
+  "updated": "2026-07-17",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "40000",
+    "practical": "55000",
+    "raw": "1차 : 40000, 2차 : 55000, 3차 : 55000"
   },
   "info": [],
   "stats": {

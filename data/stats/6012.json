@@ -3,16 +3,60 @@
   "name": "컴퓨터응용선반기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-07-10",
+  "updated": "2026-07-17",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "36600",
+    "raw": "1차 : 14500, 2차 : 36600"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 정밀한 부품을 가공하기 위하여 가공 도면을 해독하고 작업계획을 수립하며 적합한 공구를 이용하여 내외경 단차,홈 및 테이퍼, 나사 등을 선반과 CNC선반을 운용하여 가공한 후, 공작물을 측정하여 필요시 수정하고, 장비를 점검, 정비, 관리하는 능력을 평가(공개도면 참조)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}컴퓨터응용선반기능사 출제기준 입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 시험과목- 필기 1.도면해독 2.측정 3.선반가공- 실기 :컴퓨터응용선반가공 실무&#9314;검정방법- 필기 : 객관식 4지 택일형 60 문항(60분)- 실기 : 작업형(3시간30분, 100점)&#9315;합격기준- 필기 : 100점을 만점으로 하여 60점 이상- 실기 : 100점을만점으로 하여 60점 이상작업형 실기시험 기본정보안전등급(safety Level) : 3 등급▼위험경고주의관심&middot; 시험장소 구분실내 &middot; 외&middot; 주요시설 및 장비CNC선반, 범용선반, 컴퓨터 등&middot; 보호구보안경, 안전화, 안전보호구 등보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다. ○ 실기시험 안전작업 교육영상 url: https://youtu.be/jmu3CK8Y8n8?si=ULDAQSQIspCONitD"
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 5374,
+        "passers": 3681,
+        "passRate": 68.5
+      },
+      {
+        "year": 2022,
+        "applicants": 3073,
+        "passers": 2091,
+        "passRate": 68.0
+      },
+      {
+        "year": 2023,
+        "applicants": 2830,
+        "passers": 1884,
+        "passRate": 66.6
+      },
+      {
+        "year": 2024,
+        "applicants": 2855,
+        "passers": 1927,
+        "passRate": 67.5
+      },
+      {
+        "year": 2025,
+        "applicants": 3008,
+        "passers": 2024,
+        "passRate": 67.3
+      }
+    ]
   }
 }

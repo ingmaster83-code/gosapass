@@ -3,14 +3,38 @@
   "name": "박물관및미술관준학예사",
   "series": "박물관 및 미술관 준학예사",
   "field": "",
-  "updated": "2026-07-10",
-  "schedule": [],
+  "updated": "2026-07-17",
+  "schedule": [
+    {
+      "round": "제27회",
+      "written_reg_start": "2026-10-12",
+      "written_reg_end": "2026-10-16",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-12-23",
+      "prac_reg_start": "",
+      "prac_reg_end": "",
+      "prac_exam_start": "",
+      "prac_exam_end": "",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
+    "written": "30000",
     "practical": "",
-    "raw": ""
+    "raw": "1차 : 30000,"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "응시자격",
+      "content": "BODY {\tMARGIN: 0px; FONT-FAMILY: 굴림; COLOR: #000000; FONT-SIZE: 10pt}P {\tLINE-HEIGHT: 1.2; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px}LI {\tLINE-HEIGHT: 1.2; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px}□ 응시자격o 제한 없음"
+    },
+    {
+      "type": "시험과목 및 배점",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}□ 시험과목 및 방법(준학예사) 구분시 험 과 목문항수시험방법공통과목o박물관학각 40문항객관식 4지택일형 선택과목o 고고학, 미술사학, 예술학, 민속학, 서지학, 한국사, 인류학, 자연사, 과학사 문화사, 보존과학, 전시기획론,, 문학사중 택2 [13개 과목]각 2문항(총 4문항)논술형o 시험방법- 정학예사(1급/2급/3급) : 박물관 &middot; 미술관 학예사 운영위원회의 서류심사를 거쳐 문화체육관광부 명의의  자격증 부여 - 준학예사 : 준학예사 필기시험에 합격한 자에 한하여 실무경력 등에 관한 박물관 &middot; 미술관 학예사 운영위원회의  심사를 거쳐 문화체육관광부 명의의 자격증 부여"
+    }
+  ],
   "stats": {
     "written": [],
     "practical": []

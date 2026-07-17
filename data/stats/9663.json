@@ -3,14 +3,38 @@
   "name": "호텔관리사",
   "series": "호텔관리사",
   "field": "",
-  "updated": "2026-07-10",
-  "schedule": [],
+  "updated": "2026-07-17",
+  "schedule": [
+    {
+      "round": "제26회",
+      "written_reg_start": "2026-09-14",
+      "written_reg_end": "2026-09-18",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-12-02",
+      "prac_reg_start": "2026-09-14",
+      "prac_reg_end": "2026-09-18",
+      "prac_exam_start": "2026-12-12",
+      "prac_exam_end": "2026-12-12",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "20000",
+    "practical": "20000",
+    "raw": "1차 : 20000, 2차 : 20000"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "응시자격",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}□ 응시자격o 관광종사원 중 호텔관리사 시험에 응시할 수 있는 자격은 다음과 같음1) 호텔서비스사 또는 조리사 자격을 취득한 후 관광숙박업소에서 3년 이상 종사한 경력이 있는 자2) 「고등교육법」에 의한 전문대학의 관광분야 학과를 졸업한 자(졸업예정자를 포함한다) 또는 관광분야의 과목을 이수하여  다른 법령에서 이와 동등한 학력이 있다고 인정되는 자3) 「고등교육법」에 의한 대학을 졸업한 자(졸업예정자를 포함한다) 또는 다른 법령에서 이와 동등 이상의 학력이 있다고 인정되는 자4) 「초&middot;중등교육법」에 의한 고등기술학교의 관광분야를 전공하는과의 2년 과정 이상을 이수하고 졸업한 자 (졸업예정자를 포함) o 결격사유-> 다음 각 호의 어느 하나에 해당하는 자는 관광사업의 등록 등을 받거나 신고를 할 수 없고, 제15조제1항 및  제2항에 다른 사업계획의 승인을 받을 수 없음. 법인의 경우 그 임원 중에 다음 각 어느 하나에 해당하는 자가  있는 경우에도 또한 같음호텔관리사 결격사유자1. 피성년후견인 &middot; 피한정후견인2. 파산선고를 받고 복권되지 아니한 자3. 이 법에 따라 등록 등 또는 사업계획의 승인이 취소되거나 제36조제1항에 따라 영업소가 폐쇄된 후 2년이 지나지 아니한 자4. 이 법을 위반하여 징역 이상의 실형을 선고받고 그 집행이 끝나거나 집행을 받지 아니하기로 확정된 후 2년이 지나지 아니한 자 또는 형의 집행유예 기간 중에 있는 자"
+    },
+    {
+      "type": "시험과목 및 배점",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}□ 시험과목 및 방법구분시험과목배점문항수시험시간시험방법제1차 시험1. 관광법규2. 관광학개론3. 호텔관리론30%30%40%과목 당25문항(총 75문항)75분(09:30~10:45)객 관 식4지택일형제2차 시험o 제1면접(외국어면접): 발음, 역양, 표현의 정확성 등 해당 외국어 구사능력o 제2면접(호텔실무상식면접): 호텔관련 전문 지식, 관광자원 해설 및 관광안내 시 필요한 각종 상황 대처 능력 등면 접 ※ 외국어시험은 공인외국어성적으로 대체자 격 명TOEICTOEFLTEPS(개편점수)G-TELPFLEXIELTS기타 외국어PBTIBTJPTNIKKENHSK호텔관리사70055776670(367)66(Level 2)6705점6927015급"
+    }
+  ],
   "stats": {
     "written": [],
     "practical": []

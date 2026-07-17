@@ -3,8 +3,37 @@
   "name": "정수시설운영관리사3급",
   "series": "정수시설운영관리사",
   "field": "",
-  "updated": "2026-07-10",
-  "schedule": [],
+  "updated": "2026-07-17",
+  "schedule": [
+    {
+      "round": "제39회",
+      "written_reg_start": "2026-02-23",
+      "written_reg_end": "2026-02-27",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-04",
+      "prac_reg_start": "2026-02-23",
+      "prac_reg_end": "2026-02-27",
+      "prac_exam_start": "2026-03-28",
+      "prac_exam_end": "2026-03-28",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제40회",
+      "written_reg_start": "2026-07-06",
+      "written_reg_end": "2026-07-10",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-11-04",
+      "prac_reg_start": "2026-07-06",
+      "prac_reg_end": "2026-07-10",
+      "prac_exam_start": "2026-08-08",
+      "prac_exam_end": "2026-08-08",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",

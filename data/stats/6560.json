@@ -3,16 +3,91 @@
   "name": "화학분석기능사",
   "series": "기능사",
   "field": "화학",
-  "updated": "2026-07-10",
+  "updated": "2026-07-17",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "38500",
+    "raw": "1차 : 14500, 2차 : 38500"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}분석화학 및 기기분석작업이 부과되며, 화학제품의정량 및 정성분석 능력을 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}화학분석기능사 출제기준 입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시행처 : 한국산업인력공단&#9313; 시험과목- 필기 : 1.일반화학 2.분석화학 3.기기분석 - 실기 : 화학분석작업&#9314; 검정방법- 필기 : 전과목 혼합, 객관식 60문항(60분)- 실기 : 복합형(약 2시간)&#9315; 합격기준- 필기 : 100점을 만점으로 하여 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보 안전등급(safety Level) : 4 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비분광광도계, 유리 실험기구 등&middot; 보호구실험복, 보안경, 니트릴 장갑 등보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될 수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 3455,
+        "passers": 1788,
+        "passRate": 51.8
+      },
+      {
+        "year": 2022,
+        "applicants": 3369,
+        "passers": 995,
+        "passRate": 29.5
+      },
+      {
+        "year": 2023,
+        "applicants": 3874,
+        "passers": 1176,
+        "passRate": 30.4
+      },
+      {
+        "year": 2024,
+        "applicants": 3873,
+        "passers": 1156,
+        "passRate": 29.8
+      },
+      {
+        "year": 2025,
+        "applicants": 4590,
+        "passers": 1717,
+        "passRate": 37.4
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 3118,
+        "passers": 2194,
+        "passRate": 70.4
+      },
+      {
+        "year": 2022,
+        "applicants": 2480,
+        "passers": 1733,
+        "passRate": 69.9
+      },
+      {
+        "year": 2023,
+        "applicants": 2520,
+        "passers": 1762,
+        "passRate": 69.9
+      },
+      {
+        "year": 2024,
+        "applicants": 2447,
+        "passers": 1736,
+        "passRate": 70.9
+      },
+      {
+        "year": 2025,
+        "applicants": 3009,
+        "passers": 2248,
+        "passRate": 74.7
+      }
+    ]
   }
 }

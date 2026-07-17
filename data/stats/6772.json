@@ -3,16 +3,120 @@
   "name": "철도전기신호기능사",
   "series": "기능사",
   "field": "전기.전자",
-  "updated": "2026-07-10",
-  "schedule": [],
+  "updated": "2026-07-17",
+  "schedule": [
+    {
+      "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-05-11",
+      "prac_reg_end": "2026-05-14",
+      "prac_exam_start": "2026-06-13",
+      "prac_exam_end": "2026-06-24",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-03-16",
+      "written_reg_end": "2026-03-20",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-04-22",
+      "prac_reg_start": "2026-04-27",
+      "prac_reg_end": "2026-04-30",
+      "prac_exam_start": "2026-05-30",
+      "prac_exam_end": "2026-06-14",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 철도전기신호기능사신호회로를 결선하는 능력을 평가(공개문제 참조)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 시험과목 - 필기 : 전기이론, 철도신호일반, 전기철도일반- 실기 :전기철도작업 및 철도신호 실무(작업형)&#9314;검정방법 - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분) - 실기 : 작업형(2시간 정도) &#9315;합격기준 - 필기 : 100점을 만점으로 하여 60점 이상 - 실기 : 100점을 만점으로 하여 60점 이상  안전등급(Safety Level) : 3등급 ▼  위험경고주의관심&bull; 시험장소 구분 실내&bull; 주요시설 및 장비드라이버, 펜치, 니퍼, 롱노즈플라이어 등&bull; 보호구 장갑, 안전화 등- 보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될 수 있습니다.- 반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 66,
+        "passers": 9,
+        "passRate": 13.6
+      },
+      {
+        "year": 2022,
+        "applicants": 69,
+        "passers": 12,
+        "passRate": 17.4
+      },
+      {
+        "year": 2023,
+        "applicants": 152,
+        "passers": 34,
+        "passRate": 22.4
+      },
+      {
+        "year": 2024,
+        "applicants": 352,
+        "passers": 87,
+        "passRate": 24.7
+      },
+      {
+        "year": 2025,
+        "applicants": 505,
+        "passers": 203,
+        "passRate": 40.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 487,
+        "passers": 474,
+        "passRate": 97.3
+      },
+      {
+        "year": 2022,
+        "applicants": 517,
+        "passers": 486,
+        "passRate": 94.0
+      },
+      {
+        "year": 2023,
+        "applicants": 512,
+        "passers": 484,
+        "passRate": 94.5
+      },
+      {
+        "year": 2024,
+        "applicants": 572,
+        "passers": 540,
+        "passRate": 94.4
+      },
+      {
+        "year": 2025,
+        "applicants": 772,
+        "passers": 704,
+        "passRate": 91.2
+      }
+    ]
   }
 }

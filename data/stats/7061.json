@@ -3,16 +3,60 @@
   "name": "전산응용건축제도기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-10",
+  "updated": "2026-07-17",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "21000",
+    "raw": "1차 : 14500, 2차 : 21000"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}-건축물의 기본설계도 또는 계획설계도에 따라 컴퓨터를 사용하여 건축설계에서 의도하는 바를 현장에 필요한 도면으로 표현하는 능력을 평가- 2024년 시행되는 전산응용건축제도기능사 실기시험문제는 2023년 시행된 문제와 동일한 유형으로 출제될 예정임"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}전산응용건축제도기능사 출제기준 입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 시험과목 - 필기 : 1.건축계획 및 제도 2.건축구조 3.건축재료실기 : 전산응용건축제도작업 &#9314; 검정방법 - 필기 : 객관식 4지 택일형 60문항(60분)실기 : 작업형(4시간정도 내외) &#9315;합격기준 - 100점 만점으로 60점 이상 득점자 안전등급(Safety Level) : 1등급   ▼위험경고주의관심 &bull; 시험장소 구분 실내  &bull; 주요시설 및 장비컴퓨터, 프린터 &bull; 보호구 해당사항 없음"
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 8011,
+        "passers": 5976,
+        "passRate": 74.6
+      },
+      {
+        "year": 2022,
+        "applicants": 7039,
+        "passers": 4826,
+        "passRate": 68.6
+      },
+      {
+        "year": 2023,
+        "applicants": 7614,
+        "passers": 5534,
+        "passRate": 72.7
+      },
+      {
+        "year": 2024,
+        "applicants": 7192,
+        "passers": 5290,
+        "passRate": 73.6
+      },
+      {
+        "year": 2025,
+        "applicants": 7811,
+        "passers": 5050,
+        "passRate": 64.7
+      }
+    ]
   }
 }

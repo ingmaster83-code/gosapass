@@ -3,12 +3,12 @@
   "name": "관세사",
   "series": "관세사",
   "field": "",
-  "updated": "2026-07-10",
+  "updated": "2026-07-17",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "30000",
+    "practical": "30000",
+    "raw": "1차 : 30000, 2차 : 30000"
   },
   "info": [],
   "stats": {

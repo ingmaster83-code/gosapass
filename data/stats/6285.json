@@ -3,16 +3,91 @@
   "name": "자동차차체수리기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-07-10",
+  "updated": "2026-07-17",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "60000",
+    "raw": "1차 : 14500, 2차 : 60000"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 작업형 실기시험(공개문제 참조)자동차 차체의 노후 및 사고 등으로 차체가 손상된 경우에 차체수리용 공구와 기기를 사용하여 손상된 차체를 원래 형태로 복구하며 이상부품을 확인 및 교환, 수리하고 안전사항 등을 준수하는직무 수행능력을 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}자동차차체수리기능사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단  &#9313; 시험과목 - 필기 :1.차체구조 2.차체수리 3.차체장비- 실기 : 자동차 차체수리작업 &#9314;검정방법- 필기 :객관식 4지 택일형 60문항(60분)- 실기 : 작업형 (6시간정도, 100점) &#9315; 합격기준- 필기 : 100점을 만점으로 하여 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보 안전등급(safety Level) : 4 등급▼위험경고주의관심&middot; 시험장소 구분실내 &middot; 외&middot; 주요시설 및 장비용접기, 그라인더, 차체(섀시) 및 교정기 등&middot; 보호구팔덮개, 방진마스크, 안전화, 용접앞치마, 용접장갑 등보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1754,
+        "passers": 729,
+        "passRate": 41.6
+      },
+      {
+        "year": 2022,
+        "applicants": 1278,
+        "passers": 508,
+        "passRate": 39.7
+      },
+      {
+        "year": 2023,
+        "applicants": 1614,
+        "passers": 651,
+        "passRate": 40.3
+      },
+      {
+        "year": 2024,
+        "applicants": 1475,
+        "passers": 525,
+        "passRate": 35.6
+      },
+      {
+        "year": 2025,
+        "applicants": 1689,
+        "passers": 644,
+        "passRate": 38.1
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 938,
+        "passers": 781,
+        "passRate": 83.3
+      },
+      {
+        "year": 2022,
+        "applicants": 680,
+        "passers": 563,
+        "passRate": 82.8
+      },
+      {
+        "year": 2023,
+        "applicants": 694,
+        "passers": 584,
+        "passRate": 84.1
+      },
+      {
+        "year": 2024,
+        "applicants": 676,
+        "passers": 574,
+        "passRate": 84.9
+      },
+      {
+        "year": 2025,
+        "applicants": 905,
+        "passers": 770,
+        "passRate": 85.1
+      }
+    ]
   }
 }

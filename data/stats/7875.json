@@ -3,16 +3,60 @@
   "name": "지게차운전기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-10",
+  "updated": "2026-07-17",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "25200",
+    "raw": "1차 : 14500, 2차 : 25200"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.-지게차에 대한 기술 지식과 숙련된 운전기능을 갖추어 각종 건설 및 물류 작업에서 적재, 하역, 운반 등의 직무 수행 능력을 평가(공개문제 참조)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}지게차운전기능사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313;시험과목 - 필기 1. 지게차 주행 2.화물 적재3.운반 4. 하역 5.안전관리- 실기 : 지게차운전 작업 및 도로주행&#9314; 검정방법- 필기 : 객관식 4지 택일형60문항(60분)- 실기 : 작업형(4분 정도) &#9315; 합격기준- 필기 : 100점을 만점으로 하여 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보 안전등급(safety Level) : 4 등급▼위험경고주의관심&middot; 시험장소 구분실외&middot; 주요시설 및 장비지게차&middot; 보호구작업복, 작업화보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될 수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 109940,
+        "passers": 54392,
+        "passRate": 49.5
+      },
+      {
+        "year": 2022,
+        "applicants": 112030,
+        "passers": 54158,
+        "passRate": 48.3
+      },
+      {
+        "year": 2023,
+        "applicants": 123766,
+        "passers": 58551,
+        "passRate": 47.3
+      },
+      {
+        "year": 2024,
+        "applicants": 128023,
+        "passers": 59924,
+        "passRate": 46.8
+      },
+      {
+        "year": 2025,
+        "applicants": 126757,
+        "passers": 60745,
+        "passRate": 47.9
+      }
+    ]
   }
 }

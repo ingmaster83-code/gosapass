@@ -3,16 +3,106 @@
   "name": "축로기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-07-10",
-  "schedule": [],
+  "updated": "2026-07-17",
+  "schedule": [
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-03-16",
+      "written_reg_end": "2026-03-20",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-04-22",
+      "prac_reg_start": "2026-04-27",
+      "prac_reg_end": "2026-04-30",
+      "prac_exam_start": "2026-05-30",
+      "prac_exam_end": "2026-06-14",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "62500",
+    "raw": "1차 : 14500, 2차 : 62500"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "- 작업형 정형 내화물이나 부정형 내화물을 축로용 장비 및 수공구를 사용하여 각종 요로를 축조 또는 관리&#8228;보수하는능력을 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 시험과목 - 필기 : 1.금속재료일반 2.금속제도 3.축로법 4.금속제련- 실기 : 축로작업&#9314; 검정방법 - 필기 : 전과목 혼합, 객관식 60문항(60분) - 실기 : 작업형(1시간30분정도)&#9315; 합격기준 - 필기&middot;실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보 안전등급(safety Level) : 2 등급▼위험경고주의관심&middot; 시험장소 구분실내(작업장)&middot; 주요시설 및 장비벽돌 절단기, 몰탈 혼련기, 절단 정 등&middot; 보호구축로용 안전복장, 안전화 등보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 됩니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 112,
+        "passers": 59,
+        "passRate": 52.7
+      },
+      {
+        "year": 2022,
+        "applicants": 80,
+        "passers": 35,
+        "passRate": 43.8
+      },
+      {
+        "year": 2023,
+        "applicants": 114,
+        "passers": 61,
+        "passRate": 53.5
+      },
+      {
+        "year": 2024,
+        "applicants": 78,
+        "passers": 29,
+        "passRate": 37.2
+      },
+      {
+        "year": 2025,
+        "applicants": 97,
+        "passers": 34,
+        "passRate": 35.1
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 66,
+        "passers": 55,
+        "passRate": 83.3
+      },
+      {
+        "year": 2022,
+        "applicants": 37,
+        "passers": 21,
+        "passRate": 56.8
+      },
+      {
+        "year": 2023,
+        "applicants": 69,
+        "passers": 60,
+        "passRate": 87.0
+      },
+      {
+        "year": 2024,
+        "applicants": 30,
+        "passers": 22,
+        "passRate": 73.3
+      },
+      {
+        "year": 2025,
+        "applicants": 37,
+        "passers": 31,
+        "passRate": 83.8
+      }
+    ]
   }
 }

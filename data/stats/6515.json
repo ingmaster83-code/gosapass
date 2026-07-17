@@ -3,16 +3,103 @@
   "name": "제강기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-07-10",
-  "schedule": [],
+  "updated": "2026-07-17",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-06",
+      "written_reg_end": "2026-01-09",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-01-30",
+      "prac_reg_start": "2026-02-02",
+      "prac_reg_end": "2026-02-05",
+      "prac_exam_start": "2026-03-14",
+      "prac_exam_end": "2026-04-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제4회",
+      "written_reg_start": "2026-08-24",
+      "written_reg_end": "2026-08-27",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-10-07",
+      "prac_reg_start": "2026-10-12",
+      "prac_reg_end": "2026-10-15",
+      "prac_exam_start": "2026-11-14",
+      "prac_exam_end": "2026-12-02",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "17200",
+    "raw": "1차 : 14500, 2차 : 17200"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}제강기능사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 시험과목 - 필기 : 1.금속재료 2.금속제도 3.전로제강 4.전기로제강 5.연속주조- 실기 :제강 실무&#9314;검정방법- 필기 :객관식 4지 택일형 60문항(60분)- 실기 : 필답형(1시간 30분, 100점)&#9315; 합격기준- 필기 :100점 만점으로 하여 60점 이상- 실기 :100점 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 592,
+        "passers": 245,
+        "passRate": 41.4
+      },
+      {
+        "year": 2022,
+        "applicants": 488,
+        "passers": 148,
+        "passRate": 30.3
+      },
+      {
+        "year": 2023,
+        "applicants": 574,
+        "passers": 192,
+        "passRate": 33.4
+      },
+      {
+        "year": 2024,
+        "applicants": 611,
+        "passers": 217,
+        "passRate": 35.5
+      },
+      {
+        "year": 2025,
+        "applicants": 564,
+        "passers": 200,
+        "passRate": 35.5
+      }
+    ]
   }
 }

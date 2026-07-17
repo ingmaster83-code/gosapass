@@ -3,12 +3,27 @@
   "name": "국가유산수리기능자(목조각공)",
   "series": "국가유산수리기능자",
   "field": "",
-  "updated": "2026-07-10",
-  "schedule": [],
+  "updated": "2026-07-17",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-02-09",
+      "written_reg_end": "2026-02-13",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-05-27",
+      "prac_reg_start": "",
+      "prac_reg_end": "",
+      "prac_exam_start": "",
+      "prac_exam_end": "",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
+    "written": "20000",
     "practical": "",
-    "raw": ""
+    "raw": "1차 : 20000,"
   },
   "info": [],
   "stats": {

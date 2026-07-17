@@ -3,16 +3,91 @@
   "name": "잠수기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-10",
+  "updated": "2026-07-17",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "44700",
+    "raw": "1차 : 14500, 2차 : 44700"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험:잠수 팀을 이루어 롤플레잉방식으로 역할을 수행하고, 잠수장비를 이용하여 잠수한 뒤, 수중에서 수중 구조물을 조립하는 작업으로 작업에 필요한 장비와 작업능력을 평가하는 시험(공개문제를 참조)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}잠수기능사 출제기준입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처: 한국산업인력공단 &#9313; 시험과목- 필기 : 1.잠수물리 2.잠수위생 3.잠수장비 4.잠수작업- 실기 : 잠수작업 &#9314; 검정방법- 필기 : 객관식 4지 택일형 60문항(60분)- 실기 : 작업형(2시간 55분 정도) &#9315; 합격기준 - 100점을 만점으로 하여60점 이상 작업형 실기시험 기본정보 안전등급(safety Level) : 4 등급▼위험경고주의관심&middot; 시험장소 구분수중 시험장&middot; 주요시설 및 장비산업잠수장비&middot; 보호구산업잠수장비보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다. ○실기시험 안전작업 교육영상 url: https://youtube.com/watch?v=yd8YnFAabnI&amp;si=nCRaXi49y-KPSAYb"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1092,
+        "passers": 678,
+        "passRate": 62.1
+      },
+      {
+        "year": 2022,
+        "applicants": 1117,
+        "passers": 634,
+        "passRate": 56.8
+      },
+      {
+        "year": 2023,
+        "applicants": 840,
+        "passers": 490,
+        "passRate": 58.3
+      },
+      {
+        "year": 2024,
+        "applicants": 1144,
+        "passers": 697,
+        "passRate": 60.9
+      },
+      {
+        "year": 2025,
+        "applicants": 961,
+        "passers": 595,
+        "passRate": 61.9
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 657,
+        "passers": 374,
+        "passRate": 56.9
+      },
+      {
+        "year": 2022,
+        "applicants": 857,
+        "passers": 435,
+        "passRate": 50.8
+      },
+      {
+        "year": 2023,
+        "applicants": 536,
+        "passers": 254,
+        "passRate": 47.4
+      },
+      {
+        "year": 2024,
+        "applicants": 641,
+        "passers": 319,
+        "passRate": 49.8
+      },
+      {
+        "year": 2025,
+        "applicants": 624,
+        "passers": 368,
+        "passRate": 59.0
+      }
+    ]
   }
 }

@@ -3,8 +3,23 @@
   "name": "국내여행안내사",
   "series": "국내여행안내사",
   "field": "",
-  "updated": "2026-07-10",
-  "schedule": [],
+  "updated": "2026-07-17",
+  "schedule": [
+    {
+      "round": "제26회",
+      "written_reg_start": "2026-09-14",
+      "written_reg_end": "2026-09-18",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-12-02",
+      "prac_reg_start": "2026-09-14",
+      "prac_reg_end": "2026-09-18",
+      "prac_exam_start": "2026-12-12",
+      "prac_exam_end": "2026-12-12",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",

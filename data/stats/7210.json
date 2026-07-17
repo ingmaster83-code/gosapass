@@ -3,16 +3,78 @@
   "name": "타일기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-10",
+  "updated": "2026-07-17",
   "schedule": [],
   "fee": {
-    "written": "",
+    "written": "63000",
     "practical": "",
-    "raw": ""
+    "raw": ", 2차 : 63000"
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 5140,
+        "passers": 2962,
+        "passRate": 57.6
+      },
+      {
+        "year": 2022,
+        "applicants": 4804,
+        "passers": 2750,
+        "passRate": 57.2
+      },
+      {
+        "year": 2023,
+        "applicants": 4230,
+        "passers": 2453,
+        "passRate": 58.0
+      },
+      {
+        "year": 2024,
+        "applicants": 3937,
+        "passers": 2088,
+        "passRate": 53.0
+      },
+      {
+        "year": 2025,
+        "applicants": 3843,
+        "passers": 1951,
+        "passRate": 50.8
+      }
+    ]
   }
 }

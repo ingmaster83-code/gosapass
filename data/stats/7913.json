@@ -3,16 +3,91 @@
   "name": "중식조리기능사",
   "series": "기능사",
   "field": "음식서비스",
-  "updated": "2026-07-10",
+  "updated": "2026-07-17",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "28500",
+    "raw": "1차 : 14500, 2차 : 28500"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 작업형으로 시행되며 고객만족>자료실의 공개문제를 참고바랍니다.(※ 요구사항의 내용과 지급된 재료로 과제를 제한시간 내에 만들어 내는 작업으로  주요평가내용은 위생상태 및 안전관리, 조리기술, 작품완성도 등을 평가합니다.)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}중식조리기능사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}1. 시 행 처 : 한국산업인력공단2. 시험과목  - 필기 : 중식 재료관리, 음식조리 및 위생관리 - 실기 : 조리작업3.검정방법  - 필기 : 객관식 4지 택일형, 60문항(60분) - 실기 : 작업형(70분 정도)4. 합격기준  - 필기 : 100점을 만점으로 하여 60점 이상 - 실기 : 100점을 만점으로 하여 60점 이상 작업형 실기시험 기본정보 안전등급(safety Level) : 4 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비가스레인지, 칼, 도마 등 조리기구&middot; 보호구긴소매 위생복, 앞치마, 안전화(운동화) 등보호구(긴소매 위생복, 안전화(운동화) 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다. ○ 실기시험 안전작업 교육영상 url: https://youtu.be/LvNOizxImyc<!--[data-hwpjson]{\"documentPr\": {\"di\": \"\",\"dp\": {\"dn\": \"test.hwp\",\"ta\": 1,\"d1\": 5,\"d2\": 1,\"dv\": 0,\"dr\": 1,\"do\": 1,\"vj\": \"1.1\",\"an\": \"Hancom Office Hangul\",\"av\": \"11, 0, 0, 4585\",\"ao\": \"WIN\",\"ab\": \"32\",\"ar\": \"LE\",\"as\": \"Windows_8\"},\"dis\": false,\"ds\": {\"ti\": \"\",\"la\": \"ko\",\"cr\": \"\",\"su\": \"\",\"de\": \"\",\"cd\": \"2024-07-10T11:35:31.157Z\",\"md\": \"1601-01-01T09:00:00.000Z\",\"pd\": \"1601-01-01T09:00:00.000Z\",\"ke\": \"\"}},\"dh\": {\"do\": {\"pa\": 1,\"fo\": 1,\"en\": 1,\"pi\": 1,\"tb\": 1,\"eq\": 1},\"fo\": [ ],\"cd\": {\"tp\": 0,\"lc\": {\"af\": false,\"ui\": false,\"fu\": false,\"dn\": false,\"ul\": false,\"el\": false,\"at\": false,\"tq\": false,\"da\": false,\"dw\": false,\"dj\": false,\"bc\": false,\"bu\": false,\"al\": false,\"ab\": false,\"ap\": false,\"an\": false,\"aa\": false,\"ds\": false,\"de\": false,\"as\": false,\"cp\": false,\"ao\": false,\"et\": false,\"ay\": false,\"am\": false,\"a1\": false,\"bt\": false,\"av\": false,\"dh\": false,\"dp\": false,\"d1\": false,\"mf\": false,\"bl\": false,\"ag\": false,\"dg\": false,\"ae\": false,\"df\": false,\"do\": false,\"dl\": false,\"di\": false,\"d2\": false,\"d3\": false,\"ob\": false,\"d4\": false,\"ev\": false,\"d5\": false,\"d6\": false,\"a2\": false,\"dc\": false}},\"ld\": {\"pa\": \"\",\"pi\": true,\"fo\": false}},\"bf\": {\"01DAD2723C4328F000000030\": {\"id\": 1,\"td\": false,\"sh\": false,\"st\": 0,\"sc\": 0,\"si\": false,\"bt\": 0,\"bi\": false,\"cl\": 0,\"bc\": false,\"lt\": 0,\"lw\": 0,\"lc\": 0,\"rt\": 0,\"rw\": 0,\"rc\": 0,\"tt\": 0,\"tw\": 0,\"tc\": 0,\"bbt\": 0,\"bbw\": 0,\"bbc\": 0,\"dt\": 1,\"dw\": 0,\"dc\": 0,\"fi\": { }},\"01DAD2723C4328F000000031\": {\"id\": 2,\"td\": false,\"sh\": false,\"st\": 0,\"sc\": 0,\"si\": false,\"bt\": 0,\"bi\": false,\"cl\": 0,\"bc\": false,\"lt\": 0,\"lw\": 0,\"lc\": 0,\"rt\": 0,\"rw\": 0,\"rc\": 0,\"tt\": 0,\"tw\": 0,\"tc\": 0,\"bbt\": 0,\"bbw\": 0,\"bbc\": 0,\"dt\": 1,\"dw\": 0,\"dc\": 0,\"fi\": {\"wb\": {\"fc\": 4294967295,\"hc\": 10066329,\"al\": 0,\"hs\": -1}}}},\"cp\": {\"01DAD2723C4328F000000032\": {\"id\": 0,\"he\": 1000,\"tc\": 0,\"sc\": 4294967295,\"uf\": false,\"uk\": false,\"sm\": 0,\"bf\": \"01DAD2723C4328F000000031\",\"f1\": \"함초롬바탕\",\"t1\": 1,\"f2\": \"함초롬바탕\",\"t2\": 1,\"f3\": \"함초롬바탕\",\"t3\": 1,\"f4\": \"함초롬바탕\",\"t4\": 1,\"f5\": \"함초롬바탕\",\"t5\": 1,\"f6\": \"함초롬바탕\",\"t6\": 1,\"f7\": \"함초롬바탕\",\"t7\": 1,\"r1\": 100,\"r2\": 100,\"r3\": 100,\"r4\": 100,\"r5\": 100,\"r6\": 100,\"r7\": 100,\"s1\": 0,\"s2\": 0,\"s3\": 0,\"s4\": 0,\"s5\": 0,\"s6\": 0,\"s7\": 0,\"e1\": 100,\"e2\": 100,\"e3\": 100,\"e4\": 100,\"e5\": 100,\"e6\": 100,\"e7\": 100,\"o1\": 0,\"o2\": 0,\"o3\": 0,\"o4\": 0,\"o5\": 0,\"o6\": 0,\"o7\": 0,\"it\": false,\"bo\": false,\"ut\": 0,\"us\": 1,\"uc\": 0,\"st\": false,\"ss\": 1,\"so\": 0,\"ot\": 0,\"ht\": 0,\"hc\": 0,\"hx\": 0,\"hy\": 0,\"em\": false,\"en\": false,\"su\": false,\"sb\": false}},\"tp\": {\"01DAD2723C4328F000000033\": {\"id\": 0,\"al\": false,\"ar\": false,\"tp\": [ ]}},\"nu\": { },\"bu\": { },\"pp\": {\"01DAD2723C4328F000000034\": {\"id\": 0,\"ah\": 0,\"av\": 0,\"ht\": 0,\"hi\": \"\",\"hl\": 0,\"tp\": \"01DAD2723C4328F000000033\",\"kb\": 0,\"kn\": true,\"ko\": false,\"kk\": false,\"kl\": false,\"kp\": false,\"kw\": 0,\"co\": 0,\"fl\": false,\"st\": true,\"sl\": false,\"ae\": false,\"aa\": false,\"mi\": 0,\"ml\": 0,\"mr\": 0,\"mp\": 0,\"mn\": 0,\"lt\": 0,\"lv\": 160,\"bf\": \"01DAD2723C4328F000000031\",\"bl\": 0,\"br\": 0,\"bt\": 0,\"bb\": 0,\"bc\": false,\"bi\": false}},\"st\": {\"01DAD2723C4328F000000035\": {\"id\": 0,\"ty\": 0,\"na\": \"바탕글\",\"en\": \"Normal\",\"pp\": \"01DAD2723C4328F000000034\",\"cp\": \"01DAD2723C4328F000000032\",\"ns\": \"01DAD2723C4328F000000035\",\"li\": 1042,\"lf\": false}},\"mp\": { },\"ro\": {\"hp\": \"01DAD2723C4328F00000002F\",\"01DAD2723C4328F00000002F\": {\"np\": \"\",\"id\": 0,\"pp\": \"01DAD2723C4328F000000034\",\"si\": \"01DAD2723C4328F000000035\",\"bf\": 3,\"ru\": [{\"cp\": \"01DAD2723C4328F000000032\",\"ch\": [{\"cc\": 2,\"ci\": 1936024420,\"co\": \"01DAD2723C4328F00000002D\"},{\"cc\": 2,\"ci\": 1668246628,\"co\": \"01DAD2723C4328F00000002E\"},{\"t\": \"○ 실기시험 안전작업 교육영상 url: https://youtu.be/LvNOizxImyc\"}]}]}},\"sl\": { },\"cs\": {\"01DAD2723C4328F00000002D\": {\"cc\": 2,\"ci\": 1936024420,\"td\": 0,\"tv\": false,\"sc\": 1134,\"ts\": 8000,\"ms\": \"\",\"os\": \"\",\"gl\": 0,\"gc\": 0,\"gw\": false,\"ns\": 0,\"np\": 0,\"ni\": 0,\"nt\": 0,\"ne\": 0,\"hh\": false,\"hf\": false,\"hm\": false,\"fb\": false,\"hb\": false,\"fi\": false,\"hi\": false,\"hp\": false,\"he\": false,\"sl\": false,\"lr\": 0,\"lc\": 0,\"ld\": 0,\"ls\": 0,\"pp\": {\"ls\": false,\"wi\": 59528,\"he\": 84188,\"gt\": 0,\"ml\": 8504,\"mr\": 8504,\"mt\": 5668,\"mb\": 4252,\"mh\": 4252,\"mf\": 4252,\"mg\": 0},\"fn\": {\"at\": 0,\"au\": \"\",\"ap\": \"\",\"ac\": \")\",\"as\": false,\"ll\": -1,\"lt\": 1,\"lw\": 1,\"lc\": 0,\"sa\": 850,\"sb\": 567,\"st\": 283,\"nt\": 0,\"nn\": 1,\"pp\": 0,\"pb\": false},\"en\": {\"at\": 0,\"au\": \"\",\"ap\": \"\",\"ac\": \")\",\"as\": false,\"ll\": -4,\"lt\": 1,\"lw\": 1,\"lc\": 0,\"sa\": 850,\"sb\": 567,\"st\": 0,\"nt\": 0,\"nn\": 1,\"pp\": 0,\"pb\": false},\"pb\": [{\"ty\": 0,\"bf\": \"01DAD2723C4328F000000030\",\"tb\": true,\"hi\": false,\"fi\": false,\"fa\": 0,\"ol\": 1417,\"or\": 1417,\"ot\": 1417,\"ob\": 1417},{\"ty\": 1,\"bf\": \"01DAD2723C4328F000000030\",\"tb\": true,\"hi\": false,\"fi\": false,\"fa\": 0,\"ol\": 1417,\"or\": 1417,\"ot\": 1417,\"ob\": 1417},{\"ty\": 2,\"bf\": \"01DAD2723C4328F000000030\",\"tb\": true,\"hi\": false,\"fi\": false,\"fa\": 0,\"ol\": 1417,\"or\": 1417,\"ot\": 1417,\"ob\": 1417}],\"mp\": [ ]},\"01DAD2723C4328F00000002E\": {\"cc\": 2,\"ci\": 1668246628,\"ty\": 0,\"la\": 0,\"co\": 1,\"ss\": true,\"sg\": 0,\"lt\": 0,\"lw\": 0,\"lc\": 0,\"cs\": [ ]}},\"bi\": [ ],\"bidt\": { }}-->"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 17613,
+        "passers": 9907,
+        "passRate": 56.2
+      },
+      {
+        "year": 2022,
+        "applicants": 13496,
+        "passers": 7238,
+        "passRate": 53.6
+      },
+      {
+        "year": 2023,
+        "applicants": 13233,
+        "passers": 6959,
+        "passRate": 52.6
+      },
+      {
+        "year": 2024,
+        "applicants": 12975,
+        "passers": 6516,
+        "passRate": 50.2
+      },
+      {
+        "year": 2025,
+        "applicants": 13037,
+        "passers": 6415,
+        "passRate": 49.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 12633,
+        "passers": 4881,
+        "passRate": 38.6
+      },
+      {
+        "year": 2022,
+        "applicants": 10121,
+        "passers": 4078,
+        "passRate": 40.3
+      },
+      {
+        "year": 2023,
+        "applicants": 8518,
+        "passers": 3448,
+        "passRate": 40.5
+      },
+      {
+        "year": 2024,
+        "applicants": 8362,
+        "passers": 3478,
+        "passRate": 41.6
+      },
+      {
+        "year": 2025,
+        "applicants": 8458,
+        "passers": 3483,
+        "passRate": 41.2
+      }
+    ]
   }
 }

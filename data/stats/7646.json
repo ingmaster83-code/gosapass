@@ -3,16 +3,102 @@
   "name": "펄프종이제조기능사",
   "series": "기능사",
   "field": "농림어업",
-  "updated": "2026-07-10",
-  "schedule": [],
+  "updated": "2026-07-17",
+  "schedule": [
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-03-16",
+      "written_reg_end": "2026-03-20",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-04-22",
+      "prac_reg_start": "2026-04-27",
+      "prac_reg_end": "2026-04-30",
+      "prac_exam_start": "2026-05-30",
+      "prac_exam_end": "2026-06-14",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험: 출제기준 참고-실기시험 :펄프 종류 구분,여수도 측정, 종이 제조,종이 제품 구분 (작업형 실기시험 공개 문제 참고)"
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 시험과목  - 필기 :종이생산, 가공 및 품질관리 - 실기 :종이제조 실무&#9314; 검정방법  - 필기 : 전과목 혼합, 객관식 60문항 (60분)  - 실기 :작업형 (2시간 정도, 100점) &#9315; 합격기준  - 필기 및 실기 : 100점 만점에60점 이상 득점자* 세부내용은 출제기준 참고"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 8,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 15,
+        "passers": 2,
+        "passRate": 13.3
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 1,
+        "passers": 1,
+        "passRate": 100.0
+      },
+      {
+        "year": 2025,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ]
   }
 }

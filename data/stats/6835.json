@@ -3,16 +3,60 @@
   "name": "표면실장장비기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-07-10",
+  "updated": "2026-07-17",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "45700",
+    "raw": "1차 : 14500, 2차 : 45700"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객지원>자료실의 출제기준을 참고바랍니다. - 작업형 실기시험: SMT In-Line 생산에 필요한 작업 기초적인 직무지식 및 마운터장비에 대한 프로그램 작성법, 실장착작업, 장착된 부품의 검사에 대한 실무능력의 유무 검증(공개문제 참조)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}전자부품장착기능사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}1.시험과목- 필기 : 1.SMT 개론 2.전자기초 3.공압기초- 실기 : SMD 장비 프로그램 작성 및 SMT 실무작업 2.검정방법- 필기 : 객관식 4지 택일형 60문항(60분)- 실기 : 작업형(1시간 50분, 100점) 3.합격기준- 필기 : 100점을 만점으로 하여 60점 이상 - 실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보안전등급(safety Level) : 3 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비SMT in line 장비, 솔더크림 등&middot; 보호구-보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 572,
+        "passers": 551,
+        "passRate": 96.3
+      },
+      {
+        "year": 2022,
+        "applicants": 500,
+        "passers": 463,
+        "passRate": 92.6
+      },
+      {
+        "year": 2023,
+        "applicants": 524,
+        "passers": 478,
+        "passRate": 91.2
+      },
+      {
+        "year": 2024,
+        "applicants": 377,
+        "passers": 341,
+        "passRate": 90.5
+      },
+      {
+        "year": 2025,
+        "applicants": 519,
+        "passers": 483,
+        "passRate": 93.1
+      }
+    ]
   }
 }

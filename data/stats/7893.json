@@ -3,16 +3,60 @@
   "name": "제빵기능사",
   "series": "기능사",
   "field": "식품.가공",
-  "updated": "2026-07-10",
+  "updated": "2026-07-17",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "33000",
+    "raw": "1차 : 14500, 2차 : 33000"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 제빵계량, 반죽(발효), 성형, 굽기 등의 공정을 거쳐 요구하는 제빵작품을 만드는 작업 수행(공개문제 참고)."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}제빵기능사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313;시험과목 - 필기 :빵류 재료, 제조 및 위생관리(출제기준 상세 참고)- 실기 : 제빵 실무&#9314; 검정방법 - 필기 : 객관식 4지 택일형, 60문항(60분) - 실기 : 작업형(2~4시간 정도) &#9315; 합격기준 : 필실기 100점을 만점으로 하여60점 이상 작업형 실기시험 기본정보 안전등급(safety Level) : 4 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비오븐, 믹서기, 가스레인지 등&middot; 보호구위생복 등보호구(위생복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 33246,
+        "passers": 16446,
+        "passRate": 49.5
+      },
+      {
+        "year": 2022,
+        "applicants": 32513,
+        "passers": 16070,
+        "passRate": 49.4
+      },
+      {
+        "year": 2023,
+        "applicants": 31450,
+        "passers": 14916,
+        "passRate": 47.4
+      },
+      {
+        "year": 2024,
+        "applicants": 27892,
+        "passers": 13048,
+        "passRate": 46.8
+      },
+      {
+        "year": 2025,
+        "applicants": 25502,
+        "passers": 12099,
+        "passRate": 47.4
+      }
+    ]
   }
 }

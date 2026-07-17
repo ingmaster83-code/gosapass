@@ -104,7 +104,7 @@
      data-next-label=""
      data-next-date="">
   <div class="banner-label">제3회 실기 원서접수 시작</div>
-  <div class="banner-dday">D-11</div>
+  <div class="banner-dday">D-10</div>
   <div class="banner-desc">2026-07-27</div>
   <div class="banner-next"></div>
 </div>
@@ -207,6 +207,25 @@
 
       <!-- 검정방법 -->
 
+      <div class="content-section">
+        <h2>검정방법</h2>
+        <div class="info-card" style="padding:20px 24px;">
+
+          <div style="display:flex;gap:12px;align-items:flex-start;margin-bottom:10px;">
+            <span style="flex-shrink:0;font-size:0.75rem;font-weight:700;background:#EFF6FF;color:var(--primary);padding:2px 8px;border-radius:4px;margin-top:2px;">필기</span>
+            <span style="font-size:0.9375rem;line-height:1.7;">100점 만점으로 하여 60점 이상 득점자</span>
+          </div>
+
+
+          <div style="display:flex;gap:12px;align-items:flex-start;border-top:1px solid var(--border);padding-top:10px;">
+            <span style="flex-shrink:0;font-size:0.75rem;font-weight:700;background:#F0FDF4;color:var(--success);padding:2px 8px;border-radius:4px;margin-top:2px;">실기</span>
+            <span style="font-size:0.9375rem;line-height:1.7;">100점 만점으로 하여 60점 이상 득점자</span>
+          </div>
+
+
+        </div>
+      </div>
+
 
       <!-- 시험과목 -->
 
@@ -216,8 +235,44 @@
 
       <!-- 출제경향 -->
 
+      <div class="content-section">
+        <h2>출제경향</h2>
+        <div class="info-card" style="padding:20px 24px;border-left:3px solid var(--primary);">
+          <p style="font-size:0.9375rem;line-height:1.85;color:var(--text-primary);">- 필기시험의 내용은 고객만족&gt;자료실의 출제기준을 참고바랍니다.- 정밀한 부품을 가공하기 위하여 가공 도면을 해독하고 작업계획을 수립하며 적합한 공구를 이용하여 평면, 곡면, 홈, 구멍, 나사 등을 밀링과 머시닝센터를 운용하여 가공한 후, 공작물을 측정하여 필요시 수정하고, 장비를 점검, 정비, 관리하는 능력을 평가구성 1. 범용밀링 작업 2. 머시닝센터 작업(공개도면 참조)</p>
+        </div>
+      </div>
+
 
       <!-- 합격률 차트 -->
+
+      <div class="content-section">
+        <h2>연도별 합격률</h2>
+        <div class="chart-grid">
+          <div class="chart-box">
+            <h3>필기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="writtenChart"></canvas>
+            </div>
+          </div>
+          <div class="chart-box">
+            <h3>실기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="practicalChart"></canvas>
+            </div>
+          </div>
+        </div>
+
+        <div class="ad-wrap" style="margin-top:24px;">
+            <div class="ad-block ad-leaderboard">728 × 90 광고 영역</div>
+        </div>
+      </div>
+
+      <div class="content-section">
+        <h2>연도별 응시자수 추이</h2>
+        <div class="chart-wrap-wide">
+          <canvas id="applicantsChart"></canvas>
+        </div>
+      </div>
 
 
       <!-- 난이도 -->
@@ -233,7 +288,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-machine" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">접수중</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-15</span>
 
             </div>
             <div class="related-name">건설기계기술사</div>
@@ -244,7 +299,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-machine" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">접수중</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-15</span>
 
             </div>
             <div class="related-name">공조냉동기계기술사</div>
@@ -255,7 +310,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-machine" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">접수중</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-15</span>
 
             </div>
             <div class="related-name">금형기술사</div>
@@ -284,6 +339,11 @@
         </div>
 
         <div class="info-row">
+          <span class="info-label">관련학과</span>
+          <span class="info-value" style="font-size:0.8125rem;">시험과목- 필기 :1.도면해독 2.측정 3.밀링가공- 실기 :컴퓨터응용밀링작업</span>
+        </div>
+
+        <div class="info-row">
           <span class="info-label">시행기관</span>
           <span class="info-value">한국산업인력공단</span>
         </div>
@@ -296,7 +356,25 @@
         </div>
 
 
+        <div class="info-row">
+          <span class="info-label">최근 응시자</span>
+          <span class="info-value">4,022명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
 
+
+        <div class="info-row">
+          <span class="info-label">최근 합격자</span>
+          <span class="info-value">2,562명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
+
+
+
+
+
+        <div class="info-row">
+          <span class="info-label">실기 합격률 추이</span>
+          <span class="info-value" style="font-size:0.8125rem;color:#DC2626;">↓ 3.4%p 하락</span>
+        </div>
 
 
         <a href="https://wooagosa.wooahouse.com/" target="_blank" rel="noopener"
@@ -363,6 +441,13 @@
   </div>
 </footer>
 
+
+<!-- 차트 데이터 -->
+<script id="stats-data" type="application/json">
+[{"year": 2021, "practicalApplicants": 6099, "practicalPassRate": 65.5, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2022, "practicalApplicants": 3681, "practicalPassRate": 67.3, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2023, "practicalApplicants": 3995, "practicalPassRate": 67.1, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2024, "practicalApplicants": 3578, "practicalPassRate": 64.7, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2025, "practicalApplicants": 4022, "practicalPassRate": 63.7, "writtenApplicants": 0, "writtenPassRate": 0}]
+</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="/js/detail.js?v=2"></script>
 
 
 </body>

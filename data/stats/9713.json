@@ -3,8 +3,23 @@
   "name": "산업안전지도사(화공안전)",
   "series": "산업안전지도사",
   "field": "",
-  "updated": "2026-07-10",
-  "schedule": [],
+  "updated": "2026-07-17",
+  "schedule": [
+    {
+      "round": "제16회",
+      "written_reg_start": "2026-02-23",
+      "written_reg_end": "2026-02-27",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-04-29",
+      "prac_reg_start": "2026-05-11",
+      "prac_reg_end": "2026-05-15",
+      "prac_exam_start": "2026-06-06",
+      "prac_exam_end": "2026-06-06",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",

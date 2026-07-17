@@ -3,12 +3,12 @@
   "name": "기계경비지도사",
   "series": "경비지도사",
   "field": "",
-  "updated": "2026-07-10",
+  "updated": "2026-07-17",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "28000",
+    "practical": "28000",
+    "raw": "1차 : 28000, 2차 : 28000"
   },
   "info": [],
   "stats": {

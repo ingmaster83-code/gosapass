@@ -3,8 +3,23 @@
   "name": "한국어교육능력검정시험",
   "series": "한국어교육능력검정시험",
   "field": "",
-  "updated": "2026-07-10",
-  "schedule": [],
+  "updated": "2026-07-17",
+  "schedule": [
+    {
+      "round": "제21회",
+      "written_reg_start": "2026-07-06",
+      "written_reg_end": "2026-07-10",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-16",
+      "prac_reg_start": "2026-10-19",
+      "prac_reg_end": "2026-10-23",
+      "prac_exam_start": "2026-11-07",
+      "prac_exam_end": "2026-11-07",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",

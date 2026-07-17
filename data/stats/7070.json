@@ -3,16 +3,60 @@
   "name": "조적기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-10",
+  "updated": "2026-07-17",
   "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}-쌓기용 흙손과 같은 조적용 공구와 장비를 사용하여 벽돌, 블록과 같은 조적재를 모르타르 등으로 부착시켜 벽, 기둥과 같은 수직구조물 등을 쌓는 능력을 평가 (공개도면 참조)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}조적기능사 출제기준입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 시험과목 : 조적작업(필기시험 없음)&#9314; 검정방법 : 작업형(5시간 정도, 100점) &#9315; 합격기준: 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보안전등급(safety Level) : 3 등급▼위험경고주의관심&middot; 시험장소 구분실내 &middot; 외(시험장 여건에 따라 달라질 수 있음)&middot; 주요시설 및 장비벽돌망치, 벽돌깨기정, 톱, 철제(줄)자 등&middot; 보호구안전화, 안전모보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 228,
+        "passers": 134,
+        "passRate": 58.8
+      },
+      {
+        "year": 2022,
+        "applicants": 209,
+        "passers": 144,
+        "passRate": 68.9
+      },
+      {
+        "year": 2023,
+        "applicants": 209,
+        "passers": 129,
+        "passRate": 61.7
+      },
+      {
+        "year": 2024,
+        "applicants": 114,
+        "passers": 49,
+        "passRate": 43.0
+      },
+      {
+        "year": 2025,
+        "applicants": 116,
+        "passers": 60,
+        "passRate": 51.7
+      }
+    ]
   }
 }
