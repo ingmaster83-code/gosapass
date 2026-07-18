@@ -3,12 +3,27 @@
   "name": "수산물품질관리사",
   "series": "수산물품질관리사",
   "field": "",
-  "updated": "2026-07-11",
-  "schedule": [],
+  "updated": "2026-07-18",
+  "schedule": [
+    {
+      "round": "제12회",
+      "written_reg_start": "2026-04-06",
+      "written_reg_end": "2026-04-10",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-08-10",
+      "prac_reg_end": "2026-08-14",
+      "prac_exam_start": "2026-09-19",
+      "prac_exam_end": "2026-09-19",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "20000",
+    "practical": "33000",
+    "raw": "1차 : 20000, 2차 : 33000"
   },
   "info": [],
   "stats": {

@@ -3,14 +3,38 @@
   "name": "물류관리사",
   "series": "물류관리사",
   "field": "",
-  "updated": "2026-07-11",
-  "schedule": [],
+  "updated": "2026-07-18",
+  "schedule": [
+    {
+      "round": "제30회",
+      "written_reg_start": "2026-06-22",
+      "written_reg_end": "2026-06-26",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-08-26",
+      "prac_reg_start": "",
+      "prac_reg_end": "",
+      "prac_exam_start": "",
+      "prac_exam_end": "",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "응시자격",
+      "content": "BODY {\tMARGIN: 0px; FONT-FAMILY: Malgun Gothic; COLOR: #000000; FONT-SIZE: 10pt}P {\tLINE-HEIGHT: 1.2; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px}LI {\tLINE-HEIGHT: 1.2; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px}□ 응시자격o 제한 없음 ※단, 부정행위로 인해 시험 무효처분을 받은 자는 3년간 물류관리사 시험에 응시할 수 없음"
+    },
+    {
+      "type": "시험과목 및 배점",
+      "content": "BODY {\tMARGIN: 0px; FONT-FAMILY: Malgun Gothic; COLOR: #000000; FONT-SIZE: 10pt}P {\tLINE-HEIGHT: 1.2; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px}LI {\tLINE-HEIGHT: 1.2; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px}□ 시험과목 및 방법 교시시험과목세부사항문항수시험시간시험방법1물류관리론물류관리론내의 「화물운송론」, 「보관하역론」 및 「국제물류론」은 제외과목 당40문항(총 120문항)120분(09:30~11:30)객 관 식5지선택형화물운송론-국제물류론-2보관하역론-과목 당40문항(총 80문항)80분(12:00~13:20)물류관련법규「물류정책기본법」, 「물류시설의 개발 및 운영에 관한 법률」, 「화물자동차운수사업법」, 「항만운송사업법」, 「유통산업발전법」, 「철도사업법」, 「농수산물유통 및 가격안정에 관한 법률」 중 물류 관련 규정※ 물류관련법규는 시험 시행일 현재 시행 중인 법령을 기준으로 출제함(단, 공포만 되고 시행되지 않은 법령은 제외)"
+    }
+  ],
   "stats": {
     "written": [],
     "practical": []

@@ -3,12 +3,27 @@
   "name": "3급 청소년지도사",
   "series": "청소년지도사",
   "field": "",
-  "updated": "2026-07-11",
-  "schedule": [],
+  "updated": "2026-07-18",
+  "schedule": [
+    {
+      "round": "제34회",
+      "written_reg_start": "2026-06-29",
+      "written_reg_end": "2026-07-03",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-11-04",
+      "prac_reg_start": "2026-11-16",
+      "prac_reg_end": "2026-11-20",
+      "prac_exam_start": "2026-12-07",
+      "prac_exam_end": "2026-12-12",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "27000",
+    "practical": "15000",
+    "raw": "1차 : 27000, 2차 : 15000"
   },
   "info": [],
   "stats": {

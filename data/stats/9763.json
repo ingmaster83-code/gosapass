@@ -3,14 +3,42 @@
   "name": "손해평가사",
   "series": "손해평가사",
   "field": "",
-  "updated": "2026-07-11",
-  "schedule": [],
+  "updated": "2026-07-18",
+  "schedule": [
+    {
+      "round": "제12회",
+      "written_reg_start": "2026-04-06",
+      "written_reg_end": "2026-04-10",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-07-20",
+      "prac_reg_end": "2026-07-24",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-08-29",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "응시자격",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}□ 응시자격 o 제한 없음 ※ 단, 부정한 방법으로 시험에 응시하거나 시험에서 부정한 행위를 해 시험의정지/무효 처분이있은 날 부터 2년이 지나지 아니하거나, 손해평가사의 자격이 취소된 날부터 2년이 지나지 아니한 자는 응시할 수 없음 [농어업재해보험법 제11조의4제4항]"
+    },
+    {
+      "type": "시험과목 및 배점",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}□ 시험과목 및 방법 구 분시험과목문항수시험시간시험방법제1차 시험1. 「상법」 보험편2.농어업재해보험법령(「농어업재해보험법」,「농어업재해보험법시행령」및농림축산식품부 장관이  고시하는 손해평가 요령을말한다.)3. 농학개론 중 재배학 및 원예작물학과목별25문항(총 75문항)90분객관식4지 택일형제2차 시험1. 농작물재해보험 및 가축재해보험의이론과 실무2. 농작물재해보험 및 가축재해보험 손해평가의이론과 실무과목별10문항120분단답형, 서술형"
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tMARGIN: 0px; FONT-FAMILY: Malgun Gothic; COLOR: #000000; FONT-SIZE: 10pt}P {\tLINE-HEIGHT: 1.2; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px}LI {\tLINE-HEIGHT: 1.2; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px}농업정책보험금융원에서 자격증 신청 및 발급업무 수행"
+    }
+  ],
   "stats": {
     "written": [],
     "practical": []
