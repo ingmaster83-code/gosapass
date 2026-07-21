@@ -3,16 +3,75 @@
   "name": "국제의료관광코디네이터",
   "series": "기사",
   "field": "보건.의료",
-  "updated": "2026-07-14",
-  "schedule": [],
+  "updated": "2026-07-21",
+  "schedule": [
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}국제의료관광코디네이터 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시행처 : 한국산업인력공단&#9313;시험과목  - 필기 : 1.보건의료관광행정 2.보건의료서비스지원관리 3.보건의료관광마케팅4. 관광서비스지원관리5.의학용어 및 질환의 이해 - 실기 : 보건의료관광실무&#9314;검정방법  - 필기 : 객관식 4지 택일형 과목당 20문항(2시간 30분) - 실기 : 필답형(2시간 30분, 100점)&#9315;합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상 - 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 251,
+        "passers": 201,
+        "passRate": 80.1
+      },
+      {
+        "year": 2022,
+        "applicants": 237,
+        "passers": 187,
+        "passRate": 78.9
+      },
+      {
+        "year": 2023,
+        "applicants": 124,
+        "passers": 103,
+        "passRate": 83.1
+      },
+      {
+        "year": 2024,
+        "applicants": 185,
+        "passers": 134,
+        "passRate": 72.4
+      },
+      {
+        "year": 2025,
+        "applicants": 195,
+        "passers": 136,
+        "passRate": 69.7
+      }
+    ],
     "practical": []
   }
 }

@@ -3,16 +3,91 @@
   "name": "농어업토목기술사",
   "series": "기술사",
   "field": "건설",
-  "updated": "2026-07-14",
+  "updated": "2026-07-21",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "- 농어업토목에 관한 실무경험, 전문지식 및 응용능력 - 기술사로서의 지도감리·경영관리능력, 자질 및 품위"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}농어업토목기술사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시 행 처 : 한국산업인력공단② 관련학과 : 대학 및 전문대학에 개설되어 있는 토목공학, 농업토목 관련학과③ 시험과목   - 관개배수, 경지정비, 개간, 간척 및 농지 보존에 관한 사항④ 검정방법   - 필기 : 단답형 및 주관식 논술형(매교시당 100분, 총400분)   - 면접 : 구술형 면접시험(30분정도)⑤ 합격기준   - 100점 만점에 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 79,
+        "passers": 19,
+        "passRate": 24.1
+      },
+      {
+        "year": 2022,
+        "applicants": 44,
+        "passers": 6,
+        "passRate": 13.6
+      },
+      {
+        "year": 2023,
+        "applicants": 41,
+        "passers": 5,
+        "passRate": 12.2
+      },
+      {
+        "year": 2024,
+        "applicants": 43,
+        "passers": 8,
+        "passRate": 18.6
+      },
+      {
+        "year": 2025,
+        "applicants": 63,
+        "passers": 14,
+        "passRate": 22.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 24,
+        "passers": 16,
+        "passRate": 66.7
+      },
+      {
+        "year": 2022,
+        "applicants": 14,
+        "passers": 10,
+        "passRate": 71.4
+      },
+      {
+        "year": 2023,
+        "applicants": 6,
+        "passers": 5,
+        "passRate": 83.3
+      },
+      {
+        "year": 2024,
+        "applicants": 9,
+        "passers": 7,
+        "passRate": 77.8
+      },
+      {
+        "year": 2025,
+        "applicants": 21,
+        "passers": 13,
+        "passRate": 61.9
+      }
+    ]
   }
 }

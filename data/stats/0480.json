@@ -3,16 +3,130 @@
   "name": "토목시공기술사",
   "series": "기술사",
   "field": "건설",
-  "updated": "2026-07-14",
-  "schedule": [],
+  "updated": "2026-07-21",
+  "schedule": [
+    {
+      "round": "제138회",
+      "written_reg_start": "2026-01-06",
+      "written_reg_end": "2026-01-09",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-25",
+      "prac_reg_start": "2026-03-03",
+      "prac_reg_end": "2026-04-02",
+      "prac_exam_start": "2026-05-02",
+      "prac_exam_end": "2026-05-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제139회",
+      "written_reg_start": "2026-04-13",
+      "written_reg_end": "2026-04-16",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-24",
+      "prac_reg_start": "2026-06-08",
+      "prac_reg_end": "2026-07-02",
+      "prac_exam_start": "2026-08-01",
+      "prac_exam_end": "2026-08-15",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제140회",
+      "written_reg_start": "2026-07-13",
+      "written_reg_end": "2026-07-16",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-10-07",
+      "prac_reg_start": "2026-08-31",
+      "prac_reg_end": "2026-10-15",
+      "prac_exam_start": "2026-11-14",
+      "prac_exam_end": "2026-11-25",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}토목시공기술사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시 행 처 : 한국산업인력공단② 관련학과 : 대학 및 전문대학에 개설되어 있는 토목공학 관련학과③ 시험과목   - 시공계획, 시공관리, 시공설비 및 시공기계 기타 시공에 관한 사항④ 검정방법   - 필기 : 단답형 및 주관식 논술형(매교시당 100분, 총 400분)   - 면접 : 구술형 면접시험(30분정도)⑤ 합격기준   - 100점 만점에 60점이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2572,
+        "passers": 262,
+        "passRate": 10.2
+      },
+      {
+        "year": 2022,
+        "applicants": 2370,
+        "passers": 249,
+        "passRate": 10.5
+      },
+      {
+        "year": 2023,
+        "applicants": 2716,
+        "passers": 217,
+        "passRate": 8.0
+      },
+      {
+        "year": 2024,
+        "applicants": 2830,
+        "passers": 323,
+        "passRate": 11.4
+      },
+      {
+        "year": 2025,
+        "applicants": 3113,
+        "passers": 240,
+        "passRate": 7.7
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 384,
+        "passers": 245,
+        "passRate": 63.8
+      },
+      {
+        "year": 2022,
+        "applicants": 380,
+        "passers": 253,
+        "passRate": 66.6
+      },
+      {
+        "year": 2023,
+        "applicants": 334,
+        "passers": 207,
+        "passRate": 62.0
+      },
+      {
+        "year": 2024,
+        "applicants": 495,
+        "passers": 321,
+        "passRate": 64.8
+      },
+      {
+        "year": 2025,
+        "applicants": 406,
+        "passers": 262,
+        "passRate": 64.5
+      }
+    ]
   }
 }

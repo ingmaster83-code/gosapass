@@ -3,16 +3,120 @@
   "name": "금속재료기능장",
   "series": "기능장",
   "field": "재료",
-  "updated": "2026-07-14",
-  "schedule": [],
+  "updated": "2026-07-21",
+  "schedule": [
+    {
+      "round": "제79회",
+      "written_reg_start": "2026-01-06",
+      "written_reg_end": "2026-01-09",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-01-30",
+      "prac_reg_start": "2026-02-02",
+      "prac_reg_end": "2026-02-05",
+      "prac_exam_start": "2026-03-14",
+      "prac_exam_end": "2026-04-01",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제80회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "- 필답형 실기시험이므로 출제기준을 참조"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}금속재료기능장 출제기준입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시 행 처 : 한국산업인력공단② 관련학과 : 교육 및 훈련기관의 금속과, 재료과, 금속재료과, 열처리과,                재료정보과, 재료응용과, 신소재과 등 관련학과③ 훈련기관 : 기능대학의 기능장 과정④ 시험과목   - 필기 : 금속열처리, 금속재료시험, 비파괴시험, 금속재료 및 안전관리,            자동생산시스템, 공업경영에 관한 사항   - 실기 : 금속재료 실무⑤ 검정방법   - 필기 : 전과목 혼합, 객관식 60문항(60분)   - 실기 : 필답형(2시간)⑥ 합격기준   - 필기·실기 : 100점을 만점으로 하여 60점이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 396,
+        "passers": 273,
+        "passRate": 68.9
+      },
+      {
+        "year": 2022,
+        "applicants": 372,
+        "passers": 248,
+        "passRate": 66.7
+      },
+      {
+        "year": 2023,
+        "applicants": 685,
+        "passers": 476,
+        "passRate": 69.5
+      },
+      {
+        "year": 2024,
+        "applicants": 970,
+        "passers": 643,
+        "passRate": 66.3
+      },
+      {
+        "year": 2025,
+        "applicants": 823,
+        "passers": 555,
+        "passRate": 67.4
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 378,
+        "passers": 149,
+        "passRate": 39.4
+      },
+      {
+        "year": 2022,
+        "applicants": 344,
+        "passers": 89,
+        "passRate": 25.9
+      },
+      {
+        "year": 2023,
+        "applicants": 579,
+        "passers": 186,
+        "passRate": 32.1
+      },
+      {
+        "year": 2024,
+        "applicants": 901,
+        "passers": 265,
+        "passRate": 29.4
+      },
+      {
+        "year": 2025,
+        "applicants": 847,
+        "passers": 264,
+        "passRate": 31.2
+      }
+    ]
   }
 }

@@ -3,16 +3,91 @@
   "name": "건설기계기술사",
   "series": "기술사",
   "field": "기계",
-  "updated": "2026-07-14",
+  "updated": "2026-07-21",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "- 건설기계와 관련된 전문지식 및 응용능력 - 기술사로서 지도감리·경영관리능력, 자질 및 품위 등"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}건설기계기술사 출제기준입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시 행 처 : 한국산업인력공단 ② 관련학과 : 대학의 산업기계공학, 기계설계공학, 기관공학 외 기계분야 학과③ 시험과목    - 토목기계, 포장기계, 준설선, 건설플랜트기계설비 및 기타 건설기계에 관한 사항            ④ 검정방법   - 필기 : 단답형 및 주관식 논술형(매교시당 100분, 총 400분)   - 면접 : 구술형 면접(30분정도)⑤ 합격기준   - 필기·실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 134,
+        "passers": 17,
+        "passRate": 12.7
+      },
+      {
+        "year": 2022,
+        "applicants": 108,
+        "passers": 41,
+        "passRate": 38.0
+      },
+      {
+        "year": 2023,
+        "applicants": 116,
+        "passers": 22,
+        "passRate": 19.0
+      },
+      {
+        "year": 2024,
+        "applicants": 113,
+        "passers": 19,
+        "passRate": 16.8
+      },
+      {
+        "year": 2025,
+        "applicants": 126,
+        "passers": 16,
+        "passRate": 12.7
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 36,
+        "passers": 13,
+        "passRate": 36.1
+      },
+      {
+        "year": 2022,
+        "applicants": 72,
+        "passers": 31,
+        "passRate": 43.1
+      },
+      {
+        "year": 2023,
+        "applicants": 51,
+        "passers": 18,
+        "passRate": 35.3
+      },
+      {
+        "year": 2024,
+        "applicants": 50,
+        "passers": 20,
+        "passRate": 40.0
+      },
+      {
+        "year": 2025,
+        "applicants": 36,
+        "passers": 18,
+        "passRate": 50.0
+      }
+    ]
   }
 }

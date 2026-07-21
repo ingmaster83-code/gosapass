@@ -3,16 +3,75 @@
   "name": "귀금속가공산업기사",
   "series": "기사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-07-14",
-  "schedule": [],
+  "updated": "2026-07-21",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "81400",
+    "raw": "1차 : 19400, 2차 : 81400"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험의 내용은 요구사항에 따라 주어진 도면의 컴퓨터 작업 후,귀금속 재료를 이용하여세공 작업을 수행하는  능력을 평가합니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}귀금속가공산업기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시행처 : 한국산업인력공단&#9313; 관련학과 : 대학 및 전문대학의 금속공예과, 귀금속공예과, 귀금속디자인과, 금은세공과 등 &#9314;시험과목- 필기 1. 귀금속 디자인 2. 귀금속 및 보석 재료 3. 귀금속 가공 4. 귀금속 주조- 실기 : 귀금속공예 실무&#9315;검정방법- 필기 : 객관식 4지 택일형 과목당 20문항(과목당 30분)- 실기 : 작업형(5시간 30분 정도)&#9316;합격기준- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상 작업형 실기시험 기본정보 안전등급(safety Level) : 4 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비컴퓨터, 프린터, 가스연료 및 불대(토치), 세공톱대, 탁상용 드릴머신, 알코올 램프, 묽은 황산&middot; 보호구보안경, 방진마스크, 앞치마보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될 수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다. ○ 실기시험 안전작업 교육영상 url: https://youtu.be/k_ygRAIpxss?si=46I1kyk_9oXxbB7H"
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 34,
+        "passers": 28,
+        "passRate": 82.4
+      },
+      {
+        "year": 2022,
+        "applicants": 29,
+        "passers": 19,
+        "passRate": 65.5
+      },
+      {
+        "year": 2023,
+        "applicants": 27,
+        "passers": 16,
+        "passRate": 59.3
+      },
+      {
+        "year": 2024,
+        "applicants": 21,
+        "passers": 16,
+        "passRate": 76.2
+      },
+      {
+        "year": 2025,
+        "applicants": 36,
+        "passers": 28,
+        "passRate": 77.8
+      }
+    ]
   }
 }

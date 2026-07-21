@@ -3,16 +3,91 @@
   "name": "가스산업기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-07-14",
+  "updated": "2026-07-21",
   "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "필답형 - 출제기준참조작업형 - 가스제조 및 가스설비, 운전, 저장 및 공급에 대한 취급과 가스장치의 고장 진단 및 유지관리와 가스기기 및 설비에 대한 검사업무 및 가스안전관리에 관한 업무를 수행할 수 있는지의 능력을 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}가스산업기사 출제기준 입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tMARGIN: 0px; FONT-FAMILY: 굴림; COLOR: #000000; FONT-SIZE: 10pt}P {\tLINE-HEIGHT: 1.2; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px}LI {\tLINE-HEIGHT: 1.2; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 대학과 전문대학의 화학공학, 가스냉동학, 가스산업학 관련학과 &#9314; 시험과목 - 필기 : 1. 연소공학 2. 가스설비 3. 가스안전관리 4. 가스계측 - 실기 : 가스실무 &#9315; 검정방법 - 필기 : 객관식 4지 택일형 과목당 20문항(과목당 30분) - 실기 : 복합형[필답형(1시간30분) + 작업형(1시간 정도)]  배점 : 필답형60점, 작업형(동영상) 40점&#9316; 합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상 - 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 7280,
+        "passers": 1875,
+        "passRate": 25.8
+      },
+      {
+        "year": 2022,
+        "applicants": 7082,
+        "passers": 1508,
+        "passRate": 21.3
+      },
+      {
+        "year": 2023,
+        "applicants": 6542,
+        "passers": 2315,
+        "passRate": 35.4
+      },
+      {
+        "year": 2024,
+        "applicants": 5511,
+        "passers": 1748,
+        "passRate": 31.7
+      },
+      {
+        "year": 2025,
+        "applicants": 5405,
+        "passers": 1661,
+        "passRate": 30.7
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 3253,
+        "passers": 981,
+        "passRate": 30.2
+      },
+      {
+        "year": 2022,
+        "applicants": 2582,
+        "passers": 548,
+        "passRate": 21.2
+      },
+      {
+        "year": 2023,
+        "applicants": 2992,
+        "passers": 953,
+        "passRate": 31.9
+      },
+      {
+        "year": 2024,
+        "applicants": 3106,
+        "passers": 704,
+        "passRate": 22.7
+      },
+      {
+        "year": 2025,
+        "applicants": 2927,
+        "passers": 890,
+        "passRate": 30.4
+      }
+    ]
   }
 }

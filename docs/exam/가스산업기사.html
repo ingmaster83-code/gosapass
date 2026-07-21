@@ -96,7 +96,7 @@
      data-next-label="제2회 최종 합격발표"
      data-next-date="2026-09-04">
   <div class="banner-label">제2회 실기시험 진행중</div>
-  <div class="banner-dday">D-16</div>
+  <div class="banner-dday">D-15</div>
   <div class="banner-desc">07-18 ~ 08-05</div>
   <div class="banner-next">다음 일정: 제2회 최종 합격발표 2026-09-04</div>
 </div>
@@ -189,20 +189,129 @@
 
       <!-- 검정방법 -->
 
+      <div class="content-section">
+        <h2>검정방법</h2>
+        <div class="info-card" style="padding:20px 24px;">
+
+          <div style="display:flex;gap:12px;align-items:flex-start;margin-bottom:10px;">
+            <span style="flex-shrink:0;font-size:0.75rem;font-weight:700;background:#EFF6FF;color:var(--primary);padding:2px 8px;border-radius:4px;margin-top:2px;">필기</span>
+            <span style="font-size:0.9375rem;line-height:1.7;">객관식 4지 택일형 과목당 20문항(과목당 30분)</span>
+          </div>
+
+
+          <div style="display:flex;gap:12px;align-items:flex-start;border-top:1px solid var(--border);padding-top:10px;">
+            <span style="flex-shrink:0;font-size:0.75rem;font-weight:700;background:#F0FDF4;color:var(--success);padding:2px 8px;border-radius:4px;margin-top:2px;">실기</span>
+            <span style="font-size:0.9375rem;line-height:1.7;">복합형[필답형(1시간30분) + 작업형(1시간 정도)] 배점 : 필답형60점, 작업형(동영상) 40점</span>
+          </div>
+
+
+        </div>
+      </div>
+
 
       <!-- 시험과목 -->
+
+      <div class="content-section">
+        <h2>시험과목</h2>
+        <div class="info-card" style="padding:20px 24px;">
+
+          <div style="margin-bottom:12px;">
+            <span style="font-size:0.75rem;font-weight:600;color:var(--text-secondary);text-transform:uppercase;letter-spacing:.5px;">필기</span>
+            <p style="margin-top:4px;font-size:0.9375rem;line-height:1.75;color:var(--text-primary);">1. 연소공학 2. 가스설비 3. 가스안전관리 4. 가스계측</p>
+          </div>
+
+
+          <div style="border-top:1px solid var(--border);padding-top:12px;">
+            <span style="font-size:0.75rem;font-weight:600;color:var(--text-secondary);text-transform:uppercase;letter-spacing:.5px;">실기</span>
+            <p style="margin-top:4px;font-size:0.9375rem;line-height:1.75;color:var(--text-primary);">가스실무</p>
+          </div>
+
+        </div>
+      </div>
 
 
       <!-- 합격기준 -->
 
+      <div class="content-section">
+        <h2>합격기준</h2>
+        <div class="info-card" style="padding:20px 24px;">
+
+          <div style="display:flex;gap:12px;align-items:flex-start;margin-bottom:10px;">
+            <span style="flex-shrink:0;font-size:0.75rem;font-weight:700;background:#EFF6FF;color:var(--primary);padding:2px 8px;border-radius:4px;margin-top:2px;">필기</span>
+            <span style="font-size:0.9375rem;line-height:1.7;">100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상</span>
+          </div>
+
+
+          <div style="display:flex;gap:12px;align-items:flex-start;">
+            <span style="flex-shrink:0;font-size:0.75rem;font-weight:700;background:#F0FDF4;color:var(--success);padding:2px 8px;border-radius:4px;margin-top:2px;">실기</span>
+            <span style="font-size:0.9375rem;line-height:1.7;">100점을 만점으로 하여 60점 이상</span>
+          </div>
+
+
+        </div>
+      </div>
+
 
       <!-- 출제경향 -->
+
+      <div class="content-section">
+        <h2>출제경향</h2>
+        <div class="info-card" style="padding:20px 24px;border-left:3px solid var(--primary);">
+          <p style="font-size:0.9375rem;line-height:1.85;color:var(--text-primary);">필답형 - 출제기준참조작업형 - 가스제조 및 가스설비, 운전, 저장 및 공급에 대한 취급과 가스장치의 고장 진단 및 유지관리와 가스기기 및 설비에 대한 검사업무 및 가스안전관리에 관한 업무를 수행할 수 있는지의 능력을 평가</p>
+        </div>
+      </div>
 
 
       <!-- 합격률 차트 -->
 
+      <div class="content-section">
+        <h2>연도별 합격률</h2>
+        <div class="chart-grid">
+          <div class="chart-box">
+            <h3>필기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="writtenChart"></canvas>
+            </div>
+          </div>
+          <div class="chart-box">
+            <h3>실기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="practicalChart"></canvas>
+            </div>
+          </div>
+        </div>
+
+        <div class="ad-wrap" style="margin-top:24px;">
+            <div class="ad-block ad-leaderboard">728 × 90 광고 영역</div>
+        </div>
+      </div>
+
+      <div class="content-section">
+        <h2>연도별 응시자수 추이</h2>
+        <div class="chart-wrap-wide">
+          <canvas id="applicantsChart"></canvas>
+        </div>
+      </div>
+
 
       <!-- 난이도 -->
+
+      <div class="content-section">
+        <h2>난이도</h2>
+        <div class="difficulty-box">
+          <div class="stars">
+            <span>★</span>
+            <span>★</span>
+            <span>★</span>
+            <span class="empty">☆</span>
+            <span class="empty">☆</span>
+          </div>
+          <div class="difficulty-info">
+            <div class="difficulty-level">어려움</div>
+            <div class="difficulty-detail">최근 3개년 평균 실기 합격률: 28.3% · 필기 합격률: 32.6%</div>
+          </div>
+        </div>
+      </div>
 
 
       <!-- 관련 자격증 -->
@@ -215,10 +324,12 @@
             <div class="related-badges">
               <span class="cat-badge cat-safety" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-12</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-11</span>
 
             </div>
             <div class="related-name">가스기술사</div>
+
+            <div class="related-passrate">실기 합격률 <strong>53.8%</strong></div>
 
           </a>
 
@@ -226,7 +337,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-safety" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-12</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-11</span>
 
             </div>
             <div class="related-name">건설안전기술사</div>
@@ -237,10 +348,12 @@
             <div class="related-badges">
               <span class="cat-badge cat-safety" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-12</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-11</span>
 
             </div>
             <div class="related-name">기계안전기술사</div>
+
+            <div class="related-passrate">실기 합격률 <strong>43.9%</strong></div>
 
           </a>
 
@@ -266,6 +379,11 @@
         </div>
 
         <div class="info-row">
+          <span class="info-label">관련학과</span>
+          <span class="info-value" style="font-size:0.8125rem;">대학과 전문대학의 화학공학, 가스냉동학, 가스산업학 관련학과</span>
+        </div>
+
+        <div class="info-row">
           <span class="info-label">시행기관</span>
           <span class="info-value">한국산업인력공단</span>
         </div>
@@ -278,7 +396,30 @@
         </div>
 
 
+        <div class="info-row">
+          <span class="info-label">최근 응시자</span>
+          <span class="info-value">5,405명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
 
+
+        <div class="info-row">
+          <span class="info-label">최근 합격자</span>
+          <span class="info-value">1,661명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
+
+
+
+
+        <div class="info-row">
+          <span class="info-label">필기 합격률 추이</span>
+          <span class="info-value" style="font-size:0.8125rem;color:#DC2626;">↓ 4.7%p 하락</span>
+        </div>
+
+
+        <div class="info-row">
+          <span class="info-label">실기 합격률 추이</span>
+          <span class="info-value" style="font-size:0.8125rem;color:var(--text-secondary);">→ 보합세</span>
+        </div>
 
 
         <a href="https://wooagosa.wooahouse.com/" target="_blank" rel="noopener"
@@ -351,6 +492,13 @@
   </div>
 </footer>
 
+
+<!-- 차트 데이터 -->
+<script id="stats-data" type="application/json">
+[{"year": 2021, "writtenApplicants": 7280, "writtenPassRate": 25.8, "practicalApplicants": 3253, "practicalPassRate": 30.2}, {"year": 2022, "writtenApplicants": 7082, "writtenPassRate": 21.3, "practicalApplicants": 2582, "practicalPassRate": 21.2}, {"year": 2023, "writtenApplicants": 6542, "writtenPassRate": 35.4, "practicalApplicants": 2992, "practicalPassRate": 31.9}, {"year": 2024, "writtenApplicants": 5511, "writtenPassRate": 31.7, "practicalApplicants": 3106, "practicalPassRate": 22.7}, {"year": 2025, "writtenApplicants": 5405, "writtenPassRate": 30.7, "practicalApplicants": 2927, "practicalPassRate": 30.4}]
+</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="/js/detail.js?v=2"></script>
 
 
 </body>

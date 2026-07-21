@@ -3,16 +3,106 @@
   "name": "수산제조기술사",
   "series": "기술사",
   "field": "식품.가공",
-  "updated": "2026-07-14",
-  "schedule": [],
+  "updated": "2026-07-21",
+  "schedule": [
+    {
+      "round": "제139회",
+      "written_reg_start": "2026-04-13",
+      "written_reg_end": "2026-04-16",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-24",
+      "prac_reg_start": "2026-06-08",
+      "prac_reg_end": "2026-07-02",
+      "prac_exam_start": "2026-08-01",
+      "prac_exam_end": "2026-08-15",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "- 수산제조와 관련된 실무경험, 일반지식, 전문지식 및 응용능력 - 기술사로서의 경영관리·지도감리 능력·자질 및 품위"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}수산제조기술사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시 행 처 : 한국산업인력공단② 관련학과 : 대학 또는 전문대학의 해양 관련학과③ 시험과목 : 수산식품의 제조 및가공, 생산계획, 냉동 및 냉장, 생상공정의 설계에 관한 사항④ 검정방법   - 필기 : 단답형 및 주관식 논술형  - 면접 : 구술형 면접(시험시간 30분 정도)⑤ 합격기준  - 필기·면접 : 100점을 만점으로 하여 60점 이상 득점자."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 5,
+        "passers": 3,
+        "passRate": 60.0
+      },
+      {
+        "year": 2022,
+        "applicants": 7,
+        "passers": 5,
+        "passRate": 71.4
+      },
+      {
+        "year": 2023,
+        "applicants": 5,
+        "passers": 4,
+        "passRate": 80.0
+      },
+      {
+        "year": 2024,
+        "applicants": 12,
+        "passers": 3,
+        "passRate": 25.0
+      },
+      {
+        "year": 2025,
+        "applicants": 16,
+        "passers": 9,
+        "passRate": 56.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 5,
+        "passers": 3,
+        "passRate": 60.0
+      },
+      {
+        "year": 2022,
+        "applicants": 6,
+        "passers": 3,
+        "passRate": 50.0
+      },
+      {
+        "year": 2023,
+        "applicants": 7,
+        "passers": 3,
+        "passRate": 42.9
+      },
+      {
+        "year": 2024,
+        "applicants": 6,
+        "passers": 4,
+        "passRate": 66.7
+      },
+      {
+        "year": 2025,
+        "applicants": 11,
+        "passers": 3,
+        "passRate": 27.3
+      }
+    ]
   }
 }

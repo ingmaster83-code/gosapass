@@ -3,16 +3,56 @@
   "name": "컴퓨터시스템응용기술사",
   "series": "기술사",
   "field": "정보통신",
-  "updated": "2026-07-14",
+  "updated": "2026-07-21",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}컴퓨터시스템응용기술사 출제기준입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 모든 학과 응시가능&#9314; 시험과목 : 하드웨어시스템, 소프트웨어시스템에 관한 분석, 설계 및 구현, 그밖에 컴퓨터 응용에 관한 내용 &#9315; 검정방법- 필기 : 단답형 및 주관식 논술형(매교시당 100분, 총 400분) - 면접 : 구술형 면접(30분정도) &#9316; 합격기준- 필기 &middot;면접 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 21,
+        "passers": 9,
+        "passRate": 42.9
+      },
+      {
+        "year": 2022,
+        "applicants": 13,
+        "passers": 10,
+        "passRate": 76.9
+      },
+      {
+        "year": 2023,
+        "applicants": 6,
+        "passers": 4,
+        "passRate": 66.7
+      },
+      {
+        "year": 2024,
+        "applicants": 7,
+        "passers": 5,
+        "passRate": 71.4
+      },
+      {
+        "year": 2025,
+        "applicants": 12,
+        "passers": 7,
+        "passRate": 58.3
+      }
+    ]
   }
 }

@@ -3,16 +3,106 @@
   "name": "화약류관리기술사",
   "series": "기술사",
   "field": "광업자원",
-  "updated": "2026-07-14",
-  "schedule": [],
+  "updated": "2026-07-21",
+  "schedule": [
+    {
+      "round": "제139회",
+      "written_reg_start": "2026-04-13",
+      "written_reg_end": "2026-04-16",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-24",
+      "prac_reg_start": "2026-06-08",
+      "prac_reg_end": "2026-07-02",
+      "prac_exam_start": "2026-08-01",
+      "prac_exam_end": "2026-08-15",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "- 화약류 관리에 관한 실무경험, 일반지식, 전문지식 및 응용능력 - 기술사로서의 지도감리능력 및 자질 등"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}화약류관리기술사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시 행 처 : 한국산업인력공단② 관련학과 : 대학의 자원공학, 토목공학, 화학공학 등 관련학과.③ 시험과목    -  화약학, 발파학, 암석역학, 굴착공학 및 지반공학, 암석학, 화약류취급 및            발파에 관한 사항.④ 검정방법   - 필기 : 단답형 및 주관식 논술형 (매교시당 100분, 총 400분)   - 면접 : 구술형 면접 (30분 정도) ⑤ 합격기준    - 필기·면접 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 18,
+        "passers": 3,
+        "passRate": 16.7
+      },
+      {
+        "year": 2022,
+        "applicants": 14,
+        "passers": 1,
+        "passRate": 7.1
+      },
+      {
+        "year": 2023,
+        "applicants": 13,
+        "passers": 3,
+        "passRate": 23.1
+      },
+      {
+        "year": 2024,
+        "applicants": 13,
+        "passers": 2,
+        "passRate": 15.4
+      },
+      {
+        "year": 2025,
+        "applicants": 12,
+        "passers": 1,
+        "passRate": 8.3
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 4,
+        "passers": 1,
+        "passRate": 25.0
+      },
+      {
+        "year": 2022,
+        "applicants": 3,
+        "passers": 2,
+        "passRate": 66.7
+      },
+      {
+        "year": 2023,
+        "applicants": 3,
+        "passers": 2,
+        "passRate": 66.7
+      },
+      {
+        "year": 2024,
+        "applicants": 3,
+        "passers": 2,
+        "passRate": 66.7
+      },
+      {
+        "year": 2025,
+        "applicants": 1,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ]
   }
 }

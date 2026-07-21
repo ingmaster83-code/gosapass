@@ -3,16 +3,91 @@
   "name": "식품기술사",
   "series": "기술사",
   "field": "식품.가공",
-  "updated": "2026-07-14",
+  "updated": "2026-07-21",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "- 식품제조분야에 관한 전문지식 및 응용능력, 기술사로서의 지도감리능력 및 자질 등"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}식품기술사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시 행 처 : 한국산업인력공단 ② 관련학과 : 대학의 식품공학, 식품가공학 관련학과 ③ 시험과목 - 필기 : 식품의 생산가공, 식품산업의 계획, 식품의 보존, 저장, 평가 및 검사 등에 관한 사항 ④ 검정방법 - 필기 : 단답형 및 주관식 논술형 (매교시당 100분, 총 400분) - 면접 : 구술형 면접 (30분 정도) ⑤ 합격기준 - 필기·실기 : 100점을 만점으로 하여 60점 이상."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 134,
+        "passers": 10,
+        "passRate": 7.5
+      },
+      {
+        "year": 2022,
+        "applicants": 139,
+        "passers": 31,
+        "passRate": 22.3
+      },
+      {
+        "year": 2023,
+        "applicants": 164,
+        "passers": 40,
+        "passRate": 24.4
+      },
+      {
+        "year": 2024,
+        "applicants": 183,
+        "passers": 17,
+        "passRate": 9.3
+      },
+      {
+        "year": 2025,
+        "applicants": 201,
+        "passers": 76,
+        "passRate": 37.8
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 25,
+        "passers": 20,
+        "passRate": 80.0
+      },
+      {
+        "year": 2022,
+        "applicants": 54,
+        "passers": 19,
+        "passRate": 35.2
+      },
+      {
+        "year": 2023,
+        "applicants": 80,
+        "passers": 29,
+        "passRate": 36.2
+      },
+      {
+        "year": 2024,
+        "applicants": 65,
+        "passers": 20,
+        "passRate": 30.8
+      },
+      {
+        "year": 2025,
+        "applicants": 115,
+        "passers": 43,
+        "passRate": 37.4
+      }
+    ]
   }
 }

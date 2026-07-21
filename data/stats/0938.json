@@ -3,16 +3,91 @@
   "name": "자연환경관리기술사",
   "series": "기술사",
   "field": "환경.에너지",
-  "updated": "2026-07-14",
+  "updated": "2026-07-21",
   "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "- 자연환경보전에 관한 실무경험, 전문지식 및 응용능력 - 기술사로서의 경영관리능력, 자질 및 품위"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}자연환경관리기술사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시행처 : 한국산업인력공단 ② 관련학과 : 대학 및 전문대학에 개설되어 있는 환경 관련 학과 등 ③ 시험과목 : 경관생태학, 자연환경관계법규, 생태복원공학, 환경생태관리론, 환경계획학, 자연환경 조사 · 보전 및 복원계획 · 시공에 관한 사항 ④ 검정방법 - 필기 : 단답형 및 주관식 서술형 ( 매 교시당 100분, 총 400분) - 면접 : 구술형 면접시험(30분 정도) ⑤ 합격기준 : 100점 만점에 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 137,
+        "passers": 14,
+        "passRate": 10.2
+      },
+      {
+        "year": 2022,
+        "applicants": 130,
+        "passers": 17,
+        "passRate": 13.1
+      },
+      {
+        "year": 2023,
+        "applicants": 159,
+        "passers": 28,
+        "passRate": 17.6
+      },
+      {
+        "year": 2024,
+        "applicants": 179,
+        "passers": 5,
+        "passRate": 2.8
+      },
+      {
+        "year": 2025,
+        "applicants": 207,
+        "passers": 8,
+        "passRate": 3.9
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 24,
+        "passers": 14,
+        "passRate": 58.3
+      },
+      {
+        "year": 2022,
+        "applicants": 25,
+        "passers": 13,
+        "passRate": 52.0
+      },
+      {
+        "year": 2023,
+        "applicants": 54,
+        "passers": 25,
+        "passRate": 46.3
+      },
+      {
+        "year": 2024,
+        "applicants": 22,
+        "passers": 10,
+        "passRate": 45.5
+      },
+      {
+        "year": 2025,
+        "applicants": 15,
+        "passers": 8,
+        "passRate": 53.3
+      }
+    ]
   }
 }

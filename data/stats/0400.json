@@ -3,16 +3,130 @@
   "name": "토목구조기술사",
   "series": "기술사",
   "field": "건설",
-  "updated": "2026-07-14",
-  "schedule": [],
+  "updated": "2026-07-21",
+  "schedule": [
+    {
+      "round": "제138회",
+      "written_reg_start": "2026-01-06",
+      "written_reg_end": "2026-01-09",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-25",
+      "prac_reg_start": "2026-03-03",
+      "prac_reg_end": "2026-04-02",
+      "prac_exam_start": "2026-05-02",
+      "prac_exam_end": "2026-05-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제139회",
+      "written_reg_start": "2026-04-13",
+      "written_reg_end": "2026-04-16",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-24",
+      "prac_reg_start": "2026-06-08",
+      "prac_reg_end": "2026-07-02",
+      "prac_exam_start": "2026-08-01",
+      "prac_exam_end": "2026-08-15",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제140회",
+      "written_reg_start": "2026-07-13",
+      "written_reg_end": "2026-07-16",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-10-07",
+      "prac_reg_start": "2026-08-31",
+      "prac_reg_end": "2026-10-15",
+      "prac_exam_start": "2026-11-14",
+      "prac_exam_end": "2026-11-25",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}토목구조기술사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시 행 처 : 한국산업인력공단② 관련학과 : 대학 및 전문대학에 개설되어 있는 토목공학, 건축공학 관련학과③ 시험과목   - 구조해석, 철골구조, 철근콘크리트구조, 콘크리트구조 및 시멘트제품 기타      구조물에 관한 사항.④ 검정방법   - 필기 : 단답형 및 주관식 논술형(매교시당100분, 총400분)   - 면접 : 구술형 면접시험(30분정도)⑤ 합격기준   - 전과목 평균 60점 이상 득점자"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 368,
+        "passers": 61,
+        "passRate": 16.6
+      },
+      {
+        "year": 2022,
+        "applicants": 355,
+        "passers": 17,
+        "passRate": 4.8
+      },
+      {
+        "year": 2023,
+        "applicants": 394,
+        "passers": 27,
+        "passRate": 6.9
+      },
+      {
+        "year": 2024,
+        "applicants": 424,
+        "passers": 26,
+        "passRate": 6.1
+      },
+      {
+        "year": 2025,
+        "applicants": 455,
+        "passers": 25,
+        "passRate": 5.5
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 77,
+        "passers": 56,
+        "passRate": 72.7
+      },
+      {
+        "year": 2022,
+        "applicants": 32,
+        "passers": 21,
+        "passRate": 65.6
+      },
+      {
+        "year": 2023,
+        "applicants": 38,
+        "passers": 23,
+        "passRate": 60.5
+      },
+      {
+        "year": 2024,
+        "applicants": 47,
+        "passers": 30,
+        "passRate": 63.8
+      },
+      {
+        "year": 2025,
+        "applicants": 34,
+        "passers": 24,
+        "passRate": 70.6
+      }
+    ]
   }
 }

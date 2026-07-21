@@ -3,7 +3,7 @@
   "name": "객화차정비산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-07-14",
+  "updated": "2026-07-21",
   "schedule": [],
   "fee": {
     "written": "",
@@ -12,7 +12,69 @@
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 708,
+        "passers": 224,
+        "passRate": 31.6
+      },
+      {
+        "year": 2022,
+        "applicants": 432,
+        "passers": 194,
+        "passRate": 44.9
+      },
+      {
+        "year": 2023,
+        "applicants": 245,
+        "passers": 97,
+        "passRate": 39.6
+      },
+      {
+        "year": 2024,
+        "applicants": 164,
+        "passers": 38,
+        "passRate": 23.2
+      },
+      {
+        "year": 2025,
+        "applicants": 197,
+        "passers": 102,
+        "passRate": 51.8
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 284,
+        "passers": 179,
+        "passRate": 63.0
+      },
+      {
+        "year": 2022,
+        "applicants": 249,
+        "passers": 172,
+        "passRate": 69.1
+      },
+      {
+        "year": 2023,
+        "applicants": 138,
+        "passers": 99,
+        "passRate": 71.7
+      },
+      {
+        "year": 2024,
+        "applicants": 71,
+        "passers": 48,
+        "passRate": 67.6
+      },
+      {
+        "year": 2025,
+        "applicants": 104,
+        "passers": 66,
+        "passRate": 63.5
+      }
+    ]
   }
 }

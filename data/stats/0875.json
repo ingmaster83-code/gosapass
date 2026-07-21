@@ -3,16 +3,91 @@
   "name": "인간공학기술사",
   "series": "기술사",
   "field": "안전관리",
-  "updated": "2026-07-14",
+  "updated": "2026-07-21",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "인간공학종목에 관한 고도의 전문지식과 실무경험에 입각한 계획·연구·설계·분석·조 사·시험·시공·감리·평가·진단·사업관리·기술관리 등의 업무를 수행할 수 있는 능 력의 유무"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}인간공학기술사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시행처 : 한국산업인력공단② 교육기관 : 대학의 산업공학, 안전공학과 등 관련학과③ 시험과목 : 인간공학개론, 작업생리학, 산업심리학, 관계법규, 근골격계질환 예방을           위한 작업관리 등 인간공학기술에 대한 분석, 계획, 설계, 시행에 관한 사항 ④ 검정방법  - 필기 : 단답형 및 주관식 서술형(매교시당 100분 총 400분)  - 면접 : 구술형 면접시험(30분 정도)⑤ 합격기준  - 100점 만점에 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 54,
+        "passers": 18,
+        "passRate": 33.3
+      },
+      {
+        "year": 2022,
+        "applicants": 48,
+        "passers": 26,
+        "passRate": 54.2
+      },
+      {
+        "year": 2023,
+        "applicants": 64,
+        "passers": 22,
+        "passRate": 34.4
+      },
+      {
+        "year": 2024,
+        "applicants": 101,
+        "passers": 41,
+        "passRate": 40.6
+      },
+      {
+        "year": 2025,
+        "applicants": 105,
+        "passers": 31,
+        "passRate": 29.5
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 35,
+        "passers": 17,
+        "passRate": 48.6
+      },
+      {
+        "year": 2022,
+        "applicants": 33,
+        "passers": 13,
+        "passRate": 39.4
+      },
+      {
+        "year": 2023,
+        "applicants": 40,
+        "passers": 15,
+        "passRate": 37.5
+      },
+      {
+        "year": 2024,
+        "applicants": 62,
+        "passers": 19,
+        "passRate": 30.6
+      },
+      {
+        "year": 2025,
+        "applicants": 61,
+        "passers": 21,
+        "passRate": 34.4
+      }
+    ]
   }
 }

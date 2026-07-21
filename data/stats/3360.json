@@ -3,16 +3,120 @@
   "name": "위험물기능장",
   "series": "기능장",
   "field": "화학",
-  "updated": "2026-07-14",
-  "schedule": [],
+  "updated": "2026-07-21",
+  "schedule": [
+    {
+      "round": "제79회",
+      "written_reg_start": "2026-01-06",
+      "written_reg_end": "2026-01-09",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-01-30",
+      "prac_reg_start": "2026-02-02",
+      "prac_reg_end": "2026-02-05",
+      "prac_exam_start": "2026-03-14",
+      "prac_exam_end": "2026-04-01",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제80회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다. - 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}위험물기능장 출제기준입니다.  메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313;시험과목 - 필기 :화재이론, 위험물의 제조소 등의 위험물안전관리 및 공업경영에 관한 사항 - 실기 : 위험물취급 실무&#9314; 검정방법  - 필기 : 4지택일형, 객관식 60문항(60분)  - 실기 : 필답형(2시간, 100점) &#9315; 합격기준  -필기 : 100점을 만점으로 하여 60점 이상 -실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 5799,
+        "passers": 3510,
+        "passRate": 60.5
+      },
+      {
+        "year": 2022,
+        "applicants": 5275,
+        "passers": 3244,
+        "passRate": 61.5
+      },
+      {
+        "year": 2023,
+        "applicants": 7531,
+        "passers": 4516,
+        "passRate": 60.0
+      },
+      {
+        "year": 2024,
+        "applicants": 7838,
+        "passers": 4682,
+        "passRate": 59.7
+      },
+      {
+        "year": 2025,
+        "applicants": 7152,
+        "passers": 4089,
+        "passRate": 57.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 5161,
+        "passers": 1966,
+        "passRate": 38.1
+      },
+      {
+        "year": 2022,
+        "applicants": 4972,
+        "passers": 1739,
+        "passRate": 35.0
+      },
+      {
+        "year": 2023,
+        "applicants": 6725,
+        "passers": 3305,
+        "passRate": 49.1
+      },
+      {
+        "year": 2024,
+        "applicants": 6938,
+        "passers": 2450,
+        "passRate": 35.3
+      },
+      {
+        "year": 2025,
+        "applicants": 7051,
+        "passers": 2696,
+        "passRate": 38.2
+      }
+    ]
   }
 }

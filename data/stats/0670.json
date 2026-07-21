@@ -3,16 +3,91 @@
   "name": "조경기술사",
   "series": "기술사",
   "field": "건설",
-  "updated": "2026-07-14",
+  "updated": "2026-07-21",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "- 조경에 전반 관한 실무경험, 일반지식, 전문지식 및 응용능력.- 기술사로서의 경영관리·지도감리능력, 자질 및 품위"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}조경기술사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시 행 처 : 한국산업인력공단 ② 관련학과 : 대학 및 전문대학의 조경학, 원예조경학, 환경조경학, 녹지조경학 관련 학과 등③ 시험과목 : 환경보전, 산림보전, 공원녹지, 공지, 조경 및 도시경관 등의 계획과 관리에 관한 사항. ④ 검정방법 - 필기 : 단답형 및 주관식 논술형(매교시당 100분 총 400분) - 면접 : 구술형 면접시험(30분 정도) ⑤ 합격기준 : 100점 만점에 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 179,
+        "passers": 22,
+        "passRate": 12.3
+      },
+      {
+        "year": 2022,
+        "applicants": 147,
+        "passers": 9,
+        "passRate": 6.1
+      },
+      {
+        "year": 2023,
+        "applicants": 178,
+        "passers": 50,
+        "passRate": 28.1
+      },
+      {
+        "year": 2024,
+        "applicants": 206,
+        "passers": 5,
+        "passRate": 2.4
+      },
+      {
+        "year": 2025,
+        "applicants": 222,
+        "passers": 13,
+        "passRate": 5.9
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 36,
+        "passers": 15,
+        "passRate": 41.7
+      },
+      {
+        "year": 2022,
+        "applicants": 21,
+        "passers": 18,
+        "passRate": 85.7
+      },
+      {
+        "year": 2023,
+        "applicants": 56,
+        "passers": 25,
+        "passRate": 44.6
+      },
+      {
+        "year": 2024,
+        "applicants": 51,
+        "passers": 22,
+        "passRate": 43.1
+      },
+      {
+        "year": 2025,
+        "applicants": 26,
+        "passers": 12,
+        "passRate": 46.2
+      }
+    ]
   }
 }

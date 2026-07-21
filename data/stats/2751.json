@@ -3,16 +3,75 @@
   "name": "교통산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-07-14",
-  "schedule": [],
+  "updated": "2026-07-21",
+  "schedule": [
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}교통산업기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 전문대학 및 대학의 교통공학, 도시공학, 도시계획공학, 도시건설, 도시환경디자인 관련학과 &#9314; 시험과목  - 필기 : 1.교통조사 2.교통운영 3.교통계획 4.교통안전 5.교통시설  - 실기 : 교통운영 및 관리 ※ [2021년이후 변경사항] 필기시험 시험과목 개편(5과목&rarr;4과목)현 행&rarr;변 경('21.1.1이후)1. 교통조사2. 교통운영3. 교통계획4. 교통안전5. 교통시설1. 교통운영2. 교통계획3. 교통안전4. 교통시설※ [2022년이후 변경사항] 필기시험 격년 시행(단, 실기시험은 매년 시행) - 필기시험 시행 연도(2021년~2025년 기준): 2021년, 2023년, 2025년 - 실기시험 시행 연도(2021년~2025년 기준) : 2021년, 2022년, 2023년, 2024년, 2025년 &#9315; 검정방법  - 필기 : 객관식 4지 택일형 과목당 20문항(과목당30분)  - 실기 : 필답형(2시간, 100점) &#9316; 합격기준  - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상 - 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 35,
+        "passers": 22,
+        "passRate": 62.9
+      },
+      {
+        "year": 2022,
+        "applicants": 5,
+        "passers": 3,
+        "passRate": 60.0
+      },
+      {
+        "year": 2023,
+        "applicants": 15,
+        "passers": 11,
+        "passRate": 73.3
+      },
+      {
+        "year": 2024,
+        "applicants": 2,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 11,
+        "passers": 7,
+        "passRate": 63.6
+      }
+    ]
   }
 }

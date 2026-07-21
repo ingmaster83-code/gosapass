@@ -3,16 +3,106 @@
   "name": "시설원예기술사",
   "series": "기술사",
   "field": "농림어업",
-  "updated": "2026-07-14",
-  "schedule": [],
+  "updated": "2026-07-21",
+  "schedule": [
+    {
+      "round": "제139회",
+      "written_reg_start": "2026-04-13",
+      "written_reg_end": "2026-04-16",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-24",
+      "prac_reg_start": "2026-06-08",
+      "prac_reg_end": "2026-07-02",
+      "prac_exam_start": "2026-08-01",
+      "prac_exam_end": "2026-08-15",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "- 시설원예에 관한 전문적인 실무경험, 전문지식 및 응용능력. - 기술사로서 지도관리능력, 자질 등"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}시설원예기술사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시 행 처 : 한국산업인력공단 ② 관련학과 : 대학의 원예학과, 관상원예학과, 환경원예학과, 원예과학과 등 ③ 시험과목 : 원예시설의 설계, 설치, 시설내의 환경조절 및 재배관리에 관한 사항. ④ 검정방법: 필기 : 단답형 및 주관식 논술형(매교시당 100분 총 400분) - 면접 : 구술형 면접(시험시간 30분 정도) ⑤ 합격기준 : 100점을 만점으로 하여 60점 이상 득점자."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 30,
+        "passers": 8,
+        "passRate": 26.7
+      },
+      {
+        "year": 2022,
+        "applicants": 31,
+        "passers": 7,
+        "passRate": 22.6
+      },
+      {
+        "year": 2023,
+        "applicants": 31,
+        "passers": 6,
+        "passRate": 19.4
+      },
+      {
+        "year": 2024,
+        "applicants": 36,
+        "passers": 2,
+        "passRate": 5.6
+      },
+      {
+        "year": 2025,
+        "applicants": 43,
+        "passers": 2,
+        "passRate": 4.7
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 19,
+        "passers": 7,
+        "passRate": 36.8
+      },
+      {
+        "year": 2022,
+        "applicants": 12,
+        "passers": 6,
+        "passRate": 50.0
+      },
+      {
+        "year": 2023,
+        "applicants": 10,
+        "passers": 3,
+        "passRate": 30.0
+      },
+      {
+        "year": 2024,
+        "applicants": 7,
+        "passers": 3,
+        "passRate": 42.9
+      },
+      {
+        "year": 2025,
+        "applicants": 5,
+        "passers": 2,
+        "passRate": 40.0
+      }
+    ]
   }
 }

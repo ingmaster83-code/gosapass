@@ -3,16 +3,91 @@
   "name": "전기기능장",
   "series": "기능장",
   "field": "전기.전자",
-  "updated": "2026-07-14",
+  "updated": "2026-07-21",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "34400",
+    "practical": "166700",
+    "raw": "1차 : 34400, 2차 : 166700"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다. - 전기에 관한 최상급 숙련기능을 가지고 산업현장에서 작업관리와 소속 기능자의 지도 및 감독, 현장훈련,경영계층과 생산계층을 유기적으로 결합시켜주는 현장의 중간 관리 등의 능력을 평가 - PLC (본인지참)등을 지참하여 주어진 도면과 주어진 재료를 사용하여 도면에 표시된 공사를 내선공사방법에  의거 완성 - 전기사업법령에 따른 행정규칙(전기설비기술기준, 한국전기설비규정 등)은시험일자 기준으로 시험 시행 전  최근 고시된 기준 및 규정으로 수험준비에 임하여야 합니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}전기기능장 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 전문계 고등학교, 전문대학 이상의 전기과, 전기제어과, 전기설비과 등 관련학과 &#9314; 시험과목 - 필기 : 전기이론, 전기기기, 전력전자, 전기설비설계 및 시공, 송ㆍ배전, 디지털 공학, 공업경영에  관한 사항  - 실기 : 전기에 관한 실무 &#9315; 검정방법 - 필기 : 객관식 4지택일형  - 실기('18년도부터 적용): 복합형(6시간 30분 정도)&#9316; 합격기준 - 필기&middot;실기 : 100점을 만점으로 하여 60점 이상 작업형 실기시험 기본정보안전등급(safety Level) : 3 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비니퍼, 드라이버, 쇠톱 등&middot; 보호구면장갑, 운동화보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2632,
+        "passers": 927,
+        "passRate": 35.2
+      },
+      {
+        "year": 2022,
+        "applicants": 2727,
+        "passers": 1012,
+        "passRate": 37.1
+      },
+      {
+        "year": 2023,
+        "applicants": 3370,
+        "passers": 1300,
+        "passRate": 38.6
+      },
+      {
+        "year": 2024,
+        "applicants": 3567,
+        "passers": 1451,
+        "passRate": 40.7
+      },
+      {
+        "year": 2025,
+        "applicants": 3932,
+        "passers": 1432,
+        "passRate": 36.4
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1800,
+        "passers": 272,
+        "passRate": 15.1
+      },
+      {
+        "year": 2022,
+        "applicants": 1837,
+        "passers": 382,
+        "passRate": 20.8
+      },
+      {
+        "year": 2023,
+        "applicants": 2193,
+        "passers": 308,
+        "passRate": 14.0
+      },
+      {
+        "year": 2024,
+        "applicants": 2323,
+        "passers": 476,
+        "passRate": 20.5
+      },
+      {
+        "year": 2025,
+        "applicants": 2470,
+        "passers": 366,
+        "passRate": 14.8
+      }
+    ]
   }
 }

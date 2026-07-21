@@ -3,16 +3,91 @@
   "name": "정보관리기술사",
   "series": "기술사",
   "field": "정보통신",
-  "updated": "2026-07-14",
+  "updated": "2026-07-21",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "- 정보관리에 관련된 실무경험, 일반지식, 전문지식 및 응용능력. - 기술사로서의 지도감리능력, 자질 및 품위."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}정보관리기술사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 모든 학과 응시가능 &#9314; 시험과목 : 정보의 구조, 수집, 정리, 축적, 검색 등 정보시스템의 설계 및 수치계산, 기타 정보의 분석, 관리 및 기본적인 응용에 관한 사항 &#9315; 검정방법- 필기 : 단답형 및 주관식 논술형(매교시당 100분 총 400분) - 실기 : 구술형 면접 (시험시간 30분정도) &#9316; 합격기준- 필기&middot;실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1092,
+        "passers": 96,
+        "passRate": 8.8
+      },
+      {
+        "year": 2022,
+        "applicants": 1140,
+        "passers": 59,
+        "passRate": 5.2
+      },
+      {
+        "year": 2023,
+        "applicants": 1185,
+        "passers": 50,
+        "passRate": 4.2
+      },
+      {
+        "year": 2024,
+        "applicants": 1534,
+        "passers": 52,
+        "passRate": 3.4
+      },
+      {
+        "year": 2025,
+        "applicants": 1824,
+        "passers": 41,
+        "passRate": 2.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 145,
+        "passers": 108,
+        "passRate": 74.5
+      },
+      {
+        "year": 2022,
+        "applicants": 83,
+        "passers": 60,
+        "passRate": 72.3
+      },
+      {
+        "year": 2023,
+        "applicants": 68,
+        "passers": 49,
+        "passRate": 72.1
+      },
+      {
+        "year": 2024,
+        "applicants": 73,
+        "passers": 56,
+        "passRate": 76.7
+      },
+      {
+        "year": 2025,
+        "applicants": 67,
+        "passers": 41,
+        "passRate": 61.2
+      }
+    ]
   }
 }

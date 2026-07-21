@@ -3,16 +3,91 @@
   "name": "철도차량정비기능장",
   "series": "기능장",
   "field": "기계",
-  "updated": "2026-07-14",
+  "updated": "2026-07-21",
   "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}철도차량정비기능장 출제기준입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 관련학과 : 대학 및 전문대학의 철도, 철도시스템, 철도차량, 철도공학관련학과&#9314; 시험과목 - 필기 : 1.철도차량공학 2.동력차기관정비 3.동력차전기전자정비 4.객화차정비 5.공업경영에 관한 사항 - 실기 : 철도차량 정비 및 검사 실무 &#9315; 검정방법- 필기 : 객관식 4지 택일형 60문항(60분)- 실기 : 필답형(2시간, 100점) &#9316; 합격기준- 필기 : 100점을 만점으로 하여 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 256,
+        "passers": 166,
+        "passRate": 64.8
+      },
+      {
+        "year": 2022,
+        "applicants": 229,
+        "passers": 81,
+        "passRate": 35.4
+      },
+      {
+        "year": 2023,
+        "applicants": 223,
+        "passers": 96,
+        "passRate": 43.0
+      },
+      {
+        "year": 2024,
+        "applicants": 131,
+        "passers": 46,
+        "passRate": 35.1
+      },
+      {
+        "year": 2025,
+        "applicants": 120,
+        "passers": 53,
+        "passRate": 44.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 296,
+        "passers": 88,
+        "passRate": 29.7
+      },
+      {
+        "year": 2022,
+        "applicants": 185,
+        "passers": 9,
+        "passRate": 4.9
+      },
+      {
+        "year": 2023,
+        "applicants": 195,
+        "passers": 17,
+        "passRate": 8.7
+      },
+      {
+        "year": 2024,
+        "applicants": 114,
+        "passers": 16,
+        "passRate": 14.0
+      },
+      {
+        "year": 2025,
+        "applicants": 88,
+        "passers": 24,
+        "passRate": 27.3
+      }
+    ]
   }
 }

@@ -3,8 +3,23 @@
   "name": "표면처리기능장",
   "series": "기능장",
   "field": "재료",
-  "updated": "2026-07-14",
-  "schedule": [],
+  "updated": "2026-07-21",
+  "schedule": [
+    {
+      "round": "제80회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
@@ -12,7 +27,69 @@
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 47,
+        "passers": 27,
+        "passRate": 57.4
+      },
+      {
+        "year": 2022,
+        "applicants": 49,
+        "passers": 33,
+        "passRate": 67.3
+      },
+      {
+        "year": 2023,
+        "applicants": 101,
+        "passers": 62,
+        "passRate": 61.4
+      },
+      {
+        "year": 2024,
+        "applicants": 122,
+        "passers": 76,
+        "passRate": 62.3
+      },
+      {
+        "year": 2025,
+        "applicants": 116,
+        "passers": 64,
+        "passRate": 55.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 51,
+        "passers": 6,
+        "passRate": 11.8
+      },
+      {
+        "year": 2022,
+        "applicants": 53,
+        "passers": 20,
+        "passRate": 37.7
+      },
+      {
+        "year": 2023,
+        "applicants": 69,
+        "passers": 33,
+        "passRate": 47.8
+      },
+      {
+        "year": 2024,
+        "applicants": 86,
+        "passers": 45,
+        "passRate": 52.3
+      },
+      {
+        "year": 2025,
+        "applicants": 87,
+        "passers": 29,
+        "passRate": 33.3
+      }
+    ]
   }
 }

@@ -3,16 +3,120 @@
   "name": "기계가공기능장",
   "series": "기능장",
   "field": "기계",
-  "updated": "2026-07-14",
-  "schedule": [],
+  "updated": "2026-07-21",
+  "schedule": [
+    {
+      "round": "제79회",
+      "written_reg_start": "2026-01-06",
+      "written_reg_end": "2026-01-09",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-01-30",
+      "prac_reg_start": "2026-02-02",
+      "prac_reg_end": "2026-02-05",
+      "prac_exam_start": "2026-03-14",
+      "prac_exam_end": "2026-04-01",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제80회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "34400",
+    "practical": "82400",
+    "raw": "1차 : 34400, 2차 : 82400"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.작업형- 머시닝센터 수동프로그램작업과 CAM프로그램작업을 수행하여 머시닝센터에서 공구선정, 장착 및 가공작업 - 범용밀링 가공작업을 수행하여 머시닝센터가공품과 조립(공개도면 참조)- CNC선반 수동프로그램작업을 하여 CNC선반에서 공구선정, 장착 및 가공작업 - 범용선반 가공작업을 수행하여 CNC선반가공품과 조립(공개도면 참조)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}기계가공기능장 출제기준입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 관련학과 : 실업계 고등학교의 기계 관련학과 &#9314; 시험과목- 필기 : 1. 절삭기계가공법 2. 공유압 3.치공구 4.CAD/CAM 5.절삭재료 5.자동화 생산시스템 6.측정 7.공업경영- 실기 : 기계가공 실무&#9315; 검정방법- 필기 : 객관식 4지 택일형 60 문항(60분)- 실기 : 작업형(7시간 10분, 100점)&#9316; 합격기준- 필기 : 100점을 만점으로 하여 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보안전등급(safety Level) :4 등급▼위험경고주의관심&middot; 시험장소 구분실내 &middot; 외&middot; 주요시설 및 장비머시닝센터, 범용밀링, CNC선반, 범용선반, 컴퓨터 등&middot; 보호구보안경, 안전화, 안전보호구등보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다. ○ 실기시험 안전작업(밀링분야) 교육영상 url:https://youtube.com/watch?v=9arcGFuYHGs&amp;si=kcVpUm2Qna4sDK6N○ 실기시험 안전작업(선반분야) 교육영상 url:https://youtu.be/jmu3CK8Y8n8?si=ULDAQSQIspCONitD"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 421,
+        "passers": 230,
+        "passRate": 54.6
+      },
+      {
+        "year": 2022,
+        "applicants": 412,
+        "passers": 218,
+        "passRate": 52.9
+      },
+      {
+        "year": 2023,
+        "applicants": 632,
+        "passers": 311,
+        "passRate": 49.2
+      },
+      {
+        "year": 2024,
+        "applicants": 546,
+        "passers": 281,
+        "passRate": 51.5
+      },
+      {
+        "year": 2025,
+        "applicants": 505,
+        "passers": 240,
+        "passRate": 47.5
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 283,
+        "passers": 114,
+        "passRate": 40.3
+      },
+      {
+        "year": 2022,
+        "applicants": 347,
+        "passers": 148,
+        "passRate": 42.7
+      },
+      {
+        "year": 2023,
+        "applicants": 379,
+        "passers": 193,
+        "passRate": 50.9
+      },
+      {
+        "year": 2024,
+        "applicants": 345,
+        "passers": 164,
+        "passRate": 47.5
+      },
+      {
+        "year": 2025,
+        "applicants": 339,
+        "passers": 165,
+        "passRate": 48.7
+      }
+    ]
   }
 }

@@ -3,16 +3,134 @@
   "name": "건축설비기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-07-14",
-  "schedule": [],
+  "updated": "2026-07-21",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-12",
+      "written_reg_end": "2026-01-15",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-11",
+      "prac_reg_start": "2026-03-23",
+      "prac_reg_end": "2026-03-26",
+      "prac_exam_start": "2026-04-18",
+      "prac_exam_end": "2026-05-06",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필답형 실기시험으로 시행됩니다.- 고객지원>자료실의 출제기준을 참조하시기 바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}건축설비기사 출제기준 입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 :한국산업인력공단 &#9313; 관련학과 : 대학 및 전문대학의 건축공학, 건축설비공학, 기계공학 관련학과 &#9314; 시험과목 - 필기 1. 건축일반 2. 위생설비 3. 공기조화설비 4. 소방 및 전기설비 5. 건축설비관계법규 실기 : 건축설비설계 및 시공 실무 &#9315; 검정방법 - 필기 : 객관식 4지 택일형 과목당 20문항(과목당 30분)  실기 : 필답형(3시간) &#9316; 합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상  실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 4478,
+        "passers": 2546,
+        "passRate": 56.9
+      },
+      {
+        "year": 2022,
+        "applicants": 7559,
+        "passers": 4622,
+        "passRate": 61.1
+      },
+      {
+        "year": 2023,
+        "applicants": 8114,
+        "passers": 4819,
+        "passRate": 59.4
+      },
+      {
+        "year": 2024,
+        "applicants": 7605,
+        "passers": 4507,
+        "passRate": 59.3
+      },
+      {
+        "year": 2025,
+        "applicants": 11151,
+        "passers": 6702,
+        "passRate": 60.1
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 3122,
+        "passers": 1158,
+        "passRate": 37.1
+      },
+      {
+        "year": 2022,
+        "applicants": 5939,
+        "passers": 1368,
+        "passRate": 23.0
+      },
+      {
+        "year": 2023,
+        "applicants": 7940,
+        "passers": 3116,
+        "passRate": 39.2
+      },
+      {
+        "year": 2024,
+        "applicants": 7111,
+        "passers": 2406,
+        "passRate": 33.8
+      },
+      {
+        "year": 2025,
+        "applicants": 9181,
+        "passers": 3302,
+        "passRate": 36.0
+      }
+    ]
   }
 }

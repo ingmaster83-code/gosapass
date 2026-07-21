@@ -3,16 +3,91 @@
   "name": "철도신호기술사",
   "series": "기술사",
   "field": "전기.전자",
-  "updated": "2026-07-14",
+  "updated": "2026-07-21",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "- 철도신호와 관련된 실무경험, 전문지식 및 응용능력 - 기술사로서의 지도감리능력, 경영관리능력, 자질 및 품위 등 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}철도신호기술사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시 행 처 : 한국산업인력공단② 관련학과 : 대학 및 전문대학의 전기제어공학, 전기전자공학, 전자공학,                철도전기제어과 등 관련학과③ 시험과목   - 필기 : 철도신호 전기설비의 계획과 설계, 시공, 감리 및 기타 철도신호보안 전기            설비에 관한 사항④ 검정방법   - 필기 : 단답형 및 주관식 논술형(매교시당 100분, 총 400분)   - 면접 : 구술형 면접(30분 정도)⑤ 합격기준   - 필기·면접 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 61,
+        "passers": 3,
+        "passRate": 4.9
+      },
+      {
+        "year": 2022,
+        "applicants": 74,
+        "passers": 9,
+        "passRate": 12.2
+      },
+      {
+        "year": 2023,
+        "applicants": 94,
+        "passers": 5,
+        "passRate": 5.3
+      },
+      {
+        "year": 2024,
+        "applicants": 113,
+        "passers": 8,
+        "passRate": 7.1
+      },
+      {
+        "year": 2025,
+        "applicants": 99,
+        "passers": 11,
+        "passRate": 11.1
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 15,
+        "passers": 11,
+        "passRate": 73.3
+      },
+      {
+        "year": 2022,
+        "applicants": 9,
+        "passers": 8,
+        "passRate": 88.9
+      },
+      {
+        "year": 2023,
+        "applicants": 8,
+        "passers": 6,
+        "passRate": 75.0
+      },
+      {
+        "year": 2024,
+        "applicants": 11,
+        "passers": 6,
+        "passRate": 54.5
+      },
+      {
+        "year": 2025,
+        "applicants": 14,
+        "passers": 10,
+        "passRate": 71.4
+      }
+    ]
   }
 }

@@ -3,16 +3,60 @@
   "name": "공장관리기술사",
   "series": "기술사",
   "field": "경영.회계.사무",
-  "updated": "2026-07-14",
+  "updated": "2026-07-21",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "- 공장관리와 관련된 실무경험, 전문지식 및 응용능력, 일반지식 - 기술사로서의 지도감리능력, 자질 및 품위 등 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}공장관리기술사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시 행 처 : 한국산업인력공단② 관련학과 : 대학의 산업공학, 산업경영공학 관련학과③ 시험과목    - 공장계획 및 설계, 공장조직, 생산계획 및 통제(공정관리), 설비 및 공구            관리, 자재 및 운반관리, 작업관리, 경제성공학, 원가관리, 계기관리와             오퍼레이션리서치 기타 공장관리에 관한 사항④ 검정방법   - 필기 : 단답형 및 주관식 논술형(매교시당 100분 총 400분)   - 면접 : 구술형 면접시험(30분 정도)⑤ 합격기준  - 필기·면접 : 100점을 만점에 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 47,
+        "passers": 7,
+        "passRate": 14.9
+      },
+      {
+        "year": 2022,
+        "applicants": 36,
+        "passers": 8,
+        "passRate": 22.2
+      },
+      {
+        "year": 2023,
+        "applicants": 58,
+        "passers": 37,
+        "passRate": 63.8
+      },
+      {
+        "year": 2024,
+        "applicants": 80,
+        "passers": 15,
+        "passRate": 18.8
+      },
+      {
+        "year": 2025,
+        "applicants": 69,
+        "passers": 24,
+        "passRate": 34.8
+      }
+    ],
     "practical": []
   }
 }

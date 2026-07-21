@@ -3,16 +3,106 @@
   "name": "기상예보기술사",
   "series": "기술사",
   "field": "환경.에너지",
-  "updated": "2026-07-14",
-  "schedule": [],
+  "updated": "2026-07-21",
+  "schedule": [
+    {
+      "round": "제139회",
+      "written_reg_start": "2026-04-13",
+      "written_reg_end": "2026-04-16",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-24",
+      "prac_reg_start": "2026-06-08",
+      "prac_reg_end": "2026-07-02",
+      "prac_exam_start": "2026-08-01",
+      "prac_exam_end": "2026-08-15",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "기상예보에 관한 고도의 전문지식과 실무경험에 입각하여 기상예보를 위한 계획, 연구,  설계를 할 수 있으며 대기현상의 관측, 진단, 분석을 통해 예보하고 평가할 수 있으며  예보업무를 적절히 관리할 수 있는 능력의 유무"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}기상예보기술사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tMARGIN: 0px; FONT-FAMILY: Malgun Gothic; COLOR: #000000; FONT-SIZE: 10pt}P {\tLINE-HEIGHT: 1.2; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px}LI {\tLINE-HEIGHT: 1.2; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 시험과목 - 필기 및 면접 : 실황예보, 단기예보, 중?장기예보, 산업기상예보 및 그 응용에 관한 사항 &#9314; 응시자격 - 기사취득후 실무경력 4년, 대학졸업후 실무경력 6년, 관련분야 실무경력 9년 등 &#9315; 합격기준 - 필기 및 면접시험 : 100점 만점 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 15,
+        "passers": 4,
+        "passRate": 26.7
+      },
+      {
+        "year": 2022,
+        "applicants": 13,
+        "passers": 5,
+        "passRate": 38.5
+      },
+      {
+        "year": 2023,
+        "applicants": 7,
+        "passers": 1,
+        "passRate": 14.3
+      },
+      {
+        "year": 2024,
+        "applicants": 16,
+        "passers": 13,
+        "passRate": 81.2
+      },
+      {
+        "year": 2025,
+        "applicants": 21,
+        "passers": 8,
+        "passRate": 38.1
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 9,
+        "passers": 3,
+        "passRate": 33.3
+      },
+      {
+        "year": 2022,
+        "applicants": 10,
+        "passers": 4,
+        "passRate": 40.0
+      },
+      {
+        "year": 2023,
+        "applicants": 4,
+        "passers": 1,
+        "passRate": 25.0
+      },
+      {
+        "year": 2024,
+        "applicants": 14,
+        "passers": 5,
+        "passRate": 35.7
+      },
+      {
+        "year": 2025,
+        "applicants": 15,
+        "passers": 8,
+        "passRate": 53.3
+      }
+    ]
   }
 }

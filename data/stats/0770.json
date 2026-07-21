@@ -3,16 +3,91 @@
   "name": "품질관리기술사",
   "series": "기술사",
   "field": "경영.회계.사무",
-  "updated": "2026-07-14",
+  "updated": "2026-07-21",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "- 품질관리와 관련된 실무경험, 전문지식 및 응용능력, 일반지식 - 기술사로서의 지도감리능력, 자질 및 품위"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}품질관리기술사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시 행 처 : 한국산업인력공단 ② 관련학과 : 대학의 공학계열 학과 ③ 시험과목 - 필기 : 품질계획 및 설계, 품질관리조작, 통계적 품질관리, 품질원가 관리 및 산업 표준화, 기타 품질관리에 관한 사항. ④ 검정방법 - 필기 : 단답형 및 주관식 논술형 (매교시당 100분, 총 400분) - 면접 : 구술형 면접(30분 정도) ⑤ 합격기준 - 필기·실기 : 100점을 만점으로 하여 60점 이상."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 155,
+        "passers": 73,
+        "passRate": 47.1
+      },
+      {
+        "year": 2022,
+        "applicants": 130,
+        "passers": 36,
+        "passRate": 27.7
+      },
+      {
+        "year": 2023,
+        "applicants": 147,
+        "passers": 38,
+        "passRate": 25.9
+      },
+      {
+        "year": 2024,
+        "applicants": 178,
+        "passers": 38,
+        "passRate": 21.3
+      },
+      {
+        "year": 2025,
+        "applicants": 157,
+        "passers": 31,
+        "passRate": 19.7
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 97,
+        "passers": 39,
+        "passRate": 40.2
+      },
+      {
+        "year": 2022,
+        "applicants": 94,
+        "passers": 40,
+        "passRate": 42.6
+      },
+      {
+        "year": 2023,
+        "applicants": 96,
+        "passers": 42,
+        "passRate": 43.8
+      },
+      {
+        "year": 2024,
+        "applicants": 77,
+        "passers": 29,
+        "passRate": 37.7
+      },
+      {
+        "year": 2025,
+        "applicants": 77,
+        "passers": 27,
+        "passRate": 35.1
+      }
+    ]
   }
 }

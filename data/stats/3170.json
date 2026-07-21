@@ -3,16 +3,120 @@
   "name": "에너지관리기능장",
   "series": "기능장",
   "field": "환경.에너지",
-  "updated": "2026-07-14",
-  "schedule": [],
+  "updated": "2026-07-21",
+  "schedule": [
+    {
+      "round": "제79회",
+      "written_reg_start": "2026-01-06",
+      "written_reg_end": "2026-01-09",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-01-30",
+      "prac_reg_start": "2026-02-02",
+      "prac_reg_end": "2026-02-05",
+      "prac_exam_start": "2026-03-14",
+      "prac_exam_end": "2026-04-01",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제80회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 복합형(필답형+작업형)으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다.에너지관리기능장 -작업형은 건축물 및 산업용 보일러시공 및 취급에 관한 최상급 숙련기능을 가지고 현장에서 작업관리,소속기능자의 지도 및 감독, 현장훈련, 환경관리, 경영층과 생산계층을 유기적으로 결합시켜 주는 현장 중간관리등의 직무 수행 능력(공개문제 참조)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}에너지관리기능장 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산인력공단&#9313;관련학과 : 공공직업전문학교 및 기능대학의 산업설비과 등&#9314; 시험과목- 필기 : 1.보일러구조학 2.보일러시공 3.보일러취급 및 안전관리 4.유체역학 및 열역학 5.배관공학 6.보일러재료 7.에너지이용합리화 관계법규 8.공업경영에 관한 사항- 실기 : 보일러시공 취급 실무&#9315; 검정방법- 필기 : 객관식 4지 택일형 60문항(60분)- 실기 : 복합형(필답형(2시간, 50점)+ 작업형(배관작업 5시간 정도, 50점))&#9316; 합격기준- 필기&middot;실기 : 100점을 만점으로 하여 60점이상※ 22년도 첫 시험부터, 필기시험 출제기준에 「저탄소 녹색성장 기본법」 항목이 삭제됩니다.작업형 실기시험 기본정보안전등급(safety Level) : 3 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비용접기, 동력나사절삭기&middot; 보호구안전화, 보안경 등보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1478,
+        "passers": 863,
+        "passRate": 58.4
+      },
+      {
+        "year": 2022,
+        "applicants": 1589,
+        "passers": 826,
+        "passRate": 52.0
+      },
+      {
+        "year": 2023,
+        "applicants": 1839,
+        "passers": 960,
+        "passRate": 52.2
+      },
+      {
+        "year": 2024,
+        "applicants": 1969,
+        "passers": 959,
+        "passRate": 48.7
+      },
+      {
+        "year": 2025,
+        "applicants": 1995,
+        "passers": 984,
+        "passRate": 49.3
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1308,
+        "passers": 446,
+        "passRate": 34.1
+      },
+      {
+        "year": 2022,
+        "applicants": 1428,
+        "passers": 410,
+        "passRate": 28.7
+      },
+      {
+        "year": 2023,
+        "applicants": 1695,
+        "passers": 553,
+        "passRate": 32.6
+      },
+      {
+        "year": 2024,
+        "applicants": 1741,
+        "passers": 618,
+        "passRate": 35.5
+      },
+      {
+        "year": 2025,
+        "applicants": 1690,
+        "passers": 605,
+        "passRate": 35.8
+      }
+    ]
   }
 }
