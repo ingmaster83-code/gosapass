@@ -3,16 +3,60 @@
   "name": "소비자전문상담사2급",
   "series": "기사",
   "field": "경영.회계.사무",
-  "updated": "2026-07-15",
+  "updated": "2026-07-22",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}소비자 불만 및 물품?서비스 등의 구매, 사용방법 등을 상담할 수 있는 능력 및시장조사 및 각종정보를 수집하고 보고서를 작성할 수 있는 소비자상담실무 능력평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2} 소비자전문상담사2급 출제기준 입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 시험과목 - 필기 : 1.소비자 상담 및 피해구제, 2. 소비자관련법, 3.소비자교육 및 정보제공, 4. 소비자상담론- 실기 : 소비자 상담 실무&#9314; 검정방법- 필기 : 객관식 4지 택일형, 100문항(2시간 30분)- 실기 : 필답형(2시간 30분, 100점)&#9315; 합격기준- 필기 :100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 395,
+        "passers": 169,
+        "passRate": 42.8
+      },
+      {
+        "year": 2022,
+        "applicants": 271,
+        "passers": 168,
+        "passRate": 62.0
+      },
+      {
+        "year": 2023,
+        "applicants": 232,
+        "passers": 86,
+        "passRate": 37.1
+      },
+      {
+        "year": 2024,
+        "applicants": 236,
+        "passers": 98,
+        "passRate": 41.5
+      },
+      {
+        "year": 2025,
+        "applicants": 228,
+        "passers": 121,
+        "passRate": 53.1
+      }
+    ]
   }
 }

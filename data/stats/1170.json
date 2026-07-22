@@ -3,12 +3,12 @@
   "name": "전자기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-07-15",
+  "updated": "2026-07-22",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "44800",
+    "raw": "1차 : 19400, 2차 : 44800"
   },
   "info": [],
   "stats": {

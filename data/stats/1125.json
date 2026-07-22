@@ -3,16 +3,75 @@
   "name": "정밀화학기사",
   "series": "기사",
   "field": "화학",
-  "updated": "2026-07-15",
-  "schedule": [],
+  "updated": "2026-07-22",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}○ 필기시험 : 출제기준 참조○ 실기시험(복합형)- 필답형 : 출제기준 참조- 작업형 : 정밀화학제품과 관련한 제품설계, 반응, 혼합, 분리정제, 제형화 등의 공정을 통하여 기능성 화학 제품을 개발 및 생산관리하는 능력을 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}정밀화학기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 대학의 화학과, 화학공학, 공업화학과 정밀화학과 등 관련학과 &#9314;시험과목  - 필기 :1.공업합성, 2.반응운전. 3.단위공정관리, 4.정밀화학제품관리 - 실기 : 정밀화학제품 제조관리실무&#9315; 검정방법  - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분)  - 실기 : 복합형[필답형(1시간 30분) + 작업형(약 6시간)] &#9316;합격기준  - 필기 : 100점을 만점으로 하여 과목당 40점이상, 전과목 평균 60점이상 - 실기 : 100점을 만점으로 하여 60점이상"
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 2,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 4,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 3,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 3,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ]
   }
 }

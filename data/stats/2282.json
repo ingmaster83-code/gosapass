@@ -3,16 +3,91 @@
   "name": "실내건축산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-07-15",
+  "updated": "2026-07-22",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "27900",
+    "raw": "1차 : 19400, 2차 : 27900"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 복합형(필답형+작업형)으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다.[실기시험 방법별 주요 평가내용]작업형 : 건축실내의 설계에 있어 각종 유형의 실내디자인을 계획하고 실무도면을 작성하기 위한 개념도, 평면도, 천장도, 입면도, 상세도, 투시도 등의 작성능력을 평가(배점 60점)필답형 : 완료된 설계도서에 의거하여 현장의 공정 및 시공을 관리하는 능력을 평가(배점 40점)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}실내건축산업기사 출제기준 입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 관련학과 : 전문대학 이상의 실내건축, 실내디자인 건축설계디자인공학, 건축설계학 관련학과&#9314; 시험과목 - 필기 1. 실내디자인계획 2.실내디자인 시공 및 재료3.실내디자인환경 - 실기 : 실내디자인실무&#9315; 검정방법 - 필기 : 객관식 4지 택일형 과목당 20문항(과목당 30분) - 실기 : 복합형(필답형(1시간, 40점) + 작업형(5시간정도, 60점))&#9316; 합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상 - 실기 : 100점을 만점으로 하여 60점 이상  안전등급(Safety Level) : 1등급   ▼위험경고주의관심 &bull; 시험장소 구분 실내  &bull; 주요시설 및 장비제도판, 제도용구 &bull; 보호구 해당사항없음 - 반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2261,
+        "passers": 1107,
+        "passRate": 49.0
+      },
+      {
+        "year": 2022,
+        "applicants": 2004,
+        "passers": 617,
+        "passRate": 30.8
+      },
+      {
+        "year": 2023,
+        "applicants": 2069,
+        "passers": 672,
+        "passRate": 32.5
+      },
+      {
+        "year": 2024,
+        "applicants": 1917,
+        "passers": 684,
+        "passRate": 35.7
+      },
+      {
+        "year": 2025,
+        "applicants": 1851,
+        "passers": 569,
+        "passRate": 30.7
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1013,
+        "passers": 674,
+        "passRate": 66.5
+      },
+      {
+        "year": 2022,
+        "applicants": 651,
+        "passers": 393,
+        "passRate": 60.4
+      },
+      {
+        "year": 2023,
+        "applicants": 590,
+        "passers": 280,
+        "passRate": 47.5
+      },
+      {
+        "year": 2024,
+        "applicants": 646,
+        "passers": 347,
+        "passRate": 53.7
+      },
+      {
+        "year": 2025,
+        "applicants": 538,
+        "passers": 293,
+        "passRate": 54.5
+      }
+    ]
   }
 }

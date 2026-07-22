@@ -3,16 +3,91 @@
   "name": "인간공학기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-07-15",
+  "updated": "2026-07-22",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "22600",
+    "raw": "1차 : 19400, 2차 : 22600"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}인간공학기사 출제기준입니다.  메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시행처 : 한국산업인력공단&#9313; 시험과목- 필기 : 1. 인간공학개론 2. 작업생리학 3. 산업심리학 및 관계법규 4. 근골격계질환 예방을 위한 작업관리- 실기 : 인간공학실무&#9314; 검정방법- 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분)- 실기 : 필답형(2시간30분, 100점)&#9315; 합격기준- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1573,
+        "passers": 1288,
+        "passRate": 81.9
+      },
+      {
+        "year": 2022,
+        "applicants": 2129,
+        "passers": 1490,
+        "passRate": 70.0
+      },
+      {
+        "year": 2023,
+        "applicants": 5494,
+        "passers": 4129,
+        "passRate": 75.2
+      },
+      {
+        "year": 2024,
+        "applicants": 8182,
+        "passers": 5686,
+        "passRate": 69.5
+      },
+      {
+        "year": 2025,
+        "applicants": 8617,
+        "passers": 5996,
+        "passRate": 69.6
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1113,
+        "passers": 698,
+        "passRate": 62.7
+      },
+      {
+        "year": 2022,
+        "applicants": 1511,
+        "passers": 1159,
+        "passRate": 76.7
+      },
+      {
+        "year": 2023,
+        "applicants": 3829,
+        "passers": 2837,
+        "passRate": 74.1
+      },
+      {
+        "year": 2024,
+        "applicants": 6166,
+        "passers": 3674,
+        "passRate": 59.6
+      },
+      {
+        "year": 2025,
+        "applicants": 7645,
+        "passers": 2021,
+        "passRate": 26.4
+      }
+    ]
   }
 }

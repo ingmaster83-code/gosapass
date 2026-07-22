@@ -3,16 +3,75 @@
   "name": "수산제조기사",
   "series": "기사",
   "field": "식품.가공",
-  "updated": "2026-07-15",
-  "schedule": [],
+  "updated": "2026-07-22",
+  "schedule": [
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}-필답형(45점) :출제기준 참고- 작업형(55점) : 수산물품질검사, 식품미생물검사(공개문제 참고)수산물 가공품 관련 품질 검사 실험의 정확도, 숙련도 등의 능력을 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 대학 및전문대학, 수산계 고등학교 등의 식품공학과, 수산가공, 식품가공 관련학과 &#9314; 시험과목 - 필기 :1. 식품위생학 2. 수산화학 3. 수산가공학 4. 통조림제조학 5. 냉동냉장학  - 실기 : 수산식품제조실무 관련&#9315; 검정방법 - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분)  - 실기(복합형) :필답형(45점), 작업형(55점) &#9316; 합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상  - 실기(복합형) : 100점을 만점으로 하여 60점 이상  안전등급(Safety Level) : 4등급▼   위험경고주의관심 &bull; 시험장소 구분실내&bull; 주요시설 및 장비미생물실험실, 화학실험실, 실험기구 등&bull; 보호구 실험복 등- 보호구(실험복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될 수 있습니다.- 반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 16,
+        "passers": 12,
+        "passRate": 75.0
+      },
+      {
+        "year": 2022,
+        "applicants": 3,
+        "passers": 2,
+        "passRate": 66.7
+      },
+      {
+        "year": 2023,
+        "applicants": 14,
+        "passers": 12,
+        "passRate": 85.7
+      },
+      {
+        "year": 2024,
+        "applicants": 1,
+        "passers": 1,
+        "passRate": 100.0
+      },
+      {
+        "year": 2025,
+        "applicants": 13,
+        "passers": 5,
+        "passRate": 38.5
+      }
+    ]
   }
 }

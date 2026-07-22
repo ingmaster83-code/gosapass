@@ -3,7 +3,7 @@
   "name": "정밀측정산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-07-15",
+  "updated": "2026-07-22",
   "schedule": [],
   "fee": {
     "written": "",
@@ -12,7 +12,69 @@
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 359,
+        "passers": 156,
+        "passRate": 43.5
+      },
+      {
+        "year": 2022,
+        "applicants": 410,
+        "passers": 184,
+        "passRate": 44.9
+      },
+      {
+        "year": 2023,
+        "applicants": 425,
+        "passers": 205,
+        "passRate": 48.2
+      },
+      {
+        "year": 2024,
+        "applicants": 383,
+        "passers": 182,
+        "passRate": 47.5
+      },
+      {
+        "year": 2025,
+        "applicants": 347,
+        "passers": 143,
+        "passRate": 41.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 176,
+        "passers": 125,
+        "passRate": 71.0
+      },
+      {
+        "year": 2022,
+        "applicants": 185,
+        "passers": 139,
+        "passRate": 75.1
+      },
+      {
+        "year": 2023,
+        "applicants": 207,
+        "passers": 170,
+        "passRate": 82.1
+      },
+      {
+        "year": 2024,
+        "applicants": 181,
+        "passers": 144,
+        "passRate": 79.6
+      },
+      {
+        "year": 2025,
+        "applicants": 149,
+        "passers": 109,
+        "passRate": 73.2
+      }
+    ]
   }
 }

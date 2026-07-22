@@ -3,16 +3,60 @@
   "name": "승강기기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-07-15",
+  "updated": "2026-07-22",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "22600",
+    "raw": "1차 : 19400, 2차 : 22600"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객지원>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객지원>자료실의 출제기준을 참고바랍니다.-출제기준과관련된 현행 법령 및 행정규칙은 시험일자 기준으로시행되고 있는 최신 법령 및 행정규칙을 기준으로 적용됨을 알려드립니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}승강기기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 대학의 기계공학, 전기공학 등 관련학과 &#9314; 시험과목- 필기 :1. 승강기개론 2. 승강기설계 3. 일반기계공학 4. 전기제어공학 - 실기 : 승강기 실무 &#9315; 검정방법- 필기 : 객관식 4지 택일형 과목당 20문항(과목당 30분)- 실기 : 필답형(2시간 30분, 100점)&#9316; 합격기준- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상 - 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1793,
+        "passers": 632,
+        "passRate": 35.2
+      },
+      {
+        "year": 2022,
+        "applicants": 1498,
+        "passers": 421,
+        "passRate": 28.1
+      },
+      {
+        "year": 2023,
+        "applicants": 1353,
+        "passers": 446,
+        "passRate": 33.0
+      },
+      {
+        "year": 2024,
+        "applicants": 1154,
+        "passers": 362,
+        "passRate": 31.4
+      },
+      {
+        "year": 2025,
+        "applicants": 1113,
+        "passers": 325,
+        "passRate": 29.2
+      }
+    ],
     "practical": []
   }
 }

@@ -3,16 +3,106 @@
   "name": "방수산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-07-15",
-  "schedule": [],
+  "updated": "2026-07-22",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "20000",
+    "raw": "1차 : 19400, 2차 : 20000"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}o실기시험은 복합형(필답형(60점) + 작업형(동영상) 40점)으로 구성o 필답형 실기시험(2시간)은 출제기준을 참조o작업형 실기시험(1시간)은 동영상 시험으로 구성"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}방수산업기사 출제기준입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 전문대학의 건축시공학 관련학과 및 전문계 고등학교의 건축과 &#9314; 시험과목  - 필기 : 1.방수시공일반 2.시멘트 모르타르계 방수3.시트 및 도막방수 - 실기 : 방수시공 실무&#9315; 검정방법  - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분)  - 실기 : 필답형(2시간)+작업형(동영상 1시간) &#9316; 합격기준  - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상. - 실기 : 100점을 만점으로 하여 60점 이상."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 241,
+        "passers": 179,
+        "passRate": 74.3
+      },
+      {
+        "year": 2022,
+        "applicants": 241,
+        "passers": 165,
+        "passRate": 68.5
+      },
+      {
+        "year": 2023,
+        "applicants": 273,
+        "passers": 195,
+        "passRate": 71.4
+      },
+      {
+        "year": 2024,
+        "applicants": 270,
+        "passers": 175,
+        "passRate": 64.8
+      },
+      {
+        "year": 2025,
+        "applicants": 288,
+        "passers": 192,
+        "passRate": 66.7
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 195,
+        "passers": 96,
+        "passRate": 49.2
+      },
+      {
+        "year": 2022,
+        "applicants": 184,
+        "passers": 34,
+        "passRate": 18.5
+      },
+      {
+        "year": 2023,
+        "applicants": 211,
+        "passers": 41,
+        "passRate": 19.4
+      },
+      {
+        "year": 2024,
+        "applicants": 216,
+        "passers": 156,
+        "passRate": 72.2
+      },
+      {
+        "year": 2025,
+        "applicants": 203,
+        "passers": 97,
+        "passRate": 47.8
+      }
+    ]
   }
 }

@@ -3,16 +3,91 @@
   "name": "유기농업산업기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-07-15",
+  "updated": "2026-07-22",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}유기농업산업기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 대학의 농학과, 식물자원학과,농화학과, 생물자원학과 등 &#9314; 시험과목- 필기 1. 재배원론 2. 토양비옥도 및 관리 3. 유기농업개론 4. 유기식품 가공.유통론 - 실기 : 유기농업생산, 품질인증 관련실무 &#9315; 검정방법 - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분) - 실기 : 필답형(2시간) &#9316; 합격기준- 필기 : 100점을 만점으로 하여 과목당 40점이상, 전과목 평균 60점이상- 실기 : 100점을 만점으로 하여 60점이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 106,
+        "passers": 49,
+        "passRate": 46.2
+      },
+      {
+        "year": 2022,
+        "applicants": 89,
+        "passers": 43,
+        "passRate": 48.3
+      },
+      {
+        "year": 2023,
+        "applicants": 69,
+        "passers": 43,
+        "passRate": 62.3
+      },
+      {
+        "year": 2024,
+        "applicants": 82,
+        "passers": 41,
+        "passRate": 50.0
+      },
+      {
+        "year": 2025,
+        "applicants": 71,
+        "passers": 45,
+        "passRate": 63.4
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 56,
+        "passers": 15,
+        "passRate": 26.8
+      },
+      {
+        "year": 2022,
+        "applicants": 40,
+        "passers": 22,
+        "passRate": 55.0
+      },
+      {
+        "year": 2023,
+        "applicants": 37,
+        "passers": 13,
+        "passRate": 35.1
+      },
+      {
+        "year": 2024,
+        "applicants": 39,
+        "passers": 28,
+        "passRate": 71.8
+      },
+      {
+        "year": 2025,
+        "applicants": 41,
+        "passers": 30,
+        "passRate": 73.2
+      }
+    ]
   }
 }

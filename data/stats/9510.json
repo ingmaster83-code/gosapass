@@ -3,8 +3,23 @@
   "name": "직업상담사1급",
   "series": "기사",
   "field": "사회복지.종교",
-  "updated": "2026-07-15",
-  "schedule": [],
+  "updated": "2026-07-22",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
@@ -12,7 +27,69 @@
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 435,
+        "passers": 303,
+        "passRate": 69.7
+      },
+      {
+        "year": 2022,
+        "applicants": 622,
+        "passers": 477,
+        "passRate": 76.7
+      },
+      {
+        "year": 2023,
+        "applicants": 650,
+        "passers": 538,
+        "passRate": 82.8
+      },
+      {
+        "year": 2024,
+        "applicants": 755,
+        "passers": 616,
+        "passRate": 81.6
+      },
+      {
+        "year": 2025,
+        "applicants": 483,
+        "passers": 267,
+        "passRate": 55.3
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 389,
+        "passers": 259,
+        "passRate": 66.6
+      },
+      {
+        "year": 2022,
+        "applicants": 459,
+        "passers": 330,
+        "passRate": 71.9
+      },
+      {
+        "year": 2023,
+        "applicants": 512,
+        "passers": 343,
+        "passRate": 67.0
+      },
+      {
+        "year": 2024,
+        "applicants": 600,
+        "passers": 425,
+        "passRate": 70.8
+      },
+      {
+        "year": 2025,
+        "applicants": 363,
+        "passers": 31,
+        "passRate": 8.5
+      }
+    ]
   }
 }

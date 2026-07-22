@@ -3,8 +3,23 @@
   "name": "철도신호산업기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-07-15",
-  "schedule": [],
+  "updated": "2026-07-22",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
@@ -13,6 +28,37 @@
   "info": [],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 43,
+        "passers": 30,
+        "passRate": 69.8
+      },
+      {
+        "year": 2022,
+        "applicants": 42,
+        "passers": 36,
+        "passRate": 85.7
+      },
+      {
+        "year": 2023,
+        "applicants": 30,
+        "passers": 26,
+        "passRate": 86.7
+      },
+      {
+        "year": 2024,
+        "applicants": 28,
+        "passers": 21,
+        "passRate": 75.0
+      },
+      {
+        "year": 2025,
+        "applicants": 44,
+        "passers": 37,
+        "passRate": 84.1
+      }
+    ]
   }
 }

@@ -3,16 +3,120 @@
   "name": "수산양식기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-07-15",
-  "schedule": [],
+  "updated": "2026-07-22",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-12",
+      "written_reg_end": "2026-01-15",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-11",
+      "prac_reg_start": "2026-03-23",
+      "prac_reg_end": "2026-03-26",
+      "prac_exam_start": "2026-04-18",
+      "prac_exam_end": "2026-05-06",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}수산양식기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 시험과목- 필기: 1. 어류양식학 2. 무척추동물양식학 3. 해조류양식학 4.양식장환경 5.수산질병학- 실기: 수산양식실무&#9315; 검정방법- 필기: 객관식 4지 택일형, 과목당 20문항(과목당 30분)- 실기: 필답형(2시간 30분)&#9316; 합격기준- 필기 : 100점을 만점으로 하여 과목당 40점이상, 전과목 평균60점 이상- 실기 : 100점을 만점으로 하여 60점 이상."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 796,
+        "passers": 338,
+        "passRate": 42.5
+      },
+      {
+        "year": 2022,
+        "applicants": 675,
+        "passers": 293,
+        "passRate": 43.4
+      },
+      {
+        "year": 2023,
+        "applicants": 778,
+        "passers": 337,
+        "passRate": 43.3
+      },
+      {
+        "year": 2024,
+        "applicants": 720,
+        "passers": 301,
+        "passRate": 41.8
+      },
+      {
+        "year": 2025,
+        "applicants": 703,
+        "passers": 263,
+        "passRate": 37.4
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 519,
+        "passers": 160,
+        "passRate": 30.8
+      },
+      {
+        "year": 2022,
+        "applicants": 523,
+        "passers": 133,
+        "passRate": 25.4
+      },
+      {
+        "year": 2023,
+        "applicants": 445,
+        "passers": 113,
+        "passRate": 25.4
+      },
+      {
+        "year": 2024,
+        "applicants": 431,
+        "passers": 229,
+        "passRate": 53.1
+      },
+      {
+        "year": 2025,
+        "applicants": 312,
+        "passers": 117,
+        "passRate": 37.5
+      }
+    ]
   }
 }

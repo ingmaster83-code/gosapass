@@ -3,16 +3,106 @@
   "name": "이러닝운영관리사",
   "series": "기사",
   "field": "교육.자연.과학.사회과학",
-  "updated": "2026-07-15",
-  "schedule": [],
+  "updated": "2026-07-22",
+  "schedule": [
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}이러닝운영관리사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시행처 : 한국산업인력공단&#9313; 시험과목 - 필기 : 1.이러닝운영계획수립(40문항) 2.이러닝활동지원(30문항) 3. 이러닝운영관리(30문항) - 실기 : 이러닝운영실무&#9314; 검정방법- 필기 :객관식 4지 택일형 100문항(2시간 30분)-실기 : 필답형(2시간 정도, 100점)&#9315; 합격기준- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 1063,
+        "passers": 776,
+        "passRate": 73.0
+      },
+      {
+        "year": 2024,
+        "applicants": 559,
+        "passers": 528,
+        "passRate": 94.5
+      },
+      {
+        "year": 2025,
+        "applicants": 472,
+        "passers": 361,
+        "passRate": 76.5
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 904,
+        "passers": 428,
+        "passRate": 47.3
+      },
+      {
+        "year": 2025,
+        "applicants": 526,
+        "passers": 207,
+        "passRate": 39.4
+      }
+    ]
   }
 }

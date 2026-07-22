@@ -3,16 +3,106 @@
   "name": "수산양식산업기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-07-15",
-  "schedule": [],
+  "updated": "2026-07-22",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}수산양식산업기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처: 한국산업인력공단 &#9313; 관련학과: 수산전문대 등 전문대학과 대학의 양식학과 및 수산증식과, 해양자원 육성공학과, 수족 병리학과, 수산자원학과, 자원육성학과, 증식학과, 수산생명의학과, 해양생명양식학과, 해양생명개발학과 등 &#9314; 시험과목- 필기: 1. 어류양식 2. 무척추동물양식 3. 해조류양식 4. 수산생물 5. 수질분석 및 양식생물 질병- 실기: 수산양식실무 &#9315; 검정방법- 필기: 객관식 4지 택일형, 과목당 20문항(과목당 30분)- 실기: 필답형(2시간) &#9316; 합격기준- 필기: 100점을 만점으로 하여 과목당 40점이상, 전과목 평균60점 이상'.- 실기: 100점을 만점으로 하여 60점 이상."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 112,
+        "passers": 50,
+        "passRate": 44.6
+      },
+      {
+        "year": 2022,
+        "applicants": 70,
+        "passers": 30,
+        "passRate": 42.9
+      },
+      {
+        "year": 2023,
+        "applicants": 76,
+        "passers": 23,
+        "passRate": 30.3
+      },
+      {
+        "year": 2024,
+        "applicants": 74,
+        "passers": 23,
+        "passRate": 31.1
+      },
+      {
+        "year": 2025,
+        "applicants": 60,
+        "passers": 15,
+        "passRate": 25.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 50,
+        "passers": 1,
+        "passRate": 2.0
+      },
+      {
+        "year": 2022,
+        "applicants": 34,
+        "passers": 14,
+        "passRate": 41.2
+      },
+      {
+        "year": 2023,
+        "applicants": 18,
+        "passers": 10,
+        "passRate": 55.6
+      },
+      {
+        "year": 2024,
+        "applicants": 16,
+        "passers": 5,
+        "passRate": 31.2
+      },
+      {
+        "year": 2025,
+        "applicants": 16,
+        "passers": 5,
+        "passRate": 31.2
+      }
+    ]
   }
 }

@@ -3,16 +3,98 @@
   "name": "제과산업기사",
   "series": "기사",
   "field": "식품.가공",
-  "updated": "2026-07-15",
-  "schedule": [],
+  "updated": "2026-07-22",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "55200",
+    "raw": "1차 : 19400, 2차 : 55200"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}제과산업기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 315,
+        "passers": 267,
+        "passRate": 84.8
+      },
+      {
+        "year": 2023,
+        "applicants": 1094,
+        "passers": 846,
+        "passRate": 77.3
+      },
+      {
+        "year": 2024,
+        "applicants": 1003,
+        "passers": 773,
+        "passRate": 77.1
+      },
+      {
+        "year": 2025,
+        "applicants": 826,
+        "passers": 652,
+        "passRate": 78.9
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 723,
+        "passers": 275,
+        "passRate": 38.0
+      },
+      {
+        "year": 2024,
+        "applicants": 833,
+        "passers": 336,
+        "passRate": 40.3
+      },
+      {
+        "year": 2025,
+        "applicants": 859,
+        "passers": 376,
+        "passRate": 43.8
+      }
+    ]
   }
 }

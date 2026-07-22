@@ -3,7 +3,7 @@
   "name": "철도운송산업기사",
   "series": "기사",
   "field": "운전.운송",
-  "updated": "2026-07-15",
+  "updated": "2026-07-22",
   "schedule": [],
   "fee": {
     "written": "",
@@ -12,7 +12,69 @@
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 850,
+        "passers": 481,
+        "passRate": 56.6
+      },
+      {
+        "year": 2022,
+        "applicants": 727,
+        "passers": 398,
+        "passRate": 54.7
+      },
+      {
+        "year": 2023,
+        "applicants": 889,
+        "passers": 579,
+        "passRate": 65.1
+      },
+      {
+        "year": 2024,
+        "applicants": 1318,
+        "passers": 821,
+        "passRate": 62.3
+      },
+      {
+        "year": 2025,
+        "applicants": 1619,
+        "passers": 1051,
+        "passRate": 64.9
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 473,
+        "passers": 444,
+        "passRate": 93.9
+      },
+      {
+        "year": 2022,
+        "applicants": 400,
+        "passers": 339,
+        "passRate": 84.8
+      },
+      {
+        "year": 2023,
+        "applicants": 602,
+        "passers": 546,
+        "passRate": 90.7
+      },
+      {
+        "year": 2024,
+        "applicants": 803,
+        "passers": 652,
+        "passRate": 81.2
+      },
+      {
+        "year": 2025,
+        "applicants": 1150,
+        "passers": 996,
+        "passRate": 86.6
+      }
+    ]
   }
 }

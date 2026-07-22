@@ -3,16 +3,93 @@
   "name": "임상심리사1급",
   "series": "기사",
   "field": "보건.의료",
-  "updated": "2026-07-15",
-  "schedule": [],
+  "updated": "2026-07-22",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 841,
+        "passers": 707,
+        "passRate": 84.1
+      },
+      {
+        "year": 2022,
+        "applicants": 980,
+        "passers": 852,
+        "passRate": 86.9
+      },
+      {
+        "year": 2023,
+        "applicants": 1373,
+        "passers": 1204,
+        "passRate": 87.7
+      },
+      {
+        "year": 2024,
+        "applicants": 1868,
+        "passers": 1452,
+        "passRate": 77.7
+      },
+      {
+        "year": 2025,
+        "applicants": 2333,
+        "passers": 1723,
+        "passRate": 73.9
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 695,
+        "passers": 309,
+        "passRate": 44.5
+      },
+      {
+        "year": 2022,
+        "applicants": 999,
+        "passers": 489,
+        "passRate": 48.9
+      },
+      {
+        "year": 2023,
+        "applicants": 1399,
+        "passers": 551,
+        "passRate": 39.4
+      },
+      {
+        "year": 2024,
+        "applicants": 1735,
+        "passers": 1416,
+        "passRate": 81.6
+      },
+      {
+        "year": 2025,
+        "applicants": 1706,
+        "passers": 1102,
+        "passRate": 64.6
+      }
+    ]
   }
 }

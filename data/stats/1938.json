@@ -3,16 +3,91 @@
   "name": "자연생태복원기사",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-07-15",
+  "updated": "2026-07-22",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "28500",
+    "raw": "1차 : 19400, 2차 : 28500"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 복합형(필답형+작업형)으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다.- 작업형 평가 내용 :환경생태 계획을 통해 국토이용 및 관리, 생태계조사 항목 선정기법, 생태계 교란 예측기법, 종합평가, 생태복원 계획, 설계 공법의 적용 및 시방서, 적산을 할 수 있어야 하며, 생태계 조사대상 사업, 감시/감독, 평가서 협의, 평가 합의 등을 할 수 있는 능력을 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}자연생태복원기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시행처 : 한국산업인력공단 &#9313; 관련학과 : 대학 환경생태 관련 학과 (생물환경학과, 환경녹지학과, 환경조경학과, 환경생물학과, 생물학과,  생물학전공, 조경학과, 농생물학과, 산림자원학과 등) &#9314; 시험과목 - 필기 :1.생태환경조사분석 2.생태복원계획 3.생태복원설계&middot;시공4.생태복원 사후관리- 실기 : 환경생태실무 &#9315; 검정방법 - 필기 : 객관식 4지 택일형 과목당 20문항(과목당 30분) - 실기 : 복합형(필답형(1시간 30분, 45점) + 작업형(3시간 정도, 55점)) &#9316; 합격기준- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보 안전등급(safety Level) : 1 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비제도기구 등&middot; 보호구해당사항 없음보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1203,
+        "passers": 838,
+        "passRate": 69.7
+      },
+      {
+        "year": 2022,
+        "applicants": 987,
+        "passers": 568,
+        "passRate": 57.5
+      },
+      {
+        "year": 2023,
+        "applicants": 1202,
+        "passers": 738,
+        "passRate": 61.4
+      },
+      {
+        "year": 2024,
+        "applicants": 1328,
+        "passers": 777,
+        "passRate": 58.5
+      },
+      {
+        "year": 2025,
+        "applicants": 1367,
+        "passers": 860,
+        "passRate": 62.9
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 891,
+        "passers": 473,
+        "passRate": 53.1
+      },
+      {
+        "year": 2022,
+        "applicants": 685,
+        "passers": 403,
+        "passRate": 58.8
+      },
+      {
+        "year": 2023,
+        "applicants": 621,
+        "passers": 341,
+        "passRate": 54.9
+      },
+      {
+        "year": 2024,
+        "applicants": 778,
+        "passers": 367,
+        "passRate": 47.2
+      },
+      {
+        "year": 2025,
+        "applicants": 844,
+        "passers": 414,
+        "passRate": 49.1
+      }
+    ]
   }
 }

@@ -3,16 +3,103 @@
   "name": "소방설비산업기사(기계분야)",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-07-15",
-  "schedule": [],
+  "updated": "2026-07-22",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-12",
+      "written_reg_end": "2026-01-15",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-11",
+      "prac_reg_start": "2026-03-23",
+      "prac_reg_end": "2026-03-26",
+      "prac_exam_start": "2026-04-18",
+      "prac_exam_end": "2026-05-06",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}소방설비산업기사(기계분야) 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 관련학과 : 대학 및 전문대학의 소방학, 건축설비공학, 기계설비학, 가스냉동학, 공조냉동학 관련학과&#9314; 시험과목- 필기 : 1. 소방원론 2. 소방유체역학 3. 소방관계법규 4. 소방기계시설의 구조 및 원리- 실기 : 소방기계시설 설계 및 시공 실무&#9315; 검정방법- 필기 : 객관식 4지 택일형 과목당 20문항(과목당 30분)- 실기 : 필답형(2시간30분, 100점)&#9316; 합격기준- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상. ※`23.1.1.부터필기 출제기준중 해당 법령이 아래와 같이 변경됩니다.(분법 시행 `22.12.1.)변경 전변경 후화재예방, 소방시설 설치&middot;유지 및 안전관리에 관한 법률화재의 예방 및 안전관리에 관한 법률소방시설 설치 및 관리에 관한 법률"
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 2219,
+        "passers": 702,
+        "passRate": 31.6
+      },
+      {
+        "year": 2022,
+        "applicants": 1983,
+        "passers": 568,
+        "passRate": 28.6
+      },
+      {
+        "year": 2023,
+        "applicants": 2241,
+        "passers": 728,
+        "passRate": 32.5
+      },
+      {
+        "year": 2024,
+        "applicants": 1960,
+        "passers": 833,
+        "passRate": 42.5
+      },
+      {
+        "year": 2025,
+        "applicants": 2118,
+        "passers": 528,
+        "passRate": 24.9
+      }
+    ]
   }
 }

@@ -3,16 +3,106 @@
   "name": "보석감정산업기사",
   "series": "기사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-07-15",
-  "schedule": [],
+  "updated": "2026-07-22",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "48400",
+    "raw": "1차 : 19400, 2차 : 48400"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}-필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.-실기시험의 내용은 시험시간 내에 시험대상 \"다이아몬드 2개\"와 보석 105종류 중에서 랜덤 채취한 \"보석 6개\"에 대하여감정&middot;감별할 수 있는 능력을 평가합니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}보석감정산업기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시행처 : 한국산업인력공단&#9313; 관련학과 : 대학 및 전문대학의 보석감정, 보석공학 등 관련학과&#9314; 시험과목- 필기 : 1. 보석 특성 2. 보석 감별 3. 다이아몬드 감정 4. 보석 가공- 실기 : 보석 감별 및 다이아몬드 감정 실무&#9315;검정방법- 필기 : 객관식 4지 택일형 과목당 20문항(과목당 30분)- 실기 : 작업형(2시간 30분 정도, 100점)&#9316;합격기준- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보안전등급(safety Level) : 3 등급▼위험경고주의관심&middot; 시험장소 구분실내 &middot; 주요시설 및 장비현미경, 접촉액(굴절액), 욕화메틸렌, 자외선 형광기 &middot; 보호구해당사항 없음보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 59,
+        "passers": 26,
+        "passRate": 44.1
+      },
+      {
+        "year": 2022,
+        "applicants": 52,
+        "passers": 22,
+        "passRate": 42.3
+      },
+      {
+        "year": 2023,
+        "applicants": 58,
+        "passers": 29,
+        "passRate": 50.0
+      },
+      {
+        "year": 2024,
+        "applicants": 47,
+        "passers": 22,
+        "passRate": 46.8
+      },
+      {
+        "year": 2025,
+        "applicants": 36,
+        "passers": 17,
+        "passRate": 47.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 38,
+        "passers": 10,
+        "passRate": 26.3
+      },
+      {
+        "year": 2022,
+        "applicants": 23,
+        "passers": 7,
+        "passRate": 30.4
+      },
+      {
+        "year": 2023,
+        "applicants": 28,
+        "passers": 8,
+        "passRate": 28.6
+      },
+      {
+        "year": 2024,
+        "applicants": 24,
+        "passers": 4,
+        "passRate": 16.7
+      },
+      {
+        "year": 2025,
+        "applicants": 21,
+        "passers": 8,
+        "passRate": 38.1
+      }
+    ]
   }
 }

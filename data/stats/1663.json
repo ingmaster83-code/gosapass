@@ -3,16 +3,120 @@
   "name": "소음진동기사",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-07-15",
-  "schedule": [],
+  "updated": "2026-07-22",
+  "schedule": [
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}소음진동기사 출제기준입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 대학이나 전문대학의 환경공학, 환경시스템공학, 대기소음진동학 관련학과 &#9314; 시험과목 - 필기 1. 소음진동계획 2. 소음 측정 및 분석 3. 진동 측정 및 분석 4. 소음진동 평가 및 대책- 실기 : 소음진동방지 실무 &#9315; 검정방법 - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분) - 실기 : 필답형(3시간, 100점) &#9316; 합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상 - 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 426,
+        "passers": 201,
+        "passRate": 47.2
+      },
+      {
+        "year": 2022,
+        "applicants": 365,
+        "passers": 183,
+        "passRate": 50.1
+      },
+      {
+        "year": 2023,
+        "applicants": 369,
+        "passers": 175,
+        "passRate": 47.4
+      },
+      {
+        "year": 2024,
+        "applicants": 323,
+        "passers": 144,
+        "passRate": 44.6
+      },
+      {
+        "year": 2025,
+        "applicants": 325,
+        "passers": 169,
+        "passRate": 52.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 261,
+        "passers": 118,
+        "passRate": 45.2
+      },
+      {
+        "year": 2022,
+        "applicants": 239,
+        "passers": 113,
+        "passRate": 47.3
+      },
+      {
+        "year": 2023,
+        "applicants": 252,
+        "passers": 118,
+        "passRate": 46.8
+      },
+      {
+        "year": 2024,
+        "applicants": 207,
+        "passers": 76,
+        "passRate": 36.7
+      },
+      {
+        "year": 2025,
+        "applicants": 223,
+        "passers": 114,
+        "passRate": 51.1
+      }
+    ]
   }
 }

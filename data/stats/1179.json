@@ -3,8 +3,23 @@
   "name": "로봇하드웨어개발기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-07-15",
-  "schedule": [],
+  "updated": "2026-07-22",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
@@ -12,7 +27,69 @@
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 14,
+        "passers": 7,
+        "passRate": 50.0
+      },
+      {
+        "year": 2022,
+        "applicants": 9,
+        "passers": 4,
+        "passRate": 44.4
+      },
+      {
+        "year": 2023,
+        "applicants": 15,
+        "passers": 2,
+        "passRate": 13.3
+      },
+      {
+        "year": 2024,
+        "applicants": 26,
+        "passers": 11,
+        "passRate": 42.3
+      },
+      {
+        "year": 2025,
+        "applicants": 21,
+        "passers": 9,
+        "passRate": 42.9
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 7,
+        "passers": 1,
+        "passRate": 14.3
+      },
+      {
+        "year": 2022,
+        "applicants": 6,
+        "passers": 2,
+        "passRate": 33.3
+      },
+      {
+        "year": 2023,
+        "applicants": 3,
+        "passers": 1,
+        "passRate": 33.3
+      },
+      {
+        "year": 2024,
+        "applicants": 7,
+        "passers": 1,
+        "passRate": 14.3
+      },
+      {
+        "year": 2025,
+        "applicants": 10,
+        "passers": 5,
+        "passRate": 50.0
+      }
+    ]
   }
 }

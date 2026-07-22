@@ -3,8 +3,23 @@
   "name": "시설원예기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-07-15",
-  "schedule": [],
+  "updated": "2026-07-22",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-12",
+      "written_reg_end": "2026-01-15",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-11",
+      "prac_reg_start": "2026-03-23",
+      "prac_reg_end": "2026-03-26",
+      "prac_exam_start": "2026-04-18",
+      "prac_exam_end": "2026-05-06",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
@@ -12,7 +27,69 @@
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 103,
+        "passers": 45,
+        "passRate": 43.7
+      },
+      {
+        "year": 2022,
+        "applicants": 115,
+        "passers": 52,
+        "passRate": 45.2
+      },
+      {
+        "year": 2023,
+        "applicants": 219,
+        "passers": 101,
+        "passRate": 46.1
+      },
+      {
+        "year": 2024,
+        "applicants": 264,
+        "passers": 88,
+        "passRate": 33.3
+      },
+      {
+        "year": 2025,
+        "applicants": 310,
+        "passers": 117,
+        "passRate": 37.7
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 53,
+        "passers": 6,
+        "passRate": 11.3
+      },
+      {
+        "year": 2022,
+        "applicants": 70,
+        "passers": 9,
+        "passRate": 12.9
+      },
+      {
+        "year": 2023,
+        "applicants": 94,
+        "passers": 28,
+        "passRate": 29.8
+      },
+      {
+        "year": 2024,
+        "applicants": 93,
+        "passers": 33,
+        "passRate": 35.5
+      },
+      {
+        "year": 2025,
+        "applicants": 115,
+        "passers": 79,
+        "passRate": 68.7
+      }
+    ]
   }
 }

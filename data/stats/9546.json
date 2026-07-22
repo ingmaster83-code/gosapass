@@ -3,16 +3,134 @@
   "name": "스포츠경영관리사",
   "series": "기사",
   "field": "이용.숙박.여행.오락.스포츠",
-  "updated": "2026-07-15",
-  "schedule": [],
+  "updated": "2026-07-22",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-12",
+      "written_reg_end": "2026-01-15",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-11",
+      "prac_reg_start": "2026-03-23",
+      "prac_reg_end": "2026-03-26",
+      "prac_exam_start": "2026-04-18",
+      "prac_exam_end": "2026-05-06",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}스포츠경영관리사 출제기준 입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시행처 : 한국산업인력공단 &#9313; 시험과목  - 필기 :1. 스포츠산업 2. 스포츠경영 3. 스포츠마케팅 4. 스포츠시설  - 실기 :스포츠마케팅 및 스포츠시설경영 실무&#9314; 검정방법  - 필기 : 객관식 4지 택일형 과목당 25문항(2시간 30분) -실기 : 필답형(3시간, 100점)&#9315; 합격기준  - 필기 : 100점을 만점으로 하여 과목당40점 이상, 전과목 평균 60점 이상  - 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2313,
+        "passers": 1590,
+        "passRate": 68.7
+      },
+      {
+        "year": 2022,
+        "applicants": 1961,
+        "passers": 1238,
+        "passRate": 63.1
+      },
+      {
+        "year": 2023,
+        "applicants": 1996,
+        "passers": 1281,
+        "passRate": 64.2
+      },
+      {
+        "year": 2024,
+        "applicants": 2345,
+        "passers": 1250,
+        "passRate": 53.3
+      },
+      {
+        "year": 2025,
+        "applicants": 2626,
+        "passers": 1454,
+        "passRate": 55.4
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1391,
+        "passers": 721,
+        "passRate": 51.8
+      },
+      {
+        "year": 2022,
+        "applicants": 1494,
+        "passers": 567,
+        "passRate": 38.0
+      },
+      {
+        "year": 2023,
+        "applicants": 1520,
+        "passers": 509,
+        "passRate": 33.5
+      },
+      {
+        "year": 2024,
+        "applicants": 1312,
+        "passers": 408,
+        "passRate": 31.1
+      },
+      {
+        "year": 2025,
+        "applicants": 1457,
+        "passers": 629,
+        "passRate": 43.2
+      }
+    ]
   }
 }

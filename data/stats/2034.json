@@ -3,7 +3,7 @@
   "name": "자동화설비산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-07-15",
+  "updated": "2026-07-22",
   "schedule": [],
   "fee": {
     "written": "",
@@ -12,7 +12,69 @@
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1122,
+        "passers": 474,
+        "passRate": 42.2
+      },
+      {
+        "year": 2022,
+        "applicants": 1138,
+        "passers": 231,
+        "passRate": 20.3
+      },
+      {
+        "year": 2023,
+        "applicants": 1065,
+        "passers": 219,
+        "passRate": 20.6
+      },
+      {
+        "year": 2024,
+        "applicants": 1008,
+        "passers": 246,
+        "passRate": 24.4
+      },
+      {
+        "year": 2025,
+        "applicants": 1125,
+        "passers": 253,
+        "passRate": 22.5
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 386,
+        "passers": 183,
+        "passRate": 47.4
+      },
+      {
+        "year": 2022,
+        "applicants": 205,
+        "passers": 114,
+        "passRate": 55.6
+      },
+      {
+        "year": 2023,
+        "applicants": 175,
+        "passers": 76,
+        "passRate": 43.4
+      },
+      {
+        "year": 2024,
+        "applicants": 188,
+        "passers": 67,
+        "passRate": 35.6
+      },
+      {
+        "year": 2025,
+        "applicants": 252,
+        "passers": 112,
+        "passRate": 44.4
+      }
+    ]
   }
 }

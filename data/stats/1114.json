@@ -3,8 +3,51 @@
   "name": "신재생에너지발전설비기사(태양광)",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-07-15",
-  "schedule": [],
+  "updated": "2026-07-22",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-12",
+      "written_reg_end": "2026-01-15",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-11",
+      "prac_reg_start": "2026-03-23",
+      "prac_reg_end": "2026-03-26",
+      "prac_exam_start": "2026-04-18",
+      "prac_exam_end": "2026-05-06",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
@@ -13,6 +56,37 @@
   "info": [],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 2614,
+        "passers": 827,
+        "passRate": 31.6
+      },
+      {
+        "year": 2022,
+        "applicants": 2055,
+        "passers": 748,
+        "passRate": 36.4
+      },
+      {
+        "year": 2023,
+        "applicants": 2032,
+        "passers": 992,
+        "passRate": 48.8
+      },
+      {
+        "year": 2024,
+        "applicants": 2028,
+        "passers": 836,
+        "passRate": 41.2
+      },
+      {
+        "year": 2025,
+        "applicants": 2104,
+        "passers": 743,
+        "passRate": 35.3
+      }
+    ]
   }
 }

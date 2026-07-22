@@ -3,7 +3,7 @@
   "name": "전기기기산업기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-07-15",
+  "updated": "2026-07-22",
   "schedule": [],
   "fee": {
     "written": "",
@@ -12,7 +12,69 @@
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 207,
+        "passers": 6,
+        "passRate": 2.9
+      },
+      {
+        "year": 2022,
+        "applicants": 220,
+        "passers": 6,
+        "passRate": 2.7
+      },
+      {
+        "year": 2023,
+        "applicants": 131,
+        "passers": 4,
+        "passRate": 3.1
+      },
+      {
+        "year": 2024,
+        "applicants": 113,
+        "passers": 2,
+        "passRate": 1.8
+      },
+      {
+        "year": 2025,
+        "applicants": 105,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 2,
+        "passers": 2,
+        "passRate": 100.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ]
   }
 }

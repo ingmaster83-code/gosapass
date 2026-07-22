@@ -3,16 +3,102 @@
   "name": "임베디드기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-07-15",
-  "schedule": [],
+  "updated": "2026-07-22",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "임베디드 시스템의 하드웨어를 분석하여 하드웨어에 대한 초기화 및 테스트 수행, 운영체제(OS) 부팅을 위한 부트로더를 포함하는 펌웨어와 임베디드 시스템의 OS 관련한 플랫폼 소프트웨어 및 응용 소프트웨어를 설계, 구현하는 능력 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}임베디드기사 출제기준입니다.  메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 80,
+        "passers": 37,
+        "passRate": 46.2
+      },
+      {
+        "year": 2022,
+        "applicants": 79,
+        "passers": 44,
+        "passRate": 55.7
+      },
+      {
+        "year": 2023,
+        "applicants": 79,
+        "passers": 50,
+        "passRate": 63.3
+      },
+      {
+        "year": 2024,
+        "applicants": 89,
+        "passers": 59,
+        "passRate": 66.3
+      },
+      {
+        "year": 2025,
+        "applicants": 103,
+        "passers": 68,
+        "passRate": 66.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 42,
+        "passers": 10,
+        "passRate": 23.8
+      },
+      {
+        "year": 2022,
+        "applicants": 49,
+        "passers": 1,
+        "passRate": 2.0
+      },
+      {
+        "year": 2023,
+        "applicants": 51,
+        "passers": 29,
+        "passRate": 56.9
+      },
+      {
+        "year": 2024,
+        "applicants": 53,
+        "passers": 28,
+        "passRate": 52.8
+      },
+      {
+        "year": 2025,
+        "applicants": 70,
+        "passers": 24,
+        "passRate": 34.3
+      }
+    ]
   }
 }

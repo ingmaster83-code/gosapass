@@ -3,16 +3,75 @@
   "name": "초음파비파괴검사산업기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-07-15",
-  "schedule": [],
+  "updated": "2026-07-22",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-12",
+      "written_reg_end": "2026-01-15",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-11",
+      "prac_reg_start": "2026-03-23",
+      "prac_reg_end": "2026-03-26",
+      "prac_exam_start": "2026-04-18",
+      "prac_exam_end": "2026-05-06",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 복합형(필답형+작업형)으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다.- 현장의 지도, 보고서 기록 및 유지 평가(공개문제 참조)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}초음파비파괴검사산업기사 출제기준 입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 전문대학 및 대학의 물리, 기계, 화공, 재료, 전자, 전기, 금속, 에너지, 조선 관련학과 &#9314; 시험과목  - 필기 :1. 비파괴검사 개론 2. 초음파탐상검사 원리 및 규격 3. 초음파탐상검사 시험 - 실기 : 초음파탐상시험 &#9315; 검정방법  - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분)  - 실기 : 복합형((필답형(1시간, 45점)+작업형(30분～60분 정도, 55점))&#9316; 합격기준  - 필기 : 100점을 만점으로 하여 과목당 40점이상, 전과목 평균 60점이상  - 실기 : 100점을 만점으로 하여 60점 이상 작업형 실기시험 기본정보 안전등급(safety Level) : 4 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비검사기, 시편&middot; 보호구안전화보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 98,
+        "passers": 21,
+        "passRate": 21.4
+      },
+      {
+        "year": 2022,
+        "applicants": 54,
+        "passers": 8,
+        "passRate": 14.8
+      },
+      {
+        "year": 2023,
+        "applicants": 23,
+        "passers": 11,
+        "passRate": 47.8
+      },
+      {
+        "year": 2024,
+        "applicants": 24,
+        "passers": 4,
+        "passRate": 16.7
+      },
+      {
+        "year": 2025,
+        "applicants": 24,
+        "passers": 4,
+        "passRate": 16.7
+      }
+    ]
   }
 }

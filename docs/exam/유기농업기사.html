@@ -96,7 +96,7 @@
      data-next-label="제2회 최종 합격발표"
      data-next-date="2026-09-04">
   <div class="banner-label">제2회 실기시험 진행중</div>
-  <div class="banner-dday">D-15</div>
+  <div class="banner-dday">D-14</div>
   <div class="banner-desc">07-18 ~ 08-05</div>
   <div class="banner-next">다음 일정: 제2회 최종 합격발표 2026-09-04</div>
 </div>
@@ -189,20 +189,129 @@
 
       <!-- 검정방법 -->
 
+      <div class="content-section">
+        <h2>검정방법</h2>
+        <div class="info-card" style="padding:20px 24px;">
+
+          <div style="display:flex;gap:12px;align-items:flex-start;margin-bottom:10px;">
+            <span style="flex-shrink:0;font-size:0.75rem;font-weight:700;background:#EFF6FF;color:var(--primary);padding:2px 8px;border-radius:4px;margin-top:2px;">필기</span>
+            <span style="font-size:0.9375rem;line-height:1.7;">객관식 4지 택일형, 과목당 20문항(과목당 30분)</span>
+          </div>
+
+
+          <div style="display:flex;gap:12px;align-items:flex-start;border-top:1px solid var(--border);padding-top:10px;">
+            <span style="flex-shrink:0;font-size:0.75rem;font-weight:700;background:#F0FDF4;color:var(--success);padding:2px 8px;border-radius:4px;margin-top:2px;">실기</span>
+            <span style="font-size:0.9375rem;line-height:1.7;">필답형(2시간30분)</span>
+          </div>
+
+
+        </div>
+      </div>
+
 
       <!-- 시험과목 -->
+
+      <div class="content-section">
+        <h2>시험과목</h2>
+        <div class="info-card" style="padding:20px 24px;">
+
+          <div style="margin-bottom:12px;">
+            <span style="font-size:0.75rem;font-weight:600;color:var(--text-secondary);text-transform:uppercase;letter-spacing:.5px;">필기</span>
+            <p style="margin-top:4px;font-size:0.9375rem;line-height:1.75;color:var(--text-primary);">1. 재배원론 2. 토양비옥도 및 관리 3. 유기농업개론 4. 유기식품 가공.유통론 5. 유기농업관련 규정</p>
+          </div>
+
+
+          <div style="border-top:1px solid var(--border);padding-top:12px;">
+            <span style="font-size:0.75rem;font-weight:600;color:var(--text-secondary);text-transform:uppercase;letter-spacing:.5px;">실기</span>
+            <p style="margin-top:4px;font-size:0.9375rem;line-height:1.75;color:var(--text-primary);">유기농업생산, 품질인증, 기술지도 관련업무</p>
+          </div>
+
+        </div>
+      </div>
 
 
       <!-- 합격기준 -->
 
+      <div class="content-section">
+        <h2>합격기준</h2>
+        <div class="info-card" style="padding:20px 24px;">
+
+          <div style="display:flex;gap:12px;align-items:flex-start;margin-bottom:10px;">
+            <span style="flex-shrink:0;font-size:0.75rem;font-weight:700;background:#EFF6FF;color:var(--primary);padding:2px 8px;border-radius:4px;margin-top:2px;">필기</span>
+            <span style="font-size:0.9375rem;line-height:1.7;">100점을 만점으로 하여 과목당 40점이상, 전과목 평균 60점이상</span>
+          </div>
+
+
+          <div style="display:flex;gap:12px;align-items:flex-start;">
+            <span style="flex-shrink:0;font-size:0.75rem;font-weight:700;background:#F0FDF4;color:var(--success);padding:2px 8px;border-radius:4px;margin-top:2px;">실기</span>
+            <span style="font-size:0.9375rem;line-height:1.7;">100점을 만점으로 하여 60점이상</span>
+          </div>
+
+
+        </div>
+      </div>
+
 
       <!-- 출제경향 -->
+
+      <div class="content-section">
+        <h2>출제경향</h2>
+        <div class="info-card" style="padding:20px 24px;border-left:3px solid var(--primary);">
+          <p style="font-size:0.9375rem;line-height:1.85;color:var(--text-primary);">- 필기시험의 내용은 고객만족&gt;자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족&gt;자료실의 출제기준을 참고바랍니다.</p>
+        </div>
+      </div>
 
 
       <!-- 합격률 차트 -->
 
+      <div class="content-section">
+        <h2>연도별 합격률</h2>
+        <div class="chart-grid">
+          <div class="chart-box">
+            <h3>필기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="writtenChart"></canvas>
+            </div>
+          </div>
+          <div class="chart-box">
+            <h3>실기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="practicalChart"></canvas>
+            </div>
+          </div>
+        </div>
+
+        <div class="ad-wrap" style="margin-top:24px;">
+            <div class="ad-block ad-leaderboard">728 × 90 광고 영역</div>
+        </div>
+      </div>
+
+      <div class="content-section">
+        <h2>연도별 응시자수 추이</h2>
+        <div class="chart-wrap-wide">
+          <canvas id="applicantsChart"></canvas>
+        </div>
+      </div>
+
 
       <!-- 난이도 -->
+
+      <div class="content-section">
+        <h2>난이도</h2>
+        <div class="difficulty-box">
+          <div class="stars">
+            <span>★</span>
+            <span class="empty">☆</span>
+            <span class="empty">☆</span>
+            <span class="empty">☆</span>
+            <span class="empty">☆</span>
+          </div>
+          <div class="difficulty-info">
+            <div class="difficulty-level">쉬움</div>
+            <div class="difficulty-detail">최근 3개년 평균 실기 합격률: 64.3% · 필기 합격률: 58.8%</div>
+          </div>
+        </div>
+      </div>
 
 
       <!-- 관련 자격증 -->
@@ -215,7 +324,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-agri" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-11</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-10</span>
 
             </div>
             <div class="related-name">농화학기술사</div>
@@ -228,7 +337,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-agri" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-11</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-10</span>
 
             </div>
             <div class="related-name">산림기술사</div>
@@ -241,7 +350,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-agri" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-11</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-10</span>
 
             </div>
             <div class="related-name">수산양식기술사</div>
@@ -272,6 +381,11 @@
         </div>
 
         <div class="info-row">
+          <span class="info-label">관련학과</span>
+          <span class="info-value" style="font-size:0.8125rem;">대학의 농학과, 식물자원학과, 농화학과, 생물자원학과 등</span>
+        </div>
+
+        <div class="info-row">
           <span class="info-label">시행기관</span>
           <span class="info-value">한국산업인력공단</span>
         </div>
@@ -284,7 +398,30 @@
         </div>
 
 
+        <div class="info-row">
+          <span class="info-label">최근 응시자</span>
+          <span class="info-value">1,379명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
 
+
+        <div class="info-row">
+          <span class="info-label">최근 합격자</span>
+          <span class="info-value">792명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
+
+
+
+
+        <div class="info-row">
+          <span class="info-label">필기 합격률 추이</span>
+          <span class="info-value" style="font-size:0.8125rem;color:#DC2626;">↓ 4.6%p 하락</span>
+        </div>
+
+
+        <div class="info-row">
+          <span class="info-label">실기 합격률 추이</span>
+          <span class="info-value" style="font-size:0.8125rem;color:#16A34A;">↑ 19.9%p 상승</span>
+        </div>
 
 
         <a href="https://wooagosa.wooahouse.com/" target="_blank" rel="noopener"
@@ -357,6 +494,13 @@
   </div>
 </footer>
 
+
+<!-- 차트 데이터 -->
+<script id="stats-data" type="application/json">
+[{"year": 2021, "writtenApplicants": 1033, "writtenPassRate": 55.3, "practicalApplicants": 776, "practicalPassRate": 57.6}, {"year": 2022, "writtenApplicants": 895, "writtenPassRate": 60.9, "practicalApplicants": 690, "practicalPassRate": 50.7}, {"year": 2023, "writtenApplicants": 1025, "writtenPassRate": 62.0, "practicalApplicants": 709, "practicalPassRate": 52.8}, {"year": 2024, "writtenApplicants": 1129, "writtenPassRate": 56.9, "practicalApplicants": 660, "practicalPassRate": 67.3}, {"year": 2025, "writtenApplicants": 1379, "writtenPassRate": 57.4, "practicalApplicants": 805, "practicalPassRate": 72.7}]
+</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="/js/detail.js?v=2"></script>
 
 
 </body>
