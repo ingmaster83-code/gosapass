@@ -3,7 +3,7 @@
   "name": "화훼장식기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "56300",
-    "raw": "1차 : 19400, 2차 : 56300"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

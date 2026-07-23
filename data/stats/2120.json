@@ -3,7 +3,7 @@
   "name": "화약류제조산업기사",
   "series": "기사",
   "field": "화학",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [
     {
       "round": "제1회",
@@ -21,24 +21,11 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}화약류제조산업기사 출제기준입니다.  메뉴 상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 전문대학 및 대학의 화학공학, 공업화학 등 관련학과 &#9314; 시험과목  - 필기 1. 화학공업양론 2. 단위조작 3. 일반화약학 4. 화약류 안전관리 관계 법규  - 실기 : 화약류제조 실무 &#9315; 검정방법  - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분)  - 실기 : 필답형(2시간, 100점)&#9316; 합격기준  - 필기 : 100점을 만점으로 하여 과목당 40점이상, 전과목 평균 60점 이상  - 실기 : 100점을 만점으로 하여 60점 이상"
-    }
-  ],
+  "info": [],
   "stats": {
     "written": [
       {

@@ -3,7 +3,7 @@
   "name": "화학분석기사",
   "series": "기사",
   "field": "화학",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 6688,
+        "passers": 1860,
+        "passRate": 27.8
+      },
+      {
+        "year": 2022,
+        "applicants": 6273,
+        "passers": 1694,
+        "passRate": 27.0
+      },
+      {
+        "year": 2023,
+        "applicants": 6397,
+        "passers": 1801,
+        "passRate": 28.2
+      },
+      {
+        "year": 2024,
+        "applicants": 6149,
+        "passers": 1861,
+        "passRate": 30.3
+      },
+      {
+        "year": 2025,
+        "applicants": 6157,
+        "passers": 1933,
+        "passRate": 31.4
+      }
+    ],
     "practical": [
       {
         "year": 2021,

@@ -3,7 +3,7 @@
   "name": "양화장치운전기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "14500",
-    "practical": "24400",
-    "raw": "1차 : 14500, 2차 : 24400"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

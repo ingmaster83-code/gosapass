@@ -3,7 +3,7 @@
   "name": "신발제조기능사",
   "series": "기능사",
   "field": "섬유.의복",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [
     {
       "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
@@ -54,38 +54,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 34,
-        "passers": 25,
-        "passRate": 73.5
-      },
-      {
-        "year": 2022,
-        "applicants": 11,
-        "passers": 8,
-        "passRate": 72.7
-      },
-      {
-        "year": 2023,
-        "applicants": 33,
-        "passers": 20,
-        "passRate": 60.6
-      },
-      {
-        "year": 2024,
-        "applicants": 24,
-        "passers": 17,
-        "passRate": 70.8
-      },
-      {
-        "year": 2025,
-        "applicants": 12,
-        "passers": 10,
-        "passRate": 83.3
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

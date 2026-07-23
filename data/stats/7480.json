@@ -3,7 +3,7 @@
   "name": "목공예기능사",
   "series": "기능사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [
     {
       "round": "제4회",
@@ -41,37 +41,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 186,
-        "passers": 93,
-        "passRate": 50.0
-      },
-      {
-        "year": 2022,
-        "applicants": 180,
-        "passers": 85,
-        "passRate": 47.2
-      },
-      {
-        "year": 2023,
-        "applicants": 205,
-        "passers": 116,
-        "passRate": 56.6
-      },
-      {
-        "year": 2024,
-        "applicants": 211,
-        "passers": 101,
-        "passRate": 47.9
-      },
-      {
-        "year": 2025,
-        "applicants": 216,
-        "passers": 116,
-        "passRate": 53.7
-      }
-    ]
+    "practical": []
   }
 }

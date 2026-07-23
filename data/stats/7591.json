@@ -3,12 +3,12 @@
   "name": "식품가공기능사",
   "series": "기능사",
   "field": "식품.가공",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "41900",
+    "raw": "1차 : 14500, 2차 : 41900"
   },
   "info": [
     {

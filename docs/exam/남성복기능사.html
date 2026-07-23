@@ -76,7 +76,7 @@
      data-next-label=""
      data-next-date="">
   <div class="banner-label">제3회 실기 원서접수 시작</div>
-  <div class="banner-dday">D-5</div>
+  <div class="banner-dday">D-4</div>
   <div class="banner-desc">2026-07-27</div>
   <div class="banner-next"></div>
 </div>
@@ -179,6 +179,35 @@
 
       <!-- 합격률 차트 -->
 
+      <div class="content-section">
+        <h2>연도별 합격률</h2>
+        <div class="chart-grid">
+          <div class="chart-box">
+            <h3>필기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="writtenChart"></canvas>
+            </div>
+          </div>
+          <div class="chart-box">
+            <h3>실기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="practicalChart"></canvas>
+            </div>
+          </div>
+        </div>
+
+        <div class="ad-wrap" style="margin-top:24px;">
+            <div class="ad-block ad-leaderboard">728 × 90 광고 영역</div>
+        </div>
+      </div>
+
+      <div class="content-section">
+        <h2>연도별 응시자수 추이</h2>
+        <div class="chart-wrap-wide">
+          <canvas id="applicantsChart"></canvas>
+        </div>
+      </div>
+
 
       <!-- 난이도 -->
 
@@ -193,7 +222,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-default" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-10</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-9</span>
 
             </div>
             <div class="related-name">섬유기술사</div>
@@ -206,7 +235,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-default" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-10</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-9</span>
 
             </div>
             <div class="related-name">의류기술사</div>
@@ -219,7 +248,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-default" style="font-size:0.7rem;padding:2px 7px;">기능장</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:#D97706;">D-5</span>
+              <span style="font-size:0.75rem;font-weight:700;color:#D97706;">D-4</span>
 
             </div>
             <div class="related-name">한복기능장</div>
@@ -267,7 +296,25 @@
         </div>
 
 
+        <div class="info-row">
+          <span class="info-label">최근 응시자</span>
+          <span class="info-value">66명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
 
+
+        <div class="info-row">
+          <span class="info-label">최근 합격자</span>
+          <span class="info-value">42명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
+
+
+
+
+
+        <div class="info-row">
+          <span class="info-label">실기 합격률 추이</span>
+          <span class="info-value" style="font-size:0.8125rem;color:#DC2626;">↓ 18.4%p 하락</span>
+        </div>
 
 
         <a href="https://wooagosa.wooahouse.com/" target="_blank" rel="noopener"
@@ -334,6 +381,13 @@
   </div>
 </footer>
 
+
+<!-- 차트 데이터 -->
+<script id="stats-data" type="application/json">
+[{"year": 2021, "practicalApplicants": 77, "practicalPassRate": 84.4, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2022, "practicalApplicants": 74, "practicalPassRate": 62.2, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2023, "practicalApplicants": 61, "practicalPassRate": 82.0, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2024, "practicalApplicants": 76, "practicalPassRate": 38.2, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2025, "practicalApplicants": 66, "practicalPassRate": 63.6, "writtenApplicants": 0, "writtenPassRate": 0}]
+</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="/js/detail.js?v=2"></script>
 
 
 </body>

@@ -3,7 +3,7 @@
   "name": "온수온돌기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [],
   "fee": {
     "written": "76300",
@@ -25,69 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2024,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2025,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 17093,
-        "passers": 10039,
-        "passRate": 58.7
-      },
-      {
-        "year": 2022,
-        "applicants": 16582,
-        "passers": 9681,
-        "passRate": 58.4
-      },
-      {
-        "year": 2023,
-        "applicants": 15714,
-        "passers": 9701,
-        "passRate": 61.7
-      },
-      {
-        "year": 2024,
-        "applicants": 15770,
-        "passers": 9715,
-        "passRate": 61.6
-      },
-      {
-        "year": 2025,
-        "applicants": 13503,
-        "passers": 8090,
-        "passRate": 59.9
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

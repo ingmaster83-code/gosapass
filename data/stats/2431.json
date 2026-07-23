@@ -3,27 +3,12 @@
   "name": "포장산업기사",
   "series": "기사",
   "field": "경영.회계.사무",
-  "updated": "2026-07-16",
-  "schedule": [
-    {
-      "round": "제2회",
-      "written_reg_start": "2026-04-20",
-      "written_reg_end": "2026-04-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-06-10",
-      "prac_reg_start": "2026-06-22",
-      "prac_reg_end": "2026-06-25",
-      "prac_exam_start": "2026-07-18",
-      "prac_exam_end": "2026-08-05",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-07-23",
+  "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
   },
   "info": [
     {
@@ -72,37 +57,6 @@
         "passRate": 29.6
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 7,
-        "passers": 1,
-        "passRate": 14.3
-      },
-      {
-        "year": 2022,
-        "applicants": 3,
-        "passers": 1,
-        "passRate": 33.3
-      },
-      {
-        "year": 2023,
-        "applicants": 6,
-        "passers": 3,
-        "passRate": 50.0
-      },
-      {
-        "year": 2024,
-        "applicants": 1,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2025,
-        "applicants": 7,
-        "passers": 5,
-        "passRate": 71.4
-      }
-    ]
+    "practical": []
   }
 }

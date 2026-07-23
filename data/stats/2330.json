@@ -3,7 +3,7 @@
   "name": "측량및지형공간정보산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1072,
+        "passers": 402,
+        "passRate": 37.5
+      },
+      {
+        "year": 2022,
+        "applicants": 1048,
+        "passers": 368,
+        "passRate": 35.1
+      },
+      {
+        "year": 2023,
+        "applicants": 1098,
+        "passers": 425,
+        "passRate": 38.7
+      },
+      {
+        "year": 2024,
+        "applicants": 931,
+        "passers": 351,
+        "passRate": 37.7
+      },
+      {
+        "year": 2025,
+        "applicants": 770,
+        "passers": 267,
+        "passRate": 34.7
+      }
+    ],
     "practical": [
       {
         "year": 2021,

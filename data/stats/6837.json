@@ -3,12 +3,12 @@
   "name": "설비보전기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "79500",
+    "raw": "1차 : 14500, 2차 : 79500"
   },
   "info": [
     {

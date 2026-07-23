@@ -3,12 +3,12 @@
   "name": "이산화탄소가스아크용접기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "80800",
+    "raw": "1차 : 14500, 2차 : 80800"
   },
   "info": [
     {

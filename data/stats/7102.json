@@ -3,12 +3,41 @@
   "name": "금속재창호기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-16",
-  "schedule": [],
+  "updated": "2026-07-23",
+  "schedule": [
+    {
+      "round": "제2회",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-04-27",
+      "prac_reg_end": "2026-04-30",
+      "prac_exam_start": "2026-05-30",
+      "prac_exam_end": "2026-06-14",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제4회",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-10-12",
+      "prac_reg_end": "2026-10-15",
+      "prac_exam_start": "2026-11-14",
+      "prac_exam_end": "2026-12-02",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "68900",
+    "written": "",
     "practical": "",
-    "raw": ", 2차 : 68900"
+    "raw": ""
   },
   "info": [
     {

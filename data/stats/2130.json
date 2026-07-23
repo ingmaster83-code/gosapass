@@ -3,7 +3,7 @@
   "name": "화약류관리산업기사",
   "series": "기사",
   "field": "광업자원",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [
     {
       "round": "제1회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "46100",
+    "raw": "1차 : 19400, 2차 : 46100"
   },
   "info": [
     {

@@ -3,7 +3,7 @@
   "name": "토목산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1362,
-        "passers": 263,
-        "passRate": 19.3
-      },
-      {
-        "year": 2022,
-        "applicants": 1333,
-        "passers": 277,
-        "passRate": 20.8
-      },
-      {
-        "year": 2023,
-        "applicants": 1565,
-        "passers": 305,
-        "passRate": 19.5
-      },
-      {
-        "year": 2024,
-        "applicants": 1485,
-        "passers": 342,
-        "passRate": 23.0
-      },
-      {
-        "year": 2025,
-        "applicants": 1372,
-        "passers": 333,
-        "passRate": 24.3
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

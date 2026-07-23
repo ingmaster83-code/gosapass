@@ -3,7 +3,7 @@
   "name": "인쇄기능사",
   "series": "기능사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -26,6 +26,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 49,
+        "passers": 49,
+        "passRate": 100.0
+      },
+      {
+        "year": 2022,
+        "applicants": 43,
+        "passers": 42,
+        "passRate": 97.7
+      },
+      {
+        "year": 2023,
+        "applicants": 39,
+        "passers": 39,
+        "passRate": 100.0
+      },
+      {
+        "year": 2024,
+        "applicants": 37,
+        "passers": 32,
+        "passRate": 86.5
+      },
+      {
+        "year": 2025,
+        "applicants": 27,
+        "passers": 25,
+        "passRate": 92.6
+      }
+    ]
   }
 }

@@ -3,12 +3,12 @@
   "name": "아스팔트피니셔운전기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [],
   "fee": {
-    "written": "11900",
-    "practical": "41600",
-    "raw": "1차 : 11900, 2차 : 41600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {

@@ -3,7 +3,7 @@
   "name": "미용사(메이크업)",
   "series": "기능사",
   "field": "이용.숙박.여행.오락.스포츠",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 21733,
+        "passers": 12627,
+        "passRate": 58.1
+      },
+      {
+        "year": 2022,
+        "applicants": 20284,
+        "passers": 9982,
+        "passRate": 49.2
+      },
+      {
+        "year": 2023,
+        "applicants": 21957,
+        "passers": 9832,
+        "passRate": 44.8
+      },
+      {
+        "year": 2024,
+        "applicants": 22258,
+        "passers": 8808,
+        "passRate": 39.6
+      },
+      {
+        "year": 2025,
+        "applicants": 22216,
+        "passers": 8720,
+        "passRate": 39.3
+      }
+    ],
     "practical": [
       {
         "year": 2021,

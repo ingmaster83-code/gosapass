@@ -3,7 +3,7 @@
   "name": "공간정보융합기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [
     {
       "round": "제4회",
@@ -21,75 +21,26 @@
     }
   ],
   "fee": {
-    "written": "14500",
-    "practical": "17200",
-    "raw": "1차 : 14500, 2차 : 17200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}공간정보융합기능사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 시험과목 - 필기 :공간정보 자료수집 및가공, 분석 - 실기 : 공간정보융합 실무&#9314; 검정방법 - 필기 : 객관식 4지 택일형 60문항(1시간) - 실기 : 필답형(2시간, 100점) &#9315; 합격기준 - 필기 : 100점을 만점으로 하여 60점 이상 - 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 435,
-        "passers": 203,
-        "passRate": 46.7
-      },
-      {
-        "year": 2024,
-        "applicants": 213,
-        "passers": 93,
-        "passRate": 43.7
-      },
-      {
-        "year": 2025,
-        "applicants": 166,
-        "passers": 90,
-        "passRate": 54.2
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 118,
-        "passers": 68,
-        "passRate": 57.6
-      },
-      {
-        "year": 2024,
-        "applicants": 94,
-        "passers": 46,
-        "passRate": 48.9
-      },
-      {
-        "year": 2025,
-        "applicants": 100,
-        "passers": 39,
-        "passRate": 39.0
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

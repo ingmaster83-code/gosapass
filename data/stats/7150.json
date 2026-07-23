@@ -3,7 +3,7 @@
   "name": "건축도장기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [],
   "fee": {
     "written": "75500",
@@ -26,6 +26,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 34308,
+        "passers": 18907,
+        "passRate": 55.1
+      },
+      {
+        "year": 2022,
+        "applicants": 31708,
+        "passers": 18095,
+        "passRate": 57.1
+      },
+      {
+        "year": 2023,
+        "applicants": 28728,
+        "passers": 16095,
+        "passRate": 56.0
+      },
+      {
+        "year": 2024,
+        "applicants": 25603,
+        "passers": 14633,
+        "passRate": 57.2
+      },
+      {
+        "year": 2025,
+        "applicants": 23330,
+        "passers": 13702,
+        "passRate": 58.7
+      }
+    ]
   }
 }

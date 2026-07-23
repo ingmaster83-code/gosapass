@@ -3,29 +3,78 @@
   "name": "열처리기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [],
   "fee": {
     "written": "14500",
     "practical": "39800",
     "raw": "1차 : 14500, 2차 : 39800"
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필답형은 출제기준 참조- 작업형 전기로, 분위기로, 진공로, 고주파로 등의 열처리 장비를 이용하여 금속재료와 제품의 기계적, 물리적 성질을  개선하는방법을 숙지하고 실제 노멀라이징, 풀림,담금질, 뜨임 등 작업을 통하여 물리적, 기계적 성질이 우수한  금속재료를 만드는작업을 수행하는 능력을 평가"
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}열처리기능사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처: 한국산업인력공단 &#9313;시험과목  - 필기 : 1.금속재료일반 2.금속제도 3.금속열처리  - 실기 : 금속열처리 작업&#9314; 검정방법  - 필기 : 전과목 혼합, 객관식 60문항(60분)  - 실기 : 복합형[필답형(1시간) + 작업형(3시간30분정도)] ※ [변경사항] 실기시험 검정방법 변경('21.1.1부터)- 현행 : 복합형(필답형:1시간, 작업형:3시간 30분 정도)- 변경 : 작업형(3시간 30분 정도)&#9315;합격기준  - 필기&middot;실기 : 100점을 만점으로 하여 60점 이상작업형 실기시험 기본정보 안전등급(safety Level) : 2 등급▼위험경고주의관심&middot; 시험장소 구분실내(작업장)&middot; 주요시설 및 장비열처리 로, 그라인더, 담금질(quenching) 오일&middot; 보호구열처리시험용 안전복장, 방열장갑, 안전화 등보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 됩니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
-    }
-  ],
+  "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 723,
+        "passers": 353,
+        "passRate": 48.8
+      },
+      {
+        "year": 2022,
+        "applicants": 764,
+        "passers": 261,
+        "passRate": 34.2
+      },
+      {
+        "year": 2023,
+        "applicants": 636,
+        "passers": 211,
+        "passRate": 33.2
+      },
+      {
+        "year": 2024,
+        "applicants": 764,
+        "passers": 278,
+        "passRate": 36.4
+      },
+      {
+        "year": 2025,
+        "applicants": 707,
+        "passers": 278,
+        "passRate": 39.3
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 415,
+        "passers": 405,
+        "passRate": 97.6
+      },
+      {
+        "year": 2022,
+        "applicants": 309,
+        "passers": 281,
+        "passRate": 90.9
+      },
+      {
+        "year": 2023,
+        "applicants": 251,
+        "passers": 239,
+        "passRate": 95.2
+      },
+      {
+        "year": 2024,
+        "applicants": 277,
+        "passers": 270,
+        "passRate": 97.5
+      },
+      {
+        "year": 2025,
+        "applicants": 260,
+        "passers": 243,
+        "passRate": 93.5
+      }
+    ]
   }
 }

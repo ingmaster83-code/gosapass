@@ -3,41 +3,12 @@
   "name": "불도저운전기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-16",
-  "schedule": [
-    {
-      "round": "제2회",
-      "written_reg_start": "2026-03-16",
-      "written_reg_end": "2026-03-20",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-04-22",
-      "prac_reg_start": "2026-04-27",
-      "prac_reg_end": "2026-04-30",
-      "prac_exam_start": "2026-05-30",
-      "prac_exam_end": "2026-06-14",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    },
-    {
-      "round": "제4회",
-      "written_reg_start": "2026-08-24",
-      "written_reg_end": "2026-08-27",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-10-07",
-      "prac_reg_start": "2026-10-12",
-      "prac_reg_end": "2026-10-15",
-      "prac_exam_start": "2026-11-14",
-      "prac_exam_end": "2026-12-02",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-07-23",
+  "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "25900",
+    "raw": "1차 : 14500, 2차 : 25900"
   },
   "info": [
     {
@@ -55,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 698,
-        "passers": 237,
-        "passRate": 34.0
-      },
-      {
-        "year": 2022,
-        "applicants": 908,
-        "passers": 301,
-        "passRate": 33.1
-      },
-      {
-        "year": 2023,
-        "applicants": 1131,
-        "passers": 359,
-        "passRate": 31.7
-      },
-      {
-        "year": 2024,
-        "applicants": 1069,
-        "passers": 293,
-        "passRate": 27.4
-      },
-      {
-        "year": 2025,
-        "applicants": 936,
-        "passers": 274,
-        "passRate": 29.3
-      }
-    ]
+    "practical": []
   }
 }

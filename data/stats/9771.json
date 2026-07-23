@@ -3,12 +3,12 @@
   "name": "스마트공장기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "62000",
+    "raw": "1차 : 14500, 2차 : 62000"
   },
   "info": [],
   "stats": {

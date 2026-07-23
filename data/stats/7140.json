@@ -3,7 +3,7 @@
   "name": "가구제작기능사",
   "series": "기능사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [
     {
       "round": "제2회",
@@ -54,7 +54,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1182,
+        "passers": 879,
+        "passRate": 74.4
+      },
+      {
+        "year": 2022,
+        "applicants": 1191,
+        "passers": 894,
+        "passRate": 75.1
+      },
+      {
+        "year": 2023,
+        "applicants": 1308,
+        "passers": 1000,
+        "passRate": 76.5
+      },
+      {
+        "year": 2024,
+        "applicants": 1061,
+        "passers": 718,
+        "passRate": 67.7
+      },
+      {
+        "year": 2025,
+        "applicants": 1048,
+        "passers": 688,
+        "passRate": 65.6
+      }
+    ],
     "practical": [
       {
         "year": 2021,

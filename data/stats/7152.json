@@ -3,12 +3,12 @@
   "name": "실내건축기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "22100",
+    "raw": "1차 : 14500, 2차 : 22100"
   },
   "info": [
     {

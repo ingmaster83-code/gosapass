@@ -3,7 +3,7 @@
   "name": "사진기능사",
   "series": "기능사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1532,
+        "passers": 1057,
+        "passRate": 69.0
+      },
+      {
+        "year": 2022,
+        "applicants": 1515,
+        "passers": 950,
+        "passRate": 62.7
+      },
+      {
+        "year": 2023,
+        "applicants": 1637,
+        "passers": 983,
+        "passRate": 60.0
+      },
+      {
+        "year": 2024,
+        "applicants": 1576,
+        "passers": 877,
+        "passRate": 55.6
+      },
+      {
+        "year": 2025,
+        "applicants": 1804,
+        "passers": 1020,
+        "passRate": 56.5
+      }
+    ],
     "practical": [
       {
         "year": 2021,

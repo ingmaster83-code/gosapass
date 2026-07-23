@@ -3,7 +3,7 @@
   "name": "임업종묘기능사",
   "series": "기능사",
   "field": "농림어업",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [
     {
       "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "14500",
-    "practical": "40800",
-    "raw": "1차 : 14500, 2차 : 40800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -54,38 +54,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 232,
-        "passers": 108,
-        "passRate": 46.6
-      },
-      {
-        "year": 2022,
-        "applicants": 177,
-        "passers": 74,
-        "passRate": 41.8
-      },
-      {
-        "year": 2023,
-        "applicants": 222,
-        "passers": 111,
-        "passRate": 50.0
-      },
-      {
-        "year": 2024,
-        "applicants": 212,
-        "passers": 86,
-        "passRate": 40.6
-      },
-      {
-        "year": 2025,
-        "applicants": 235,
-        "passers": 116,
-        "passRate": 49.4
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

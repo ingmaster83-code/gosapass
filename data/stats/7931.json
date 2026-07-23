@@ -3,7 +3,7 @@
   "name": "남성복기능사",
   "series": "기능사",
   "field": "섬유.의복",
-  "updated": "2026-07-16",
+  "updated": "2026-07-23",
   "schedule": [
     {
       "round": "제3회",
@@ -41,6 +41,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 77,
+        "passers": 65,
+        "passRate": 84.4
+      },
+      {
+        "year": 2022,
+        "applicants": 74,
+        "passers": 46,
+        "passRate": 62.2
+      },
+      {
+        "year": 2023,
+        "applicants": 61,
+        "passers": 50,
+        "passRate": 82.0
+      },
+      {
+        "year": 2024,
+        "applicants": 76,
+        "passers": 29,
+        "passRate": 38.2
+      },
+      {
+        "year": 2025,
+        "applicants": 66,
+        "passers": 42,
+        "passRate": 63.6
+      }
+    ]
   }
 }
