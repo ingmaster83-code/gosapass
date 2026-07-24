@@ -3,7 +3,7 @@
   "name": "조주기능사",
   "series": "기능사",
   "field": "음식서비스",
-  "updated": "2026-07-17",
+  "updated": "2026-07-24",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 8426,
+        "passers": 6138,
+        "passRate": 72.8
+      },
+      {
+        "year": 2022,
+        "applicants": 7878,
+        "passers": 5932,
+        "passRate": 75.3
+      },
+      {
+        "year": 2023,
+        "applicants": 8485,
+        "passers": 6471,
+        "passRate": 76.3
+      },
+      {
+        "year": 2024,
+        "applicants": 7124,
+        "passers": 4520,
+        "passRate": 63.4
+      },
+      {
+        "year": 2025,
+        "applicants": 6535,
+        "passers": 4044,
+        "passRate": 61.9
+      }
+    ],
     "practical": [
       {
         "year": 2021,

@@ -3,7 +3,7 @@
   "name": "제선기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-07-17",
+  "updated": "2026-07-24",
   "schedule": [
     {
       "round": "제1회",
@@ -100,37 +100,6 @@
         "passRate": 45.0
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 591,
-        "passers": 142,
-        "passRate": 24.0
-      },
-      {
-        "year": 2022,
-        "applicants": 455,
-        "passers": 181,
-        "passRate": 39.8
-      },
-      {
-        "year": 2023,
-        "applicants": 515,
-        "passers": 206,
-        "passRate": 40.0
-      },
-      {
-        "year": 2024,
-        "applicants": 637,
-        "passers": 284,
-        "passRate": 44.6
-      },
-      {
-        "year": 2025,
-        "applicants": 666,
-        "passers": 202,
-        "passRate": 30.3
-      }
-    ]
+    "practical": []
   }
 }

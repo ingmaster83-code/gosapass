@@ -3,7 +3,7 @@
   "name": "자동화설비기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-07-17",
+  "updated": "2026-07-24",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -12,7 +12,38 @@
   },
   "info": [],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 4672,
+        "passers": 1633,
+        "passRate": 35.0
+      },
+      {
+        "year": 2022,
+        "applicants": 4321,
+        "passers": 900,
+        "passRate": 20.8
+      },
+      {
+        "year": 2023,
+        "applicants": 4436,
+        "passers": 822,
+        "passRate": 18.5
+      },
+      {
+        "year": 2024,
+        "applicants": 4259,
+        "passers": 760,
+        "passRate": 17.8
+      },
+      {
+        "year": 2025,
+        "applicants": 5648,
+        "passers": 1012,
+        "passRate": 17.9
+      }
+    ],
     "practical": [
       {
         "year": 2021,

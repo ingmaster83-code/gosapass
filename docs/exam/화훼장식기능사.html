@@ -97,14 +97,14 @@
 <!-- ===== D-Day Banner ===== -->
 
 <div id="dday-banner"
-     class="dday-banner color-warning"
+     class="dday-banner color-urgent"
      data-start="2026-07-27"
      data-end="2026-07-27"
      data-event-label="제3회 실기 원서접수 시작"
      data-next-label=""
      data-next-date="">
   <div class="banner-label">제3회 실기 원서접수 시작</div>
-  <div class="banner-dday">D-4</div>
+  <div class="banner-dday">D-3</div>
   <div class="banner-desc">2026-07-27</div>
   <div class="banner-next"></div>
 </div>
@@ -277,6 +277,23 @@
 
       <!-- 난이도 -->
 
+      <div class="content-section">
+        <h2>난이도</h2>
+        <div class="difficulty-box">
+          <div class="stars">
+            <span>★</span>
+            <span class="empty">☆</span>
+            <span class="empty">☆</span>
+            <span class="empty">☆</span>
+            <span class="empty">☆</span>
+          </div>
+          <div class="difficulty-info">
+            <div class="difficulty-level">쉬움</div>
+            <div class="difficulty-detail">최근 3개년 평균 실기 합격률: 45.8% · 필기 합격률: 77.0%</div>
+          </div>
+        </div>
+      </div>
+
 
       <!-- 관련 자격증 -->
 
@@ -288,7 +305,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-agri" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-9</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-8</span>
 
             </div>
             <div class="related-name">농화학기술사</div>
@@ -301,7 +318,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-agri" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-9</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-8</span>
 
             </div>
             <div class="related-name">산림기술사</div>
@@ -314,7 +331,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-agri" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-9</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-8</span>
 
             </div>
             <div class="related-name">수산양식기술사</div>
@@ -374,17 +391,27 @@
 
         <div class="info-row">
           <span class="info-label">최근 응시자</span>
-          <span class="info-value">3,841명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+          <span class="info-value">5,371명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
         </div>
 
 
         <div class="info-row">
           <span class="info-label">최근 합격자</span>
-          <span class="info-value">1,782명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+          <span class="info-value">4,013명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
+
+
+        <div class="info-row">
+          <span class="info-label">필기→실기 전환율</span>
+          <span class="info-value">95.7%</span>
         </div>
 
 
 
+        <div class="info-row">
+          <span class="info-label">필기 합격률 추이</span>
+          <span class="info-value" style="font-size:0.8125rem;color:#DC2626;">↓ 7.6%p 하락</span>
+        </div>
 
 
         <div class="info-row">
@@ -460,7 +487,7 @@
 
 <!-- 차트 데이터 -->
 <script id="stats-data" type="application/json">
-[{"year": 2021, "practicalApplicants": 6838, "practicalPassRate": 51.4, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2022, "practicalApplicants": 5648, "practicalPassRate": 46.2, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2023, "practicalApplicants": 5481, "practicalPassRate": 45.1, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2024, "practicalApplicants": 4173, "practicalPassRate": 45.8, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2025, "practicalApplicants": 3841, "practicalPassRate": 46.4, "writtenApplicants": 0, "writtenPassRate": 0}]
+[{"year": 2021, "writtenApplicants": 8265, "writtenPassRate": 83.2, "practicalApplicants": 6838, "practicalPassRate": 51.4}, {"year": 2022, "writtenApplicants": 6882, "writtenPassRate": 82.0, "practicalApplicants": 5648, "practicalPassRate": 46.2}, {"year": 2023, "writtenApplicants": 6747, "writtenPassRate": 82.3, "practicalApplicants": 5481, "practicalPassRate": 45.1}, {"year": 2024, "writtenApplicants": 5324, "writtenPassRate": 73.9, "practicalApplicants": 4173, "practicalPassRate": 45.8}, {"year": 2025, "writtenApplicants": 5371, "writtenPassRate": 74.7, "practicalApplicants": 3841, "practicalPassRate": 46.4}]
 </script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script src="/js/detail.js?v=2"></script>

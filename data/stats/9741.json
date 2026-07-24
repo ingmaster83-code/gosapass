@@ -3,7 +3,7 @@
   "name": "정수시설운영관리사3급",
   "series": "정수시설운영관리사",
   "field": "",
-  "updated": "2026-07-17",
+  "updated": "2026-07-24",
   "schedule": [
     {
       "round": "제39회",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "36000",
+    "practical": "27000",
+    "raw": "1차 : 36000, 2차 : 27000"
   },
   "info": [],
   "stats": {

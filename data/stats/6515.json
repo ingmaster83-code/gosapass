@@ -3,7 +3,7 @@
   "name": "제강기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-07-17",
+  "updated": "2026-07-24",
   "schedule": [
     {
       "round": "제1회",
@@ -49,9 +49,9 @@
     }
   ],
   "fee": {
-    "written": "14500",
-    "practical": "17200",
-    "raw": "1차 : 14500, 2차 : 17200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -68,7 +68,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1097,
+        "passers": 557,
+        "passRate": 50.8
+      },
+      {
+        "year": 2022,
+        "applicants": 975,
+        "passers": 441,
+        "passRate": 45.2
+      },
+      {
+        "year": 2023,
+        "applicants": 1170,
+        "passers": 548,
+        "passRate": 46.8
+      },
+      {
+        "year": 2024,
+        "applicants": 1393,
+        "passers": 595,
+        "passRate": 42.7
+      },
+      {
+        "year": 2025,
+        "applicants": 1073,
+        "passers": 488,
+        "passRate": 45.5
+      }
+    ],
     "practical": [
       {
         "year": 2021,

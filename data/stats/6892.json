@@ -3,12 +3,12 @@
   "name": "정보기기운용기능사",
   "series": "기능사",
   "field": "정보통신",
-  "updated": "2026-07-17",
+  "updated": "2026-07-24",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "21800",
+    "raw": "1차 : 14500, 2차 : 21800"
   },
   "info": [
     {
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1812,
-        "passers": 761,
-        "passRate": 42.0
-      },
-      {
-        "year": 2022,
-        "applicants": 1114,
-        "passers": 453,
-        "passRate": 40.7
-      },
-      {
-        "year": 2023,
-        "applicants": 1427,
-        "passers": 602,
-        "passRate": 42.2
-      },
-      {
-        "year": 2024,
-        "applicants": 1710,
-        "passers": 839,
-        "passRate": 49.1
-      },
-      {
-        "year": 2025,
-        "applicants": 2487,
-        "passers": 1392,
-        "passRate": 56.0
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

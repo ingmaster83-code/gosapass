@@ -3,7 +3,7 @@
   "name": "산업보건지도사(직업환경의학)",
   "series": "산업보건지도사",
   "field": "",
-  "updated": "2026-07-17",
+  "updated": "2026-07-24",
   "schedule": [
     {
       "round": "제16회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "55000",
+    "practical": "75000",
+    "raw": "1차 : 55000, 2차 : 75000, 3차 : 75000"
   },
   "info": [],
   "stats": {

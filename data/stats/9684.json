@@ -3,7 +3,7 @@
   "name": "국가유산수리기능자(칠공)",
   "series": "국가유산수리기능자",
   "field": "",
-  "updated": "2026-07-17",
+  "updated": "2026-07-24",
   "schedule": [
     {
       "round": "제2회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
+    "written": "50000",
     "practical": "",
-    "raw": ""
+    "raw": "1차 : 50000,"
   },
   "info": [],
   "stats": {
