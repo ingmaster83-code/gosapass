@@ -3,7 +3,7 @@
   "name": "기상감정기사",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-07-21",
+  "updated": "2026-07-28",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "33900",
-    "raw": "1차 : 19400, 2차 : 33900"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

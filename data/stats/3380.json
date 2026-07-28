@@ -3,12 +3,41 @@
   "name": "전기기능장",
   "series": "기능장",
   "field": "전기.전자",
-  "updated": "2026-07-21",
-  "schedule": [],
+  "updated": "2026-07-28",
+  "schedule": [
+    {
+      "round": "제79회",
+      "written_reg_start": "2026-01-06",
+      "written_reg_end": "2026-01-09",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-01-30",
+      "prac_reg_start": "2026-02-02",
+      "prac_reg_end": "2026-02-05",
+      "prac_exam_start": "2026-03-14",
+      "prac_exam_end": "2026-04-01",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제80회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "34400",
-    "practical": "166700",
-    "raw": "1차 : 34400, 2차 : 166700"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -25,38 +54,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 2632,
-        "passers": 927,
-        "passRate": 35.2
-      },
-      {
-        "year": 2022,
-        "applicants": 2727,
-        "passers": 1012,
-        "passRate": 37.1
-      },
-      {
-        "year": 2023,
-        "applicants": 3370,
-        "passers": 1300,
-        "passRate": 38.6
-      },
-      {
-        "year": 2024,
-        "applicants": 3567,
-        "passers": 1451,
-        "passRate": 40.7
-      },
-      {
-        "year": 2025,
-        "applicants": 3932,
-        "passers": 1432,
-        "passRate": 36.4
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

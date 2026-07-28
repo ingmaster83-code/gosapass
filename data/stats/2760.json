@@ -3,7 +3,7 @@
   "name": "귀금속가공산업기사",
   "series": "기사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-07-21",
+  "updated": "2026-07-28",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "81400",
-    "raw": "1차 : 19400, 2차 : 81400"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

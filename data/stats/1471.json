@@ -3,7 +3,7 @@
   "name": "가스기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-07-21",
+  "updated": "2026-07-28",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -25,38 +25,38 @@
     }
   ],
   "stats": {
-    "written": [
+    "written": [],
+    "practical": [
       {
         "year": 2021,
-        "applicants": 4068,
-        "passers": 1455,
-        "passRate": 35.8
+        "applicants": 2096,
+        "passers": 743,
+        "passRate": 35.4
       },
       {
         "year": 2022,
-        "applicants": 3698,
-        "passers": 716,
-        "passRate": 19.4
+        "applicants": 1712,
+        "passers": 527,
+        "passRate": 30.8
       },
       {
         "year": 2023,
-        "applicants": 4062,
-        "passers": 931,
-        "passRate": 22.9
+        "applicants": 1427,
+        "passers": 520,
+        "passRate": 36.4
       },
       {
         "year": 2024,
-        "applicants": 3719,
-        "passers": 862,
-        "passRate": 23.2
+        "applicants": 1397,
+        "passers": 458,
+        "passRate": 32.8
       },
       {
         "year": 2025,
-        "applicants": 3768,
-        "passers": 861,
-        "passRate": 22.9
+        "applicants": 1444,
+        "passers": 315,
+        "passRate": 21.8
       }
-    ],
-    "practical": []
+    ]
   }
 }

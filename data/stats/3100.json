@@ -3,7 +3,7 @@
   "name": "용접기능장",
   "series": "기능장",
   "field": "재료",
-  "updated": "2026-07-21",
+  "updated": "2026-07-28",
   "schedule": [
     {
       "round": "제79회",
@@ -54,38 +54,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1356,
-        "passers": 667,
-        "passRate": 49.2
-      },
-      {
-        "year": 2022,
-        "applicants": 1249,
-        "passers": 583,
-        "passRate": 46.7
-      },
-      {
-        "year": 2023,
-        "applicants": 1366,
-        "passers": 632,
-        "passRate": 46.3
-      },
-      {
-        "year": 2024,
-        "applicants": 1287,
-        "passers": 603,
-        "passRate": 46.9
-      },
-      {
-        "year": 2025,
-        "applicants": 1240,
-        "passers": 517,
-        "passRate": 41.7
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

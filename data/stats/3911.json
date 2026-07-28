@@ -3,7 +3,7 @@
   "name": "잠수기능장",
   "series": "기능장",
   "field": "건설",
-  "updated": "2026-07-21",
+  "updated": "2026-07-28",
   "schedule": [
     {
       "round": "제80회",
@@ -41,6 +41,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 21,
+        "passers": 1,
+        "passRate": 4.8
+      },
+      {
+        "year": 2022,
+        "applicants": 15,
+        "passers": 3,
+        "passRate": 20.0
+      },
+      {
+        "year": 2023,
+        "applicants": 8,
+        "passers": 4,
+        "passRate": 50.0
+      },
+      {
+        "year": 2024,
+        "applicants": 12,
+        "passers": 2,
+        "passRate": 16.7
+      },
+      {
+        "year": 2025,
+        "applicants": 11,
+        "passers": 1,
+        "passRate": 9.1
+      }
+    ]
   }
 }

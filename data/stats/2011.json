@@ -3,7 +3,7 @@
   "name": "기계조립산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-07-21",
+  "updated": "2026-07-28",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "64600",
-    "raw": "1차 : 19400, 2차 : 64600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -40,38 +40,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 135,
-        "passers": 60,
-        "passRate": 44.4
-      },
-      {
-        "year": 2022,
-        "applicants": 135,
-        "passers": 19,
-        "passRate": 14.1
-      },
-      {
-        "year": 2023,
-        "applicants": 186,
-        "passers": 44,
-        "passRate": 23.7
-      },
-      {
-        "year": 2024,
-        "applicants": 123,
-        "passers": 43,
-        "passRate": 35.0
-      },
-      {
-        "year": 2025,
-        "applicants": 164,
-        "passers": 43,
-        "passRate": 26.2
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

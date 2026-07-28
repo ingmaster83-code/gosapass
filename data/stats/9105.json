@@ -3,7 +3,7 @@
   "name": "국제의료관광코디네이터",
   "series": "기사",
   "field": "보건.의료",
-  "updated": "2026-07-21",
+  "updated": "2026-07-28",
   "schedule": [
     {
       "round": "제2회",
@@ -40,38 +40,38 @@
     }
   ],
   "stats": {
-    "written": [
+    "written": [],
+    "practical": [
       {
         "year": 2021,
-        "applicants": 251,
-        "passers": 201,
-        "passRate": 80.1
+        "applicants": 214,
+        "passers": 161,
+        "passRate": 75.2
       },
       {
         "year": 2022,
-        "applicants": 237,
-        "passers": 187,
-        "passRate": 78.9
+        "applicants": 171,
+        "passers": 102,
+        "passRate": 59.6
       },
       {
         "year": 2023,
-        "applicants": 124,
-        "passers": 103,
-        "passRate": 83.1
+        "applicants": 120,
+        "passers": 74,
+        "passRate": 61.7
       },
       {
         "year": 2024,
-        "applicants": 185,
-        "passers": 134,
-        "passRate": 72.4
+        "applicants": 132,
+        "passers": 68,
+        "passRate": 51.5
       },
       {
         "year": 2025,
-        "applicants": 195,
-        "passers": 136,
-        "passRate": 69.7
+        "applicants": 141,
+        "passers": 71,
+        "passRate": 50.4
       }
-    ],
-    "practical": []
+    ]
   }
 }

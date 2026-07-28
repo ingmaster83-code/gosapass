@@ -3,7 +3,7 @@
   "name": "건축일반시공기능장",
   "series": "기능장",
   "field": "건설",
-  "updated": "2026-07-21",
+  "updated": "2026-07-28",
   "schedule": [
     {
       "round": "제79회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "34400",
-    "practical": "163000",
-    "raw": "1차 : 34400, 2차 : 163000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -41,37 +41,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 30,
-        "passers": 3,
-        "passRate": 10.0
-      },
-      {
-        "year": 2022,
-        "applicants": 34,
-        "passers": 1,
-        "passRate": 2.9
-      },
-      {
-        "year": 2023,
-        "applicants": 41,
-        "passers": 7,
-        "passRate": 17.1
-      },
-      {
-        "year": 2024,
-        "applicants": 36,
-        "passers": 1,
-        "passRate": 2.8
-      },
-      {
-        "year": 2025,
-        "applicants": 27,
-        "passers": 6,
-        "passRate": 22.2
-      }
-    ]
+    "practical": []
   }
 }

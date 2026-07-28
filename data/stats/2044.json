@@ -3,12 +3,12 @@
   "name": "객화차정비산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-07-21",
+  "updated": "2026-07-28",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "18000",
+    "practical": "23500",
+    "raw": "1차 : 18000, 2차 : 23500"
   },
   "info": [],
   "stats": {

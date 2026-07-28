@@ -3,7 +3,7 @@
   "name": "기상기사",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-07-21",
+  "updated": "2026-07-28",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 443,
+        "passers": 280,
+        "passRate": 63.2
+      },
+      {
+        "year": 2022,
+        "applicants": 367,
+        "passers": 202,
+        "passRate": 55.0
+      },
+      {
+        "year": 2023,
+        "applicants": 409,
+        "passers": 215,
+        "passRate": 52.6
+      },
+      {
+        "year": 2024,
+        "applicants": 436,
+        "passers": 233,
+        "passRate": 53.4
+      },
+      {
+        "year": 2025,
+        "applicants": 464,
+        "passers": 222,
+        "passRate": 47.8
+      }
+    ],
     "practical": [
       {
         "year": 2021,

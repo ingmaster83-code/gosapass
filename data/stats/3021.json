@@ -3,7 +3,7 @@
   "name": "기계가공기능장",
   "series": "기능장",
   "field": "기계",
-  "updated": "2026-07-21",
+  "updated": "2026-07-28",
   "schedule": [
     {
       "round": "제79회",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "34400",
-    "practical": "82400",
-    "raw": "1차 : 34400, 2차 : 82400"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -54,38 +54,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 421,
-        "passers": 230,
-        "passRate": 54.6
-      },
-      {
-        "year": 2022,
-        "applicants": 412,
-        "passers": 218,
-        "passRate": 52.9
-      },
-      {
-        "year": 2023,
-        "applicants": 632,
-        "passers": 311,
-        "passRate": 49.2
-      },
-      {
-        "year": 2024,
-        "applicants": 546,
-        "passers": 281,
-        "passRate": 51.5
-      },
-      {
-        "year": 2025,
-        "applicants": 505,
-        "passers": 240,
-        "passRate": 47.5
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,
