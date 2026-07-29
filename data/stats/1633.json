@@ -3,7 +3,7 @@
   "name": "어업생산관리기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-07-22",
+  "updated": "2026-07-29",
   "schedule": [
     {
       "round": "제1회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "25000",
+    "raw": "1차 : 19400, 2차 : 25000"
   },
   "info": [
     {
@@ -40,7 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 33,
+        "passers": 19,
+        "passRate": 57.6
+      },
+      {
+        "year": 2022,
+        "applicants": 31,
+        "passers": 13,
+        "passRate": 41.9
+      },
+      {
+        "year": 2023,
+        "applicants": 48,
+        "passers": 26,
+        "passRate": 54.2
+      },
+      {
+        "year": 2024,
+        "applicants": 30,
+        "passers": 12,
+        "passRate": 40.0
+      },
+      {
+        "year": 2025,
+        "applicants": 43,
+        "passers": 20,
+        "passRate": 46.5
+      }
+    ],
     "practical": [
       {
         "year": 2021,

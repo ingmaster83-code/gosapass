@@ -3,16 +3,47 @@
   "name": "전자기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-07-22",
+  "updated": "2026-07-29",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "44800",
-    "raw": "1차 : 19400, 2차 : 44800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 167,
+        "passers": 63,
+        "passRate": 37.7
+      },
+      {
+        "year": 2022,
+        "applicants": 176,
+        "passers": 54,
+        "passRate": 30.7
+      },
+      {
+        "year": 2023,
+        "applicants": 132,
+        "passers": 54,
+        "passRate": 40.9
+      },
+      {
+        "year": 2024,
+        "applicants": 73,
+        "passers": 25,
+        "passRate": 34.2
+      },
+      {
+        "year": 2025,
+        "applicants": 39,
+        "passers": 12,
+        "passRate": 30.8
+      }
+    ]
   }
 }

@@ -3,7 +3,7 @@
   "name": "방수산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-07-22",
+  "updated": "2026-07-29",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "20000",
-    "raw": "1차 : 19400, 2차 : 20000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

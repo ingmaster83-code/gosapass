@@ -3,7 +3,7 @@
   "name": "디지털인쇄산업기사",
   "series": "기사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-07-22",
+  "updated": "2026-07-29",
   "schedule": [
     {
       "round": "제1회",
@@ -40,38 +40,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 19,
-        "passers": 10,
-        "passRate": 52.6
-      },
-      {
-        "year": 2022,
-        "applicants": 8,
-        "passers": 4,
-        "passRate": 50.0
-      },
-      {
-        "year": 2023,
-        "applicants": 11,
-        "passers": 8,
-        "passRate": 72.7
-      },
-      {
-        "year": 2024,
-        "applicants": 9,
-        "passers": 4,
-        "passRate": 44.4
-      },
-      {
-        "year": 2025,
-        "applicants": 23,
-        "passers": 10,
-        "passRate": 43.5
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

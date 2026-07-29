@@ -3,7 +3,7 @@
   "name": "소방설비기사(전기분야)",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-07-22",
+  "updated": "2026-07-29",
   "schedule": [
     {
       "round": "제1회",
@@ -49,9 +49,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {

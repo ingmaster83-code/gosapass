@@ -3,7 +3,7 @@
   "name": "임산가공기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-07-22",
+  "updated": "2026-07-29",
   "schedule": [
     {
       "round": "제2회",
@@ -25,9 +25,84 @@
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험 : 출제기준 참고- 실기시험o 필답형: 출제기준 참고o 작업형: 지필식으로 진행 (목재품질시험, 목재가공실무, 여수도 측정,종이품질시험 등)"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}임산가공기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 대학 및 전문대학의 임산공학과, 산림자원학과, 임학 관련학과 등&#9314; 시험과목- 필기 : 1. 임산제조관리 2. 목재과학 3. 목재가공 4.종이제조- 실기 : 임산가공 실무 &#9315; 검정방법- 필기 : 객관식 4지 택일형, 과목당 20문항 (과목당 30분)- 실기 : 복합형 [필답형(1시간 30분, 60점) + 작업형(1시간, 40점)]&#9316; 합격기준  - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 132,
+        "passers": 74,
+        "passRate": 56.1
+      },
+      {
+        "year": 2022,
+        "applicants": 95,
+        "passers": 57,
+        "passRate": 60.0
+      },
+      {
+        "year": 2023,
+        "applicants": 96,
+        "passers": 67,
+        "passRate": 69.8
+      },
+      {
+        "year": 2024,
+        "applicants": 94,
+        "passers": 21,
+        "passRate": 22.3
+      },
+      {
+        "year": 2025,
+        "applicants": 59,
+        "passers": 18,
+        "passRate": 30.5
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 90,
+        "passers": 53,
+        "passRate": 58.9
+      },
+      {
+        "year": 2022,
+        "applicants": 77,
+        "passers": 49,
+        "passRate": 63.6
+      },
+      {
+        "year": 2023,
+        "applicants": 72,
+        "passers": 59,
+        "passRate": 81.9
+      },
+      {
+        "year": 2024,
+        "applicants": 26,
+        "passers": 15,
+        "passRate": 57.7
+      },
+      {
+        "year": 2025,
+        "applicants": 21,
+        "passers": 12,
+        "passRate": 57.1
+      }
+    ]
   }
 }

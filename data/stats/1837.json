@@ -3,12 +3,12 @@
   "name": "설비보전기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-07-22",
+  "updated": "2026-07-29",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "68000",
+    "raw": "1차 : 19400, 2차 : 68000"
   },
   "info": [
     {

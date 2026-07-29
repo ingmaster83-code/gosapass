@@ -3,12 +3,12 @@
   "name": "전기공사산업기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-07-22",
+  "updated": "2026-07-29",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
   },
   "info": [
     {
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 5151,
-        "passers": 1544,
-        "passRate": 30.0
-      },
-      {
-        "year": 2022,
-        "applicants": 4713,
-        "passers": 1396,
-        "passRate": 29.6
-      },
-      {
-        "year": 2023,
-        "applicants": 4796,
-        "passers": 1274,
-        "passRate": 26.6
-      },
-      {
-        "year": 2024,
-        "applicants": 3360,
-        "passers": 1018,
-        "passRate": 30.3
-      },
-      {
-        "year": 2025,
-        "applicants": 2936,
-        "passers": 937,
-        "passRate": 31.9
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,
