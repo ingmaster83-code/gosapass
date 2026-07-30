@@ -3,7 +3,7 @@
   "name": "한식조리산업기사",
   "series": "기사",
   "field": "음식서비스",
-  "updated": "2026-07-23",
+  "updated": "2026-07-30",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 904,
+        "passers": 538,
+        "passRate": 59.5
+      },
+      {
+        "year": 2022,
+        "applicants": 830,
+        "passers": 359,
+        "passRate": 43.3
+      },
+      {
+        "year": 2023,
+        "applicants": 841,
+        "passers": 383,
+        "passRate": 45.5
+      },
+      {
+        "year": 2024,
+        "applicants": 949,
+        "passers": 412,
+        "passRate": 43.4
+      },
+      {
+        "year": 2025,
+        "applicants": 932,
+        "passers": 381,
+        "passRate": 40.9
+      }
+    ],
     "practical": [
       {
         "year": 2021,

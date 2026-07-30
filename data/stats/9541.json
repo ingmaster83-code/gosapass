@@ -3,7 +3,7 @@
   "name": "텔레마케팅관리사",
   "series": "기사",
   "field": "영업.판매",
-  "updated": "2026-07-23",
+  "updated": "2026-07-30",
   "schedule": [
     {
       "round": "제1회",
@@ -49,9 +49,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
   },
   "info": [
     {
@@ -68,38 +68,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 3568,
-        "passers": 2850,
-        "passRate": 79.9
-      },
-      {
-        "year": 2022,
-        "applicants": 2279,
-        "passers": 1893,
-        "passRate": 83.1
-      },
-      {
-        "year": 2023,
-        "applicants": 2428,
-        "passers": 1969,
-        "passRate": 81.1
-      },
-      {
-        "year": 2024,
-        "applicants": 2647,
-        "passers": 1863,
-        "passRate": 70.4
-      },
-      {
-        "year": 2025,
-        "applicants": 2784,
-        "passers": 1981,
-        "passRate": 71.2
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

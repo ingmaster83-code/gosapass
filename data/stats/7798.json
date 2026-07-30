@@ -3,12 +3,12 @@
   "name": "웹디자인개발기능사",
   "series": "기능사",
   "field": "문화.예술.디자인.방송",
-  "updated": "2026-07-23",
+  "updated": "2026-07-30",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "20100",
+    "raw": "1차 : 14500, 2차 : 20100"
   },
   "info": [
     {
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 9451,
+        "passers": 7890,
+        "passRate": 83.5
+      },
+      {
+        "year": 2022,
+        "applicants": 6998,
+        "passers": 5422,
+        "passRate": 77.5
+      },
+      {
+        "year": 2023,
+        "applicants": 7077,
+        "passers": 5650,
+        "passRate": 79.8
+      },
+      {
+        "year": 2024,
+        "applicants": 6328,
+        "passers": 4652,
+        "passRate": 73.5
+      },
+      {
+        "year": 2025,
+        "applicants": 4551,
+        "passers": 2570,
+        "passRate": 56.5
+      }
+    ],
     "practical": [
       {
         "year": 2021,

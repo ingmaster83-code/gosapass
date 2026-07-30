@@ -3,7 +3,7 @@
   "name": "식품가공기능사",
   "series": "기능사",
   "field": "식품.가공",
-  "updated": "2026-07-23",
+  "updated": "2026-07-30",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1223,
+        "passers": 779,
+        "passRate": 63.7
+      },
+      {
+        "year": 2022,
+        "applicants": 1346,
+        "passers": 879,
+        "passRate": 65.3
+      },
+      {
+        "year": 2023,
+        "applicants": 1531,
+        "passers": 933,
+        "passRate": 60.9
+      },
+      {
+        "year": 2024,
+        "applicants": 1544,
+        "passers": 870,
+        "passRate": 56.3
+      },
+      {
+        "year": 2025,
+        "applicants": 1929,
+        "passers": 865,
+        "passRate": 44.8
+      }
+    ],
     "practical": [
       {
         "year": 2021,

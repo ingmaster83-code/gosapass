@@ -3,8 +3,37 @@
   "name": "염색기능사(날염)",
   "series": "기능사",
   "field": "섬유.의복",
-  "updated": "2026-07-23",
-  "schedule": [],
+  "updated": "2026-07-30",
+  "schedule": [
+    {
+      "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-05-11",
+      "prac_reg_end": "2026-05-14",
+      "prac_exam_start": "2026-06-13",
+      "prac_exam_end": "2026-06-24",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "14500",
     "practical": "54100",
@@ -25,38 +54,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 1,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2024,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2025,
-        "applicants": 1,
-        "passers": 0,
-        "passRate": 0.0
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

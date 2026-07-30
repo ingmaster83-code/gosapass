@@ -3,7 +3,7 @@
   "name": "화약류관리기사",
   "series": "기사",
   "field": "광업자원",
-  "updated": "2026-07-23",
+  "updated": "2026-07-30",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 352,
+        "passers": 161,
+        "passRate": 45.7
+      },
+      {
+        "year": 2022,
+        "applicants": 281,
+        "passers": 110,
+        "passRate": 39.1
+      },
+      {
+        "year": 2023,
+        "applicants": 368,
+        "passers": 142,
+        "passRate": 38.6
+      },
+      {
+        "year": 2024,
+        "applicants": 378,
+        "passers": 138,
+        "passRate": 36.5
+      },
+      {
+        "year": 2025,
+        "applicants": 360,
+        "passers": 140,
+        "passRate": 38.9
+      }
+    ],
     "practical": [
       {
         "year": 2021,

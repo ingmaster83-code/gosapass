@@ -3,7 +3,7 @@
   "name": "유기농업기능사",
   "series": "기능사",
   "field": "농림어업",
-  "updated": "2026-07-23",
+  "updated": "2026-07-30",
   "schedule": [
     {
       "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
@@ -96,7 +96,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 5491,
+        "passers": 3299,
+        "passRate": 60.1
+      },
+      {
+        "year": 2022,
+        "applicants": 4507,
+        "passers": 2514,
+        "passRate": 55.8
+      },
+      {
+        "year": 2023,
+        "applicants": 5617,
+        "passers": 3056,
+        "passRate": 54.4
+      },
+      {
+        "year": 2024,
+        "applicants": 5260,
+        "passers": 2761,
+        "passRate": 52.5
+      },
+      {
+        "year": 2025,
+        "applicants": 4877,
+        "passers": 2554,
+        "passRate": 52.4
+      }
+    ],
     "practical": [
       {
         "year": 2021,
