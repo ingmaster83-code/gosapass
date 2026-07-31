@@ -3,12 +3,12 @@
   "name": "컴퓨터응용밀링기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-07-24",
+  "updated": "2026-07-31",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "36300",
+    "raw": "1차 : 14500, 2차 : 36300"
   },
   "info": [
     {

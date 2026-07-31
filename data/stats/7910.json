@@ -3,12 +3,12 @@
   "name": "한식조리기능사",
   "series": "기능사",
   "field": "음식서비스",
-  "updated": "2026-07-24",
+  "updated": "2026-07-31",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "26900",
+    "raw": "1차 : 14500, 2차 : 26900"
   },
   "info": [
     {

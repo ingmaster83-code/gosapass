@@ -3,7 +3,7 @@
   "name": "제선기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-07-24",
+  "updated": "2026-07-31",
   "schedule": [
     {
       "round": "제1회",
@@ -49,9 +49,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "17200",
+    "raw": "1차 : 14500, 2차 : 17200"
   },
   "info": [
     {
@@ -68,38 +68,38 @@
     }
   ],
   "stats": {
-    "written": [
+    "written": [],
+    "practical": [
       {
         "year": 2021,
-        "applicants": 1093,
-        "passers": 541,
-        "passRate": 49.5
+        "applicants": 591,
+        "passers": 142,
+        "passRate": 24.0
       },
       {
         "year": 2022,
-        "applicants": 928,
-        "passers": 346,
-        "passRate": 37.3
+        "applicants": 455,
+        "passers": 181,
+        "passRate": 39.8
       },
       {
         "year": 2023,
-        "applicants": 1136,
-        "passers": 487,
-        "passRate": 42.9
+        "applicants": 515,
+        "passers": 206,
+        "passRate": 40.0
       },
       {
         "year": 2024,
-        "applicants": 1510,
-        "passers": 633,
-        "passRate": 41.9
+        "applicants": 637,
+        "passers": 284,
+        "passRate": 44.6
       },
       {
         "year": 2025,
-        "applicants": 1180,
-        "passers": 531,
-        "passRate": 45.0
+        "applicants": 666,
+        "passers": 202,
+        "passRate": 30.3
       }
-    ],
-    "practical": []
+    ]
   }
 }

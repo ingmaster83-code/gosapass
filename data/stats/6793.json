@@ -3,7 +3,7 @@
   "name": "제품응용모델링기능사",
   "series": "기능사",
   "field": "문화.예술.디자인.방송",
-  "updated": "2026-07-24",
+  "updated": "2026-07-31",
   "schedule": [
     {
       "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "37600",
+    "raw": "1차 : 14500, 2차 : 37600"
   },
   "info": [
     {
@@ -54,7 +54,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 27,
+        "passers": 20,
+        "passRate": 74.1
+      },
+      {
+        "year": 2022,
+        "applicants": 22,
+        "passers": 20,
+        "passRate": 90.9
+      },
+      {
+        "year": 2023,
+        "applicants": 19,
+        "passers": 15,
+        "passRate": 78.9
+      },
+      {
+        "year": 2024,
+        "applicants": 22,
+        "passers": 17,
+        "passRate": 77.3
+      },
+      {
+        "year": 2025,
+        "applicants": 29,
+        "passers": 24,
+        "passRate": 82.8
+      }
+    ],
     "practical": [
       {
         "year": 2021,

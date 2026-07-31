@@ -3,7 +3,7 @@
   "name": "컴퓨터그래픽기능사",
   "series": "기능사",
   "field": "문화.예술.디자인.방송",
-  "updated": "2026-07-24",
+  "updated": "2026-07-31",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 14918,
-        "passers": 10141,
-        "passRate": 68.0
-      },
-      {
-        "year": 2022,
-        "applicants": 11548,
-        "passers": 7471,
-        "passRate": 64.7
-      },
-      {
-        "year": 2023,
-        "applicants": 11289,
-        "passers": 7436,
-        "passRate": 65.9
-      },
-      {
-        "year": 2024,
-        "applicants": 10488,
-        "passers": 6633,
-        "passRate": 63.2
-      },
-      {
-        "year": 2025,
-        "applicants": 9088,
-        "passers": 5123,
-        "passRate": 56.4
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

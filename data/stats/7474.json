@@ -3,7 +3,7 @@
   "name": "침투비파괴검사기능사",
   "series": "기능사",
   "field": "안전관리",
-  "updated": "2026-07-24",
+  "updated": "2026-07-31",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,7 +25,69 @@
     }
   ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1488,
+        "passers": 689,
+        "passRate": 46.3
+      },
+      {
+        "year": 2022,
+        "applicants": 1344,
+        "passers": 546,
+        "passRate": 40.6
+      },
+      {
+        "year": 2023,
+        "applicants": 1603,
+        "passers": 651,
+        "passRate": 40.6
+      },
+      {
+        "year": 2024,
+        "applicants": 1795,
+        "passers": 705,
+        "passRate": 39.3
+      },
+      {
+        "year": 2025,
+        "applicants": 1606,
+        "passers": 588,
+        "passRate": 36.6
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 750,
+        "passers": 532,
+        "passRate": 70.9
+      },
+      {
+        "year": 2022,
+        "applicants": 750,
+        "passers": 561,
+        "passRate": 74.8
+      },
+      {
+        "year": 2023,
+        "applicants": 704,
+        "passers": 507,
+        "passRate": 72.0
+      },
+      {
+        "year": 2024,
+        "applicants": 865,
+        "passers": 591,
+        "passRate": 68.3
+      },
+      {
+        "year": 2025,
+        "applicants": 793,
+        "passers": 563,
+        "passRate": 71.0
+      }
+    ]
   }
 }

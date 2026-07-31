@@ -3,12 +3,27 @@
   "name": "농산물품질관리사",
   "series": "농산물품질관리사",
   "field": "",
-  "updated": "2026-07-24",
-  "schedule": [],
+  "updated": "2026-07-31",
+  "schedule": [
+    {
+      "round": "제23회",
+      "written_reg_start": "2026-02-23",
+      "written_reg_end": "2026-02-27",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-05-06",
+      "prac_reg_start": "2026-05-18",
+      "prac_reg_end": "2026-05-22",
+      "prac_exam_start": "2026-07-04",
+      "prac_exam_end": "2026-07-04",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "20000",
-    "practical": "33000",
-    "raw": "1차 : 20000, 2차 : 33000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

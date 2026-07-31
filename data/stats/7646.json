@@ -3,7 +3,7 @@
   "name": "펄프종이제조기능사",
   "series": "기능사",
   "field": "농림어업",
-  "updated": "2026-07-24",
+  "updated": "2026-07-31",
   "schedule": [
     {
       "round": "제2회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "46000",
+    "raw": "1차 : 14500, 2차 : 46000"
   },
   "info": [
     {
