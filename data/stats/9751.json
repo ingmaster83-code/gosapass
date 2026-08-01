@@ -3,7 +3,7 @@
   "name": "2급 청소년지도사",
   "series": "청소년지도사",
   "field": "",
-  "updated": "2026-07-25",
+  "updated": "2026-08-01",
   "schedule": [
     {
       "round": "제34회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "27000",
-    "practical": "15000",
-    "raw": "1차 : 27000, 2차 : 15000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
