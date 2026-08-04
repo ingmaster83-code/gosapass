@@ -3,8 +3,23 @@
   "name": "공공조달관리사",
   "series": "기사",
   "field": "사업관리",
-  "updated": "2026-07-28",
-  "schedule": [],
+  "updated": "2026-08-04",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-09-14",
+      "written_reg_end": "2026-09-17",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-10-12",
+      "prac_reg_start": "2026-10-12",
+      "prac_reg_end": "2026-10-15",
+      "prac_exam_start": "2026-11-14",
+      "prac_exam_end": "2026-11-14",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",

@@ -3,8 +3,37 @@
   "name": "건설기계정비기능장",
   "series": "기능장",
   "field": "기계",
-  "updated": "2026-07-28",
-  "schedule": [],
+  "updated": "2026-08-04",
+  "schedule": [
+    {
+      "round": "제79회",
+      "written_reg_start": "2026-01-06",
+      "written_reg_end": "2026-01-09",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-01-30",
+      "prac_reg_start": "2026-02-02",
+      "prac_reg_end": "2026-02-05",
+      "prac_exam_start": "2026-03-14",
+      "prac_exam_end": "2026-04-01",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제80회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "34400",
     "practical": "100200",
@@ -25,7 +54,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 192,
+        "passers": 89,
+        "passRate": 46.4
+      },
+      {
+        "year": 2022,
+        "applicants": 191,
+        "passers": 82,
+        "passRate": 42.9
+      },
+      {
+        "year": 2023,
+        "applicants": 219,
+        "passers": 105,
+        "passRate": 47.9
+      },
+      {
+        "year": 2024,
+        "applicants": 218,
+        "passers": 103,
+        "passRate": 47.2
+      },
+      {
+        "year": 2025,
+        "applicants": 282,
+        "passers": 115,
+        "passRate": 40.8
+      }
+    ],
     "practical": [
       {
         "year": 2021,

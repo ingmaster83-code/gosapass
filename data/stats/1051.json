@@ -3,7 +3,7 @@
   "name": "궤도장비정비기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-07-28",
+  "updated": "2026-08-04",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "72500",
+    "raw": "1차 : 19400, 2차 : 72500"
   },
   "info": [
     {

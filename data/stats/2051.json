@@ -3,7 +3,7 @@
   "name": "궤도장비정비산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-07-28",
+  "updated": "2026-08-04",
   "schedule": [
     {
       "round": "제3회",
@@ -40,7 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 23,
+        "passers": 5,
+        "passRate": 21.7
+      },
+      {
+        "year": 2022,
+        "applicants": 29,
+        "passers": 4,
+        "passRate": 13.8
+      },
+      {
+        "year": 2023,
+        "applicants": 45,
+        "passers": 7,
+        "passRate": 15.6
+      },
+      {
+        "year": 2024,
+        "applicants": 32,
+        "passers": 6,
+        "passRate": 18.8
+      },
+      {
+        "year": 2025,
+        "applicants": 27,
+        "passers": 5,
+        "passRate": 18.5
+      }
+    ],
     "practical": [
       {
         "year": 2021,

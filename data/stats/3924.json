@@ -3,7 +3,7 @@
   "name": "미용장",
   "series": "기능장",
   "field": "이용.숙박.여행.오락.스포츠",
-  "updated": "2026-07-28",
+  "updated": "2026-08-04",
   "schedule": [
     {
       "round": "제79회",
@@ -54,69 +54,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 263,
-        "passers": 161,
-        "passRate": 61.2
-      },
-      {
-        "year": 2022,
-        "applicants": 285,
-        "passers": 175,
-        "passRate": 61.4
-      },
-      {
-        "year": 2023,
-        "applicants": 290,
-        "passers": 172,
-        "passRate": 59.3
-      },
-      {
-        "year": 2024,
-        "applicants": 290,
-        "passers": 176,
-        "passRate": 60.7
-      },
-      {
-        "year": 2025,
-        "applicants": 277,
-        "passers": 168,
-        "passRate": 60.6
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 387,
-        "passers": 55,
-        "passRate": 14.2
-      },
-      {
-        "year": 2022,
-        "applicants": 375,
-        "passers": 45,
-        "passRate": 12.0
-      },
-      {
-        "year": 2023,
-        "applicants": 372,
-        "passers": 52,
-        "passRate": 14.0
-      },
-      {
-        "year": 2024,
-        "applicants": 355,
-        "passers": 39,
-        "passRate": 11.0
-      },
-      {
-        "year": 2025,
-        "applicants": 351,
-        "passers": 23,
-        "passRate": 6.6
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

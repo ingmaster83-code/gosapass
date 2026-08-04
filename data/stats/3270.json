@@ -3,7 +3,7 @@
   "name": "압연기능장",
   "series": "기능장",
   "field": "재료",
-  "updated": "2026-07-28",
+  "updated": "2026-08-04",
   "schedule": [],
   "fee": {
     "written": "34400",
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 733,
-        "passers": 618,
-        "passRate": 84.3
-      },
-      {
-        "year": 2022,
-        "applicants": 521,
-        "passers": 453,
-        "passRate": 86.9
-      },
-      {
-        "year": 2023,
-        "applicants": 632,
-        "passers": 543,
-        "passRate": 85.9
-      },
-      {
-        "year": 2024,
-        "applicants": 660,
-        "passers": 463,
-        "passRate": 70.2
-      },
-      {
-        "year": 2025,
-        "applicants": 579,
-        "passers": 366,
-        "passRate": 63.2
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

@@ -3,7 +3,7 @@
   "name": "건축목재시공기능장",
   "series": "기능장",
   "field": "건설",
-  "updated": "2026-07-28",
+  "updated": "2026-08-04",
   "schedule": [
     {
       "round": "제79회",
@@ -41,37 +41,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 27,
-        "passers": 4,
-        "passRate": 14.8
-      },
-      {
-        "year": 2022,
-        "applicants": 25,
-        "passers": 6,
-        "passRate": 24.0
-      },
-      {
-        "year": 2023,
-        "applicants": 18,
-        "passers": 1,
-        "passRate": 5.6
-      },
-      {
-        "year": 2024,
-        "applicants": 25,
-        "passers": 4,
-        "passRate": 16.0
-      },
-      {
-        "year": 2025,
-        "applicants": 29,
-        "passers": 5,
-        "passRate": 17.2
-      }
-    ]
+    "practical": []
   }
 }

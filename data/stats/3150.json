@@ -3,7 +3,7 @@
   "name": "철도차량정비기능장",
   "series": "기능장",
   "field": "기계",
-  "updated": "2026-07-28",
+  "updated": "2026-08-04",
   "schedule": [
     {
       "round": "제79회",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "34400",
-    "practical": "24800",
-    "raw": "1차 : 34400, 2차 : 24800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
