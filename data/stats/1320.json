@@ -3,7 +3,7 @@
   "name": "정보처리기사",
   "series": "기사",
   "field": "정보통신",
-  "updated": "2026-07-29",
+  "updated": "2026-08-05",
   "schedule": [
     {
       "round": "제1회",
@@ -68,7 +68,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 51640,
+        "passers": 32865,
+        "passRate": 63.6
+      },
+      {
+        "year": 2022,
+        "applicants": 48470,
+        "passers": 27208,
+        "passRate": 56.1
+      },
+      {
+        "year": 2023,
+        "applicants": 60024,
+        "passers": 35428,
+        "passRate": 59.0
+      },
+      {
+        "year": 2024,
+        "applicants": 66169,
+        "passers": 40207,
+        "passRate": 60.8
+      },
+      {
+        "year": 2025,
+        "applicants": 66308,
+        "passers": 43132,
+        "passRate": 65.0
+      }
+    ],
     "practical": [
       {
         "year": 2021,

@@ -3,7 +3,7 @@
   "name": "조경산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-07-29",
+  "updated": "2026-08-05",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2219,
+        "passers": 369,
+        "passRate": 16.6
+      },
+      {
+        "year": 2022,
+        "applicants": 1903,
+        "passers": 375,
+        "passRate": 19.7
+      },
+      {
+        "year": 2023,
+        "applicants": 1874,
+        "passers": 366,
+        "passRate": 19.5
+      },
+      {
+        "year": 2024,
+        "applicants": 1757,
+        "passers": 417,
+        "passRate": 23.7
+      },
+      {
+        "year": 2025,
+        "applicants": 1595,
+        "passers": 270,
+        "passRate": 16.9
+      }
+    ],
     "practical": [
       {
         "year": 2021,

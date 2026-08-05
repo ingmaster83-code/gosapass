@@ -3,7 +3,7 @@
   "name": "임상심리사2급",
   "series": "기사",
   "field": "보건.의료",
-  "updated": "2026-07-29",
+  "updated": "2026-08-05",
   "schedule": [
     {
       "round": "제1회",
@@ -49,9 +49,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "20800",
-    "raw": "1차 : 19400, 2차 : 20800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -100,6 +100,37 @@
         "passRate": 66.9
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 6461,
+        "passers": 2614,
+        "passRate": 40.5
+      },
+      {
+        "year": 2022,
+        "applicants": 6792,
+        "passers": 2054,
+        "passRate": 30.2
+      },
+      {
+        "year": 2023,
+        "applicants": 7521,
+        "passers": 2965,
+        "passRate": 39.4
+      },
+      {
+        "year": 2024,
+        "applicants": 7634,
+        "passers": 3028,
+        "passRate": 39.7
+      },
+      {
+        "year": 2025,
+        "applicants": 8178,
+        "passers": 3739,
+        "passRate": 45.7
+      }
+    ]
   }
 }

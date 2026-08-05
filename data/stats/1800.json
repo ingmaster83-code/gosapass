@@ -3,7 +3,7 @@
   "name": "바이오화학제품제조기사",
   "series": "기사",
   "field": "화학",
-  "updated": "2026-07-29",
+  "updated": "2026-08-05",
   "schedule": [
     {
       "round": "제1회",
@@ -55,37 +55,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 300,
-        "passers": 236,
-        "passRate": 78.7
-      },
-      {
-        "year": 2022,
-        "applicants": 374,
-        "passers": 301,
-        "passRate": 80.5
-      },
-      {
-        "year": 2023,
-        "applicants": 444,
-        "passers": 339,
-        "passRate": 76.4
-      },
-      {
-        "year": 2024,
-        "applicants": 489,
-        "passers": 333,
-        "passRate": 68.1
-      },
-      {
-        "year": 2025,
-        "applicants": 874,
-        "passers": 444,
-        "passRate": 50.8
-      }
-    ]
+    "practical": []
   }
 }

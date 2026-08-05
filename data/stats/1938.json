@@ -3,7 +3,7 @@
   "name": "자연생태복원기사",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-07-29",
+  "updated": "2026-08-05",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1203,
+        "passers": 838,
+        "passRate": 69.7
+      },
+      {
+        "year": 2022,
+        "applicants": 987,
+        "passers": 568,
+        "passRate": 57.5
+      },
+      {
+        "year": 2023,
+        "applicants": 1202,
+        "passers": 738,
+        "passRate": 61.4
+      },
+      {
+        "year": 2024,
+        "applicants": 1328,
+        "passers": 777,
+        "passRate": 58.5
+      },
+      {
+        "year": 2025,
+        "applicants": 1367,
+        "passers": 860,
+        "passRate": 62.9
+      }
+    ],
     "practical": [
       {
         "year": 2021,

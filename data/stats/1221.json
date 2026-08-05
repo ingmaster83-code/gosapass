@@ -3,7 +3,7 @@
   "name": "조선선체기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-07-29",
+  "updated": "2026-08-05",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "36000",
+    "raw": "1차 : 19400, 2차 : 36000"
   },
   "info": [
     {
@@ -72,37 +72,6 @@
         "passRate": 38.2
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 43,
-        "passers": 23,
-        "passRate": 53.5
-      },
-      {
-        "year": 2024,
-        "applicants": 37,
-        "passers": 21,
-        "passRate": 56.8
-      },
-      {
-        "year": 2025,
-        "applicants": 31,
-        "passers": 26,
-        "passRate": 83.9
-      }
-    ]
+    "practical": []
   }
 }

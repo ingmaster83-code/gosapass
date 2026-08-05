@@ -3,12 +3,12 @@
   "name": "정밀측정산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-07-29",
+  "updated": "2026-08-05",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "53000",
+    "raw": "1차 : 19400, 2차 : 53000"
   },
   "info": [
     {
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 359,
+        "passers": 156,
+        "passRate": 43.5
+      },
+      {
+        "year": 2022,
+        "applicants": 410,
+        "passers": 184,
+        "passRate": 44.9
+      },
+      {
+        "year": 2023,
+        "applicants": 425,
+        "passers": 205,
+        "passRate": 48.2
+      },
+      {
+        "year": 2024,
+        "applicants": 383,
+        "passers": 182,
+        "passRate": 47.5
+      },
+      {
+        "year": 2025,
+        "applicants": 347,
+        "passers": 143,
+        "passRate": 41.2
+      }
+    ],
     "practical": [
       {
         "year": 2021,

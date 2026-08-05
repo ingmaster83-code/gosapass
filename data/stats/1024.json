@@ -3,7 +3,7 @@
   "name": "사출금형기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-07-29",
+  "updated": "2026-08-05",
   "schedule": [
     {
       "round": "제2회",
@@ -27,38 +27,7 @@
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 61,
-        "passers": 19,
-        "passRate": 31.1
-      },
-      {
-        "year": 2022,
-        "applicants": 67,
-        "passers": 14,
-        "passRate": 20.9
-      },
-      {
-        "year": 2023,
-        "applicants": 62,
-        "passers": 16,
-        "passRate": 25.8
-      },
-      {
-        "year": 2024,
-        "applicants": 68,
-        "passers": 30,
-        "passRate": 44.1
-      },
-      {
-        "year": 2025,
-        "applicants": 49,
-        "passers": 16,
-        "passRate": 32.7
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

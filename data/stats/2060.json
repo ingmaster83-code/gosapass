@@ -3,7 +3,7 @@
   "name": "메카트로닉스산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-07-29",
+  "updated": "2026-08-05",
   "schedule": [],
   "fee": {
     "written": "",
@@ -12,38 +12,7 @@
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1419,
-        "passers": 342,
-        "passRate": 24.1
-      },
-      {
-        "year": 2022,
-        "applicants": 1544,
-        "passers": 643,
-        "passRate": 41.6
-      },
-      {
-        "year": 2023,
-        "applicants": 1334,
-        "passers": 714,
-        "passRate": 53.5
-      },
-      {
-        "year": 2024,
-        "applicants": 1603,
-        "passers": 822,
-        "passRate": 51.3
-      },
-      {
-        "year": 2025,
-        "applicants": 1254,
-        "passers": 513,
-        "passRate": 40.9
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

@@ -3,7 +3,7 @@
   "name": "온실가스관리기사",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-07-29",
+  "updated": "2026-08-05",
   "schedule": [
     {
       "round": "제2회",
@@ -54,38 +54,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 655,
-        "passers": 418,
-        "passRate": 63.8
-      },
-      {
-        "year": 2022,
-        "applicants": 1012,
-        "passers": 659,
-        "passRate": 65.1
-      },
-      {
-        "year": 2023,
-        "applicants": 1309,
-        "passers": 739,
-        "passRate": 56.5
-      },
-      {
-        "year": 2024,
-        "applicants": 1205,
-        "passers": 741,
-        "passRate": 61.5
-      },
-      {
-        "year": 2025,
-        "applicants": 1396,
-        "passers": 902,
-        "passRate": 64.6
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,
