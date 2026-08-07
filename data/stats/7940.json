@@ -3,12 +3,12 @@
   "name": "승강기기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-07-30",
+  "updated": "2026-08-07",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "77800",
-    "raw": "1차 : 14500, 2차 : 77800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

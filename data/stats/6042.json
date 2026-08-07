@@ -3,12 +3,12 @@
   "name": "기계가공조립기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-07-30",
+  "updated": "2026-08-07",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "47300",
-    "raw": "1차 : 14500, 2차 : 47300"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1698,
+        "passers": 815,
+        "passRate": 48.0
+      },
+      {
+        "year": 2022,
+        "applicants": 1229,
+        "passers": 579,
+        "passRate": 47.1
+      },
+      {
+        "year": 2023,
+        "applicants": 1496,
+        "passers": 694,
+        "passRate": 46.4
+      },
+      {
+        "year": 2024,
+        "applicants": 1516,
+        "passers": 711,
+        "passRate": 46.9
+      },
+      {
+        "year": 2025,
+        "applicants": 1681,
+        "passers": 814,
+        "passRate": 48.4
+      }
+    ],
     "practical": [
       {
         "year": 2021,

@@ -3,7 +3,7 @@
   "name": "임베디드기능사",
   "series": "기능사",
   "field": "전기.전자",
-  "updated": "2026-07-30",
+  "updated": "2026-08-07",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -44,37 +44,6 @@
         "passRate": 40.0
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 1039,
-        "passers": 692,
-        "passRate": 66.6
-      },
-      {
-        "year": 2022,
-        "applicants": 701,
-        "passers": 530,
-        "passRate": 75.6
-      },
-      {
-        "year": 2023,
-        "applicants": 741,
-        "passers": 573,
-        "passRate": 77.3
-      },
-      {
-        "year": 2024,
-        "applicants": 637,
-        "passers": 487,
-        "passRate": 76.5
-      },
-      {
-        "year": 2025,
-        "applicants": 812,
-        "passers": 626,
-        "passRate": 77.1
-      }
-    ]
+    "practical": []
   }
 }

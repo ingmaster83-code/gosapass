@@ -3,7 +3,7 @@
   "name": "석공기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-30",
+  "updated": "2026-08-07",
   "schedule": [
     {
       "round": "제2회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "50200",
+    "written": "",
     "practical": "",
-    "raw": ", 2차 : 50200"
+    "raw": ""
   },
   "info": [
     {

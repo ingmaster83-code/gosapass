@@ -3,7 +3,7 @@
   "name": "도화기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-30",
+  "updated": "2026-08-07",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
+    "written": "41500",
     "practical": "",
-    "raw": ""
+    "raw": ", 2차 : 41500"
   },
   "info": [
     {

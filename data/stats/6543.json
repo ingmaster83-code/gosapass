@@ -3,7 +3,7 @@
   "name": "압연기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-07-30",
+  "updated": "2026-08-07",
   "schedule": [
     {
       "round": "제1회",
@@ -49,9 +49,9 @@
     }
   ],
   "fee": {
-    "written": "14500",
-    "practical": "17200",
-    "raw": "1차 : 14500, 2차 : 17200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

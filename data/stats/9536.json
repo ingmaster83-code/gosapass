@@ -3,7 +3,7 @@
   "name": "컨벤션기획사2급",
   "series": "기사",
   "field": "경영.회계.사무",
-  "updated": "2026-07-30",
+  "updated": "2026-08-07",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -26,6 +26,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 818,
+        "passers": 369,
+        "passRate": 45.1
+      },
+      {
+        "year": 2022,
+        "applicants": 560,
+        "passers": 163,
+        "passRate": 29.1
+      },
+      {
+        "year": 2023,
+        "applicants": 452,
+        "passers": 216,
+        "passRate": 47.8
+      },
+      {
+        "year": 2024,
+        "applicants": 410,
+        "passers": 177,
+        "passRate": 43.2
+      },
+      {
+        "year": 2025,
+        "applicants": 500,
+        "passers": 267,
+        "passRate": 53.4
+      }
+    ]
   }
 }

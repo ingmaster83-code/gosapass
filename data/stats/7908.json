@@ -3,12 +3,12 @@
   "name": "이용사",
   "series": "기능사",
   "field": "이용.숙박.여행.오락.스포츠",
-  "updated": "2026-07-30",
+  "updated": "2026-08-07",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "20100",
-    "raw": "1차 : 14500, 2차 : 20100"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 6122,
+        "passers": 3953,
+        "passRate": 64.6
+      },
+      {
+        "year": 2022,
+        "applicants": 5765,
+        "passers": 3733,
+        "passRate": 64.8
+      },
+      {
+        "year": 2023,
+        "applicants": 6546,
+        "passers": 3926,
+        "passRate": 60.0
+      },
+      {
+        "year": 2024,
+        "applicants": 6537,
+        "passers": 3899,
+        "passRate": 59.6
+      },
+      {
+        "year": 2025,
+        "applicants": 6753,
+        "passers": 4295,
+        "passRate": 63.6
+      }
+    ],
     "practical": [
       {
         "year": 2021,

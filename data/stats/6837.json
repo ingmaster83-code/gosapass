@@ -3,7 +3,7 @@
   "name": "설비보전기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-07-30",
+  "updated": "2026-08-07",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 4845,
-        "passers": 2094,
-        "passRate": 43.2
-      },
-      {
-        "year": 2022,
-        "applicants": 4154,
-        "passers": 1658,
-        "passRate": 39.9
-      },
-      {
-        "year": 2023,
-        "applicants": 4681,
-        "passers": 1771,
-        "passRate": 37.8
-      },
-      {
-        "year": 2024,
-        "applicants": 5457,
-        "passers": 1801,
-        "passRate": 33.0
-      },
-      {
-        "year": 2025,
-        "applicants": 5910,
-        "passers": 904,
-        "passRate": 15.3
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

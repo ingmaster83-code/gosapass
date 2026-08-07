@@ -3,12 +3,12 @@
   "name": "자동차정비기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-07-30",
+  "updated": "2026-08-07",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "41300",
-    "raw": "1차 : 14500, 2차 : 41300"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

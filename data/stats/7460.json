@@ -3,12 +3,12 @@
   "name": "귀금속가공기능사",
   "series": "기능사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-07-30",
+  "updated": "2026-08-07",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "47900",
+    "raw": "1차 : 14500, 2차 : 47900"
   },
   "info": [
     {
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 340,
+        "passers": 231,
+        "passRate": 67.9
+      },
+      {
+        "year": 2022,
+        "applicants": 222,
+        "passers": 142,
+        "passRate": 64.0
+      },
+      {
+        "year": 2023,
+        "applicants": 195,
+        "passers": 124,
+        "passRate": 63.6
+      },
+      {
+        "year": 2024,
+        "applicants": 321,
+        "passers": 203,
+        "passRate": 63.2
+      },
+      {
+        "year": 2025,
+        "applicants": 358,
+        "passers": 212,
+        "passRate": 59.2
+      }
+    ],
     "practical": [
       {
         "year": 2021,

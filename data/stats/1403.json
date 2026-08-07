@@ -3,7 +3,7 @@
   "name": "해양공학기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-07-30",
+  "updated": "2026-08-07",
   "schedule": [
     {
       "round": "제2회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

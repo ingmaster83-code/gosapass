@@ -3,7 +3,7 @@
   "name": "3D프린터운용기능사",
   "series": "기능사",
   "field": "전기.전자",
-  "updated": "2026-07-30",
+  "updated": "2026-08-07",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 5757,
+        "passers": 3960,
+        "passRate": 68.8
+      },
+      {
+        "year": 2022,
+        "applicants": 4718,
+        "passers": 3162,
+        "passRate": 67.0
+      },
+      {
+        "year": 2023,
+        "applicants": 7661,
+        "passers": 4544,
+        "passRate": 59.3
+      },
+      {
+        "year": 2024,
+        "applicants": 7487,
+        "passers": 3792,
+        "passRate": 50.6
+      },
+      {
+        "year": 2025,
+        "applicants": 8094,
+        "passers": 3881,
+        "passRate": 47.9
+      }
+    ],
     "practical": [
       {
         "year": 2021,
