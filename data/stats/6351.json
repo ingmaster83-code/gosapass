@@ -3,8 +3,23 @@
   "name": "항로표지기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-31",
-  "schedule": [],
+  "updated": "2026-08-08",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
@@ -26,37 +41,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 102,
-        "passers": 81,
-        "passRate": 79.4
-      },
-      {
-        "year": 2022,
-        "applicants": 113,
-        "passers": 91,
-        "passRate": 80.5
-      },
-      {
-        "year": 2023,
-        "applicants": 96,
-        "passers": 87,
-        "passRate": 90.6
-      },
-      {
-        "year": 2024,
-        "applicants": 87,
-        "passers": 77,
-        "passRate": 88.5
-      },
-      {
-        "year": 2025,
-        "applicants": 93,
-        "passers": 86,
-        "passRate": 92.5
-      }
-    ]
+    "practical": []
   }
 }

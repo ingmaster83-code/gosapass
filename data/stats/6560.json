@@ -3,7 +3,7 @@
   "name": "화학분석기능사",
   "series": "기능사",
   "field": "화학",
-  "updated": "2026-07-31",
+  "updated": "2026-08-08",
   "schedule": [],
   "fee": {
     "written": "",
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 3455,
-        "passers": 1788,
-        "passRate": 51.8
-      },
-      {
-        "year": 2022,
-        "applicants": 3369,
-        "passers": 995,
-        "passRate": 29.5
-      },
-      {
-        "year": 2023,
-        "applicants": 3874,
-        "passers": 1176,
-        "passRate": 30.4
-      },
-      {
-        "year": 2024,
-        "applicants": 3873,
-        "passers": 1156,
-        "passRate": 29.8
-      },
-      {
-        "year": 2025,
-        "applicants": 4590,
-        "passers": 1717,
-        "passRate": 37.4
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

@@ -3,7 +3,7 @@
   "name": "국가유산수리기능자(조경공)",
   "series": "국가유산수리기능자",
   "field": "",
-  "updated": "2026-07-31",
+  "updated": "2026-08-08",
   "schedule": [
     {
       "round": "제1회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
+    "written": "20000",
     "practical": "",
-    "raw": ""
+    "raw": "1차 : 20000,"
   },
   "info": [],
   "stats": {

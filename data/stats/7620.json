@@ -3,7 +3,7 @@
   "name": "종자기능사",
   "series": "기능사",
   "field": "농림어업",
-  "updated": "2026-07-31",
+  "updated": "2026-08-08",
   "schedule": [
     {
       "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
@@ -63,9 +63,9 @@
     }
   ],
   "fee": {
-    "written": "14500",
-    "practical": "17200",
-    "raw": "1차 : 14500, 2차 : 17200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -114,6 +114,37 @@
         "passRate": 54.5
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 2409,
+        "passers": 773,
+        "passRate": 32.1
+      },
+      {
+        "year": 2022,
+        "applicants": 1940,
+        "passers": 1239,
+        "passRate": 63.9
+      },
+      {
+        "year": 2023,
+        "applicants": 1823,
+        "passers": 1326,
+        "passRate": 72.7
+      },
+      {
+        "year": 2024,
+        "applicants": 2301,
+        "passers": 1562,
+        "passRate": 67.9
+      },
+      {
+        "year": 2025,
+        "applicants": 2149,
+        "passers": 1642,
+        "passRate": 76.4
+      }
+    ]
   }
 }

@@ -3,7 +3,7 @@
   "name": "한국어교육능력검정시험",
   "series": "한국어교육능력검정시험",
   "field": "",
-  "updated": "2026-07-31",
+  "updated": "2026-08-08",
   "schedule": [
     {
       "round": "제21회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "45000",
+    "practical": "25000",
+    "raw": "1차 : 45000, 2차 : 25000"
   },
   "info": [],
   "stats": {

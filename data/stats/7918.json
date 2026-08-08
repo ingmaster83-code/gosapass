@@ -3,12 +3,12 @@
   "name": "환경기능사",
   "series": "기능사",
   "field": "환경.에너지",
-  "updated": "2026-07-31",
+  "updated": "2026-08-08",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "27700",
+    "raw": "1차 : 14500, 2차 : 27700"
   },
   "info": [
     {
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 7047,
-        "passers": 3013,
-        "passRate": 42.8
-      },
-      {
-        "year": 2022,
-        "applicants": 6466,
-        "passers": 2599,
-        "passRate": 40.2
-      },
-      {
-        "year": 2023,
-        "applicants": 7701,
-        "passers": 2995,
-        "passRate": 38.9
-      },
-      {
-        "year": 2024,
-        "applicants": 7547,
-        "passers": 2912,
-        "passRate": 38.6
-      },
-      {
-        "year": 2025,
-        "applicants": 7023,
-        "passers": 1888,
-        "passRate": 26.9
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,
