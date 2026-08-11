@@ -3,7 +3,7 @@
   "name": "제강기능장",
   "series": "기능장",
   "field": "재료",
-  "updated": "2026-08-04",
+  "updated": "2026-08-11",
   "schedule": [
     {
       "round": "제79회",
@@ -54,7 +54,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 795,
+        "passers": 596,
+        "passRate": 75.0
+      },
+      {
+        "year": 2022,
+        "applicants": 680,
+        "passers": 529,
+        "passRate": 77.8
+      },
+      {
+        "year": 2023,
+        "applicants": 630,
+        "passers": 471,
+        "passRate": 74.8
+      },
+      {
+        "year": 2024,
+        "applicants": 665,
+        "passers": 342,
+        "passRate": 51.4
+      },
+      {
+        "year": 2025,
+        "applicants": 714,
+        "passers": 361,
+        "passRate": 50.6
+      }
+    ],
     "practical": []
   }
 }

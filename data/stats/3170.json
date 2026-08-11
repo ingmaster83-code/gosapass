@@ -3,7 +3,7 @@
   "name": "에너지관리기능장",
   "series": "기능장",
   "field": "환경.에너지",
-  "updated": "2026-08-04",
+  "updated": "2026-08-11",
   "schedule": [],
   "fee": {
     "written": "34400",
@@ -26,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 1308,
-        "passers": 446,
-        "passRate": 34.1
-      },
-      {
-        "year": 2022,
-        "applicants": 1428,
-        "passers": 410,
-        "passRate": 28.7
-      },
-      {
-        "year": 2023,
-        "applicants": 1695,
-        "passers": 553,
-        "passRate": 32.6
-      },
-      {
-        "year": 2024,
-        "applicants": 1741,
-        "passers": 618,
-        "passRate": 35.5
-      },
-      {
-        "year": 2025,
-        "applicants": 1690,
-        "passers": 605,
-        "passRate": 35.8
-      }
-    ]
+    "practical": []
   }
 }

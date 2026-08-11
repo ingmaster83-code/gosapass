@@ -3,7 +3,7 @@
   "name": "표면처리기능장",
   "series": "기능장",
   "field": "재료",
-  "updated": "2026-08-04",
+  "updated": "2026-08-11",
   "schedule": [
     {
       "round": "제80회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "34400",
-    "practical": "103800",
-    "raw": "1차 : 34400, 2차 : 103800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

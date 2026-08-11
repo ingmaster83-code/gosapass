@@ -3,7 +3,7 @@
   "name": "건설안전기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-08-04",
+  "updated": "2026-08-11",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -25,38 +25,38 @@
     }
   ],
   "stats": {
-    "written": [
+    "written": [],
+    "practical": [
       {
         "year": 2021,
-        "applicants": 17526,
-        "passers": 8044,
-        "passRate": 45.9
+        "applicants": 10653,
+        "passers": 5539,
+        "passRate": 52.0
       },
       {
         "year": 2022,
-        "applicants": 26556,
-        "passers": 12837,
-        "passRate": 48.3
+        "applicants": 14674,
+        "passers": 10321,
+        "passRate": 70.3
       },
       {
         "year": 2023,
-        "applicants": 34908,
-        "passers": 17932,
-        "passRate": 51.4
+        "applicants": 19937,
+        "passers": 12564,
+        "passRate": 63.0
       },
       {
         "year": 2024,
-        "applicants": 31594,
-        "passers": 15477,
-        "passRate": 49.0
+        "applicants": 22247,
+        "passers": 12341,
+        "passRate": 55.5
       },
       {
         "year": 2025,
-        "applicants": 30882,
-        "passers": 15530,
-        "passRate": 50.3
+        "applicants": 21850,
+        "passers": 9229,
+        "passRate": 42.2
       }
-    ],
-    "practical": []
+    ]
   }
 }
