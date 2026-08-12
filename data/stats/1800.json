@@ -3,41 +3,12 @@
   "name": "바이오화학제품제조기사",
   "series": "기사",
   "field": "화학",
-  "updated": "2026-08-05",
-  "schedule": [
-    {
-      "round": "제1회",
-      "written_reg_start": "2026-01-12",
-      "written_reg_end": "2026-01-15",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-03-11",
-      "prac_reg_start": "2026-03-23",
-      "prac_reg_end": "2026-03-26",
-      "prac_exam_start": "2026-04-18",
-      "prac_exam_end": "2026-05-06",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    },
-    {
-      "round": "제2회",
-      "written_reg_start": "2026-04-20",
-      "written_reg_end": "2026-04-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-06-10",
-      "prac_reg_start": "2026-06-22",
-      "prac_reg_end": "2026-06-25",
-      "prac_exam_start": "2026-07-18",
-      "prac_exam_end": "2026-08-05",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-08-12",
+  "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "44400",
+    "raw": "1차 : 19400, 2차 : 44400"
   },
   "info": [
     {
@@ -54,7 +25,69 @@
     }
   ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 722,
+        "passers": 355,
+        "passRate": 49.2
+      },
+      {
+        "year": 2022,
+        "applicants": 784,
+        "passers": 391,
+        "passRate": 49.9
+      },
+      {
+        "year": 2023,
+        "applicants": 833,
+        "passers": 457,
+        "passRate": 54.9
+      },
+      {
+        "year": 2024,
+        "applicants": 1036,
+        "passers": 517,
+        "passRate": 49.9
+      },
+      {
+        "year": 2025,
+        "applicants": 1730,
+        "passers": 828,
+        "passRate": 47.9
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 300,
+        "passers": 236,
+        "passRate": 78.7
+      },
+      {
+        "year": 2022,
+        "applicants": 374,
+        "passers": 301,
+        "passRate": 80.5
+      },
+      {
+        "year": 2023,
+        "applicants": 444,
+        "passers": 339,
+        "passRate": 76.4
+      },
+      {
+        "year": 2024,
+        "applicants": 489,
+        "passers": 333,
+        "passRate": 68.1
+      },
+      {
+        "year": 2025,
+        "applicants": 874,
+        "passers": 444,
+        "passRate": 50.8
+      }
+    ]
   }
 }

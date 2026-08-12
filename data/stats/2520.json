@@ -3,7 +3,7 @@
   "name": "수산양식산업기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-08-05",
+  "updated": "2026-08-12",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
   },
   "info": [
     {

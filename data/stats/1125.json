@@ -3,7 +3,7 @@
   "name": "정밀화학기사",
   "series": "기사",
   "field": "화학",
-  "updated": "2026-08-05",
+  "updated": "2026-08-12",
   "schedule": [
     {
       "round": "제3회",
@@ -40,38 +40,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 89,
-        "passers": 13,
-        "passRate": 14.6
-      },
-      {
-        "year": 2023,
-        "applicants": 84,
-        "passers": 15,
-        "passRate": 17.9
-      },
-      {
-        "year": 2024,
-        "applicants": 31,
-        "passers": 3,
-        "passRate": 9.7
-      },
-      {
-        "year": 2025,
-        "applicants": 15,
-        "passers": 3,
-        "passRate": 20.0
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

@@ -3,7 +3,7 @@
   "name": "조선산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-08-05",
+  "updated": "2026-08-12",
   "schedule": [
     {
       "round": "제1회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "45900",
+    "raw": "1차 : 19400, 2차 : 45900"
   },
   "info": [
     {
@@ -40,7 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 62,
+        "passers": 35,
+        "passRate": 56.5
+      },
+      {
+        "year": 2022,
+        "applicants": 64,
+        "passers": 35,
+        "passRate": 54.7
+      },
+      {
+        "year": 2023,
+        "applicants": 59,
+        "passers": 19,
+        "passRate": 32.2
+      },
+      {
+        "year": 2024,
+        "applicants": 66,
+        "passers": 39,
+        "passRate": 59.1
+      },
+      {
+        "year": 2025,
+        "applicants": 48,
+        "passers": 19,
+        "passRate": 39.6
+      }
+    ],
     "practical": [
       {
         "year": 2021,

@@ -3,7 +3,7 @@
   "name": "복어조리산업기사",
   "series": "기사",
   "field": "음식서비스",
-  "updated": "2026-08-05",
+  "updated": "2026-08-12",
   "schedule": [
     {
       "round": "제3회",
@@ -41,6 +41,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 79,
+        "passers": 22,
+        "passRate": 27.8
+      },
+      {
+        "year": 2022,
+        "applicants": 61,
+        "passers": 26,
+        "passRate": 42.6
+      },
+      {
+        "year": 2023,
+        "applicants": 89,
+        "passers": 27,
+        "passRate": 30.3
+      },
+      {
+        "year": 2024,
+        "applicants": 86,
+        "passers": 26,
+        "passRate": 30.2
+      },
+      {
+        "year": 2025,
+        "applicants": 79,
+        "passers": 26,
+        "passRate": 32.9
+      }
+    ]
   }
 }

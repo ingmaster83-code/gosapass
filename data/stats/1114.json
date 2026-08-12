@@ -3,7 +3,7 @@
   "name": "신재생에너지발전설비기사(태양광)",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-08-05",
+  "updated": "2026-08-12",
   "schedule": [
     {
       "round": "제1회",
@@ -68,38 +68,38 @@
     }
   ],
   "stats": {
-    "written": [
+    "written": [],
+    "practical": [
       {
         "year": 2021,
-        "applicants": 3477,
-        "passers": 1343,
-        "passRate": 38.6
+        "applicants": 2614,
+        "passers": 827,
+        "passRate": 31.6
       },
       {
         "year": 2022,
-        "applicants": 2832,
-        "passers": 1248,
-        "passRate": 44.1
+        "applicants": 2055,
+        "passers": 748,
+        "passRate": 36.4
       },
       {
         "year": 2023,
-        "applicants": 2623,
-        "passers": 1504,
-        "passRate": 57.3
+        "applicants": 2032,
+        "passers": 992,
+        "passRate": 48.8
       },
       {
         "year": 2024,
-        "applicants": 2318,
-        "passers": 1148,
-        "passRate": 49.5
+        "applicants": 2028,
+        "passers": 836,
+        "passRate": 41.2
       },
       {
         "year": 2025,
-        "applicants": 2523,
-        "passers": 1383,
-        "passRate": 54.8
+        "applicants": 2104,
+        "passers": 743,
+        "passRate": 35.3
       }
-    ],
-    "practical": []
+    ]
   }
 }

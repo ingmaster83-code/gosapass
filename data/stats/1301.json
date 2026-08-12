@@ -3,7 +3,7 @@
   "name": "의류기사",
   "series": "기사",
   "field": "섬유.의복",
-  "updated": "2026-08-05",
+  "updated": "2026-08-12",
   "schedule": [
     {
       "round": "제2회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "63600",
-    "raw": "1차 : 19400, 2차 : 63600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -40,38 +40,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 64,
-        "passers": 32,
-        "passRate": 50.0
-      },
-      {
-        "year": 2022,
-        "applicants": 56,
-        "passers": 17,
-        "passRate": 30.4
-      },
-      {
-        "year": 2023,
-        "applicants": 80,
-        "passers": 42,
-        "passRate": 52.5
-      },
-      {
-        "year": 2024,
-        "applicants": 69,
-        "passers": 34,
-        "passRate": 49.3
-      },
-      {
-        "year": 2025,
-        "applicants": 71,
-        "passers": 27,
-        "passRate": 38.0
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

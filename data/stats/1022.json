@@ -3,7 +3,7 @@
   "name": "용접기사",
   "series": "기사",
   "field": "재료",
-  "updated": "2026-08-05",
+  "updated": "2026-08-12",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 460,
+        "passers": 121,
+        "passRate": 26.3
+      },
+      {
+        "year": 2022,
+        "applicants": 587,
+        "passers": 130,
+        "passRate": 22.1
+      },
+      {
+        "year": 2023,
+        "applicants": 635,
+        "passers": 136,
+        "passRate": 21.4
+      },
+      {
+        "year": 2024,
+        "applicants": 630,
+        "passers": 137,
+        "passRate": 21.7
+      },
+      {
+        "year": 2025,
+        "applicants": 596,
+        "passers": 100,
+        "passRate": 16.8
+      }
+    ],
     "practical": [
       {
         "year": 2021,

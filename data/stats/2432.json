@@ -3,7 +3,7 @@
   "name": "제품디자인산업기사",
   "series": "기사",
   "field": "문화.예술.디자인.방송",
-  "updated": "2026-08-05",
+  "updated": "2026-08-12",
   "schedule": [
     {
       "round": "제1회",
@@ -41,37 +41,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 14,
-        "passers": 8,
-        "passRate": 57.1
-      },
-      {
-        "year": 2022,
-        "applicants": 20,
-        "passers": 15,
-        "passRate": 75.0
-      },
-      {
-        "year": 2023,
-        "applicants": 17,
-        "passers": 10,
-        "passRate": 58.8
-      },
-      {
-        "year": 2024,
-        "applicants": 15,
-        "passers": 7,
-        "passRate": 46.7
-      },
-      {
-        "year": 2025,
-        "applicants": 16,
-        "passers": 9,
-        "passRate": 56.2
-      }
-    ]
+    "practical": []
   }
 }

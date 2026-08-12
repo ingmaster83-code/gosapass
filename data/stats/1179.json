@@ -3,7 +3,7 @@
   "name": "로봇하드웨어개발기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-08-05",
+  "updated": "2026-08-12",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "54300",
-    "raw": "1차 : 19400, 2차 : 54300"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
