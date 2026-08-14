@@ -3,7 +3,7 @@
   "name": "궤도장비정비기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-08-07",
+  "updated": "2026-08-14",
   "schedule": [
     {
       "round": "제4회",
@@ -41,6 +41,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 5,
+        "passers": 1,
+        "passRate": 20.0
+      },
+      {
+        "year": 2023,
+        "applicants": 3,
+        "passers": 2,
+        "passRate": 66.7
+      },
+      {
+        "year": 2024,
+        "applicants": 4,
+        "passers": 1,
+        "passRate": 25.0
+      },
+      {
+        "year": 2025,
+        "applicants": 5,
+        "passers": 3,
+        "passRate": 60.0
+      }
+    ]
   }
 }

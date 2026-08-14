@@ -3,12 +3,27 @@
   "name": "화약류제조산업기사",
   "series": "기사",
   "field": "화학",
-  "updated": "2026-08-07",
-  "schedule": [],
+  "updated": "2026-08-14",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-12",
+      "written_reg_end": "2026-01-15",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-11",
+      "prac_reg_start": "2026-03-23",
+      "prac_reg_end": "2026-03-26",
+      "prac_exam_start": "2026-04-18",
+      "prac_exam_end": "2026-05-06",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "19400",
-    "practical": "20800",
-    "raw": "1차 : 19400, 2차 : 20800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -57,6 +72,37 @@
         "passRate": 27.0
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 11,
+        "passers": 10,
+        "passRate": 90.9
+      },
+      {
+        "year": 2022,
+        "applicants": 1,
+        "passers": 1,
+        "passRate": 100.0
+      },
+      {
+        "year": 2023,
+        "applicants": 6,
+        "passers": 3,
+        "passRate": 50.0
+      },
+      {
+        "year": 2024,
+        "applicants": 2,
+        "passers": 2,
+        "passRate": 100.0
+      },
+      {
+        "year": 2025,
+        "applicants": 9,
+        "passers": 7,
+        "passRate": 77.8
+      }
+    ]
   }
 }

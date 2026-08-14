@@ -3,7 +3,7 @@
   "name": "실내건축기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-08-07",
+  "updated": "2026-08-14",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -26,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 2025,
-        "passers": 1383,
-        "passRate": 68.3
-      },
-      {
-        "year": 2022,
-        "applicants": 1927,
-        "passers": 1324,
-        "passRate": 68.7
-      },
-      {
-        "year": 2023,
-        "applicants": 2072,
-        "passers": 1451,
-        "passRate": 70.0
-      },
-      {
-        "year": 2024,
-        "applicants": 1982,
-        "passers": 1534,
-        "passRate": 77.4
-      },
-      {
-        "year": 2025,
-        "applicants": 2038,
-        "passers": 1578,
-        "passRate": 77.4
-      }
-    ]
+    "practical": []
   }
 }

@@ -3,12 +3,12 @@
   "name": "거푸집기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-08-07",
+  "updated": "2026-08-14",
   "schedule": [],
   "fee": {
-    "written": "",
+    "written": "49500",
     "practical": "",
-    "raw": ""
+    "raw": ", 2차 : 49500"
   },
   "info": [
     {
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2024,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2025,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

@@ -3,23 +3,8 @@
   "name": "보석가공기능사",
   "series": "기능사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-08-07",
-  "schedule": [
-    {
-      "round": "제4회",
-      "written_reg_start": "2026-08-24",
-      "written_reg_end": "2026-08-27",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-10-07",
-      "prac_reg_start": "2026-10-12",
-      "prac_reg_end": "2026-10-15",
-      "prac_exam_start": "2026-11-14",
-      "prac_exam_end": "2026-12-02",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-08-14",
+  "schedule": [],
   "fee": {
     "written": "",
     "practical": "",

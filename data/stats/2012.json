@@ -3,7 +3,7 @@
   "name": "판금제관산업기사",
   "series": "기사",
   "field": "재료",
-  "updated": "2026-08-07",
+  "updated": "2026-08-14",
   "schedule": [
     {
       "round": "제2회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "100900",
+    "raw": "1차 : 19400, 2차 : 100900"
   },
   "info": [
     {

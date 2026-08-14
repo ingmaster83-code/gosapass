@@ -3,7 +3,7 @@
   "name": "품질경영산업기사",
   "series": "기사",
   "field": "경영.회계.사무",
-  "updated": "2026-08-07",
+  "updated": "2026-08-14",
   "schedule": [
     {
       "round": "제1회",
@@ -68,7 +68,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 658,
+        "passers": 251,
+        "passRate": 38.1
+      },
+      {
+        "year": 2022,
+        "applicants": 546,
+        "passers": 150,
+        "passRate": 27.5
+      },
+      {
+        "year": 2023,
+        "applicants": 530,
+        "passers": 153,
+        "passRate": 28.9
+      },
+      {
+        "year": 2024,
+        "applicants": 495,
+        "passers": 124,
+        "passRate": 25.1
+      },
+      {
+        "year": 2025,
+        "applicants": 454,
+        "passers": 134,
+        "passRate": 29.5
+      }
+    ],
     "practical": [
       {
         "year": 2021,

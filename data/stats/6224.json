@@ -3,7 +3,7 @@
   "name": "가스텅스텐아크용접기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-08-07",
+  "updated": "2026-08-14",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -57,6 +57,37 @@
         "passRate": 41.2
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 2704,
+        "passers": 1711,
+        "passRate": 63.3
+      },
+      {
+        "year": 2024,
+        "applicants": 2871,
+        "passers": 1817,
+        "passRate": 63.3
+      },
+      {
+        "year": 2025,
+        "applicants": 3020,
+        "passers": 1906,
+        "passRate": 63.1
+      }
+    ]
   }
 }

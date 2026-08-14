@@ -3,7 +3,7 @@
   "name": "미용사(네일)",
   "series": "기능사",
   "field": "이용.숙박.여행.오락.스포츠",
-  "updated": "2026-08-07",
+  "updated": "2026-08-14",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 35220,
-        "passers": 17322,
-        "passRate": 49.2
-      },
-      {
-        "year": 2022,
-        "applicants": 32452,
-        "passers": 13928,
-        "passRate": 42.9
-      },
-      {
-        "year": 2023,
-        "applicants": 34803,
-        "passers": 14098,
-        "passRate": 40.5
-      },
-      {
-        "year": 2024,
-        "applicants": 30685,
-        "passers": 11847,
-        "passRate": 38.6
-      },
-      {
-        "year": 2025,
-        "applicants": 28034,
-        "passers": 10714,
-        "passRate": 38.2
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

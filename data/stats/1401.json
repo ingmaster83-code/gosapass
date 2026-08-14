@@ -3,12 +3,12 @@
   "name": "해양환경기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-08-07",
+  "updated": "2026-08-14",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "34200",
+    "raw": "1차 : 19400, 2차 : 34200"
   },
   "info": [
     {

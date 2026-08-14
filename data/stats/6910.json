@@ -3,7 +3,7 @@
   "name": "선체설계기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-08-07",
+  "updated": "2026-08-14",
   "schedule": [
     {
       "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "14500",
-    "practical": "24400",
-    "raw": "1차 : 14500, 2차 : 24400"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -54,38 +54,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 13,
-        "passers": 5,
-        "passRate": 38.5
-      },
-      {
-        "year": 2022,
-        "applicants": 16,
-        "passers": 10,
-        "passRate": 62.5
-      },
-      {
-        "year": 2023,
-        "applicants": 12,
-        "passers": 9,
-        "passRate": 75.0
-      },
-      {
-        "year": 2024,
-        "applicants": 14,
-        "passers": 8,
-        "passRate": 57.1
-      },
-      {
-        "year": 2025,
-        "applicants": 26,
-        "passers": 19,
-        "passRate": 73.1
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

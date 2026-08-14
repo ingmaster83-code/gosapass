@@ -3,7 +3,7 @@
   "name": "아스팔트피니셔운전기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-08-07",
+  "updated": "2026-08-14",
   "schedule": [],
   "fee": {
     "written": "11900",
@@ -12,38 +12,7 @@
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 55,
-        "passers": 37,
-        "passRate": 67.3
-      },
-      {
-        "year": 2022,
-        "applicants": 38,
-        "passers": 15,
-        "passRate": 39.5
-      },
-      {
-        "year": 2023,
-        "applicants": 31,
-        "passers": 13,
-        "passRate": 41.9
-      },
-      {
-        "year": 2024,
-        "applicants": 11,
-        "passers": 5,
-        "passRate": 45.5
-      },
-      {
-        "year": 2025,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

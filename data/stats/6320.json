@@ -3,7 +3,7 @@
   "name": "공조냉동기계기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-08-07",
+  "updated": "2026-08-14",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 7913,
+        "passers": 4047,
+        "passRate": 51.1
+      },
+      {
+        "year": 2022,
+        "applicants": 7170,
+        "passers": 1836,
+        "passRate": 25.6
+      },
+      {
+        "year": 2023,
+        "applicants": 8375,
+        "passers": 2301,
+        "passRate": 27.5
+      },
+      {
+        "year": 2024,
+        "applicants": 8313,
+        "passers": 2294,
+        "passRate": 27.6
+      },
+      {
+        "year": 2025,
+        "applicants": 8931,
+        "passers": 2493,
+        "passRate": 27.9
+      }
+    ],
     "practical": [
       {
         "year": 2021,

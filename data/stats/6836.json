@@ -3,7 +3,7 @@
   "name": "자동차보수도장기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-08-07",
+  "updated": "2026-08-14",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 2131,
-        "passers": 1363,
-        "passRate": 64.0
-      },
-      {
-        "year": 2022,
-        "applicants": 1592,
-        "passers": 929,
-        "passRate": 58.4
-      },
-      {
-        "year": 2023,
-        "applicants": 2084,
-        "passers": 1250,
-        "passRate": 60.0
-      },
-      {
-        "year": 2024,
-        "applicants": 2061,
-        "passers": 1004,
-        "passRate": 48.7
-      },
-      {
-        "year": 2025,
-        "applicants": 2372,
-        "passers": 1142,
-        "passRate": 48.1
-      }
-    ],
+    "written": [],
     "practical": []
   }
 }
