@@ -3,12 +3,12 @@
   "name": "화훼장식기능사",
   "series": "기능사",
   "field": "농림어업",
-  "updated": "2026-08-08",
+  "updated": "2026-08-15",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "28600",
+    "raw": "1차 : 14500, 2차 : 28600"
   },
   "info": [
     {

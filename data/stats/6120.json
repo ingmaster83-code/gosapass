@@ -3,7 +3,7 @@
   "name": "정밀측정기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-08-08",
+  "updated": "2026-08-15",
   "schedule": [
     {
       "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
@@ -54,38 +54,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 131,
-        "passers": 43,
-        "passRate": 32.8
-      },
-      {
-        "year": 2022,
-        "applicants": 122,
-        "passers": 34,
-        "passRate": 27.9
-      },
-      {
-        "year": 2023,
-        "applicants": 162,
-        "passers": 69,
-        "passRate": 42.6
-      },
-      {
-        "year": 2024,
-        "applicants": 210,
-        "passers": 74,
-        "passRate": 35.2
-      },
-      {
-        "year": 2025,
-        "applicants": 183,
-        "passers": 70,
-        "passRate": 38.3
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

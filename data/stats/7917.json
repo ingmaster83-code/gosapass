@@ -3,7 +3,7 @@
   "name": "피아노조율기능사",
   "series": "기능사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-08-08",
+  "updated": "2026-08-15",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "39000",
+    "raw": "1차 : 14500, 2차 : 39000"
   },
   "info": [
     {

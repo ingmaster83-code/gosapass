@@ -3,12 +3,12 @@
   "name": "타일기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-08-08",
+  "updated": "2026-08-15",
   "schedule": [],
   "fee": {
-    "written": "",
+    "written": "63000",
     "practical": "",
-    "raw": ""
+    "raw": ", 2차 : 63000"
   },
   "info": [],
   "stats": {

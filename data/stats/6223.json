@@ -3,7 +3,7 @@
   "name": "피복아크용접기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-08-08",
+  "updated": "2026-08-15",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 14356,
+        "passers": 4420,
+        "passRate": 30.8
+      },
+      {
+        "year": 2022,
+        "applicants": 12615,
+        "passers": 3727,
+        "passRate": 29.5
+      },
+      {
+        "year": 2023,
+        "applicants": 11787,
+        "passers": 3569,
+        "passRate": 30.3
+      },
+      {
+        "year": 2024,
+        "applicants": 11593,
+        "passers": 3364,
+        "passRate": 29.0
+      },
+      {
+        "year": 2025,
+        "applicants": 11805,
+        "passers": 3565,
+        "passRate": 30.2
+      }
+    ],
     "practical": [
       {
         "year": 2021,

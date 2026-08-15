@@ -3,7 +3,7 @@
   "name": "항로표지기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-08-08",
+  "updated": "2026-08-15",
   "schedule": [
     {
       "round": "제3회",
@@ -41,6 +41,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 102,
+        "passers": 81,
+        "passRate": 79.4
+      },
+      {
+        "year": 2022,
+        "applicants": 113,
+        "passers": 91,
+        "passRate": 80.5
+      },
+      {
+        "year": 2023,
+        "applicants": 96,
+        "passers": 87,
+        "passRate": 90.6
+      },
+      {
+        "year": 2024,
+        "applicants": 87,
+        "passers": 77,
+        "passRate": 88.5
+      },
+      {
+        "year": 2025,
+        "applicants": 93,
+        "passers": 86,
+        "passRate": 92.5
+      }
+    ]
   }
 }

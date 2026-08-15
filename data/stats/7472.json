@@ -3,7 +3,7 @@
   "name": "초음파비파괴검사기능사",
   "series": "기능사",
   "field": "안전관리",
-  "updated": "2026-08-08",
+  "updated": "2026-08-15",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 791,
-        "passers": 298,
-        "passRate": 37.7
-      },
-      {
-        "year": 2022,
-        "applicants": 641,
-        "passers": 257,
-        "passRate": 40.1
-      },
-      {
-        "year": 2023,
-        "applicants": 648,
-        "passers": 223,
-        "passRate": 34.4
-      },
-      {
-        "year": 2024,
-        "applicants": 775,
-        "passers": 228,
-        "passRate": 29.4
-      },
-      {
-        "year": 2025,
-        "applicants": 786,
-        "passers": 246,
-        "passRate": 31.3
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

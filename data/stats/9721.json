@@ -3,7 +3,7 @@
   "name": "일반행정사",
   "series": "행정사",
   "field": "",
-  "updated": "2026-08-08",
+  "updated": "2026-08-15",
   "schedule": [
     {
       "round": "제14회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "10000",
-    "practical": "40000",
-    "raw": "1차 : 10000, 2차 : 40000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

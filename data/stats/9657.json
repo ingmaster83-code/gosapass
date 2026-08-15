@@ -3,7 +3,7 @@
   "name": "소방안전교육사",
   "series": "소방안전교육사",
   "field": "",
-  "updated": "2026-08-08",
+  "updated": "2026-08-15",
   "schedule": [
     {
       "round": "제12회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "30000",
-    "practical": "25000",
-    "raw": "1차 : 30000, 2차 : 25000, 3차 : 30000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

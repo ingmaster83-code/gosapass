@@ -3,7 +3,7 @@
   "name": "측량기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-08-08",
+  "updated": "2026-08-15",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2196,
+        "passers": 999,
+        "passRate": 45.5
+      },
+      {
+        "year": 2022,
+        "applicants": 2167,
+        "passers": 1002,
+        "passRate": 46.2
+      },
+      {
+        "year": 2023,
+        "applicants": 2212,
+        "passers": 1000,
+        "passRate": 45.2
+      },
+      {
+        "year": 2024,
+        "applicants": 1868,
+        "passers": 790,
+        "passRate": 42.3
+      },
+      {
+        "year": 2025,
+        "applicants": 1912,
+        "passers": 804,
+        "passRate": 42.1
+      }
+    ],
     "practical": [
       {
         "year": 2021,

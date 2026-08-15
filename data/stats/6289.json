@@ -3,7 +3,7 @@
   "name": "항공전기·전자정비기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-08-08",
+  "updated": "2026-08-15",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -13,37 +13,6 @@
   "info": [],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2024,
-        "applicants": 345,
-        "passers": 306,
-        "passRate": 88.7
-      },
-      {
-        "year": 2025,
-        "applicants": 668,
-        "passers": 633,
-        "passRate": 94.8
-      }
-    ]
+    "practical": []
   }
 }

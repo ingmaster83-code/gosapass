@@ -3,12 +3,12 @@
   "name": "화학분석기능사",
   "series": "기능사",
   "field": "화학",
-  "updated": "2026-08-08",
+  "updated": "2026-08-15",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "38500",
+    "raw": "1차 : 14500, 2차 : 38500"
   },
   "info": [
     {
