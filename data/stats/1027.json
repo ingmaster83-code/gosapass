@@ -3,7 +3,7 @@
   "name": "그린전동자동차기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-08-11",
+  "updated": "2026-08-18",
   "schedule": [
     {
       "round": "제2회",
@@ -86,37 +86,6 @@
         "passRate": 20.3
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 33,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 31,
-        "passers": 1,
-        "passRate": 3.2
-      },
-      {
-        "year": 2023,
-        "applicants": 54,
-        "passers": 2,
-        "passRate": 3.7
-      },
-      {
-        "year": 2024,
-        "applicants": 69,
-        "passers": 24,
-        "passRate": 34.8
-      },
-      {
-        "year": 2025,
-        "applicants": 57,
-        "passers": 7,
-        "passRate": 12.3
-      }
-    ]
+    "practical": []
   }
 }

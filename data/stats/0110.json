@@ -3,7 +3,7 @@
   "name": "금속재료기술사",
   "series": "기술사",
   "field": "재료",
-  "updated": "2026-08-11",
+  "updated": "2026-08-18",
   "schedule": [],
   "fee": {
     "written": "67800",
@@ -57,37 +57,6 @@
         "passRate": 33.9
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 31,
-        "passers": 9,
-        "passRate": 29.0
-      },
-      {
-        "year": 2022,
-        "applicants": 38,
-        "passers": 12,
-        "passRate": 31.6
-      },
-      {
-        "year": 2023,
-        "applicants": 37,
-        "passers": 18,
-        "passRate": 48.6
-      },
-      {
-        "year": 2024,
-        "applicants": 29,
-        "passers": 17,
-        "passRate": 58.6
-      },
-      {
-        "year": 2025,
-        "applicants": 29,
-        "passers": 10,
-        "passRate": 34.5
-      }
-    ]
+    "practical": []
   }
 }

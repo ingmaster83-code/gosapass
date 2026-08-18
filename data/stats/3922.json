@@ -3,7 +3,7 @@
   "name": "조리기능장",
   "series": "기능장",
   "field": "음식서비스",
-  "updated": "2026-08-11",
+  "updated": "2026-08-18",
   "schedule": [],
   "fee": {
     "written": "34400",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 530,
+        "passers": 252,
+        "passRate": 47.5
+      },
+      {
+        "year": 2022,
+        "applicants": 464,
+        "passers": 204,
+        "passRate": 44.0
+      },
+      {
+        "year": 2023,
+        "applicants": 510,
+        "passers": 205,
+        "passRate": 40.2
+      },
+      {
+        "year": 2024,
+        "applicants": 612,
+        "passers": 255,
+        "passRate": 41.7
+      },
+      {
+        "year": 2025,
+        "applicants": 635,
+        "passers": 264,
+        "passRate": 41.6
+      }
+    ],
     "practical": [
       {
         "year": 2021,

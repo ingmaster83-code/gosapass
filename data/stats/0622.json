@@ -3,7 +3,7 @@
   "name": "컴퓨터시스템응용기술사",
   "series": "기술사",
   "field": "정보통신",
-  "updated": "2026-08-11",
+  "updated": "2026-08-18",
   "schedule": [],
   "fee": {
     "written": "67800",
@@ -53,37 +53,6 @@
         "passRate": 11.4
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 21,
-        "passers": 9,
-        "passRate": 42.9
-      },
-      {
-        "year": 2022,
-        "applicants": 13,
-        "passers": 10,
-        "passRate": 76.9
-      },
-      {
-        "year": 2023,
-        "applicants": 6,
-        "passers": 4,
-        "passRate": 66.7
-      },
-      {
-        "year": 2024,
-        "applicants": 7,
-        "passers": 5,
-        "passRate": 71.4
-      },
-      {
-        "year": 2025,
-        "applicants": 12,
-        "passers": 7,
-        "passRate": 58.3
-      }
-    ]
+    "practical": []
   }
 }

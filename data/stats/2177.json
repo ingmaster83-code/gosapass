@@ -3,7 +3,7 @@
   "name": "3D프린터개발산업기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-08-11",
+  "updated": "2026-08-18",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "96000",
+    "raw": "1차 : 19400, 2차 : 96000"
   },
   "info": [],
   "stats": {
