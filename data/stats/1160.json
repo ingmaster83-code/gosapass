@@ -3,7 +3,7 @@
   "name": "전기공사기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-08-12",
+  "updated": "2026-08-19",
   "schedule": [
     {
       "round": "제1회",
@@ -100,37 +100,6 @@
         "passRate": 54.8
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 10658,
-        "passers": 4508,
-        "passRate": 42.3
-      },
-      {
-        "year": 2022,
-        "applicants": 9161,
-        "passers": 6037,
-        "passRate": 65.9
-      },
-      {
-        "year": 2023,
-        "applicants": 8547,
-        "passers": 5315,
-        "passRate": 62.2
-      },
-      {
-        "year": 2024,
-        "applicants": 6943,
-        "passers": 3461,
-        "passRate": 49.8
-      },
-      {
-        "year": 2025,
-        "applicants": 7873,
-        "passers": 4663,
-        "passRate": 59.2
-      }
-    ]
+    "practical": []
   }
 }

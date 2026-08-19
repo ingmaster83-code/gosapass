@@ -3,7 +3,7 @@
   "name": "지적산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-08-12",
+  "updated": "2026-08-19",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -26,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 1175,
-        "passers": 753,
-        "passRate": 64.1
-      },
-      {
-        "year": 2022,
-        "applicants": 943,
-        "passers": 588,
-        "passRate": 62.4
-      },
-      {
-        "year": 2023,
-        "applicants": 793,
-        "passers": 490,
-        "passRate": 61.8
-      },
-      {
-        "year": 2024,
-        "applicants": 516,
-        "passers": 317,
-        "passRate": 61.4
-      },
-      {
-        "year": 2025,
-        "applicants": 439,
-        "passers": 245,
-        "passRate": 55.8
-      }
-    ]
+    "practical": []
   }
 }

@@ -3,7 +3,7 @@
   "name": "복어조리산업기사",
   "series": "기사",
   "field": "음식서비스",
-  "updated": "2026-08-12",
+  "updated": "2026-08-19",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "56200",
-    "raw": "1차 : 19400, 2차 : 56200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

@@ -3,7 +3,7 @@
   "name": "일반기계기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-08-12",
+  "updated": "2026-08-19",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -25,7 +25,69 @@
     }
   ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 15861,
+        "passers": 7612,
+        "passRate": 48.0
+      },
+      {
+        "year": 2022,
+        "applicants": 12650,
+        "passers": 4980,
+        "passRate": 39.4
+      },
+      {
+        "year": 2023,
+        "applicants": 11844,
+        "passers": 4723,
+        "passRate": 39.9
+      },
+      {
+        "year": 2024,
+        "applicants": 10795,
+        "passers": 2247,
+        "passRate": 20.8
+      },
+      {
+        "year": 2025,
+        "applicants": 12608,
+        "passers": 3148,
+        "passRate": 25.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 10935,
+        "passers": 4902,
+        "passRate": 44.8
+      },
+      {
+        "year": 2022,
+        "applicants": 8059,
+        "passers": 3634,
+        "passRate": 45.1
+      },
+      {
+        "year": 2023,
+        "applicants": 7234,
+        "passers": 2977,
+        "passRate": 41.2
+      },
+      {
+        "year": 2024,
+        "applicants": 4371,
+        "passers": 2117,
+        "passRate": 48.4
+      },
+      {
+        "year": 2025,
+        "applicants": 4408,
+        "passers": 1944,
+        "passRate": 44.1
+      }
+    ]
   }
 }

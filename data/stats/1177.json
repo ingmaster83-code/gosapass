@@ -3,7 +3,7 @@
   "name": "로봇기구개발기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-08-12",
+  "updated": "2026-08-19",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "45000",
-    "raw": "1차 : 19400, 2차 : 45000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -40,7 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 29,
+        "passers": 10,
+        "passRate": 34.5
+      },
+      {
+        "year": 2022,
+        "applicants": 44,
+        "passers": 21,
+        "passRate": 47.7
+      },
+      {
+        "year": 2023,
+        "applicants": 53,
+        "passers": 25,
+        "passRate": 47.2
+      },
+      {
+        "year": 2024,
+        "applicants": 55,
+        "passers": 20,
+        "passRate": 36.4
+      },
+      {
+        "year": 2025,
+        "applicants": 53,
+        "passers": 17,
+        "passRate": 32.1
+      }
+    ],
     "practical": [
       {
         "year": 2021,

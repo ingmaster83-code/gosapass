@@ -3,7 +3,7 @@
   "name": "위험물산업기사",
   "series": "기사",
   "field": "화학",
-  "updated": "2026-08-12",
+  "updated": "2026-08-19",
   "schedule": [
     {
       "round": "제1회",
@@ -53,22 +53,40 @@
     "practical": "",
     "raw": ""
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다. - 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 전문대학 및 대학의 화학공업, 화학공학 등 관련학과 &#9314;시험과목  - 필기 1. 일반화학 2. 화재예방과 소화방법 3. 위험물의 성질과 취급- 실기 : 위험물 취급 실무 &#9315; 검정방법  - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분)  - 실기 : 필답형(2시간, 100점) &#9316; 합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상 - 실기 : 100점을 만점으로 하여 60점 이상"
-    }
-  ],
+  "info": [],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 25076,
+        "passers": 13886,
+        "passRate": 55.4
+      },
+      {
+        "year": 2022,
+        "applicants": 25227,
+        "passers": 13416,
+        "passRate": 53.2
+      },
+      {
+        "year": 2023,
+        "applicants": 31065,
+        "passers": 16007,
+        "passRate": 51.5
+      },
+      {
+        "year": 2024,
+        "applicants": 27847,
+        "passers": 13651,
+        "passRate": 49.0
+      },
+      {
+        "year": 2025,
+        "applicants": 30058,
+        "passers": 15300,
+        "passRate": 50.9
+      }
+    ],
     "practical": [
       {
         "year": 2021,

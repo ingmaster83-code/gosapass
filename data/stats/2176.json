@@ -3,7 +3,7 @@
   "name": "의공산업기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-08-12",
+  "updated": "2026-08-19",
   "schedule": [
     {
       "round": "제1회",
@@ -40,38 +40,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 192,
-        "passers": 95,
-        "passRate": 49.5
-      },
-      {
-        "year": 2022,
-        "applicants": 142,
-        "passers": 56,
-        "passRate": 39.4
-      },
-      {
-        "year": 2023,
-        "applicants": 64,
-        "passers": 30,
-        "passRate": 46.9
-      },
-      {
-        "year": 2024,
-        "applicants": 53,
-        "passers": 22,
-        "passRate": 41.5
-      },
-      {
-        "year": 2025,
-        "applicants": 49,
-        "passers": 22,
-        "passRate": 44.9
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

@@ -3,7 +3,7 @@
   "name": "멀티미디어콘텐츠제작전문가",
   "series": "기사",
   "field": "정보통신",
-  "updated": "2026-08-12",
+  "updated": "2026-08-19",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -26,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 908,
-        "passers": 731,
-        "passRate": 80.5
-      },
-      {
-        "year": 2022,
-        "applicants": 767,
-        "passers": 564,
-        "passRate": 73.5
-      },
-      {
-        "year": 2023,
-        "applicants": 1041,
-        "passers": 726,
-        "passRate": 69.7
-      },
-      {
-        "year": 2024,
-        "applicants": 975,
-        "passers": 646,
-        "passRate": 66.3
-      },
-      {
-        "year": 2025,
-        "applicants": 1025,
-        "passers": 665,
-        "passRate": 64.9
-      }
-    ]
+    "practical": []
   }
 }

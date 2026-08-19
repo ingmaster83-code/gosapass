@@ -3,7 +3,7 @@
   "name": "사출금형기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-08-12",
+  "updated": "2026-08-19",
   "schedule": [
     {
       "round": "제2회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "30200",
-    "raw": "1차 : 19400, 2차 : 30200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {

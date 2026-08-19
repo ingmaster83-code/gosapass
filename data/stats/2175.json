@@ -3,7 +3,7 @@
   "name": "반도체커스텀레이아웃산업기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-08-12",
+  "updated": "2026-08-19",
   "schedule": [
     {
       "round": "제2회",
@@ -27,7 +27,38 @@
   },
   "info": [],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 121,
+        "passers": 35,
+        "passRate": 28.9
+      },
+      {
+        "year": 2022,
+        "applicants": 105,
+        "passers": 50,
+        "passRate": 47.6
+      },
+      {
+        "year": 2023,
+        "applicants": 112,
+        "passers": 45,
+        "passRate": 40.2
+      },
+      {
+        "year": 2024,
+        "applicants": 156,
+        "passers": 65,
+        "passRate": 41.7
+      },
+      {
+        "year": 2025,
+        "applicants": 181,
+        "passers": 73,
+        "passRate": 40.3
+      }
+    ],
     "practical": [
       {
         "year": 2021,
