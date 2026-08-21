@@ -3,12 +3,12 @@
   "name": "화약류관리기사",
   "series": "기사",
   "field": "광업자원",
-  "updated": "2026-08-14",
+  "updated": "2026-08-21",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "46400",
+    "raw": "1차 : 19400, 2차 : 46400"
   },
   "info": [
     {

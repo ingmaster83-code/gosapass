@@ -3,7 +3,7 @@
   "name": "불도저운전기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-08-14",
+  "updated": "2026-08-21",
   "schedule": [
     {
       "round": "제2회",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "14500",
-    "practical": "25900",
-    "raw": "1차 : 14500, 2차 : 25900"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -54,38 +54,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 915,
-        "passers": 750,
-        "passRate": 82.0
-      },
-      {
-        "year": 2022,
-        "applicants": 996,
-        "passers": 807,
-        "passRate": 81.0
-      },
-      {
-        "year": 2023,
-        "applicants": 1330,
-        "passers": 1096,
-        "passRate": 82.4
-      },
-      {
-        "year": 2024,
-        "applicants": 1113,
-        "passers": 884,
-        "passRate": 79.4
-      },
-      {
-        "year": 2025,
-        "applicants": 961,
-        "passers": 755,
-        "passRate": 78.6
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

@@ -3,7 +3,7 @@
   "name": "판금제관산업기사",
   "series": "기사",
   "field": "재료",
-  "updated": "2026-08-14",
+  "updated": "2026-08-21",
   "schedule": [
     {
       "round": "제2회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "100900",
-    "raw": "1차 : 19400, 2차 : 100900"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -40,38 +40,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 10,
-        "passers": 2,
-        "passRate": 20.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 22,
-        "passers": 9,
-        "passRate": 40.9
-      },
-      {
-        "year": 2024,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2025,
-        "applicants": 21,
-        "passers": 11,
-        "passRate": 52.4
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

@@ -3,7 +3,7 @@
   "name": "컬러리스트기사",
   "series": "기사",
   "field": "문화.예술.디자인.방송",
-  "updated": "2026-08-14",
+  "updated": "2026-08-21",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -26,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 1569,
-        "passers": 864,
-        "passRate": 55.1
-      },
-      {
-        "year": 2022,
-        "applicants": 1239,
-        "passers": 604,
-        "passRate": 48.7
-      },
-      {
-        "year": 2023,
-        "applicants": 1124,
-        "passers": 521,
-        "passRate": 46.4
-      },
-      {
-        "year": 2024,
-        "applicants": 969,
-        "passers": 542,
-        "passRate": 55.9
-      },
-      {
-        "year": 2025,
-        "applicants": 868,
-        "passers": 612,
-        "passRate": 70.5
-      }
-    ]
+    "practical": []
   }
 }

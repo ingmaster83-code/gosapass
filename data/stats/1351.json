@@ -3,7 +3,7 @@
   "name": "항로표지기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-08-14",
+  "updated": "2026-08-21",
   "schedule": [
     {
       "round": "제1회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "31400",
-    "raw": "1차 : 19400, 2차 : 31400"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

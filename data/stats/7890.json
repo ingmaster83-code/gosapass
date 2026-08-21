@@ -3,7 +3,7 @@
   "name": "도자공예기능사",
   "series": "기능사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-08-14",
+  "updated": "2026-08-21",
   "schedule": [
     {
       "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "31000",
+    "raw": "1차 : 14500, 2차 : 31000"
   },
   "info": [
     {
@@ -54,7 +54,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 527,
+        "passers": 360,
+        "passRate": 68.3
+      },
+      {
+        "year": 2022,
+        "applicants": 441,
+        "passers": 270,
+        "passRate": 61.2
+      },
+      {
+        "year": 2023,
+        "applicants": 685,
+        "passers": 430,
+        "passRate": 62.8
+      },
+      {
+        "year": 2024,
+        "applicants": 661,
+        "passers": 393,
+        "passRate": 59.5
+      },
+      {
+        "year": 2025,
+        "applicants": 706,
+        "passers": 439,
+        "passRate": 62.2
+      }
+    ],
     "practical": [
       {
         "year": 2021,
