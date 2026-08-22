@@ -3,7 +3,7 @@
   "name": "전산응용토목제도기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-08-15",
+  "updated": "2026-08-22",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2445,
+        "passers": 1495,
+        "passRate": 61.1
+      },
+      {
+        "year": 2022,
+        "applicants": 2113,
+        "passers": 1326,
+        "passRate": 62.8
+      },
+      {
+        "year": 2023,
+        "applicants": 2606,
+        "passers": 1519,
+        "passRate": 58.3
+      },
+      {
+        "year": 2024,
+        "applicants": 2310,
+        "passers": 1395,
+        "passRate": 60.4
+      },
+      {
+        "year": 2025,
+        "applicants": 2463,
+        "passers": 1417,
+        "passRate": 57.5
+      }
+    ],
     "practical": [
       {
         "year": 2021,

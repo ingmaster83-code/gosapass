@@ -3,7 +3,7 @@
   "name": "표면실장장비기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-08-15",
+  "updated": "2026-08-22",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1131,
-        "passers": 455,
-        "passRate": 40.2
-      },
-      {
-        "year": 2022,
-        "applicants": 894,
-        "passers": 396,
-        "passRate": 44.3
-      },
-      {
-        "year": 2023,
-        "applicants": 884,
-        "passers": 311,
-        "passRate": 35.2
-      },
-      {
-        "year": 2024,
-        "applicants": 917,
-        "passers": 252,
-        "passRate": 27.5
-      },
-      {
-        "year": 2025,
-        "applicants": 976,
-        "passers": 321,
-        "passRate": 32.9
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

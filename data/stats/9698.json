@@ -3,7 +3,7 @@
   "name": "경매사(축산)",
   "series": "경매사",
   "field": "",
-  "updated": "2026-08-15",
+  "updated": "2026-08-22",
   "schedule": [
     {
       "round": "제24회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "50000",
-    "practical": "35000",
-    "raw": "1차 : 50000, 2차 : 35000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

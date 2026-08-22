@@ -3,7 +3,7 @@
   "name": "전자출판기능사",
   "series": "기능사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-08-15",
+  "updated": "2026-08-22",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -26,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 1120,
-        "passers": 976,
-        "passRate": 87.1
-      },
-      {
-        "year": 2022,
-        "applicants": 1116,
-        "passers": 955,
-        "passRate": 85.6
-      },
-      {
-        "year": 2023,
-        "applicants": 1065,
-        "passers": 956,
-        "passRate": 89.8
-      },
-      {
-        "year": 2024,
-        "applicants": 1031,
-        "passers": 890,
-        "passRate": 86.3
-      },
-      {
-        "year": 2025,
-        "applicants": 1091,
-        "passers": 972,
-        "passRate": 89.1
-      }
-    ]
+    "practical": []
   }
 }

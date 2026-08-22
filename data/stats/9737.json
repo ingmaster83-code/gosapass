@@ -3,12 +3,27 @@
   "name": "변리사",
   "series": "변리사",
   "field": "",
-  "updated": "2026-08-15",
-  "schedule": [],
+  "updated": "2026-08-22",
+  "schedule": [
+    {
+      "round": "제63회",
+      "written_reg_start": "2026-01-12",
+      "written_reg_end": "2026-01-16",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-25",
+      "prac_reg_start": "2026-04-20",
+      "prac_reg_end": "2026-04-24",
+      "prac_exam_start": "2026-07-31",
+      "prac_exam_end": "2026-08-01",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "50000",
-    "practical": "50000",
-    "raw": "1차 : 50000, 2차 : 50000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {

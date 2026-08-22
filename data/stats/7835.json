@@ -3,7 +3,7 @@
   "name": "컨테이너크레인운전기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-08-15",
+  "updated": "2026-08-22",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 510,
+        "passers": 311,
+        "passRate": 61.0
+      },
+      {
+        "year": 2022,
+        "applicants": 480,
+        "passers": 332,
+        "passRate": 69.2
+      },
+      {
+        "year": 2023,
+        "applicants": 583,
+        "passers": 370,
+        "passRate": 63.5
+      },
+      {
+        "year": 2024,
+        "applicants": 582,
+        "passers": 352,
+        "passRate": 60.5
+      },
+      {
+        "year": 2025,
+        "applicants": 554,
+        "passers": 367,
+        "passRate": 66.2
+      }
+    ],
     "practical": [
       {
         "year": 2021,

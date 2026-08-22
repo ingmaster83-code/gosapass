@@ -3,7 +3,7 @@
   "name": "지게차운전기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-08-15",
+  "updated": "2026-08-22",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -26,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 109940,
-        "passers": 54392,
-        "passRate": 49.5
-      },
-      {
-        "year": 2022,
-        "applicants": 112030,
-        "passers": 54158,
-        "passRate": 48.3
-      },
-      {
-        "year": 2023,
-        "applicants": 123766,
-        "passers": 58551,
-        "passRate": 47.3
-      },
-      {
-        "year": 2024,
-        "applicants": 128023,
-        "passers": 59924,
-        "passRate": 46.8
-      },
-      {
-        "year": 2025,
-        "applicants": 126757,
-        "passers": 60745,
-        "passRate": 47.9
-      }
-    ]
+    "practical": []
   }
 }

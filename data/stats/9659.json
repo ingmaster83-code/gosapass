@@ -3,7 +3,7 @@
   "name": "박물관및미술관준학예사",
   "series": "박물관 및 미술관 준학예사",
   "field": "",
-  "updated": "2026-08-15",
+  "updated": "2026-08-22",
   "schedule": [
     {
       "round": "제27회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "30000",
+    "written": "",
     "practical": "",
-    "raw": "1차 : 30000,"
+    "raw": ""
   },
   "info": [
     {

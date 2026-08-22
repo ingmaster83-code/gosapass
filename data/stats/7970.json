@@ -3,7 +3,7 @@
   "name": "화약취급기능사",
   "series": "기능사",
   "field": "광업자원",
-  "updated": "2026-08-15",
+  "updated": "2026-08-22",
   "schedule": [
     {
       "round": "제4회",
@@ -40,7 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 197,
+        "passers": 100,
+        "passRate": 50.8
+      },
+      {
+        "year": 2022,
+        "applicants": 158,
+        "passers": 70,
+        "passRate": 44.3
+      },
+      {
+        "year": 2023,
+        "applicants": 341,
+        "passers": 195,
+        "passRate": 57.2
+      },
+      {
+        "year": 2024,
+        "applicants": 272,
+        "passers": 130,
+        "passRate": 47.8
+      },
+      {
+        "year": 2025,
+        "applicants": 230,
+        "passers": 115,
+        "passRate": 50.0
+      }
+    ],
     "practical": [
       {
         "year": 2021,
