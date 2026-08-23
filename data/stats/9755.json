@@ -3,7 +3,7 @@
   "name": "3급 청소년상담사",
   "series": "청소년상담사",
   "field": "",
-  "updated": "2026-08-16",
+  "updated": "2026-08-23",
   "schedule": [
     {
       "round": "제25회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "26000",
-    "practical": "16000",
-    "raw": "1차 : 26000, 2차 : 16000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
