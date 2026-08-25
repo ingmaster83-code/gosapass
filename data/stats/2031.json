@@ -3,7 +3,7 @@
   "name": "기계설계산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-08-18",
+  "updated": "2026-08-25",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -26,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 2361,
-        "passers": 1142,
-        "passRate": 48.4
-      },
-      {
-        "year": 2022,
-        "applicants": 1449,
-        "passers": 861,
-        "passRate": 59.4
-      },
-      {
-        "year": 2023,
-        "applicants": 1154,
-        "passers": 670,
-        "passRate": 58.1
-      },
-      {
-        "year": 2024,
-        "applicants": 1006,
-        "passers": 547,
-        "passRate": 54.4
-      },
-      {
-        "year": 2025,
-        "applicants": 972,
-        "passers": 528,
-        "passRate": 54.3
-      }
-    ]
+    "practical": []
   }
 }

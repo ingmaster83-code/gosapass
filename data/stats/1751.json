@@ -3,7 +3,7 @@
   "name": "교통기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-08-18",
+  "updated": "2026-08-25",
   "schedule": [
     {
       "round": "제1회",
@@ -49,9 +49,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "22600",
+    "raw": "1차 : 19400, 2차 : 22600"
   },
   "info": [
     {
@@ -68,38 +68,38 @@
     }
   ],
   "stats": {
-    "written": [
+    "written": [],
+    "practical": [
       {
         "year": 2021,
-        "applicants": 1055,
-        "passers": 592,
-        "passRate": 56.1
+        "applicants": 875,
+        "passers": 397,
+        "passRate": 45.4
       },
       {
         "year": 2022,
-        "applicants": 922,
-        "passers": 522,
-        "passRate": 56.6
+        "applicants": 823,
+        "passers": 335,
+        "passRate": 40.7
       },
       {
         "year": 2023,
-        "applicants": 1151,
-        "passers": 660,
-        "passRate": 57.3
+        "applicants": 848,
+        "passers": 562,
+        "passRate": 66.3
       },
       {
         "year": 2024,
-        "applicants": 1008,
-        "passers": 536,
-        "passRate": 53.2
+        "applicants": 759,
+        "passers": 313,
+        "passRate": 41.2
       },
       {
         "year": 2025,
-        "applicants": 1171,
-        "passers": 658,
-        "passRate": 56.2
+        "applicants": 1033,
+        "passers": 494,
+        "passRate": 47.8
       }
-    ],
-    "practical": []
+    ]
   }
 }

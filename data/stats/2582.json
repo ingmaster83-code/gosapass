@@ -3,7 +3,7 @@
   "name": "농림토양평가관리산업기사",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-08-18",
+  "updated": "2026-08-25",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -44,6 +44,37 @@
         "passRate": 38.5
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 2,
+        "passers": 1,
+        "passRate": 50.0
+      },
+      {
+        "year": 2023,
+        "applicants": 2,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ]
   }
 }

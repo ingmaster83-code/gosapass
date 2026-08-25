@@ -3,7 +3,7 @@
   "name": "금속재료산업기사",
   "series": "기사",
   "field": "재료",
-  "updated": "2026-08-18",
+  "updated": "2026-08-25",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -26,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 789,
-        "passers": 245,
-        "passRate": 31.1
-      },
-      {
-        "year": 2022,
-        "applicants": 586,
-        "passers": 242,
-        "passRate": 41.3
-      },
-      {
-        "year": 2023,
-        "applicants": 436,
-        "passers": 242,
-        "passRate": 55.5
-      },
-      {
-        "year": 2024,
-        "applicants": 416,
-        "passers": 217,
-        "passRate": 52.2
-      },
-      {
-        "year": 2025,
-        "applicants": 473,
-        "passers": 244,
-        "passRate": 51.6
-      }
-    ]
+    "practical": []
   }
 }

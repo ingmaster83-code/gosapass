@@ -89,14 +89,14 @@
 <!-- ===== D-Day Banner ===== -->
 
 <div id="dday-banner"
-     class="dday-banner color-warning"
+     class="dday-banner color-urgent"
      data-start="2026-08-28"
      data-end="2026-08-28"
      data-event-label="제139회 최종 합격발표"
      data-next-label=""
      data-next-date="">
   <div class="banner-label">제139회 최종 합격발표</div>
-  <div class="banner-dday">D-4</div>
+  <div class="banner-dday">D-3</div>
   <div class="banner-desc">2026-08-28</div>
   <div class="banner-next"></div>
 </div>
@@ -259,6 +259,23 @@
 
       <!-- 난이도 -->
 
+      <div class="content-section">
+        <h2>난이도</h2>
+        <div class="difficulty-box">
+          <div class="stars">
+            <span>★</span>
+            <span>★</span>
+            <span>★</span>
+            <span class="empty">☆</span>
+            <span class="empty">☆</span>
+          </div>
+          <div class="difficulty-info">
+            <div class="difficulty-level">어려움</div>
+            <div class="difficulty-detail">최근 3개년 평균 실기 합격률: 60.0% · 필기 합격률: 12.4%</div>
+          </div>
+        </div>
+      </div>
+
 
       <!-- 관련 자격증 -->
 
@@ -270,12 +287,10 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:#D97706;">D-4</span>
+              <span style="font-size:0.75rem;font-weight:700;color:#DC2626;">D-3</span>
 
             </div>
             <div class="related-name">건축구조기술사</div>
-
-            <div class="related-passrate">실기 합격률 <strong>51.2%</strong></div>
 
           </a>
 
@@ -283,7 +298,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:#D97706;">D-4</span>
+              <span style="font-size:0.75rem;font-weight:700;color:#DC2626;">D-3</span>
 
             </div>
             <div class="related-name">건축기계설비기술사</div>
@@ -296,7 +311,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:#D97706;">D-4</span>
+              <span style="font-size:0.75rem;font-weight:700;color:#DC2626;">D-3</span>
 
             </div>
             <div class="related-name">건축시공기술사</div>
@@ -374,6 +389,11 @@
         </div>
 
 
+        <div class="info-row">
+          <span class="info-label">실기 합격률 추이</span>
+          <span class="info-value" style="font-size:0.8125rem;color:#DC2626;">↓ 20.0%p 하락</span>
+        </div>
+
 
         <a href="https://wooagosa.wooahouse.com/" target="_blank" rel="noopener"
            style="display:block;margin-top:14px;background:linear-gradient(135deg,#6366F1 0%,#8B5CF6 100%);color:white;text-align:center;padding:11px 16px;border-radius:var(--radius);font-size:0.875rem;font-weight:700;letter-spacing:0.2px;box-shadow:0 2px 8px rgba(99,102,241,0.35);">
@@ -442,7 +462,7 @@
 
 <!-- 차트 데이터 -->
 <script id="stats-data" type="application/json">
-[{"year": 2021, "writtenApplicants": 29, "writtenPassRate": 27.6, "practicalApplicants": 0, "practicalPassRate": 0}, {"year": 2022, "writtenApplicants": 27, "writtenPassRate": 33.3, "practicalApplicants": 0, "practicalPassRate": 0}, {"year": 2023, "writtenApplicants": 41, "writtenPassRate": 7.3, "practicalApplicants": 0, "practicalPassRate": 0}, {"year": 2024, "writtenApplicants": 42, "writtenPassRate": 16.7, "practicalApplicants": 0, "practicalPassRate": 0}, {"year": 2025, "writtenApplicants": 75, "writtenPassRate": 13.3, "practicalApplicants": 0, "practicalPassRate": 0}]
+[{"year": 2021, "writtenApplicants": 29, "writtenPassRate": 27.6, "practicalApplicants": 10, "practicalPassRate": 70.0}, {"year": 2022, "writtenApplicants": 27, "writtenPassRate": 33.3, "practicalApplicants": 11, "practicalPassRate": 36.4}, {"year": 2023, "writtenApplicants": 41, "writtenPassRate": 7.3, "practicalApplicants": 10, "practicalPassRate": 70.0}, {"year": 2024, "writtenApplicants": 42, "writtenPassRate": 16.7, "practicalApplicants": 10, "practicalPassRate": 60.0}, {"year": 2025, "writtenApplicants": 75, "writtenPassRate": 13.3, "practicalApplicants": 12, "practicalPassRate": 50.0}]
 </script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script src="/js/detail.js?v=2"></script>

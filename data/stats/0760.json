@@ -3,7 +3,7 @@
   "name": "공장관리기술사",
   "series": "기술사",
   "field": "경영.회계.사무",
-  "updated": "2026-08-18",
+  "updated": "2026-08-25",
   "schedule": [],
   "fee": {
     "written": "67800",
@@ -57,6 +57,37 @@
         "passRate": 34.8
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 12,
+        "passers": 5,
+        "passRate": 41.7
+      },
+      {
+        "year": 2022,
+        "applicants": 13,
+        "passers": 4,
+        "passRate": 30.8
+      },
+      {
+        "year": 2023,
+        "applicants": 43,
+        "passers": 23,
+        "passRate": 53.5
+      },
+      {
+        "year": 2024,
+        "applicants": 34,
+        "passers": 14,
+        "passRate": 41.2
+      },
+      {
+        "year": 2025,
+        "applicants": 43,
+        "passers": 18,
+        "passRate": 41.9
+      }
+    ]
   }
 }

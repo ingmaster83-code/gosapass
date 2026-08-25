@@ -3,12 +3,12 @@
   "name": "농림토양평가관리기사",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-08-18",
+  "updated": "2026-08-25",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "18000",
+    "practical": "74100",
+    "raw": "1차 : 18000, 2차 : 74100"
   },
   "info": [],
   "stats": {

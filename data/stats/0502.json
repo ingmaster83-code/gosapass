@@ -3,7 +3,7 @@
   "name": "건축전기설비기술사",
   "series": "기술사",
   "field": "전기.전자",
-  "updated": "2026-08-18",
+  "updated": "2026-08-25",
   "schedule": [
     {
       "round": "제138회",
@@ -68,7 +68,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1326,
+        "passers": 29,
+        "passRate": 2.2
+      },
+      {
+        "year": 2022,
+        "applicants": 1372,
+        "passers": 28,
+        "passRate": 2.0
+      },
+      {
+        "year": 2023,
+        "applicants": 1573,
+        "passers": 32,
+        "passRate": 2.0
+      },
+      {
+        "year": 2024,
+        "applicants": 1782,
+        "passers": 29,
+        "passRate": 1.6
+      },
+      {
+        "year": 2025,
+        "applicants": 1798,
+        "passers": 40,
+        "passRate": 2.2
+      }
+    ],
     "practical": [
       {
         "year": 2021,

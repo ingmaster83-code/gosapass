@@ -3,8 +3,37 @@
   "name": "제과기능장",
   "series": "기능장",
   "field": "식품.가공",
-  "updated": "2026-08-18",
-  "schedule": [],
+  "updated": "2026-08-25",
+  "schedule": [
+    {
+      "round": "제79회",
+      "written_reg_start": "2026-01-06",
+      "written_reg_end": "2026-01-09",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-01-30",
+      "prac_reg_start": "2026-02-02",
+      "prac_reg_end": "2026-02-05",
+      "prac_exam_start": "2026-03-14",
+      "prac_exam_end": "2026-04-01",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제80회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "34400",
     "practical": "78200",
@@ -25,7 +54,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 394,
+        "passers": 152,
+        "passRate": 38.6
+      },
+      {
+        "year": 2022,
+        "applicants": 378,
+        "passers": 158,
+        "passRate": 41.8
+      },
+      {
+        "year": 2023,
+        "applicants": 421,
+        "passers": 175,
+        "passRate": 41.6
+      },
+      {
+        "year": 2024,
+        "applicants": 479,
+        "passers": 216,
+        "passRate": 45.1
+      },
+      {
+        "year": 2025,
+        "applicants": 508,
+        "passers": 221,
+        "passRate": 43.5
+      }
+    ],
     "practical": [
       {
         "year": 2021,

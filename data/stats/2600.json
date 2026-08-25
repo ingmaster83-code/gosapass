@@ -3,7 +3,7 @@
   "name": "건설재료시험산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-08-18",
+  "updated": "2026-08-25",
   "schedule": [
     {
       "round": "제1회",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "36000",
-    "raw": "1차 : 19400, 2차 : 36000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -55,37 +55,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 119,
-        "passers": 87,
-        "passRate": 73.1
-      },
-      {
-        "year": 2022,
-        "applicants": 144,
-        "passers": 100,
-        "passRate": 69.4
-      },
-      {
-        "year": 2023,
-        "applicants": 125,
-        "passers": 93,
-        "passRate": 74.4
-      },
-      {
-        "year": 2024,
-        "applicants": 131,
-        "passers": 50,
-        "passRate": 38.2
-      },
-      {
-        "year": 2025,
-        "applicants": 153,
-        "passers": 91,
-        "passRate": 59.5
-      }
-    ]
+    "practical": []
   }
 }

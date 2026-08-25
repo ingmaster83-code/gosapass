@@ -3,27 +3,12 @@
   "name": "항공기관기술사",
   "series": "기술사",
   "field": "기계",
-  "updated": "2026-08-18",
-  "schedule": [
-    {
-      "round": "제140회",
-      "written_reg_start": "2026-07-13",
-      "written_reg_end": "2026-07-16",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-10-07",
-      "prac_reg_start": "2026-08-31",
-      "prac_reg_end": "2026-10-15",
-      "prac_exam_start": "2026-11-14",
-      "prac_exam_end": "2026-11-25",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-08-25",
+  "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
   },
   "info": [
     {
