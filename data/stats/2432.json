@@ -3,7 +3,7 @@
   "name": "제품디자인산업기사",
   "series": "기사",
   "field": "문화.예술.디자인.방송",
-  "updated": "2026-08-19",
+  "updated": "2026-08-26",
   "schedule": [
     {
       "round": "제1회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "31800",
-    "raw": "1차 : 19400, 2차 : 31800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

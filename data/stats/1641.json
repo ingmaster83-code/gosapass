@@ -3,7 +3,7 @@
   "name": "버섯산업기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-08-19",
+  "updated": "2026-08-26",
   "schedule": [
     {
       "round": "제1회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "40000",
+    "raw": "1차 : 19400, 2차 : 40000"
   },
   "info": [
     {
@@ -40,38 +40,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 161,
-        "passers": 94,
-        "passRate": 58.4
-      },
-      {
-        "year": 2022,
-        "applicants": 95,
-        "passers": 57,
-        "passRate": 60.0
-      },
-      {
-        "year": 2023,
-        "applicants": 161,
-        "passers": 87,
-        "passRate": 54.0
-      },
-      {
-        "year": 2024,
-        "applicants": 129,
-        "passers": 70,
-        "passRate": 54.3
-      },
-      {
-        "year": 2025,
-        "applicants": 119,
-        "passers": 52,
-        "passRate": 43.7
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

@@ -3,27 +3,12 @@
   "name": "어업생산관리기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-08-19",
-  "schedule": [
-    {
-      "round": "제1회",
-      "written_reg_start": "2026-01-12",
-      "written_reg_end": "2026-01-15",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-03-11",
-      "prac_reg_start": "2026-03-23",
-      "prac_reg_end": "2026-03-26",
-      "prac_exam_start": "2026-04-18",
-      "prac_exam_end": "2026-05-06",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-08-26",
+  "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "25000",
+    "raw": "1차 : 19400, 2차 : 25000"
   },
   "info": [
     {
@@ -40,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 33,
-        "passers": 19,
-        "passRate": 57.6
-      },
-      {
-        "year": 2022,
-        "applicants": 31,
-        "passers": 13,
-        "passRate": 41.9
-      },
-      {
-        "year": 2023,
-        "applicants": 48,
-        "passers": 26,
-        "passRate": 54.2
-      },
-      {
-        "year": 2024,
-        "applicants": 30,
-        "passers": 12,
-        "passRate": 40.0
-      },
-      {
-        "year": 2025,
-        "applicants": 43,
-        "passers": 20,
-        "passRate": 46.5
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

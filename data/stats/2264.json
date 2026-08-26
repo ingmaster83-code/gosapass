@@ -3,7 +3,7 @@
   "name": "섬유디자인산업기사",
   "series": "기사",
   "field": "섬유.의복",
-  "updated": "2026-08-19",
+  "updated": "2026-08-26",
   "schedule": [
     {
       "round": "제2회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "57200",
-    "raw": "1차 : 19400, 2차 : 57200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -40,38 +40,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 13,
-        "passers": 9,
-        "passRate": 69.2
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 15,
-        "passers": 8,
-        "passRate": 53.3
-      },
-      {
-        "year": 2024,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2025,
-        "applicants": 15,
-        "passers": 4,
-        "passRate": 26.7
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

@@ -3,7 +3,7 @@
   "name": "철도토목기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-08-19",
+  "updated": "2026-08-26",
   "schedule": [
     {
       "round": "제2회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -40,7 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 179,
+        "passers": 86,
+        "passRate": 48.0
+      },
+      {
+        "year": 2022,
+        "applicants": 189,
+        "passers": 100,
+        "passRate": 52.9
+      },
+      {
+        "year": 2023,
+        "applicants": 232,
+        "passers": 111,
+        "passRate": 47.8
+      },
+      {
+        "year": 2024,
+        "applicants": 198,
+        "passers": 72,
+        "passRate": 36.4
+      },
+      {
+        "year": 2025,
+        "applicants": 267,
+        "passers": 120,
+        "passRate": 44.9
+      }
+    ],
     "practical": [
       {
         "year": 2021,

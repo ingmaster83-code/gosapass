@@ -3,7 +3,7 @@
   "name": "응용지질기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-08-19",
+  "updated": "2026-08-26",
   "schedule": [
     {
       "round": "제1회",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "45000",
+    "raw": "1차 : 19400, 2차 : 45000"
   },
   "info": [
     {
@@ -54,7 +54,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 396,
+        "passers": 175,
+        "passRate": 44.2
+      },
+      {
+        "year": 2022,
+        "applicants": 340,
+        "passers": 158,
+        "passRate": 46.5
+      },
+      {
+        "year": 2023,
+        "applicants": 402,
+        "passers": 200,
+        "passRate": 49.8
+      },
+      {
+        "year": 2024,
+        "applicants": 410,
+        "passers": 199,
+        "passRate": 48.5
+      },
+      {
+        "year": 2025,
+        "applicants": 489,
+        "passers": 219,
+        "passRate": 44.8
+      }
+    ],
     "practical": [
       {
         "year": 2021,

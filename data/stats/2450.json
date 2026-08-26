@@ -3,7 +3,7 @@
   "name": "식품산업기사",
   "series": "기사",
   "field": "식품.가공",
-  "updated": "2026-08-19",
+  "updated": "2026-08-26",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -26,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 1029,
-        "passers": 849,
-        "passRate": 82.5
-      },
-      {
-        "year": 2022,
-        "applicants": 976,
-        "passers": 803,
-        "passRate": 82.3
-      },
-      {
-        "year": 2023,
-        "applicants": 800,
-        "passers": 644,
-        "passRate": 80.5
-      },
-      {
-        "year": 2024,
-        "applicants": 685,
-        "passers": 539,
-        "passRate": 78.7
-      },
-      {
-        "year": 2025,
-        "applicants": 687,
-        "passers": 522,
-        "passRate": 76.0
-      }
-    ]
+    "practical": []
   }
 }

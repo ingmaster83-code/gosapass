@@ -3,7 +3,7 @@
   "name": "자동차정비산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-08-19",
+  "updated": "2026-08-26",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 8806,
+        "passers": 2116,
+        "passRate": 24.0
+      },
+      {
+        "year": 2022,
+        "applicants": 7560,
+        "passers": 1097,
+        "passRate": 14.5
+      },
+      {
+        "year": 2023,
+        "applicants": 6055,
+        "passers": 1714,
+        "passRate": 28.3
+      },
+      {
+        "year": 2024,
+        "applicants": 5753,
+        "passers": 1725,
+        "passRate": 30.0
+      },
+      {
+        "year": 2025,
+        "applicants": 5974,
+        "passers": 2124,
+        "passRate": 35.6
+      }
+    ],
     "practical": [
       {
         "year": 2021,

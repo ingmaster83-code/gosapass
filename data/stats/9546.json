@@ -3,7 +3,7 @@
   "name": "스포츠경영관리사",
   "series": "기사",
   "field": "이용.숙박.여행.오락.스포츠",
-  "updated": "2026-08-19",
+  "updated": "2026-08-26",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -57,6 +57,37 @@
         "passRate": 55.4
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1391,
+        "passers": 721,
+        "passRate": 51.8
+      },
+      {
+        "year": 2022,
+        "applicants": 1494,
+        "passers": 567,
+        "passRate": 38.0
+      },
+      {
+        "year": 2023,
+        "applicants": 1520,
+        "passers": 509,
+        "passRate": 33.5
+      },
+      {
+        "year": 2024,
+        "applicants": 1312,
+        "passers": 408,
+        "passRate": 31.1
+      },
+      {
+        "year": 2025,
+        "applicants": 1457,
+        "passers": 629,
+        "passRate": 43.2
+      }
+    ]
   }
 }

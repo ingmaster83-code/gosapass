@@ -3,7 +3,7 @@
   "name": "직업상담사2급",
   "series": "기사",
   "field": "사회복지.종교",
-  "updated": "2026-08-19",
+  "updated": "2026-08-26",
   "schedule": [
     {
       "round": "제1회",
@@ -68,38 +68,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 24155,
-        "passers": 13364,
-        "passRate": 55.3
-      },
-      {
-        "year": 2022,
-        "applicants": 18059,
-        "passers": 8778,
-        "passRate": 48.6
-      },
-      {
-        "year": 2023,
-        "applicants": 16060,
-        "passers": 9440,
-        "passRate": 58.8
-      },
-      {
-        "year": 2024,
-        "applicants": 15513,
-        "passers": 9099,
-        "passRate": 58.7
-      },
-      {
-        "year": 2025,
-        "applicants": 15497,
-        "passers": 8819,
-        "passRate": 56.9
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

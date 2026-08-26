@@ -3,7 +3,7 @@
   "name": "생물분류기사(식물)",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-08-19",
+  "updated": "2026-08-26",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "21000",
-    "raw": "1차 : 19400, 2차 : 21000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

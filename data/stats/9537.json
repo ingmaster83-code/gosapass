@@ -3,12 +3,27 @@
   "name": "소비자전문상담사1급",
   "series": "기사",
   "field": "경영.회계.사무",
-  "updated": "2026-08-19",
-  "schedule": [],
+  "updated": "2026-08-26",
+  "schedule": [
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "19400",
-    "practical": "20800",
-    "raw": "1차 : 19400, 2차 : 20800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -25,7 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 37,
+        "passers": 31,
+        "passRate": 83.8
+      },
+      {
+        "year": 2022,
+        "applicants": 28,
+        "passers": 23,
+        "passRate": 82.1
+      },
+      {
+        "year": 2023,
+        "applicants": 38,
+        "passers": 21,
+        "passRate": 55.3
+      },
+      {
+        "year": 2024,
+        "applicants": 34,
+        "passers": 19,
+        "passRate": 55.9
+      },
+      {
+        "year": 2025,
+        "applicants": 43,
+        "passers": 28,
+        "passRate": 65.1
+      }
+    ],
     "practical": [
       {
         "year": 2021,

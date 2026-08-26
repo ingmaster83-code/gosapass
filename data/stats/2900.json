@@ -3,7 +3,7 @@
   "name": "소방설비산업기사(기계분야)",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-08-19",
+  "updated": "2026-08-26",
   "schedule": [
     {
       "round": "제1회",
@@ -68,38 +68,38 @@
     }
   ],
   "stats": {
-    "written": [],
-    "practical": [
+    "written": [
       {
         "year": 2021,
-        "applicants": 2219,
-        "passers": 702,
-        "passRate": 31.6
+        "applicants": 3724,
+        "passers": 1455,
+        "passRate": 39.1
       },
       {
         "year": 2022,
-        "applicants": 1983,
-        "passers": 568,
-        "passRate": 28.6
+        "applicants": 3587,
+        "passers": 1365,
+        "passRate": 38.1
       },
       {
         "year": 2023,
-        "applicants": 2241,
-        "passers": 728,
-        "passRate": 32.5
+        "applicants": 4240,
+        "passers": 1717,
+        "passRate": 40.5
       },
       {
         "year": 2024,
-        "applicants": 1960,
-        "passers": 833,
-        "passRate": 42.5
+        "applicants": 3688,
+        "passers": 1427,
+        "passRate": 38.7
       },
       {
         "year": 2025,
-        "applicants": 2118,
-        "passers": 528,
-        "passRate": 24.9
+        "applicants": 3903,
+        "passers": 1606,
+        "passRate": 41.1
       }
-    ]
+    ],
+    "practical": []
   }
 }

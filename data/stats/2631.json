@@ -3,7 +3,7 @@
   "name": "어로산업기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-08-19",
+  "updated": "2026-08-26",
   "schedule": [
     {
       "round": "제2회",
@@ -72,6 +72,37 @@
         "passRate": 66.7
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 113,
+        "passers": 40,
+        "passRate": 35.4
+      },
+      {
+        "year": 2022,
+        "applicants": 99,
+        "passers": 20,
+        "passRate": 20.2
+      },
+      {
+        "year": 2023,
+        "applicants": 80,
+        "passers": 37,
+        "passRate": 46.2
+      },
+      {
+        "year": 2024,
+        "applicants": 61,
+        "passers": 27,
+        "passRate": 44.3
+      },
+      {
+        "year": 2025,
+        "applicants": 60,
+        "passers": 22,
+        "passRate": 36.7
+      }
+    ]
   }
 }

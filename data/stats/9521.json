@@ -3,7 +3,7 @@
   "name": "사회조사분석사2급",
   "series": "기사",
   "field": "경영.회계.사무",
-  "updated": "2026-08-19",
+  "updated": "2026-08-26",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -26,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 9334,
-        "passers": 6222,
-        "passRate": 66.7
-      },
-      {
-        "year": 2022,
-        "applicants": 7867,
-        "passers": 4911,
-        "passRate": 62.4
-      },
-      {
-        "year": 2023,
-        "applicants": 6596,
-        "passers": 4263,
-        "passRate": 64.6
-      },
-      {
-        "year": 2024,
-        "applicants": 6494,
-        "passers": 4411,
-        "passRate": 67.9
-      },
-      {
-        "year": 2025,
-        "applicants": 6227,
-        "passers": 5156,
-        "passRate": 82.8
-      }
-    ]
+    "practical": []
   }
 }

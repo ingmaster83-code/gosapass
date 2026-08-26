@@ -3,7 +3,7 @@
   "name": "바이오화학제품제조산업기사",
   "series": "기사",
   "field": "화학",
-  "updated": "2026-08-19",
+  "updated": "2026-08-26",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "140000",
+    "raw": "1차 : 19400, 2차 : 140000"
   },
   "info": [
     {
@@ -40,38 +40,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 451,
-        "passers": 300,
-        "passRate": 66.5
-      },
-      {
-        "year": 2022,
-        "applicants": 366,
-        "passers": 230,
-        "passRate": 62.8
-      },
-      {
-        "year": 2023,
-        "applicants": 351,
-        "passers": 238,
-        "passRate": 67.8
-      },
-      {
-        "year": 2024,
-        "applicants": 411,
-        "passers": 241,
-        "passRate": 58.6
-      },
-      {
-        "year": 2025,
-        "applicants": 325,
-        "passers": 192,
-        "passRate": 59.1
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

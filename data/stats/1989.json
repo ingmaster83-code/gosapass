@@ -3,7 +3,7 @@
   "name": "생물분류기사(동물)",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-08-19",
+  "updated": "2026-08-26",
   "schedule": [
     {
       "round": "제3회",
@@ -40,7 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 312,
+        "passers": 163,
+        "passRate": 52.2
+      },
+      {
+        "year": 2022,
+        "applicants": 358,
+        "passers": 216,
+        "passRate": 60.3
+      },
+      {
+        "year": 2023,
+        "applicants": 414,
+        "passers": 239,
+        "passRate": 57.7
+      },
+      {
+        "year": 2024,
+        "applicants": 366,
+        "passers": 234,
+        "passRate": 63.9
+      },
+      {
+        "year": 2025,
+        "applicants": 511,
+        "passers": 320,
+        "passRate": 62.6
+      }
+    ],
     "practical": [
       {
         "year": 2021,

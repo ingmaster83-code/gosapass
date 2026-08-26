@@ -3,7 +3,7 @@
   "name": "식물보호산업기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-08-19",
+  "updated": "2026-08-26",
   "schedule": [
     {
       "round": "제1회",
@@ -49,9 +49,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "20800",
-    "raw": "1차 : 19400, 2차 : 20800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -68,38 +68,38 @@
     }
   ],
   "stats": {
-    "written": [],
-    "practical": [
+    "written": [
       {
         "year": 2021,
-        "applicants": 1742,
-        "passers": 1022,
-        "passRate": 58.7
+        "applicants": 2690,
+        "passers": 1559,
+        "passRate": 58.0
       },
       {
         "year": 2022,
-        "applicants": 2122,
-        "passers": 1368,
-        "passRate": 64.5
+        "applicants": 2831,
+        "passers": 1640,
+        "passRate": 57.9
       },
       {
         "year": 2023,
-        "applicants": 2291,
-        "passers": 912,
-        "passRate": 39.8
+        "applicants": 3208,
+        "passers": 1859,
+        "passRate": 57.9
       },
       {
         "year": 2024,
-        "applicants": 2071,
-        "passers": 1030,
-        "passRate": 49.7
+        "applicants": 3114,
+        "passers": 1233,
+        "passRate": 39.6
       },
       {
         "year": 2025,
-        "applicants": 2294,
-        "passers": 1166,
-        "passRate": 50.8
+        "applicants": 3067,
+        "passers": 1664,
+        "passRate": 54.3
       }
-    ]
+    ],
+    "practical": []
   }
 }
