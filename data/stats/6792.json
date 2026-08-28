@@ -3,7 +3,7 @@
   "name": "석공예기능사",
   "series": "기능사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-08-21",
+  "updated": "2026-08-28",
   "schedule": [
     {
       "round": "제2회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "14500",
-    "practical": "57000",
-    "raw": "1차 : 14500, 2차 : 57000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -41,6 +41,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 2,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 2,
+        "passers": 1,
+        "passRate": 50.0
+      },
+      {
+        "year": 2023,
+        "applicants": 1,
+        "passers": 1,
+        "passRate": 100.0
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 2,
+        "passers": 2,
+        "passRate": 100.0
+      }
+    ]
   }
 }

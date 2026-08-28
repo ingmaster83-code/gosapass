@@ -3,7 +3,7 @@
   "name": "압연기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-08-21",
+  "updated": "2026-08-28",
   "schedule": [
     {
       "round": "제1회",
@@ -60,11 +60,11 @@
     },
     {
       "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}압연기능사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+      "content": "압연기능사 출제기준BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}압연기능사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
     },
     {
       "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 시험과목- 필기 : 1.열간압연 2.냉간압연 3.금속제도 4.금속재료- 실기 :압연작업&#9314; 검정방법- 필기 :객관식 4지 택일형 60문항(60분)- 실기 : 작업형(30분 정도)※ [변경사항] 실기시험 검정방법 변경('21.1.1부터)- 현행 : 작업형 (30분 정도)- 변경 : 필답형(1시간 30분)&#9315; 합격기준-100점 만점으로 하여 60점 이상득점자"
+      "content": "압연기능사 취득방법BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 시험과목- 필기 : 1.열간압연 2.냉간압연 3.금속제도 4.금속재료- 실기 :압연작업&#9314; 검정방법- 필기 :객관식 4지 택일형 60문항(60분)- 실기 : 작업형(30분 정도)※ [변경사항] 실기시험 검정방법 변경('21.1.1부터)- 현행 : 작업형 (30분 정도)- 변경 : 필답형(1시간 30분)&#9315; 합격기준-100점 만점으로 하여 60점 이상득점자"
     }
   ],
   "stats": {

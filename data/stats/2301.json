@@ -3,7 +3,7 @@
   "name": "패션디자인산업기사",
   "series": "기사",
   "field": "섬유.의복",
-  "updated": "2026-08-21",
+  "updated": "2026-08-28",
   "schedule": [
     {
       "round": "제2회",
@@ -41,6 +41,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 72,
+        "passers": 49,
+        "passRate": 68.1
+      },
+      {
+        "year": 2022,
+        "applicants": 67,
+        "passers": 40,
+        "passRate": 59.7
+      },
+      {
+        "year": 2023,
+        "applicants": 64,
+        "passers": 36,
+        "passRate": 56.2
+      },
+      {
+        "year": 2024,
+        "applicants": 54,
+        "passers": 34,
+        "passRate": 63.0
+      },
+      {
+        "year": 2025,
+        "applicants": 62,
+        "passers": 21,
+        "passRate": 33.9
+      }
+    ]
   }
 }

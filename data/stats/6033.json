@@ -3,12 +3,12 @@
   "name": "반도체설비보전기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-08-21",
+  "updated": "2026-08-28",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "103700",
-    "raw": "1차 : 14500, 2차 : 103700"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
@@ -44,37 +44,6 @@
         "passRate": 21.8
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 193,
-        "passers": 175,
-        "passRate": 90.7
-      },
-      {
-        "year": 2022,
-        "applicants": 183,
-        "passers": 168,
-        "passRate": 91.8
-      },
-      {
-        "year": 2023,
-        "applicants": 207,
-        "passers": 168,
-        "passRate": 81.2
-      },
-      {
-        "year": 2024,
-        "applicants": 513,
-        "passers": 466,
-        "passRate": 90.8
-      },
-      {
-        "year": 2025,
-        "applicants": 758,
-        "passers": 623,
-        "passRate": 82.2
-      }
-    ]
+    "practical": []
   }
 }

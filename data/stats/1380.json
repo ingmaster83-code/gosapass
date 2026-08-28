@@ -3,12 +3,12 @@
   "name": "측량및지형공간정보기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-08-21",
+  "updated": "2026-08-28",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "36400",
-    "raw": "1차 : 19400, 2차 : 36400"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2186,
+        "passers": 841,
+        "passRate": 38.5
+      },
+      {
+        "year": 2022,
+        "applicants": 2127,
+        "passers": 816,
+        "passRate": 38.4
+      },
+      {
+        "year": 2023,
+        "applicants": 2638,
+        "passers": 953,
+        "passRate": 36.1
+      },
+      {
+        "year": 2024,
+        "applicants": 2404,
+        "passers": 816,
+        "passRate": 33.9
+      },
+      {
+        "year": 2025,
+        "applicants": 2178,
+        "passers": 726,
+        "passRate": 33.3
+      }
+    ],
     "practical": [
       {
         "year": 2021,

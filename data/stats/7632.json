@@ -3,7 +3,7 @@
   "name": "산림기능사",
   "series": "기능사",
   "field": "농림어업",
-  "updated": "2026-08-21",
+  "updated": "2026-08-28",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -26,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 3129,
-        "passers": 2294,
-        "passRate": 73.3
-      },
-      {
-        "year": 2022,
-        "applicants": 2982,
-        "passers": 2325,
-        "passRate": 78.0
-      },
-      {
-        "year": 2023,
-        "applicants": 2995,
-        "passers": 2320,
-        "passRate": 77.5
-      },
-      {
-        "year": 2024,
-        "applicants": 2929,
-        "passers": 2217,
-        "passRate": 75.7
-      },
-      {
-        "year": 2025,
-        "applicants": 3312,
-        "passers": 2580,
-        "passRate": 77.9
-      }
-    ]
+    "practical": []
   }
 }

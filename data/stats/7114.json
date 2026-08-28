@@ -3,7 +3,7 @@
   "name": "신재생에너지발전설비기능사(태양광)",
   "series": "기능사",
   "field": "환경.에너지",
-  "updated": "2026-08-21",
+  "updated": "2026-08-28",
   "schedule": [
     {
       "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
@@ -70,19 +70,50 @@
   "info": [
     {
       "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+      "content": "신재생에너지발전설비기능사(태양광) 출제경향BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
     },
     {
       "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}신재생에너지발전설비기능사(태양광) 출제기준 입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+      "content": "신재생에너지발전설비기능사(태양광) 출제기준BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}신재생에너지발전설비기능사(태양광) 출제기준 입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
     },
     {
       "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 시험과목- 필기 : 태양광발전설비- 실기 : 태양광발전설비 실무&#9314; 검정방법- 필기 : 객관식 4지 택일형(60문항)- 실기 : 필답형&#9315; 합격기준- 필기 : 100점을 만점으로 하여 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상"
+      "content": "신재생에너지발전설비기능사(태양광) 취득방법BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 시험과목- 필기 : 태양광발전구성,시공,운영및보수- 실기 : 태양광발전 설비 실무&#9314; 검정방법- 필기 : 객관식 4지 택일형(60문항)- 실기 : 필답형&#9315; 합격기준- 필기 : 100점을 만점으로 하여 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상"
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2790,
+        "passers": 1634,
+        "passRate": 58.6
+      },
+      {
+        "year": 2022,
+        "applicants": 2252,
+        "passers": 1266,
+        "passRate": 56.2
+      },
+      {
+        "year": 2023,
+        "applicants": 2870,
+        "passers": 1636,
+        "passRate": 57.0
+      },
+      {
+        "year": 2024,
+        "applicants": 2951,
+        "passers": 1466,
+        "passRate": 49.7
+      },
+      {
+        "year": 2025,
+        "applicants": 3316,
+        "passers": 1335,
+        "passRate": 40.3
+      }
+    ],
     "practical": [
       {
         "year": 2021,

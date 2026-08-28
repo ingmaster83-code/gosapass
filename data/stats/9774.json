@@ -3,14 +3,19 @@
   "name": "이륜자동차정비기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-08-21",
+  "updated": "2026-08-28",
   "schedule": [],
   "fee": {
     "written": "14500",
     "practical": "82000",
     "raw": "1차 : 14500, 2차 : 82000"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "취득방법",
+      "content": "이륜자동차정비기능사 취득방법BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}○ 취득방법1. 시행처 : 한국산업인력공단2. 응시자격 : 제한없음3. 검정방법 - 필기 : 객관식 4지 택일형(60분) - 실기 : 작업형(미정, 향후 공지)4. 합격기준 - 필기 : 100점을 만점으로 하여 60점 이상 - 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
     "written": [],
     "practical": []

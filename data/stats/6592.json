@@ -3,7 +3,7 @@
   "name": "유기농업기능사",
   "series": "기능사",
   "field": "농림어업",
-  "updated": "2026-08-21",
+  "updated": "2026-08-28",
   "schedule": [
     {
       "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
@@ -77,26 +77,88 @@
     }
   ],
   "fee": {
-    "written": "14500",
-    "practical": "17200",
-    "raw": "1차 : 14500, 2차 : 17200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
       "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+      "content": "유기농업기능사 출제경향BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
     },
     {
       "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}유기농업기능사 출제기준 입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+      "content": "유기농업기능사 출제기준BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}유기농업기능사 출제기준 입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
     },
     {
       "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 시험과목  - 필기 : 1.작물재배 2.토양관리 3.유기농업일반  - 실기 : 유기농 생산 작업 &#9314; 검정방법  - 필기 : 객관식 60문항(1시간)  - 실기 : 필답형(2시간) &#9315; 합격기준  - 필기 : 100점을 만점으로 하여 60점 이상 - 실기 : 100점을 만점으로 하여 60점 이상[2021년 유기농업기능사 실기시험 변경사항 안내]구분변경 전변경 후유형작업형필답형(20문제 내외)시간1시간2시간"
+      "content": "유기농업기능사 취득방법BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 시험과목  - 필기 : 1.유기작물재배 2.토양관리 3.유기농업일반  - 실기 : 유기농산물 재배 실무&#9314; 검정방법  - 필기 : 객관식 60문항(1시간)  - 실기 : 필답형(2시간) &#9315; 합격기준  - 필기 : 100점을 만점으로 하여 60점 이상 - 실기 : 100점을 만점으로 하여 60점 이상"
     }
   ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 5491,
+        "passers": 3299,
+        "passRate": 60.1
+      },
+      {
+        "year": 2022,
+        "applicants": 4507,
+        "passers": 2514,
+        "passRate": 55.8
+      },
+      {
+        "year": 2023,
+        "applicants": 5617,
+        "passers": 3056,
+        "passRate": 54.4
+      },
+      {
+        "year": 2024,
+        "applicants": 5260,
+        "passers": 2761,
+        "passRate": 52.5
+      },
+      {
+        "year": 2025,
+        "applicants": 4877,
+        "passers": 2554,
+        "passRate": 52.4
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 3338,
+        "passers": 2676,
+        "passRate": 80.2
+      },
+      {
+        "year": 2022,
+        "applicants": 3068,
+        "passers": 1075,
+        "passRate": 35.0
+      },
+      {
+        "year": 2023,
+        "applicants": 3647,
+        "passers": 3094,
+        "passRate": 84.8
+      },
+      {
+        "year": 2024,
+        "applicants": 2919,
+        "passers": 2191,
+        "passRate": 75.1
+      },
+      {
+        "year": 2025,
+        "applicants": 3000,
+        "passers": 1787,
+        "passRate": 59.6
+      }
+    ]
   }
 }

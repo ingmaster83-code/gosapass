@@ -3,7 +3,7 @@
   "name": "컬러리스트산업기사",
   "series": "기사",
   "field": "문화.예술.디자인.방송",
-  "updated": "2026-08-21",
+  "updated": "2026-08-28",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 2660,
-        "passers": 1438,
-        "passRate": 54.1
-      },
-      {
-        "year": 2022,
-        "applicants": 1826,
-        "passers": 977,
-        "passRate": 53.5
-      },
-      {
-        "year": 2023,
-        "applicants": 1712,
-        "passers": 873,
-        "passRate": 51.0
-      },
-      {
-        "year": 2024,
-        "applicants": 1726,
-        "passers": 820,
-        "passRate": 47.5
-      },
-      {
-        "year": 2025,
-        "applicants": 1633,
-        "passers": 789,
-        "passRate": 48.3
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

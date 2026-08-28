@@ -3,7 +3,7 @@
   "name": "사출금형기능사보",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-08-21",
+  "updated": "2026-08-28",
   "schedule": [],
   "fee": {
     "written": "",
@@ -12,7 +12,8 @@
   },
   "info": [],
   "stats": {
-    "written": [
+    "written": [],
+    "practical": [
       {
         "year": 2021,
         "applicants": 0,
@@ -39,11 +40,10 @@
       },
       {
         "year": 2025,
-        "applicants": 0,
+        "applicants": 1,
         "passers": 0,
         "passRate": 0.0
       }
-    ],
-    "practical": []
+    ]
   }
 }

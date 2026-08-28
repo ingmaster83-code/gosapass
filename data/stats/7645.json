@@ -3,23 +3,8 @@
   "name": "목재가공기능사",
   "series": "기능사",
   "field": "농림어업",
-  "updated": "2026-08-21",
-  "schedule": [
-    {
-      "round": "제3회",
-      "written_reg_start": "2026-06-08",
-      "written_reg_end": "2026-06-11",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-07-15",
-      "prac_reg_start": "2026-07-27",
-      "prac_reg_end": "2026-07-30",
-      "prac_exam_start": "2026-08-29",
-      "prac_exam_end": "2026-09-16",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-08-28",
+  "schedule": [],
   "fee": {
     "written": "14500",
     "practical": "79000",
@@ -36,38 +21,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2024,
-        "applicants": 15,
-        "passers": 3,
-        "passRate": 20.0
-      },
-      {
-        "year": 2025,
-        "applicants": 29,
-        "passers": 5,
-        "passRate": 17.2
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,
