@@ -3,7 +3,7 @@
   "name": "사회복지사 1급",
   "series": "사회복지사 1급",
   "field": "",
-  "updated": "2026-08-22",
+  "updated": "2026-08-29",
   "schedule": [
     {
       "round": "제24회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
+    "written": "25000",
     "practical": "",
-    "raw": ""
+    "raw": "1차 : 25000,"
   },
   "info": [],
   "stats": {

@@ -3,78 +3,29 @@
   "name": "항공전기·전자정비기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-08-22",
+  "updated": "2026-08-29",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "53500",
+    "raw": "1차 : 14500, 2차 : 53500"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "항공전기·전자정비기능사 출제경향\r\n\r\n\r\n\r\n\r\n-필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.\r\n-실기시험은 멀티미디어(동영상)시험이 포함된 작업형으로 시행되며 항공기 기본작업, 항공기전기&middot;전자 기본작업, 항공기 전기계통 정비, 항공기 통신계통 정비, 항공기 계기계통 정비등의 항공기 정비 관련 전문지식 및 응용, 실무 능력을 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "항공전기·전자정비기능사 출제기준\r\n\r\n\r\n\r\n\r\n항공전기&middot;전자정비기능사 출제기준입니다.\r\n\r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "항공전기·전자정비기능사 취득방법\r\n\r\n\r\n\r\n\r\n시 행 처 : 한국산업인력공단 \r\n\r\n시험과목 \r\n- 필기 : 항공기 일반, 항공전기&middot;전자 계통 정비, 통신항법 계기 정비\r\n - 실기 : 항공전기&middot;전자 정비 실무\r\n\r\n검정방법 \r\n - 필기 : 객관식 4지 택일형60문항(60분)\r\n - 실기 : 작업형((동영상(30분, 30점)+작업(2시간 정도, 70점))\r\n\r\n 합격기준\r\n - 필기 : 100점을 만점으로 하여60점 이상\r\n - 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2024,
-        "applicants": 575,
-        "passers": 94,
-        "passRate": 16.3
-      },
-      {
-        "year": 2025,
-        "applicants": 942,
-        "passers": 326,
-        "passRate": 34.6
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2024,
-        "applicants": 345,
-        "passers": 306,
-        "passRate": 88.7
-      },
-      {
-        "year": 2025,
-        "applicants": 668,
-        "passers": 633,
-        "passRate": 94.8
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

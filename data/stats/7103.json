@@ -3,37 +3,8 @@
   "name": "플라스틱창호기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-08-22",
-  "schedule": [
-    {
-      "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
-      "written_reg_start": "",
-      "written_reg_end": "",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "",
-      "prac_reg_start": "2026-05-11",
-      "prac_reg_end": "2026-05-14",
-      "prac_exam_start": "2026-06-13",
-      "prac_exam_end": "2026-06-24",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    },
-    {
-      "round": "제2회",
-      "written_reg_start": "2026-03-16",
-      "written_reg_end": "2026-03-20",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-04-22",
-      "prac_reg_start": "2026-04-27",
-      "prac_reg_end": "2026-04-30",
-      "prac_exam_start": "2026-05-30",
-      "prac_exam_end": "2026-06-14",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-08-29",
+  "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
@@ -46,15 +17,46 @@
     },
     {
       "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+      "content": "플라스틱창호기능사 출제기준\r\n\r\n\r\n\r\n\r\n\r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
     },
     {
       "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 시험과목 - 필기 : 1. 건축일반 2. 플라스틱개론 3. 작업안전 - 실기 : 플라스틱창호 제작(시험시간 : 2시간 정도)&#9314;합격기준 - 필기 : 100점 만점 60점 이상 - 실기 : 100점 만점 60점 이상  안전등급(Safety Level) : 4등급▼   위험경고주의관심 &bull; 시험장소 구분 실내, 실외 &bull; 주요시설 및 장비플라스틱창호관련 장비 &bull; 보호구 플라스틱창호관련 보호구 - 반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+      "content": "플라스틱창호기능사 취득방법\r\n\r\n\r\n\r\n\r\n 시 행 처 : 한국산업인력공단\r\n 시험과목\r\n - 필기 : 1. 창호시공도면파악, 2. 창호시공현장안전, 3. 부재가공 및 제작, 4.창호설치\r\n - 실기 : 플라스틱창호 제작(시험시간 : 2시간 정도)\r\n합격기준 - 필기 : 100점 만점 60점 이상 - 실기 : 100점 만점 60점 이상\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n안전등급(Safety Level) : 4등급\r\n\r\n\r\n\r\n\r\n\r\n▼\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n\r\n\r\n위험\r\n\r\n경고\r\n\r\n주의\r\n\r\n관심\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n&bull; 시험장소 구분 \r\n\r\n실내, 실외\r\n\r\n \r\n\r\n\r\n\r\n&bull; 주요시설 및 장비\r\n\r\n플라스틱창호관련 장비\r\n\r\n \r\n\r\n\r\n\r\n&bull; 보호구 \r\n\r\n플라스틱창호관련 보호구\r\n\r\n \r\n\r\n\r\n\r\n- 반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 201,
+        "passers": 109,
+        "passRate": 54.2
+      },
+      {
+        "year": 2022,
+        "applicants": 231,
+        "passers": 130,
+        "passRate": 56.3
+      },
+      {
+        "year": 2023,
+        "applicants": 222,
+        "passers": 137,
+        "passRate": 61.7
+      },
+      {
+        "year": 2024,
+        "applicants": 170,
+        "passers": 111,
+        "passRate": 65.3
+      },
+      {
+        "year": 2025,
+        "applicants": 89,
+        "passers": 60,
+        "passRate": 67.4
+      }
+    ],
     "practical": [
       {
         "year": 2021,

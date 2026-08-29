@@ -3,47 +3,29 @@
   "name": "자동화설비기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-08-22",
+  "updated": "2026-08-29",
   "schedule": [],
   "fee": {
     "written": "14500",
     "practical": "22000",
     "raw": "1차 : 14500, 2차 : 22000"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "자동화설비기능사 출제경향\r\n\r\n\r\n\r\n- 자동화설비에 관한 숙련기능을 가지고 각종 자동화설비를 점검&middot;정비 및 유지&middot;관리 등 이에 관련되는 기능업무를 수행할 수 있는 능력을 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "자동화설비기능사 출제기준\r\n\r\n\r\n\r\n\r\n\r\n생산자동화기능사 출제기준입니다.\r\n \r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "자동화설비기능사 취득방법\r\n\r\n\r\n\r\n\r\n 시 행 처 : 한국산업인력공단\r\n\r\n시험과목\r\n- 필기 :자동화요소제어기술 \r\n-실기 :생산자동화실무\r\n\r\n 검정방법\r\n- 필기 : 객관식 4지 택일형 60문항(60분)- 실기 : 작업형(4시간정도, 100점)\r\n\r\n합격기준\r\n-필기 : 100점 만점에 60점 이상 득점자\r\n- 실기 : 100점 만점에 60점 이상 득점자\r\n\r\n※ &lsquo;16년도부터 과정평가형 자격으로 취득 가능 ( 관련 홈페이지 : www.ncs.go.kr )\r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n안전등급(Safety Level) : 1등급\r\n\r\n\r\n\r\n\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n▼\r\n\r\n\r\n\r\n위험\r\n\r\n경고\r\n\r\n주의\r\n\r\n관심\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n&bull; 시험장소 구분 \r\n\r\n실내 \r\n\r\n \r\n\r\n\r\n\r\n&bull; 주요시설 및 장비\r\n\r\n자동화설비, 컴퓨터, 프린터\r\n\r\n \r\n\r\n\r\n\r\n&bull; 보호구 \r\n\r\n해당사항 없음\r\n\r\n \r\n\r\n\r\n\r\n- 보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될 수 있습니다.\r\n- 반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 4672,
-        "passers": 1633,
-        "passRate": 35.0
-      },
-      {
-        "year": 2022,
-        "applicants": 4321,
-        "passers": 900,
-        "passRate": 20.8
-      },
-      {
-        "year": 2023,
-        "applicants": 4436,
-        "passers": 822,
-        "passRate": 18.5
-      },
-      {
-        "year": 2024,
-        "applicants": 4259,
-        "passers": 760,
-        "passRate": 17.8
-      },
-      {
-        "year": 2025,
-        "applicants": 5648,
-        "passers": 1012,
-        "passRate": 17.9
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

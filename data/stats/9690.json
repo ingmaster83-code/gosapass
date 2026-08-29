@@ -3,7 +3,7 @@
   "name": "국가유산수리기능자(보존처리공)",
   "series": "국가유산수리기능자",
   "field": "",
-  "updated": "2026-08-22",
+  "updated": "2026-08-29",
   "schedule": [
     {
       "round": "제2회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "30000",
+    "written": "",
     "practical": "",
-    "raw": "1차 : 30000,"
+    "raw": ""
   },
   "info": [],
   "stats": {

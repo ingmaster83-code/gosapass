@@ -73,15 +73,15 @@
 <!-- ===== D-Day Banner ===== -->
 
 <div id="dday-banner"
-     class="dday-banner color-urgent"
+     class="dday-banner color-green"
      data-start="2026-08-29"
-     data-end="2026-08-29"
-     data-event-label="제3회 실기시험"
-     data-next-label=""
+     data-end="2026-09-16"
+     data-event-label="제3회 실기시험 진행중"
+     data-next-label="제3회 최종 합격발표"
      data-next-date="">
-  <div class="banner-label">제3회 실기시험</div>
-  <div class="banner-dday">D-1</div>
-  <div class="banner-desc">2026-08-29</div>
+  <div class="banner-label">제3회 실기시험 진행중</div>
+  <div class="banner-dday">D-18</div>
+  <div class="banner-desc">08-29 ~ 09-16</div>
   <div class="banner-next"></div>
 </div>
 
@@ -163,17 +163,6 @@
 
       <!-- 검정방법 -->
 
-      <div class="content-section">
-        <h2>검정방법</h2>
-        <div class="info-card" style="padding:20px 24px;">
-
-
-
-          <p style="font-size:0.9375rem;line-height:1.75;">합격기준 :100점을만점으로 하여60점 이상</p>
-
-        </div>
-      </div>
-
 
       <!-- 시험과목 -->
 
@@ -186,12 +175,41 @@
       <div class="content-section">
         <h2>출제경향</h2>
         <div class="info-card" style="padding:20px 24px;border-left:3px solid var(--primary);">
-          <p style="font-size:0.9375rem;line-height:1.85;color:var(--text-primary);">- 디지털 항공영상 자료를 활용한 항공사진 기본처리(영상조정), 항공정사사진 제작(모자이크 영상지도 제작) 및 편집, 보안지역처리, 정확도 등을 평가(공개문제 참조)</p>
+          <p style="font-size:0.9375rem;line-height:1.85;color:var(--text-primary);">항공사진기능사 출제경향 - 디지털 항공영상 자료를 활용한 항공사진 기본처리(영상조정), 항공정사사진 제작(모자이크 영상지도 제작) 및 편집, 보안지역처리, 정확도 등을 평가(공개문제 참조)</p>
         </div>
       </div>
 
 
       <!-- 합격률 차트 -->
+
+      <div class="content-section">
+        <h2>연도별 합격률</h2>
+        <div class="chart-grid">
+          <div class="chart-box">
+            <h3>필기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="writtenChart"></canvas>
+            </div>
+          </div>
+          <div class="chart-box">
+            <h3>실기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="practicalChart"></canvas>
+            </div>
+          </div>
+        </div>
+
+        <div class="ad-wrap" style="margin-top:24px;">
+            <div class="ad-block ad-leaderboard">728 × 90 광고 영역</div>
+        </div>
+      </div>
+
+      <div class="content-section">
+        <h2>연도별 응시자수 추이</h2>
+        <div class="chart-wrap-wide">
+          <canvas id="applicantsChart"></canvas>
+        </div>
+      </div>
 
 
       <!-- 난이도 -->
@@ -207,7 +225,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-40</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-39</span>
 
             </div>
             <div class="related-name">건축구조기술사</div>
@@ -218,7 +236,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-40</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-39</span>
 
             </div>
             <div class="related-name">건축기계설비기술사</div>
@@ -231,7 +249,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-40</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-39</span>
 
             </div>
             <div class="related-name">건축시공기술사</div>
@@ -262,11 +280,6 @@
         </div>
 
         <div class="info-row">
-          <span class="info-label">관련학과</span>
-          <span class="info-value" style="font-size:0.8125rem;">시험과목 : 항공사진(영상지도)제작 작업(필기시험 없음)</span>
-        </div>
-
-        <div class="info-row">
           <span class="info-label">시행기관</span>
           <span class="info-value">한국산업인력공단</span>
         </div>
@@ -279,7 +292,25 @@
         </div>
 
 
+        <div class="info-row">
+          <span class="info-label">최근 응시자</span>
+          <span class="info-value">471명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
 
+
+        <div class="info-row">
+          <span class="info-label">최근 합격자</span>
+          <span class="info-value">332명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
+
+
+
+
+
+        <div class="info-row">
+          <span class="info-label">실기 합격률 추이</span>
+          <span class="info-value" style="font-size:0.8125rem;color:var(--text-secondary);">→ 보합세</span>
+        </div>
 
 
         <a href="https://wooagosa.wooahouse.com/" target="_blank" rel="noopener"
@@ -293,8 +324,8 @@
       <div class="info-card" style="border-color:#BBF7D0;background:var(--success-light);">
         <h3 style="color:var(--success);">현재 일정</h3>
         <div style="font-size:0.875rem;line-height:1.7;">
-          <div style="font-weight:700;color:var(--success);margin-bottom:6px;">🟢 제3회 실기시험</div>
-          <div style="color:var(--text-secondary);">2026-08-29</div>
+          <div style="font-weight:700;color:var(--success);margin-bottom:6px;">🟢 제3회 실기시험 진행중</div>
+          <div style="color:var(--text-secondary);">08-29 ~ 09-16</div>
 
         </div>
         <a href="https://www.q-net.or.kr"
@@ -346,6 +377,13 @@
   </div>
 </footer>
 
+
+<!-- 차트 데이터 -->
+<script id="stats-data" type="application/json">
+[{"year": 2021, "writtenApplicants": 0, "writtenPassRate": 0.0, "practicalApplicants": 173, "practicalPassRate": 46.2}, {"year": 2022, "writtenApplicants": 0, "writtenPassRate": 0.0, "practicalApplicants": 208, "practicalPassRate": 78.8}, {"year": 2023, "writtenApplicants": 0, "writtenPassRate": 0.0, "practicalApplicants": 261, "practicalPassRate": 73.2}, {"year": 2024, "writtenApplicants": 0, "writtenPassRate": 0.0, "practicalApplicants": 384, "practicalPassRate": 77.9}, {"year": 2025, "writtenApplicants": 0, "writtenPassRate": 0.0, "practicalApplicants": 471, "practicalPassRate": 70.5}]
+</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="/js/detail.js?v=2"></script>
 
 
 </body>

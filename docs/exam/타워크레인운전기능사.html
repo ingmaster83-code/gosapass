@@ -97,16 +97,16 @@
 <!-- ===== D-Day Banner ===== -->
 
 <div id="dday-banner"
-     class="dday-banner color-urgent"
+     class="dday-banner color-green"
      data-start="2026-08-29"
-     data-end="2026-08-29"
-     data-event-label="제3회 실기시험"
-     data-next-label=""
-     data-next-date="">
-  <div class="banner-label">제3회 실기시험</div>
-  <div class="banner-dday">D-1</div>
-  <div class="banner-desc">2026-08-29</div>
-  <div class="banner-next"></div>
+     data-end="2026-09-16"
+     data-event-label="제3회 실기시험 진행중"
+     data-next-label="제3회 최종 합격발표"
+     data-next-date="2026-10-02">
+  <div class="banner-label">제3회 실기시험 진행중</div>
+  <div class="banner-dday">D-18</div>
+  <div class="banner-desc">08-29 ~ 09-16</div>
+  <div class="banner-next">다음 일정: 제3회 최종 합격발표 2026-10-02</div>
 </div>
 
 
@@ -216,57 +216,18 @@
 
       <!-- 출제경향 -->
 
+      <div class="content-section">
+        <h2>출제경향</h2>
+        <div class="info-card" style="padding:20px 24px;border-left:3px solid var(--primary);">
+          <p style="font-size:0.9375rem;line-height:1.85;color:var(--text-primary);">타워크레인운전기능사 출제경향 - 필기시험의 내용은 고객만족&gt;자료실의 출제기준을 참고바랍니다.- 실기시험은 작업형으로 시행되며 고객만족&gt;자료실의 출제기준을 참고바랍니다. - 타워크레인을 안전하게 운전하여 줄걸이 작업자 및 신호자와 함께 중량물을 안전하게 일정한 장소로 운반하는 직무를 수행할 수 있는지를 평가(공개문제 참조)</p>
+        </div>
+      </div>
+
 
       <!-- 합격률 차트 -->
 
-      <div class="content-section">
-        <h2>연도별 합격률</h2>
-        <div class="chart-grid">
-          <div class="chart-box">
-            <h3>필기 합격률</h3>
-            <div class="chart-wrap">
-              <canvas id="writtenChart"></canvas>
-            </div>
-          </div>
-          <div class="chart-box">
-            <h3>실기 합격률</h3>
-            <div class="chart-wrap">
-              <canvas id="practicalChart"></canvas>
-            </div>
-          </div>
-        </div>
-
-        <div class="ad-wrap" style="margin-top:24px;">
-            <div class="ad-block ad-leaderboard">728 × 90 광고 영역</div>
-        </div>
-      </div>
-
-      <div class="content-section">
-        <h2>연도별 응시자수 추이</h2>
-        <div class="chart-wrap-wide">
-          <canvas id="applicantsChart"></canvas>
-        </div>
-      </div>
-
 
       <!-- 난이도 -->
-
-      <div class="content-section">
-        <h2>난이도</h2>
-        <div class="difficulty-box">
-          <div class="stars">
-            <span>★</span>
-            <span class="empty">☆</span>
-            <span class="empty">☆</span>
-            <span class="empty">☆</span>
-            <span class="empty">☆</span>
-          </div>
-          <div class="difficulty-info">
-            <div class="difficulty-level">쉬움</div>
-            <div class="difficulty-detail">최근 3개년 평균 실기 합격률: 51.6% · 필기 합격률: 84.7%</div>
-          </div>
-        </div>
-      </div>
 
 
       <!-- 관련 자격증 -->
@@ -279,7 +240,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-40</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-39</span>
 
             </div>
             <div class="related-name">건축구조기술사</div>
@@ -290,7 +251,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-40</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-39</span>
 
             </div>
             <div class="related-name">건축기계설비기술사</div>
@@ -303,7 +264,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-40</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-39</span>
 
             </div>
             <div class="related-name">건축시공기술사</div>
@@ -356,30 +317,7 @@
         </div>
 
 
-        <div class="info-row">
-          <span class="info-label">최근 응시자</span>
-          <span class="info-value">848명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
-        </div>
 
-
-        <div class="info-row">
-          <span class="info-label">최근 합격자</span>
-          <span class="info-value">725명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
-        </div>
-
-
-
-
-        <div class="info-row">
-          <span class="info-label">필기 합격률 추이</span>
-          <span class="info-value" style="font-size:0.8125rem;color:var(--text-secondary);">→ 보합세</span>
-        </div>
-
-
-        <div class="info-row">
-          <span class="info-label">실기 합격률 추이</span>
-          <span class="info-value" style="font-size:0.8125rem;color:#DC2626;">↓ 3.8%p 하락</span>
-        </div>
 
 
         <a href="https://wooagosa.wooahouse.com/" target="_blank" rel="noopener"
@@ -393,8 +331,14 @@
       <div class="info-card" style="border-color:#BBF7D0;background:var(--success-light);">
         <h3 style="color:var(--success);">현재 일정</h3>
         <div style="font-size:0.875rem;line-height:1.7;">
-          <div style="font-weight:700;color:var(--success);margin-bottom:6px;">🟢 제3회 실기시험</div>
-          <div style="color:var(--text-secondary);">2026-08-29</div>
+          <div style="font-weight:700;color:var(--success);margin-bottom:6px;">🟢 제3회 실기시험 진행중</div>
+          <div style="color:var(--text-secondary);">08-29 ~ 09-16</div>
+
+          <div style="margin-top:10px;padding-top:10px;border-top:1px solid #BBF7D0;">
+            <div style="font-size:0.8125rem;color:var(--text-secondary);margin-bottom:4px;">다음 일정</div>
+            <div style="font-weight:600;">제3회 최종 합격발표</div>
+            <div style="color:var(--text-secondary);font-size:0.8125rem;">2026-10-02</div>
+          </div>
 
         </div>
         <a href="https://www.q-net.or.kr"
@@ -446,13 +390,6 @@
   </div>
 </footer>
 
-
-<!-- 차트 데이터 -->
-<script id="stats-data" type="application/json">
-[{"year": 2021, "writtenApplicants": 1317, "writtenPassRate": 83.0, "practicalApplicants": 1197, "practicalPassRate": 47.0}, {"year": 2022, "writtenApplicants": 1549, "writtenPassRate": 81.5, "practicalApplicants": 1510, "practicalPassRate": 51.0}, {"year": 2023, "writtenApplicants": 1788, "writtenPassRate": 84.8, "practicalApplicants": 1728, "practicalPassRate": 53.0}, {"year": 2024, "writtenApplicants": 1328, "writtenPassRate": 83.7, "practicalApplicants": 1337, "practicalPassRate": 52.5}, {"year": 2025, "writtenApplicants": 848, "writtenPassRate": 85.5, "practicalApplicants": 892, "practicalPassRate": 49.2}]
-</script>
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script src="/js/detail.js?v=2"></script>
 
 
 </body>
