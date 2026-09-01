@@ -3,7 +3,7 @@
   "name": "제과기능장",
   "series": "기능장",
   "field": "식품.가공",
-  "updated": "2026-08-25",
+  "updated": "2026-09-01",
   "schedule": [
     {
       "round": "제79회",
@@ -35,57 +35,26 @@
     }
   ],
   "fee": {
-    "written": "34400",
-    "practical": "78200",
-    "raw": "1차 : 34400, 2차 : 78200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
       "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필답형(20점) :출제기준을 참고- 작업형(80점) :제빵, 제과의 위생,제조공정의 숙련도 및 제품의 맛, 외형 등의 상품성을평가"
+      "content": "제과기능장 출제경향\r\n\r\n\r\n\r\n\r\n- 필답형(20점) :출제기준을 참고\r\n- 작업형(80점) :제빵, 제과의 위생,제조공정의 숙련도 및 제품의 맛, 외형 등의 상품성을평가"
     },
     {
       "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}제과기능장 출제기준 입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+      "content": "제과기능장 출제기준\r\n\r\n\r\n\r\n\r\n제과기능장 출제기준 입니다.\r\n \r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
     },
     {
       "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313; 관련학과 : 산업수요맞춤형고등학교, 특성화고등학교 등 제과제빵 관련 학과 대학 및 전문대학 관련학과(제과제빵과, 조리학과 등)&#9314; 시험과목  - 필기 : 제과제빵이론, 재료과학, 식품위생학, 영양학 및 기타 제과 제빵에 관한 사항  - 실기 : 복합형(필답형 20점, 작업형 80점)&#9315; 검정방법  - 필기 : 객관식 4지 택일형, 60문항(60분)  - 실기 : 복합형(필답형 1시간, 작업형 6시간 정도)※ [변경사항] 실기시험 검정방법 변경('21.1.1부터)-기존(2020년도) : 작업형(제빵 및 제과, 6시간)-변경(2021년도부터) : 복합형(제빵 및 제과, 6시간 + 필답형, 1시간)&#9316; 합격기준  - 필기 : 100점을 만점으로 하여60점 이상 - 실기 : 100점을 만점으로 하여 총점 60점 이상 (\"필답형과 작업형 중 한 개 분야라도 응시하지 않을 경우\", \"필답형 득점이 0점인 경우\"는 실격)작업형 실기시험 기본정보 안전등급(safety Level) : 4 등급▼위험경고주의관심&middot; 시험장소 구분실내 &middot; 주요시설 및 장비오븐, 믹서기, 가스레인지 등&middot; 보호구위생복등보호구(위생복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+      "content": "제과기능장 취득방법\r\n\r\n\r\n\r\n\r\n 시 행 처 : 한국산업인력공단 \r\n 관련학과 : 산업수요맞춤형고등학교, 특성화고등학교 등 제과제빵 관련 학과\r\n 대학 및 전문대학 관련학과(제과제빵과, 조리학과 등)\r\n 시험과목 \r\n - 필기 : 제과제빵이론, 재료과학, 식품위생학, 영양학 및 기타 제과 제빵에 관한 사항 \r\n - 실기 : 복합형(필답형 20점, 작업형 80점)\r\n 검정방법 \r\n - 필기 : 객관식 4지 택일형, 60문항(60분) \r\n - 실기 : 복합형(필답형 1시간, 작업형 6시간 정도)\r\n※ [변경사항] 실기시험 검정방법 변경('21.1.1부터)\r\n\r\n\r\n\r\n\r\n-기존(2020년도) : 작업형(제빵 및 제과, 6시간)\r\n-변경(2021년도부터) : 복합형(제빵 및 제과, 6시간 + 필답형, 1시간)\r\n\r\n\r\n\r\n\r\n 합격기준 \r\n - 필기 : 100점을 만점으로 하여60점 이상\r\n - 실기 : 100점을 만점으로 하여 총점 60점 이상\r\n (\"필답형과 작업형 중 한 개 분야라도 응시하지 않을 경우\", \"필답형 득점이 0점인 경우\"는 실격)\r\n\r\n\r\n\r\n작업형 실기시험 기본정보\r\n\r\n\r\n \r\n안전등급(safety Level) : 4 등급\r\n\r\n\r\n\r\n\r\n▼\r\n\r\n\r\n\r\n\r\n\r\n위험\r\n경고\r\n주의\r\n관심\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n&middot; 시험장소 구분\r\n실내 \r\n\r\n\r\n&middot; 주요시설 및 장비\r\n오븐, 믹서기, 가스레인지 등\r\n\r\n\r\n&middot; 보호구\r\n위생복등\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n보호구(위생복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 394,
-        "passers": 152,
-        "passRate": 38.6
-      },
-      {
-        "year": 2022,
-        "applicants": 378,
-        "passers": 158,
-        "passRate": 41.8
-      },
-      {
-        "year": 2023,
-        "applicants": 421,
-        "passers": 175,
-        "passRate": 41.6
-      },
-      {
-        "year": 2024,
-        "applicants": 479,
-        "passers": 216,
-        "passRate": 45.1
-      },
-      {
-        "year": 2025,
-        "applicants": 508,
-        "passers": 221,
-        "passRate": 43.5
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,
