@@ -3,29 +3,76 @@
   "name": "소비자전문상담사2급",
   "series": "기사",
   "field": "경영.회계.사무",
-  "updated": "2026-08-26",
-  "schedule": [],
+  "updated": "2026-09-02",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-12",
+      "written_reg_end": "2026-01-15",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-11",
+      "prac_reg_start": "2026-03-23",
+      "prac_reg_end": "2026-03-26",
+      "prac_exam_start": "2026-04-18",
+      "prac_exam_end": "2026-05-06",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "19400",
     "practical": "20800",
     "raw": "1차 : 19400, 2차 : 20800"
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}소비자 불만 및 물품?서비스 등의 구매, 사용방법 등을 상담할 수 있는 능력 및시장조사 및 각종정보를 수집하고 보고서를 작성할 수 있는 소비자상담실무 능력평가"
-    },
-    {
-      "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2} 소비자전문상담사2급 출제기준 입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 시험과목 - 필기 : 1.소비자 상담 및 피해구제, 2. 소비자관련법, 3.소비자교육 및 정보제공, 4. 소비자상담론- 실기 : 소비자 상담 실무&#9314; 검정방법- 필기 : 객관식 4지 택일형, 100문항(2시간 30분)- 실기 : 필답형(2시간 30분, 100점)&#9315; 합격기준- 필기 :100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상"
-    }
-  ],
+  "info": [],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 680,
+        "passers": 380,
+        "passRate": 55.9
+      },
+      {
+        "year": 2022,
+        "applicants": 489,
+        "passers": 263,
+        "passRate": 53.8
+      },
+      {
+        "year": 2023,
+        "applicants": 391,
+        "passers": 232,
+        "passRate": 59.3
+      },
+      {
+        "year": 2024,
+        "applicants": 430,
+        "passers": 220,
+        "passRate": 51.2
+      },
+      {
+        "year": 2025,
+        "applicants": 421,
+        "passers": 227,
+        "passRate": 53.9
+      }
+    ],
     "practical": [
       {
         "year": 2021,

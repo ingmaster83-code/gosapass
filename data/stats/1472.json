@@ -3,7 +3,7 @@
   "name": "산업위생관리기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-08-26",
+  "updated": "2026-09-02",
   "schedule": [
     {
       "round": "제1회",
@@ -56,15 +56,15 @@
   "info": [
     {
       "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+      "content": "산업위생관리기사 출제경향\r\n\r\n\r\n\r\n\r\n- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.\r\n- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
     },
     {
       "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}산업위생관리기사 출제기준입니다.  메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+      "content": "산업위생관리기사 출제기준\r\n\r\n\r\n\r\n\r\n산업위생관리기사 출제기준입니다. \r\n \r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
     },
     {
       "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 관련학과 : 대학 및 전문대학의 보건관리학, 보건위생학 관련학과&#9314; 시험과목- 필기 : 1. 산업위생학개론 2. 작업위생측정 및 평가 3. 작업환경관리대책 4. 물리적유해인자관리 5. 산업독성학- 실기 : 작업환경관리 실무&#9315; 검정방법- 필기 : 객관식 4지 택일형 과목당 20문항(과목당 30분)- 실기 : 필답형(3시간, 100점) &#9316; 합격기준- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상"
+      "content": "산업위생관리기사 취득방법\r\n\r\n\r\n\r\n\r\n 시 행 처 : 한국산업인력공단\r\n\r\n 관련학과 : 대학 및 전문대학의 보건관리학, 보건위생학 관련학과\r\n\r\n 시험과목\r\n\r\n- 필기 : 1. 산업위생학개론 2. 작업위생측정 및 평가 3. 작업환경관리대책 4. 물리적유해인자관리 5. 산업독성학\r\n- 실기 : 작업환경관리 실무\r\n\r\n 검정방법\r\n\r\n- 필기 : 객관식 4지 택일형 과목당 20문항(과목당 30분)\r\n- 실기 : 필답형(3시간, 100점) \r\n\r\n 합격기준\r\n\r\n- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상\r\n- 실기 : 100점을 만점으로 하여 60점 이상"
     }
   ],
   "stats": {
@@ -100,6 +100,37 @@
         "passRate": 45.8
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 3316,
+        "passers": 1967,
+        "passRate": 59.3
+      },
+      {
+        "year": 2022,
+        "applicants": 4613,
+        "passers": 2630,
+        "passRate": 57.0
+      },
+      {
+        "year": 2023,
+        "applicants": 5598,
+        "passers": 3274,
+        "passRate": 58.5
+      },
+      {
+        "year": 2024,
+        "applicants": 8354,
+        "passers": 3926,
+        "passRate": 47.0
+      },
+      {
+        "year": 2025,
+        "applicants": 7837,
+        "passers": 3917,
+        "passRate": 50.0
+      }
+    ]
   }
 }

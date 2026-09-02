@@ -3,7 +3,7 @@
   "name": "설비보전산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-08-26",
+  "updated": "2026-09-02",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -13,50 +13,19 @@
   "info": [
     {
       "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 전기장치 측정작업, 설비진단 측정작업, 공유압회로 구성작업, 기계요소정비작업평가(공개문제 참조)"
+      "content": "기계정비산업기사 출제경향\r\n\r\n\r\n\r\n- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고 바랍니다.- 실기시험은 작업형 시험(공압, 유압, 가스절단 및 용접)으로 평가합니다.(작업형 실기시험 공개문제 참조)"
     },
     {
       "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2} 기계정비산업기사 출제기준 적용기간(2019.1.1 ~ 2023.12.31.)  메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+      "content": "기계정비산업기사 출제기준\r\n\r\n\r\n\r\n\r\n \r\n기계정비산업기사 출제기준 적용기간(2019.1.1 ~ 2023.12.31.) \r\n \r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
     },
     {
       "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 관련학과 : 전문대학의 기계 관련학과&#9314; 시험과목 - 필기 :1. 공유압 및 자동화시스템 2. 설비진단 및 관리 3. 공업계측 및 전기전자제어 4. 기계정비 일반- 실기 : 기계정비작업 &#9315; 검정방법- 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분) - 실기 : 작업형(6시간, 100점) &#9316; 합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점이상 - 실기 : 100점을 만점으로 하여 60점이상작업형 실기시험 기본정보안전등급(safety Level) : 3 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비전기공유압실험세트 등&middot; 보호구-보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+      "content": "기계정비산업기사 취득방법\r\n\r\n\r\n\r\n\r\n 시 행 처 : 한국산업인력공단\r\n 관련학과 : 전문대학의 기계 관련학과\r\n 시험과목 \r\n- 필기 :1. 공유압 및 자동제어 2.설비진단 및 관리3. 기계보전, 용접 및 안전\r\n- 실기 : 설비보전 응용 실무\r\n 검정방법\r\n- 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분) \r\n- 실기 :작업형(공압 30점, 유압 30점, 가스절단 및 용접 40점) 2시간 40분\r\n 합격기준 \r\n- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점이상 \r\n- 실기 : 100점을 만점으로 하여 60점이상(단, 작업형 과제별 실격 사항에 해당할 경우 전체 실격)\r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n안전등급(Safety Level) : 4등급\r\n\r\n\r\n\r\n\r\n\r\n▼\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n\r\n\r\n위험\r\n\r\n경고\r\n\r\n주의\r\n\r\n관심\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n&bull; 시험장소 구분 \r\n\r\n실내\r\n\r\n \r\n\r\n\r\n\r\n&bull; 주요시설 및 장비\r\n\r\n드릴머신, 전기공유압실험세트, 가스절단기, 아크용접기 등\r\n\r\n \r\n\r\n\r\n\r\n&bull; 보호구 \r\n\r\n보안경, 안전화, 용접 앞치마, 용접 장갑, 보안면 등\r\n\r\n \r\n\r\n\r\n\r\n- 보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될 수 있습니다.\r\n- 반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
     }
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 2778,
-        "passers": 2027,
-        "passRate": 73.0
-      },
-      {
-        "year": 2022,
-        "applicants": 2406,
-        "passers": 1671,
-        "passRate": 69.5
-      },
-      {
-        "year": 2023,
-        "applicants": 2783,
-        "passers": 1993,
-        "passRate": 71.6
-      },
-      {
-        "year": 2024,
-        "applicants": 3170,
-        "passers": 2329,
-        "passRate": 73.5
-      },
-      {
-        "year": 2025,
-        "applicants": 1046,
-        "passers": 547,
-        "passRate": 52.3
-      }
-    ]
+    "practical": []
   }
 }

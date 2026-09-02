@@ -3,7 +3,7 @@
   "name": "직업상담사2급",
   "series": "기사",
   "field": "사회복지.종교",
-  "updated": "2026-08-26",
+  "updated": "2026-09-02",
   "schedule": [
     {
       "round": "제1회",
@@ -56,19 +56,50 @@
   "info": [
     {
       "type": "출제경향",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+      "content": "직업상담사2급 출제경향\r\n\r\n\r\n\r\n\r\n- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.\r\n- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
     },
     {
       "type": "출제기준",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+      "content": "직업상담사2급 출제기준\r\n\r\n\r\n\r\n\r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
     },
     {
       "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시행처 : 한국산업인력공단&#9313; 시험과목 - 필기 : 1.직업상담학 2.직업심리학 3. 직업정보론 4.노동시장론 5. 노동관계법규 - 실기 : 직업상담실무&#9314; 검정방법- 필기 :객관식 4지 택일형 과목당 20문항(2시간 30분)-실기 : 필답형(2시간 30분, 100점)&#9315; 합격기준- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상- 실기 : 100점을 만점으로 하여 60점 이상"
+      "content": "직업상담사2급 취득방법\r\n\r\n\r\n\r\n\r\n 시행처 : 한국산업인력공단\r\n 시험과목 \r\n- 필기 : 1.직업심리 2.직업상담 및 취업지원 3. 직업정보 4.노동시장 5. 고용노동관계법규(Ⅰ)\r\n - 실기 : 직업상담 실무\r\n 검정방법\r\n- 필기 :객관식 4지 택일형 과목당 20문항(2시간 30분)\r\n-실기 : 필답형(2시간 30분, 100점)\r\n 합격기준\r\n- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상\r\n- 실기 : 100점을 만점으로 하여 60점 이상"
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 24155,
+        "passers": 13364,
+        "passRate": 55.3
+      },
+      {
+        "year": 2022,
+        "applicants": 18059,
+        "passers": 8778,
+        "passRate": 48.6
+      },
+      {
+        "year": 2023,
+        "applicants": 16060,
+        "passers": 9440,
+        "passRate": 58.8
+      },
+      {
+        "year": 2024,
+        "applicants": 15513,
+        "passers": 9099,
+        "passRate": 58.7
+      },
+      {
+        "year": 2025,
+        "applicants": 15497,
+        "passers": 8819,
+        "passRate": 56.9
+      }
+    ],
     "practical": [
       {
         "year": 2021,
