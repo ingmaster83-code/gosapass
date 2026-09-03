@@ -3,16 +3,75 @@
   "name": "전기철도산업기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-07-08",
-  "schedule": [],
+  "updated": "2026-09-02",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "전기철도산업기사 출제경향\r\n\r\n\r\n\r\n\r\n- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다. \r\n- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "전기철도산업기사 출제기준\r\n\r\n\r\n\r\n\r\n전기철도산업기사 출제기준입니다.\r\n\r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "전기철도산업기사 취득방법\r\n\r\n\r\n\r\n\r\n 시 행 처 : 한국산업인력공단 \r\n 관련학과 : 대학 및 전문대학의 전기과, 전기제어공학, 전기전자공학, 전자공학, 철도전기제어과 등 관련학과 \r\n시험과목\r\n- 필기 : 1. 전기자기학 2. 전력공학 3. 전기철도공학 4. 전기철도구조물공학 \r\n- 실기 : 전기철도 실무\r\n검정방법 \r\n- 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분) \r\n- 실기 : 필답형(2시간30분)\r\n합격기준 \r\n- 필기 : 100점 만점 40점 이상 전과목 평균 60점 이상 \r\n- 실기 : 100점 만점 60점 이상"
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 17,
+        "passers": 5,
+        "passRate": 29.4
+      },
+      {
+        "year": 2022,
+        "applicants": 13,
+        "passers": 2,
+        "passRate": 15.4
+      },
+      {
+        "year": 2023,
+        "applicants": 30,
+        "passers": 15,
+        "passRate": 50.0
+      },
+      {
+        "year": 2024,
+        "applicants": 45,
+        "passers": 35,
+        "passRate": 77.8
+      },
+      {
+        "year": 2025,
+        "applicants": 36,
+        "passers": 25,
+        "passRate": 69.4
+      }
+    ]
   }
 }

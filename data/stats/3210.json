@@ -3,16 +3,75 @@
   "name": "표면처리기능장",
   "series": "기능장",
   "field": "재료",
-  "updated": "2026-07-07",
-  "schedule": [],
+  "updated": "2026-09-01",
+  "schedule": [
+    {
+      "round": "제80회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "표면처리기능장 출제경향\r\n\r\n\r\n\r\n\r\n- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.\r\n- 실기시험은 복합형(필답형+작업형)으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다.\r\n- 금속재료, 금속조직, 각종 표면처리 등에 관한 기초 및 전문지식과 최상의 숙련기능을 바탕으로 표면처리 관련 작업의 수행과 산업현장의 작업관리, 품질 분석 및 시험 등의 능력을 평가(공개문제 참조)"
+    },
+    {
+      "type": "출제기준",
+      "content": "표면처리기능장 출제기준\r\n\r\n\r\n\r\n\r\n표면처리기능장 출제기준입니다.\r\n\r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "표면처리기능장 취득방법\r\n\r\n\r\n\r\n\r\n 시 행 처 : 한국산업인력관리공단 \r\n 관련학과 : 교육 및 훈련기관의 금속과, 재료과, 금속재료과, 재료정보과, 재료응용과, 신소재과 등 \r\n시험과목 \r\n- 필기 : 1.전기화학, 2.표면처리, 3. 금속재료 및 안전관리, 4.자동생산시스템, 공업경영\r\n- 실기 : 표면처리 실무 \r\n검정방법 \r\n- 필기 : 전과목 혼합, 객관식 60문항(60분) \r\n- 실기 : 복합형(필답형(2시간, 60점)+작업형(4시간30분 정도, 40점)) \r\n 합격기준\r\n- 필기 : 100점을 만점으로 하여 60점 이상 \r\n- 실기 : 100점을 만점으로 하여 60점 이상 \r\n\r\n\r\n\r\n\r\n작업형 실기시험 기본정보\r\n\r\n\r\n \r\n안전등급(safety Level) : 4 등급\r\n\r\n\r\n\r\n\r\n▼\r\n\r\n\r\n\r\n\r\n\r\n위험\r\n경고\r\n주의\r\n관심\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n&middot; 시험장소 구분\r\n실내\r\n\r\n\r\n&middot; 주요시설 및 장비\r\n산처리 탱크, 도금 탱크, 황산구리, 염산\r\n\r\n\r\n&middot; 보호구\r\n마스크, 도금작업용 안전복장\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 51,
+        "passers": 6,
+        "passRate": 11.8
+      },
+      {
+        "year": 2022,
+        "applicants": 53,
+        "passers": 20,
+        "passRate": 37.7
+      },
+      {
+        "year": 2023,
+        "applicants": 69,
+        "passers": 33,
+        "passRate": 47.8
+      },
+      {
+        "year": 2024,
+        "applicants": 86,
+        "passers": 45,
+        "passRate": 52.3
+      },
+      {
+        "year": 2025,
+        "applicants": 87,
+        "passers": 29,
+        "passRate": 33.3
+      }
+    ]
   }
 }

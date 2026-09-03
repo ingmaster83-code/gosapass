@@ -3,16 +3,78 @@
   "name": "롤러운전기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-02",
+  "updated": "2026-08-28",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "25000",
+    "raw": "1차 : 14500, 2차 : 25000"
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 3294,
+        "passers": 2409,
+        "passRate": 73.1
+      },
+      {
+        "year": 2022,
+        "applicants": 3215,
+        "passers": 2450,
+        "passRate": 76.2
+      },
+      {
+        "year": 2023,
+        "applicants": 3861,
+        "passers": 3000,
+        "passRate": 77.7
+      },
+      {
+        "year": 2024,
+        "applicants": 3955,
+        "passers": 2957,
+        "passRate": 74.8
+      },
+      {
+        "year": 2025,
+        "applicants": 3879,
+        "passers": 2903,
+        "passRate": 74.8
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 3201,
+        "passers": 1534,
+        "passRate": 47.9
+      },
+      {
+        "year": 2022,
+        "applicants": 3323,
+        "passers": 1516,
+        "passRate": 45.6
+      },
+      {
+        "year": 2023,
+        "applicants": 3932,
+        "passers": 1697,
+        "passRate": 43.2
+      },
+      {
+        "year": 2024,
+        "applicants": 3975,
+        "passers": 1687,
+        "passRate": 42.4
+      },
+      {
+        "year": 2025,
+        "applicants": 3852,
+        "passers": 1646,
+        "passRate": 42.7
+      }
+    ]
   }
 }

@@ -3,16 +3,47 @@
   "name": "한복산업기사",
   "series": "기사",
   "field": "섬유.의복",
-  "updated": "2026-07-02",
+  "updated": "2026-08-28",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "49100",
+    "raw": "1차 : 19400, 2차 : 49100"
   },
   "info": [],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 69,
+        "passers": 39,
+        "passRate": 56.5
+      },
+      {
+        "year": 2022,
+        "applicants": 92,
+        "passers": 70,
+        "passRate": 76.1
+      },
+      {
+        "year": 2023,
+        "applicants": 61,
+        "passers": 52,
+        "passRate": 85.2
+      },
+      {
+        "year": 2024,
+        "applicants": 87,
+        "passers": 63,
+        "passRate": 72.4
+      },
+      {
+        "year": 2025,
+        "applicants": 127,
+        "passers": 105,
+        "passRate": 82.7
+      }
+    ],
     "practical": []
   }
 }

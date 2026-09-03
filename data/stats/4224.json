@@ -3,16 +3,106 @@
   "name": "제빵산업기사",
   "series": "기사",
   "field": "식품.가공",
-  "updated": "2026-07-08",
-  "schedule": [],
+  "updated": "2026-09-02",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "제빵산업기사 출제경향\r\n\r\n\r\n\r\n\r\n빵류제품을 만드는 작업수행(공개문제 참고)"
+    },
+    {
+      "type": "출제기준",
+      "content": "제빵산업기사 출제기준\r\n\r\n\r\n\r\n\r\n제빵산업기사 출제기준입니다.\r\n\r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "제빵산업기사 취득방법\r\n\r\n\r\n\r\n\r\n \r\n 시 행 처 : 한국산업인력공단 \r\n 시험과목 \r\n- 필기 : 위생안전관리, 제과점 관리,빵류제품제조(출제기준 상세 참고)\r\n- 실기 :빵류 제조실무\r\n 검정방법 \r\n- 필기 : 객관식 4지 택일형, 60문항(60분) \r\n- 실기 : 작업형(3시간 정도) \r\n합격기준 : 필실기 100점을 만점으로 하여 60점 이상 \r\n\r\n\r\n\r\n\r\n작업형 실기시험 기본정보\r\n\r\n\r\n \r\n안전등급(safety Level) : 4 등급\r\n\r\n\r\n\r\n\r\n▼\r\n\r\n\r\n\r\n\r\n\r\n위험\r\n경고\r\n주의\r\n관심\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n&middot; 시험장소 구분\r\n실내\r\n\r\n\r\n&middot; 주요시설 및 장비\r\n오븐, 믹서기, 가스레인지 등\r\n\r\n\r\n&middot; 보호구\r\n위생복등\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n보호구(위생복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 279,
+        "passers": 201,
+        "passRate": 72.0
+      },
+      {
+        "year": 2023,
+        "applicants": 1040,
+        "passers": 719,
+        "passRate": 69.1
+      },
+      {
+        "year": 2024,
+        "applicants": 1053,
+        "passers": 734,
+        "passRate": 69.7
+      },
+      {
+        "year": 2025,
+        "applicants": 860,
+        "passers": 604,
+        "passRate": 70.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 663,
+        "passers": 261,
+        "passRate": 39.4
+      },
+      {
+        "year": 2024,
+        "applicants": 823,
+        "passers": 387,
+        "passRate": 47.0
+      },
+      {
+        "year": 2025,
+        "applicants": 755,
+        "passers": 341,
+        "passRate": 45.2
+      }
+    ]
   }
 }

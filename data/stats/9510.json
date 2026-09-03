@@ -3,16 +3,106 @@
   "name": "직업상담사1급",
   "series": "기사",
   "field": "사회복지.종교",
-  "updated": "2026-07-08",
-  "schedule": [],
+  "updated": "2026-09-02",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "직업상담사1급 출제경향\r\n\r\n\r\n\r\n\r\n- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.\r\n- 실기시험의 내용은 구인, 구직, 취업알선상담, 진학상담, 직업적응상담 등 노동법규 관련상담 노동시장,직업세계 등과 \r\n 관련된 직업정보의 수집. 분석을 통하여 상담자에게 이들 정보를 제공하고 직업적성 검사, 흥미검사 실시 및 해석을 \r\n 수행하는 업무 능력을 평가합니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "직업상담사1급 출제기준\r\n\r\n\r\n\r\n\r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "직업상담사1급 취득방법\r\n\r\n\r\n\r\n\r\n 시행처 : 한국산업인력공단\r\n 시험과목\r\n - 필기 : 1.직업심리 및 전직지원 2.심층직업상담 및 슈퍼비전3.직업정보가공 4. 노동시장분석5. 고용노동관계법규(Ⅱ)\r\n - 실기 : 직업상담 및 전직지원 실무\r\n 검정방법 \r\n- 필기 : 객관식 4지 택일형 과목당 20문항(2시간 30분)\r\n- 실기 : 필답형(3시간 정도, 100점)\r\n 합격기준\r\n- 필기 : 100점을 만점으로 하여 과목당 40점 이상,전과목 평균 60점 이상\r\n- 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 435,
+        "passers": 303,
+        "passRate": 69.7
+      },
+      {
+        "year": 2022,
+        "applicants": 622,
+        "passers": 477,
+        "passRate": 76.7
+      },
+      {
+        "year": 2023,
+        "applicants": 650,
+        "passers": 538,
+        "passRate": 82.8
+      },
+      {
+        "year": 2024,
+        "applicants": 755,
+        "passers": 616,
+        "passRate": 81.6
+      },
+      {
+        "year": 2025,
+        "applicants": 483,
+        "passers": 267,
+        "passRate": 55.3
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 389,
+        "passers": 259,
+        "passRate": 66.6
+      },
+      {
+        "year": 2022,
+        "applicants": 459,
+        "passers": 330,
+        "passRate": 71.9
+      },
+      {
+        "year": 2023,
+        "applicants": 512,
+        "passers": 343,
+        "passRate": 67.0
+      },
+      {
+        "year": 2024,
+        "applicants": 600,
+        "passers": 425,
+        "passRate": 70.8
+      },
+      {
+        "year": 2025,
+        "applicants": 363,
+        "passers": 31,
+        "passRate": 8.5
+      }
+    ]
   }
 }

@@ -3,16 +3,75 @@
   "name": "사출금형산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-07-08",
-  "schedule": [],
+  "updated": "2026-09-02",
+  "schedule": [
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "사출금형산업기사 출제경향\r\n\r\n\r\n\r\n- 사출금형의 설계와 머시닝센터 및 수공구를 사용하여 금형부품 제작"
+    },
+    {
+      "type": "출제기준",
+      "content": "사출금형산업기사 출제기준\r\n\r\n\r\n\r\n\r\n사출금형산업기사 출제기준입니다.\r\n \r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "사출금형산업기사 취득방법\r\n\r\n\r\n\r\n\r\n 시행처 : 한국산업인력공단 \r\n 관련학과 : 한국폴리텍 및 전문대학, 대학의 금형공학과, 금형 등 관련학과 \r\n 훈련기관 : 대한상의 직업교육훈련사업단 및 생산기술연구원부설 기술교육센터에 개설되어 있는 금형과 2년과정 \r\n 시험과목 \r\n- 필기 1. 사출금형설계 2.사출금형제작3.사출금형측정 및 재료\r\n- 실기 : 사출금형실무(작업형)\r\n 검정방법 \r\n- 필기 : 객관식 4지 택일형 과목당 20문항(과목당 30분) \r\n- 실기 : 작업형(5시간 정도, 100점)\r\n 합격기준 \r\n- 필기 : 100점을 만점으로 하여 과목당 40점이상, 전과목 평균 60점 이상\r\n- 실기 : 100점을 만점으로 하여 60점이상\r\n\r\n※ &lsquo;15년도부터 과정평가형 자격으로 취득 가능 ( 관련 홈페이지 : www.ncs.go.kr )\r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n안전등급(Safety Level) : 4등급\r\n\r\n\r\n\r\n\r\n\r\n▼\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n\r\n\r\n위험\r\n\r\n경고\r\n\r\n주의\r\n\r\n관심\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n&bull; 시험장소 구분 \r\n\r\n실내\r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n&bull; 주요시설 및 장비\r\n\r\n머시닝센터, 컴퓨터, 프린터 등\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n&bull; 보호구 \r\n\r\n보안경, 작업복, 안전화 등\r\n\r\n\r\n\r\n- 보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될 수 있습니다.\r\n- 반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 117,
+        "passers": 66,
+        "passRate": 56.4
+      },
+      {
+        "year": 2022,
+        "applicants": 108,
+        "passers": 68,
+        "passRate": 63.0
+      },
+      {
+        "year": 2023,
+        "applicants": 47,
+        "passers": 29,
+        "passRate": 61.7
+      },
+      {
+        "year": 2024,
+        "applicants": 32,
+        "passers": 18,
+        "passRate": 56.2
+      },
+      {
+        "year": 2025,
+        "applicants": 15,
+        "passers": 7,
+        "passRate": 46.7
+      }
+    ]
   }
 }

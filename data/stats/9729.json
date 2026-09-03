@@ -3,14 +3,38 @@
   "name": "기술지도사(1차공통)",
   "series": "기술지도사",
   "field": "",
-  "updated": "2026-07-03",
-  "schedule": [],
+  "updated": "2026-08-29",
+  "schedule": [
+    {
+      "round": "제41회",
+      "written_reg_start": "2026-03-09",
+      "written_reg_end": "2026-03-13",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-05-13",
+      "prac_reg_start": "",
+      "prac_reg_end": "",
+      "prac_exam_start": "",
+      "prac_exam_end": "",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "응시자격",
+      "content": "기술지도사(1차공통) 응시자격\r\n\r\n\r\n\r\n\r\n□ 응시자격\r\no 제한 없음(결격사유자 제외)\r\n\r\no 결격사유\r\n\r\n\r\n\r\n\r\n기술지도사 결격사유자\r\n\r\n\r\n\r\n1. 피성년후견인\r\n2. 파산선고를 받고 복권되지 아니한 자\r\n3. 금고 이상의 실형의 선고를 받고 그 집행이 끝나거나 집행을 받지 아니하기로 확정된 후 2년이 지나지 아니한 자\r\n4. 금고 이상의 형의 집행유예를 받고 그 집행유예기간 중에 있는 자\r\n5. 법률 제53조에 다라 지도사의 등록이 취소된 날부터 2년이 지나지 아니한 자\r\n\r\n\r\n\r\n※ 결격사유 기준일은 제2차 시험 발표일이며, 해당자는 시험에 합격하더라도 지도사가 될 수 없음"
+    },
+    {
+      "type": "시험과목 및 배점",
+      "content": "기술지도사(1차공통) 시험과목 및 배점\r\n\r\n\r\n\r\n\r\n□ 시험과목 및 방법\r\no 제1차 시험\r\n\r\n\r\n\r\n\r\n구 분\r\n\r\n교시\r\n\r\n시험과목\r\n\r\n문항수\r\n\r\n시험시간\r\n\r\n시험방법\r\n\r\n\r\n\r\n제1차 시험\r\n\r\n1\r\n\r\n1.중소기업관계법령\r\n2. 산업경영공학\r\n3. 자연과학 개론\r\n4.기업진단론\r\n5.조사방법론\r\n6. 영어(공인어학성적 제출로 대체)\r\n\r\n과목 당\r\n25문항\r\n\r\n125분 [5과목]\r\n(09:30~11:35)\r\n\r\n객 관 식\r\n5지선택형\r\n\r\n\r\n\r\n\r\n\r\no 제2차 시험\r\n\r\n\r\n\r\n\r\n구 분\r\n(지도분야)\r\n\r\n시험과목\r\n\r\n문항수\r\n\r\n시험시간\r\n\r\n시험방법\r\n\r\n\r\n\r\n1교시\r\n(09:30~11:00)\r\n\r\n2교시\r\n(11:30~13:00)\r\n\r\n3교시\r\n(14:00~15:30)\r\n\r\n\r\n\r\n정보기술관리분야\r\n\r\n정보통신개론\r\n\r\n시스템 응용\r\n\r\n소프트웨어공학\r\n\r\n과목 당\r\n논술형 2문항\r\n약술형 4문항\r\n\r\n90분\r\n\r\n논술형\r\n및\r\n약술형\r\n\r\n\r\n\r\n기술혁신관리분야\r\n\r\n기술경영학개론\r\n\r\n생산계획\r\n\r\n아래 과목중 택1\r\n\r\n\r\n\r\n재료역학\r\n\r\n\r\n\r\n일반금속재료\r\n\r\n\r\n\r\n전기기기\r\n\r\n\r\n\r\n섬유재료학\r\n\r\n\r\n\r\n화학공업양론\r\n\r\n\r\n\r\n환경공학개론\r\n\r\n\r\n\r\n유전공학개론"
+    }
+  ],
   "stats": {
     "written": [],
     "practical": []

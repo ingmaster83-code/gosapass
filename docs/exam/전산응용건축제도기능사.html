@@ -97,16 +97,16 @@
 <!-- ===== D-Day Banner ===== -->
 
 <div id="dday-banner"
-     class="dday-banner color-warning"
-     data-start="2026-07-15"
-     data-end="2026-07-15"
-     data-event-label="제3회 필기 합격발표"
-     data-next-label=""
-     data-next-date="">
-  <div class="banner-label">제3회 필기 합격발표</div>
-  <div class="banner-dday">D-7</div>
-  <div class="banner-desc">2026-07-15</div>
-  <div class="banner-next"></div>
+     class="dday-banner color-green"
+     data-start="2026-08-29"
+     data-end="2026-09-16"
+     data-event-label="제3회 실기시험 진행중"
+     data-next-label="제3회 최종 합격발표"
+     data-next-date="2026-10-02">
+  <div class="banner-label">제3회 실기시험 진행중</div>
+  <div class="banner-dday">D-14</div>
+  <div class="banner-desc">08-29 ~ 09-16</div>
+  <div class="banner-next">다음 일정: 제3회 최종 합격발표 2026-10-02</div>
 </div>
 
 
@@ -182,15 +182,15 @@
                 <td class="td-round">제3회</td>
                 <td><span class="date-chip done">06-08~06-11</span></td>
                 <td><span class="date-chip done">06-27</span></td>
-                <td><span class="date-chip">07-15</span></td>
-                <td><span class="date-chip">07-27~07-30</span></td>
+                <td><span class="date-chip done">07-15</span></td>
+                <td><span class="date-chip done">07-27~07-30</span></td>
                 <td><span class="date-chip">08-29~09-16</span></td>
                 <td><span class="date-chip">10-02</span></td>
               </tr>
 
               <tr>
                 <td class="td-round">제4회</td>
-                <td><span class="date-chip">08-24~08-27</span></td>
+                <td><span class="date-chip done">08-24~08-27</span></td>
                 <td><span class="date-chip">09-16</span></td>
                 <td><span class="date-chip">10-07</span></td>
                 <td><span class="date-chip">10-12~10-15</span></td>
@@ -216,8 +216,44 @@
 
       <!-- 출제경향 -->
 
+      <div class="content-section">
+        <h2>출제경향</h2>
+        <div class="info-card" style="padding:20px 24px;border-left:3px solid var(--primary);">
+          <p style="font-size:0.9375rem;line-height:1.85;color:var(--text-primary);">전산응용건축제도기능사 출제경향 -건축물의 기본설계도 또는 계획설계도에 따라 컴퓨터를 사용하여 건축설계에서 의도하는 바를 현장에 필요한 도면으로 표현하는 능력을 평가 - 2024년 시행되는 전산응용건축제도기능사 실기시험문제는 2023년 시행된 문제와 동일한 유형으로 출제될 예정임</p>
+        </div>
+      </div>
+
 
       <!-- 합격률 차트 -->
+
+      <div class="content-section">
+        <h2>연도별 합격률</h2>
+        <div class="chart-grid">
+          <div class="chart-box">
+            <h3>필기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="writtenChart"></canvas>
+            </div>
+          </div>
+          <div class="chart-box">
+            <h3>실기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="practicalChart"></canvas>
+            </div>
+          </div>
+        </div>
+
+        <div class="ad-wrap" style="margin-top:24px;">
+            <div class="ad-block ad-leaderboard">728 × 90 광고 영역</div>
+        </div>
+      </div>
+
+      <div class="content-section">
+        <h2>연도별 응시자수 추이</h2>
+        <div class="chart-wrap-wide">
+          <canvas id="applicantsChart"></canvas>
+        </div>
+      </div>
 
 
       <!-- 난이도 -->
@@ -233,10 +269,12 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:#D97706;">D-5</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-35</span>
 
             </div>
             <div class="related-name">건축구조기술사</div>
+
+            <div class="related-passrate">실기 합격률 <strong>51.2%</strong></div>
 
           </a>
 
@@ -244,10 +282,12 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:#D97706;">D-5</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-35</span>
 
             </div>
             <div class="related-name">건축기계설비기술사</div>
+
+            <div class="related-passrate">실기 합격률 <strong>41.8%</strong></div>
 
           </a>
 
@@ -255,10 +295,12 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:#D97706;">D-5</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-35</span>
 
             </div>
             <div class="related-name">건축시공기술사</div>
+
+            <div class="related-passrate">실기 합격률 <strong>50.5%</strong></div>
 
           </a>
 
@@ -296,7 +338,25 @@
         </div>
 
 
+        <div class="info-row">
+          <span class="info-label">최근 응시자</span>
+          <span class="info-value">7,811명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
 
+
+        <div class="info-row">
+          <span class="info-label">최근 합격자</span>
+          <span class="info-value">5,050명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
+
+
+
+
+
+        <div class="info-row">
+          <span class="info-label">실기 합격률 추이</span>
+          <span class="info-value" style="font-size:0.8125rem;color:#DC2626;">↓ 8.0%p 하락</span>
+        </div>
 
 
         <a href="https://wooagosa.wooahouse.com/" target="_blank" rel="noopener"
@@ -310,8 +370,14 @@
       <div class="info-card" style="border-color:#BBF7D0;background:var(--success-light);">
         <h3 style="color:var(--success);">현재 일정</h3>
         <div style="font-size:0.875rem;line-height:1.7;">
-          <div style="font-weight:700;color:var(--success);margin-bottom:6px;">🟢 제3회 필기 합격발표</div>
-          <div style="color:var(--text-secondary);">2026-07-15</div>
+          <div style="font-weight:700;color:var(--success);margin-bottom:6px;">🟢 제3회 실기시험 진행중</div>
+          <div style="color:var(--text-secondary);">08-29 ~ 09-16</div>
+
+          <div style="margin-top:10px;padding-top:10px;border-top:1px solid #BBF7D0;">
+            <div style="font-size:0.8125rem;color:var(--text-secondary);margin-bottom:4px;">다음 일정</div>
+            <div style="font-weight:600;">제3회 최종 합격발표</div>
+            <div style="color:var(--text-secondary);font-size:0.8125rem;">2026-10-02</div>
+          </div>
 
         </div>
         <a href="https://www.q-net.or.kr"
@@ -363,6 +429,13 @@
   </div>
 </footer>
 
+
+<!-- 차트 데이터 -->
+<script id="stats-data" type="application/json">
+[{"year": 2021, "practicalApplicants": 8011, "practicalPassRate": 74.6, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2022, "practicalApplicants": 7039, "practicalPassRate": 68.6, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2023, "practicalApplicants": 7614, "practicalPassRate": 72.7, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2024, "practicalApplicants": 7192, "practicalPassRate": 73.6, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2025, "practicalApplicants": 7811, "practicalPassRate": 64.7, "writtenApplicants": 0, "writtenPassRate": 0}]
+</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="/js/detail.js?v=2"></script>
 
 
 </body>

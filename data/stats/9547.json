@@ -3,16 +3,93 @@
   "name": "이러닝운영관리사",
   "series": "기사",
   "field": "교육.자연.과학.사회과학",
-  "updated": "2026-07-08",
-  "schedule": [],
+  "updated": "2026-09-02",
+  "schedule": [
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 1063,
+        "passers": 776,
+        "passRate": 73.0
+      },
+      {
+        "year": 2024,
+        "applicants": 559,
+        "passers": 528,
+        "passRate": 94.5
+      },
+      {
+        "year": 2025,
+        "applicants": 472,
+        "passers": 361,
+        "passRate": 76.5
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 904,
+        "passers": 428,
+        "passRate": 47.3
+      },
+      {
+        "year": 2025,
+        "applicants": 526,
+        "passers": 207,
+        "passRate": 39.4
+      }
+    ]
   }
 }

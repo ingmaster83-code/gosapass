@@ -3,16 +3,103 @@
   "name": "축산기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-07-08",
-  "schedule": [],
+  "updated": "2026-09-02",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-12",
+      "written_reg_end": "2026-01-15",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-11",
+      "prac_reg_start": "2026-03-23",
+      "prac_reg_end": "2026-03-26",
+      "prac_exam_start": "2026-04-18",
+      "prac_exam_end": "2026-05-06",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "22600",
+    "raw": "1차 : 19400, 2차 : 22600"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "축산기사 출제경향\r\n\r\n\r\n\r\n\r\n- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.\r\n- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "축산기사 출제기준\r\n\r\n\r\n\r\n\r\n축산기사 출제기준입니다. \r\n \r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "축산기사 취득방법\r\n\r\n\r\n\r\n\r\n 시 행 처 : 한국산업인력공단 \r\n\r\n 관련학과 : 대학 및 전문대학의 축산(학)과, 축산경영학과, 축산개발과 영양학과, 유가공학과등 \r\n\r\n 시험과목 \r\n- 필기 :1. 가축육종 2.가축번식생리 3.대가축생산관리 4. 중소가축생산관리 5. 사료생산 및 관리\r\n- 실기 : 축산실무 \r\n\r\n 검정방법 \r\n- 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분) \r\n- 실기 : 필답형(2시간30분) \r\n\r\n 합격기준 \r\n- 필기 : 100점을 만점으로 하여 과목당 40점이상, 전과목 평균60점 이상.\r\n- 실기 : 100점을 만점으로 하여 60점 이상\r\n\r\n \r\n[2026 축산기사 필기과목 변경사항 알림]\r\n\r\n\r\n\r\n\r\n\r\n \r\n\r\n변경 전\r\n\r\n변경 후\r\n\r\n\r\n\r\n과목\r\n\r\n1.가축육종학(20문제)\r\n2.가축번식생리학(20문제)\r\n3.가축사양학(20문제)\r\n4.사료작물학 및 초지학(20문제)\r\n5.축산경영학 및 축산물가공학(20문제)\r\n\r\n1.가축육종(20문제)\r\n2.가축번식생리(20문제)\r\n3.대가축생산관리(20문제)\r\n4.중소가축생산관리(20문제)\r\n5.사료생산 및 관리(20문제)\r\n\r\n\r\n\r\n주요 변경사항\r\n\r\n1. 가축사양학 과목의 확대\r\n- 기존 가축사양학 과목이 대가축생산관리(한우, 젖소)와 \r\n중소가축생산관리(가금, 돼지)로 분리&middot;확대 되었음\r\n\r\n2. 축산경영학 비율 축소\r\n- 축산경영학 내용이 대가축생산관리, \r\n중소가축생산관리로 축소 편입되었음\r\n\r\n3. 축산물가공학 비율 축소\r\n- 육가공 내용 삭제, 유가공 내용 대가축생산관리 편입되었음\r\n\r\n\r\n\r\n \r\n※ 실기시험은 기존과 같이 필답형으로 진행되며, 내용은 필기과목 변경내용과 같음\r\n※ 자세한 내용은 축산기사 출제기준(2026.1.1.~)을 참고하시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1711,
+        "passers": 658,
+        "passRate": 38.5
+      },
+      {
+        "year": 2022,
+        "applicants": 1196,
+        "passers": 682,
+        "passRate": 57.0
+      },
+      {
+        "year": 2023,
+        "applicants": 1325,
+        "passers": 703,
+        "passRate": 53.1
+      },
+      {
+        "year": 2024,
+        "applicants": 1307,
+        "passers": 601,
+        "passRate": 46.0
+      },
+      {
+        "year": 2025,
+        "applicants": 1469,
+        "passers": 622,
+        "passRate": 42.3
+      }
+    ]
   }
 }

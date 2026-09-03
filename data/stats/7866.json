@@ -3,16 +3,78 @@
   "name": "로더운전기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-02",
+  "updated": "2026-08-28",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "24800",
+    "raw": "1차 : 14500, 2차 : 24800"
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 7405,
+        "passers": 6050,
+        "passRate": 81.7
+      },
+      {
+        "year": 2022,
+        "applicants": 6784,
+        "passers": 5780,
+        "passRate": 85.2
+      },
+      {
+        "year": 2023,
+        "applicants": 7707,
+        "passers": 6367,
+        "passRate": 82.6
+      },
+      {
+        "year": 2024,
+        "applicants": 6722,
+        "passers": 5653,
+        "passRate": 84.1
+      },
+      {
+        "year": 2025,
+        "applicants": 6174,
+        "passers": 4805,
+        "passRate": 77.8
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 7868,
+        "passers": 3923,
+        "passRate": 49.9
+      },
+      {
+        "year": 2022,
+        "applicants": 7937,
+        "passers": 3878,
+        "passRate": 48.9
+      },
+      {
+        "year": 2023,
+        "applicants": 8395,
+        "passers": 3940,
+        "passRate": 46.9
+      },
+      {
+        "year": 2024,
+        "applicants": 7747,
+        "passers": 3564,
+        "passRate": 46.0
+      },
+      {
+        "year": 2025,
+        "applicants": 6657,
+        "passers": 3160,
+        "passRate": 47.5
+      }
+    ]
   }
 }

@@ -3,16 +3,47 @@
   "name": "광산보안기능사(화약분야)",
   "series": "기능사",
   "field": "광업자원",
-  "updated": "2026-07-02",
+  "updated": "2026-08-28",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "11000",
+    "practical": "27600",
+    "raw": "1차 : 11000, 2차 : 27600"
   },
   "info": [],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 7,
+        "passers": 7,
+        "passRate": 100.0
+      },
+      {
+        "year": 2023,
+        "applicants": 6,
+        "passers": 5,
+        "passRate": 83.3
+      },
+      {
+        "year": 2024,
+        "applicants": 15,
+        "passers": 15,
+        "passRate": 100.0
+      },
+      {
+        "year": 2025,
+        "applicants": 12,
+        "passers": 8,
+        "passRate": 66.7
+      }
+    ]
   }
 }

@@ -3,8 +3,23 @@
   "name": "귀금속가공산업기사",
   "series": "기사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-07-07",
-  "schedule": [],
+  "updated": "2026-09-01",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
@@ -12,7 +27,69 @@
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 54,
+        "passers": 33,
+        "passRate": 61.1
+      },
+      {
+        "year": 2022,
+        "applicants": 46,
+        "passers": 30,
+        "passRate": 65.2
+      },
+      {
+        "year": 2023,
+        "applicants": 42,
+        "passers": 24,
+        "passRate": 57.1
+      },
+      {
+        "year": 2024,
+        "applicants": 29,
+        "passers": 19,
+        "passRate": 65.5
+      },
+      {
+        "year": 2025,
+        "applicants": 58,
+        "passers": 40,
+        "passRate": 69.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 34,
+        "passers": 28,
+        "passRate": 82.4
+      },
+      {
+        "year": 2022,
+        "applicants": 29,
+        "passers": 19,
+        "passRate": 65.5
+      },
+      {
+        "year": 2023,
+        "applicants": 27,
+        "passers": 16,
+        "passRate": 59.3
+      },
+      {
+        "year": 2024,
+        "applicants": 21,
+        "passers": 16,
+        "passRate": 76.2
+      },
+      {
+        "year": 2025,
+        "applicants": 36,
+        "passers": 28,
+        "passRate": 77.8
+      }
+    ]
   }
 }

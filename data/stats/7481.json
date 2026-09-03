@@ -3,16 +3,60 @@
   "name": "축산기능사",
   "series": "기능사",
   "field": "농림어업",
-  "updated": "2026-07-03",
+  "updated": "2026-08-29",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "40700",
+    "raw": "1차 : 14500, 2차 : 40700"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "축산기능사 출제경향\r\n\r\n\r\n\r\n\r\n- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.\r\n- 실기시험은 작업형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "축산기능사 출제기준\r\n\r\n\r\n\r\n\r\n축산기능사 출제기준입니다. \r\n\r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "축산기능사 취득방법\r\n\r\n\r\n\r\n\r\n 시 행 처 : 한국산업인력공단 \r\n\r\n시험과목\r\n- 필기 : 1.가축생산기술 2.사료생산 및 이용\r\n- 실기 : 축산실무\r\n\r\n 검정방법 \r\n- 필기 : 객관식 4지 택일형, 60문항 (60분) \r\n- 실기 : 작업형(3시간 정도) \r\n\r\n합격기준 \r\n- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상\r\n- 실기 : 100점을 만점으로 하여 60점 이상\r\n\r\n\r\n[2025년 축산기능사 필기시험 변경사항 안내]\r\n\r\n\r\n\r\n\r\n\r\n\r\n구분\r\n\r\n변경 전\r\n\r\n변경 후\r\n\r\n\r\n\r\n과목\r\n\r\n축산개론, 사료작물, 축산경영\r\n\r\n가축생산기술,\r\n사료생산 및 이용\r\n(축산경영 과목제외)\r\n\r\n\r\n\r\n※ 문제 수는 기존과 동일(60문제)하며, 자세한 내용은 출제기준 참고\r\n\r\n\r\n\r\n작업형 실기시험 기본정보\r\n\r\n\r\n \r\n안전등급(safety Level) : 2 등급\r\n\r\n\r\n\r\n\r\n\r\n\r\n▼\r\n\r\n\r\n\r\n위험\r\n경고\r\n주의\r\n관심\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n&middot; 시험장소 구분\r\n실내\r\n\r\n\r\n&middot; 주요시설 및 장비\r\n메스실린더, 비이커, 비중계 등\r\n\r\n\r\n&middot; 보호구\r\n위생복 등\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 885,
+        "passers": 842,
+        "passRate": 95.1
+      },
+      {
+        "year": 2022,
+        "applicants": 870,
+        "passers": 833,
+        "passRate": 95.7
+      },
+      {
+        "year": 2023,
+        "applicants": 884,
+        "passers": 843,
+        "passRate": 95.4
+      },
+      {
+        "year": 2024,
+        "applicants": 1162,
+        "passers": 1110,
+        "passRate": 95.5
+      },
+      {
+        "year": 2025,
+        "applicants": 1203,
+        "passers": 1168,
+        "passRate": 97.1
+      }
+    ]
   }
 }

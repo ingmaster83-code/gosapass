@@ -3,16 +3,56 @@
   "name": "항공기정비기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-07-03",
+  "updated": "2026-08-29",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "28400",
+    "raw": "1차 : 14500, 2차 : 28400"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "항공기정비기능사 출제경향\r\n\r\n\r\n\r\n\r\n- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.\r\n- 실기시험은 동영상시험이 포함된 작업형으로 시행되며 항공기 기본작업, 항공기 기체정비 작업, 항공기 엔진 정비 작업 등의 항공기 정비 관련 전문지식 및응용, 실무 능력을 평가"
+    },
+    {
+      "type": "취득방법",
+      "content": "항공기정비기능사 취득방법\r\n\r\n\r\n\r\n\r\n시 행 처 : 한국산업인력공단\r\n 시험과목 \r\n - 필기 : 항공기 일반, 기체 정비, 기관 정비\r\n - 실기 : 항공기 정비 실무\r\n검정방법 \r\n - 필기 : 객관식 4지 택일형60문항(60분)\r\n - 실기 : 작업형(동영상(30분, 30점)+작업(2시간30분 정도, 70점))\r\n합격기준\r\n - 필기 : 100점을 만점으로 하여60점 이상\r\n - 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 2076,
+        "passers": 278,
+        "passRate": 13.4
+      },
+      {
+        "year": 2025,
+        "applicants": 2640,
+        "passers": 557,
+        "passRate": 21.1
+      }
+    ],
     "practical": []
   }
 }

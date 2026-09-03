@@ -3,14 +3,42 @@
   "name": "수산물품질관리사",
   "series": "수산물품질관리사",
   "field": "",
-  "updated": "2026-07-04",
-  "schedule": [],
+  "updated": "2026-08-30",
+  "schedule": [
+    {
+      "round": "제12회",
+      "written_reg_start": "2026-04-06",
+      "written_reg_end": "2026-04-10",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-08-10",
+      "prac_reg_end": "2026-08-14",
+      "prac_exam_start": "2026-09-19",
+      "prac_exam_end": "2026-09-19",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "응시자격",
+      "content": "수산물품질관리사 응시자격\r\n\r\n\r\n\r\n\r\n□ 응시자격\r\no 제한없음[농수산물품질관리법시행령 제40조의4]\r\n ※ 단, 수산물품질관리사의 자격이 취소된 날부터 2년이 지나지 아니한 자는 응시할 수 없음\r\n [농수산물품질관리법 제107조]"
+    },
+    {
+      "type": "시험과목 및 배점",
+      "content": "수산물품질관리사 시험과목 및 배점\r\n\r\n\r\n\r\n□ 시험과목 및 방법 \r\n\r\n\r\n\r\n\r\n구 분\r\n\r\n시 험 과 목\r\n\r\n문항수\r\n\r\n시험시간\r\n\r\n시험방법\r\n\r\n\r\n\r\n제1차 시험\r\n\r\n1.수산물품질관리 관련법령\r\n2. 수산물유통론\r\n3. 수확후 품질관리론\r\n4. 수산일반\r\n\r\n100문항\r\n\r\n120분\r\n\r\n객 관 식\r\n4지선택형\r\n\r\n\r\n\r\n제2차 시험\r\n\r\n1. 수산물품질관리실무\r\n2. 수산물등급판정실무\r\n\r\n30문항\r\n\r\n100분\r\n\r\n단답형, \r\n서술형\r\n\r\n\r\n\r\n\r\n□과목별 시험시간 \r\n\r\n\r\n\r\n\r\n시험구분\r\n\r\n교시\r\n\r\n시 험 과 목\r\n\r\n입실완료\r\n\r\n시 험 시 간\r\n\r\n문항수\r\n\r\n\r\n\r\n제1차 시험\r\n\r\n1교시\r\n\r\n1. 수산물품질관리 관련법령\r\n2. 수산물유통론\r\n3. 수확후 품질관리론\r\n4. 수산일반\r\n\r\n09:00\r\n\r\n09:30～11:30(120분)\r\n\r\n과목별 25문항\r\n(총100문항)\r\n\r\n\r\n\r\n제2차 시험\r\n\r\n1교시\r\n\r\n1. 수산물품질관리실무\r\n2. 수산물등급판정실무\r\n\r\n09:00\r\n\r\n09:30～11:10(100분)\r\n\r\n단답형 20문항 서술형 10문항\r\n(총30문항)"
+    },
+    {
+      "type": "취득방법",
+      "content": "수산물품질관리사 취득방법\r\n\r\n\r\n\r\n\r\n국립수산물품질관리원에서 자격증 신청 및 발급업무 수행"
+    }
+  ],
   "stats": {
     "written": [],
     "practical": []

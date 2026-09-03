@@ -3,16 +3,60 @@
   "name": "전산응용건축제도기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-03",
+  "updated": "2026-08-29",
   "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "전산응용건축제도기능사 출제경향\r\n\r\n\r\n\r\n\r\n-건축물의 기본설계도 또는 계획설계도에 따라 컴퓨터를 사용하여 건축설계에서 의도하는 바를 현장에 필요한 도면으로 표현하는 능력을 평가\r\n- 2024년 시행되는 전산응용건축제도기능사 실기시험문제는 2023년 시행된 문제와 동일한 유형으로 출제될 예정임"
+    },
+    {
+      "type": "출제기준",
+      "content": "전산응용건축제도기능사 출제기준\r\n\r\n\r\n\r\n\r\n전산응용건축제도기능사 출제기준 입니다.\r\n\r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "전산응용건축제도기능사 취득방법\r\n\r\n\r\n\r\n\r\n 시 행 처 : 한국산업인력공단 \r\n 시험과목 - 필기 : 1.건축계획 및 설계도면 작성\r\n실기 : 전산응용건축제도실무 \r\n 검정방법 - 필기 : 객관식 4지 택일형 60문항(60분)\r\n실기 : 작업형(4시간정도 내외) \r\n합격기준 - 100점 만점으로 60점 이상 득점자\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n안전등급(Safety Level) : 1등급\r\n\r\n\r\n\r\n\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n▼\r\n\r\n\r\n\r\n위험\r\n\r\n경고\r\n\r\n주의\r\n\r\n관심\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n&bull; 시험장소 구분 \r\n\r\n실내 \r\n\r\n \r\n\r\n\r\n\r\n&bull; 주요시설 및 장비\r\n\r\n컴퓨터, 프린터\r\n\r\n \r\n\r\n\r\n\r\n&bull; 보호구 \r\n\r\n해당사항 없음"
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 8011,
+        "passers": 5976,
+        "passRate": 74.6
+      },
+      {
+        "year": 2022,
+        "applicants": 7039,
+        "passers": 4826,
+        "passRate": 68.6
+      },
+      {
+        "year": 2023,
+        "applicants": 7614,
+        "passers": 5534,
+        "passRate": 72.7
+      },
+      {
+        "year": 2024,
+        "applicants": 7192,
+        "passers": 5290,
+        "passRate": 73.6
+      },
+      {
+        "year": 2025,
+        "applicants": 7811,
+        "passers": 5050,
+        "passRate": 64.7
+      }
+    ]
   }
 }

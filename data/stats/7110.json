@@ -3,8 +3,23 @@
   "name": "미장기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-07-02",
-  "schedule": [],
+  "updated": "2026-08-28",
+  "schedule": [
+    {
+      "round": "제2회",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-04-27",
+      "prac_reg_end": "2026-04-30",
+      "prac_exam_start": "2026-05-30",
+      "prac_exam_end": "2026-06-14",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
@@ -12,7 +27,69 @@
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 188,
+        "passers": 107,
+        "passRate": 56.9
+      },
+      {
+        "year": 2022,
+        "applicants": 217,
+        "passers": 110,
+        "passRate": 50.7
+      },
+      {
+        "year": 2023,
+        "applicants": 136,
+        "passers": 84,
+        "passRate": 61.8
+      },
+      {
+        "year": 2024,
+        "applicants": 103,
+        "passers": 70,
+        "passRate": 68.0
+      },
+      {
+        "year": 2025,
+        "applicants": 102,
+        "passers": 61,
+        "passRate": 59.8
+      }
+    ]
   }
 }

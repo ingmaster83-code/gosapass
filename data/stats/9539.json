@@ -3,16 +3,106 @@
   "name": "임상심리사1급",
   "series": "기사",
   "field": "보건.의료",
-  "updated": "2026-07-08",
-  "schedule": [],
+  "updated": "2026-09-02",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "임상심리사1급 출제경향\r\n\r\n\r\n\r\n\r\n- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.\r\n- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "임상심리사1급 출제기준\r\n\r\n\r\n\r\n\r\n임상심리사1급 출제기준입니다. \r\n \r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "임상심리사1급 취득방법\r\n\r\n\r\n\r\n\r\n 시행처 : 한국산업인력공단 \r\n 시험과목 \r\n - 필기 : 1. 심리연구방법론 2. 고급이상심리학 3. 고급심리검사 4. 고급임상심리학 5. 고급심리치료\r\n - 실기 : 고급임상실무\r\n 검정방법 \r\n - 필기 : 객관식 4지 택일형 과목당 20문항(2시간 30분)\r\n - 실기 : 필답형(3시간, 100점)\r\n 합격기준 \r\n - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상\r\n- 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 841,
+        "passers": 707,
+        "passRate": 84.1
+      },
+      {
+        "year": 2022,
+        "applicants": 980,
+        "passers": 852,
+        "passRate": 86.9
+      },
+      {
+        "year": 2023,
+        "applicants": 1373,
+        "passers": 1204,
+        "passRate": 87.7
+      },
+      {
+        "year": 2024,
+        "applicants": 1868,
+        "passers": 1452,
+        "passRate": 77.7
+      },
+      {
+        "year": 2025,
+        "applicants": 2333,
+        "passers": 1723,
+        "passRate": 73.9
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 695,
+        "passers": 309,
+        "passRate": 44.5
+      },
+      {
+        "year": 2022,
+        "applicants": 999,
+        "passers": 489,
+        "passRate": 48.9
+      },
+      {
+        "year": 2023,
+        "applicants": 1399,
+        "passers": 551,
+        "passRate": 39.4
+      },
+      {
+        "year": 2024,
+        "applicants": 1735,
+        "passers": 1416,
+        "passRate": 81.6
+      },
+      {
+        "year": 2025,
+        "applicants": 1706,
+        "passers": 1102,
+        "passRate": 64.6
+      }
+    ]
   }
 }

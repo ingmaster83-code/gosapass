@@ -3,16 +3,91 @@
   "name": "프로그래밍기능사",
   "series": "기능사",
   "field": "정보통신",
-  "updated": "2026-07-03",
+  "updated": "2026-08-29",
   "schedule": [],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "프로그래밍기능사 출제경향\r\n\r\n\r\n\r\n\r\n- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.\r\n- 실기시험은 작업형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "정보처리기능사 출제기준\r\n\r\n\r\n\r\n\r\n \r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "프로그래밍기능사 취득방법\r\n\r\n\r\n\r\n\r\n 시 행 처 : 한국산업인력공단\r\n\r\n 시험과목\r\n - 필기 : 1.프로그래밍 언어 2.응용SW기초기술 3.SQL 활용 4.정보시스템 기초기술\r\n- 실기 :기초프로그래밍 실무 \r\n\r\n 검정방법\r\n - 필기 : 객관식 4지 택일형 60 문항(60분)\r\n\r\n - 실기 : 작업형(1시간 30분, 100점)\r\n\r\n 합격기준\r\n - 필기 : 100점을 만점으로 하여 60점 이상\r\n - 실기 : 100점을 만점으로 하여 60점 이상"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 12574,
+        "passers": 7848,
+        "passRate": 62.4
+      },
+      {
+        "year": 2022,
+        "applicants": 11255,
+        "passers": 7084,
+        "passRate": 62.9
+      },
+      {
+        "year": 2023,
+        "applicants": 11197,
+        "passers": 7028,
+        "passRate": 62.8
+      },
+      {
+        "year": 2024,
+        "applicants": 12057,
+        "passers": 8093,
+        "passRate": 67.1
+      },
+      {
+        "year": 2025,
+        "applicants": 13760,
+        "passers": 9787,
+        "passRate": 71.1
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 11264,
+        "passers": 4429,
+        "passRate": 39.3
+      },
+      {
+        "year": 2022,
+        "applicants": 10436,
+        "passers": 1861,
+        "passRate": 17.8
+      },
+      {
+        "year": 2023,
+        "applicants": 10971,
+        "passers": 2932,
+        "passRate": 26.7
+      },
+      {
+        "year": 2024,
+        "applicants": 10772,
+        "passers": 3968,
+        "passRate": 36.8
+      },
+      {
+        "year": 2025,
+        "applicants": 11943,
+        "passers": 4918,
+        "passRate": 41.2
+      }
+    ]
   }
 }

@@ -3,16 +3,106 @@
   "name": "남성복기능사",
   "series": "기능사",
   "field": "섬유.의복",
-  "updated": "2026-07-02",
-  "schedule": [],
+  "updated": "2026-08-28",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}각종 디자인에 따라 남성 고객의 체형에 맞게 주어진 치수대로 패턴을 제도하여 원단을 재단하고, 가봉 보정 후 손바느질과 재봉기를 이용하여 남성복을 제작하는 내용등을 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단 &#9313;시험과목 - 필기 : 양복제작법, 섬유재료, 의복디자인, 의복일반 - 실기 : 양복 패턴 및 봉제 작업 &#9314;검정방법 - 필기 : 객관식 4지 택일형 과목당 60문항(60분) - 실기 : 작업형 (6시간 정도) &#9315;합격기준 : 100점 만점에 60점 이상 득점자 &#9316;응시자격 : 제한 없음 작업형 실기시험 기본정보안전등급(safety Level) : 3 등급▼위험경고주의관심&middot; 시험장소 구분실내&middot; 주요시설 및 장비재단가위, 재봉기바늘, 재봉기&middot; 보호구해당사항없음정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 76,
+        "passers": 63,
+        "passRate": 82.9
+      },
+      {
+        "year": 2022,
+        "applicants": 104,
+        "passers": 78,
+        "passRate": 75.0
+      },
+      {
+        "year": 2023,
+        "applicants": 69,
+        "passers": 52,
+        "passRate": 75.4
+      },
+      {
+        "year": 2024,
+        "applicants": 106,
+        "passers": 78,
+        "passRate": 73.6
+      },
+      {
+        "year": 2025,
+        "applicants": 108,
+        "passers": 68,
+        "passRate": 63.0
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 77,
+        "passers": 65,
+        "passRate": 84.4
+      },
+      {
+        "year": 2022,
+        "applicants": 74,
+        "passers": 46,
+        "passRate": 62.2
+      },
+      {
+        "year": 2023,
+        "applicants": 61,
+        "passers": 50,
+        "passRate": 82.0
+      },
+      {
+        "year": 2024,
+        "applicants": 76,
+        "passers": 29,
+        "passRate": 38.2
+      },
+      {
+        "year": 2025,
+        "applicants": 66,
+        "passers": 42,
+        "passRate": 63.6
+      }
+    ]
   }
 }

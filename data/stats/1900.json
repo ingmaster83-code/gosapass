@@ -3,16 +3,134 @@
   "name": "소방설비기사(기계분야)",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-07-08",
-  "schedule": [],
+  "updated": "2026-09-02",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-12",
+      "written_reg_end": "2026-01-15",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-11",
+      "prac_reg_start": "2026-03-23",
+      "prac_reg_end": "2026-03-26",
+      "prac_exam_start": "2026-04-18",
+      "prac_exam_end": "2026-05-06",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "소방설비기사(기계분야) 출제경향\r\n\r\n\r\n\r\n\r\n- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.\r\n- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "소방설비기사(기계분야) 출제기준\r\n\r\n\r\n\r\n\r\n소방설비기사(기계분야) 출제기준입니다. \r\n \r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "소방설비기사(기계분야) 취득방법\r\n\r\n\r\n\r\n\r\n 시 행 처 : 한국산업인력공단\r\n 관련학과 : 대학 및 전문대학의 소방학, 건축설비공학, 기계설비학, 가스냉동학, 공조냉동학 관련학과\r\n 시험과목\r\n- 필기 :1. 소방원론 2. 소방유체역학 3. 소방관계법규 4. 소방기계시설의 구조 및 원리\r\n- 실기 : 소방기계시설 설계 및 시공실무\r\n 검정방법\r\n- 필기 : 객관식 4지 택일형 과목당 20문항(과목당 30분)\r\n- 실기 : 필답형(3시간, 100점)\r\n 합격기준\r\n- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상\r\n- 실기 : 100점을 만점으로 하여 60점 이상 \r\n\r\n※`23.1.1.부터필기 출제기준중 해당 법령이 아래와 같이 변경됩니다.(분법 시행 `22.12.1.)\r\n\r\n\r\n\r\n\r\n변경 전\r\n\r\n변경 후\r\n\r\n\r\n\r\n화재예방, 소방시설 설치&middot;유지 및 안전관리에 관한 법률\r\n\r\n화재의 예방 및 안전관리에 관한 법률\r\n\r\n\r\n\r\n소방시설 설치 및 관리에 관한 법률"
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 17736,
+        "passers": 9048,
+        "passRate": 51.0
+      },
+      {
+        "year": 2022,
+        "applicants": 17523,
+        "passers": 8206,
+        "passRate": 46.8
+      },
+      {
+        "year": 2023,
+        "applicants": 23350,
+        "passers": 10669,
+        "passRate": 45.7
+      },
+      {
+        "year": 2024,
+        "applicants": 20888,
+        "passers": 9662,
+        "passRate": 46.3
+      },
+      {
+        "year": 2025,
+        "applicants": 22919,
+        "passers": 10900,
+        "passRate": 47.6
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 17709,
+        "passers": 5753,
+        "passRate": 32.5
+      },
+      {
+        "year": 2022,
+        "applicants": 15080,
+        "passers": 2346,
+        "passRate": 15.6
+      },
+      {
+        "year": 2023,
+        "applicants": 20510,
+        "passers": 5458,
+        "passRate": 26.6
+      },
+      {
+        "year": 2024,
+        "applicants": 18587,
+        "passers": 4493,
+        "passRate": 24.2
+      },
+      {
+        "year": 2025,
+        "applicants": 16541,
+        "passers": 6028,
+        "passRate": 36.4
+      }
+    ]
   }
 }

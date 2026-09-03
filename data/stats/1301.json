@@ -3,16 +3,75 @@
   "name": "의류기사",
   "series": "기사",
   "field": "섬유.의복",
-  "updated": "2026-07-08",
-  "schedule": [],
+  "updated": "2026-09-02",
+  "schedule": [
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "63600",
+    "raw": "1차 : 19400, 2차 : 63600"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "의류기사 출제경향\r\n\r\n\r\n\r\n특정 다수 소비자들이 요구하는 상품성과 품질을 갖춘 의류제품을 대량 생산하기 위해 상품기획에서 결정된 디자인을 각종 원부자재를 이용하여 패턴제작, 재단, 봉제 등 전 공정에 대한 내용등을 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "의류기사 출제기준\r\n\r\n\r\n\r\n\r\n의류기사 출제기준입니다.\r\n\r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "의류기사 취득방법\r\n\r\n\r\n\r\n\r\n 시 행 처 : 한국산업인력공단 \r\n\r\n 관련학과 : 전문대학 또는 대학의 의류학, 의류직물학 관련학과 \r\n\r\n 시험과목 \r\n- 필기(5과목) 1.패션소재 2.패션상품생산기획 3.의류패턴제작 4.의류생산공정관리 5. 의류품질관리\r\n- 실기 : 의류 설계 및 제작 실무 \r\n\r\n 검정방법 \r\n- 필기 : 객관식 4지 택일형 과목당 20문항(과목당 30분) \r\n- 실기 : 작업형(6시간 정도)\r\n\r\n 합격기준 \r\n- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상 \r\n- 실기 : 100점을 만점으로 하여 60점 이상\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n작업형 실기시험 기본정보\r\n\r\n\r\n \r\n안전등급(safety Level) : 1 등급\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n▼\r\n\r\n\r\n위험\r\n경고\r\n주의\r\n관심\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n&middot; 시험장소 구분\r\n실내\r\n\r\n\r\n&middot; 주요시설 및 장비\r\n가위\r\n\r\n\r\n&middot; 보호구\r\n해당사항없음\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n정리정돈 상태, 안전사항 등이 채점 대상이 될수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 47,
+        "passers": 22,
+        "passRate": 46.8
+      },
+      {
+        "year": 2022,
+        "applicants": 32,
+        "passers": 6,
+        "passRate": 18.8
+      },
+      {
+        "year": 2023,
+        "applicants": 56,
+        "passers": 4,
+        "passRate": 7.1
+      },
+      {
+        "year": 2024,
+        "applicants": 52,
+        "passers": 4,
+        "passRate": 7.7
+      },
+      {
+        "year": 2025,
+        "applicants": 55,
+        "passers": 15,
+        "passRate": 27.3
+      }
+    ]
   }
 }

@@ -3,16 +3,78 @@
   "name": "자연생태복원산업기사",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-07-08",
+  "updated": "2026-09-02",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "29300",
+    "raw": "1차 : 19400, 2차 : 29300"
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 58,
+        "passers": 35,
+        "passRate": 60.3
+      },
+      {
+        "year": 2022,
+        "applicants": 68,
+        "passers": 38,
+        "passRate": 55.9
+      },
+      {
+        "year": 2023,
+        "applicants": 46,
+        "passers": 24,
+        "passRate": 52.2
+      },
+      {
+        "year": 2024,
+        "applicants": 29,
+        "passers": 19,
+        "passRate": 65.5
+      },
+      {
+        "year": 2025,
+        "applicants": 53,
+        "passers": 29,
+        "passRate": 54.7
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 25,
+        "passers": 9,
+        "passRate": 36.0
+      },
+      {
+        "year": 2022,
+        "applicants": 15,
+        "passers": 3,
+        "passRate": 20.0
+      },
+      {
+        "year": 2023,
+        "applicants": 10,
+        "passers": 2,
+        "passRate": 20.0
+      },
+      {
+        "year": 2024,
+        "applicants": 15,
+        "passers": 7,
+        "passRate": 46.7
+      },
+      {
+        "year": 2025,
+        "applicants": 12,
+        "passers": 1,
+        "passRate": 8.3
+      }
+    ]
   }
 }

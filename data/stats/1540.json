@@ -3,16 +3,60 @@
   "name": "수산제조기사",
   "series": "기사",
   "field": "식품.가공",
-  "updated": "2026-07-08",
+  "updated": "2026-09-02",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "22600",
+    "raw": "1차 : 19400, 2차 : 22600"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "수산제조기사 출제경향\r\n\r\n\r\n\r\n\r\n-필답형(45점) :출제기준 참고\r\n- 작업형(55점) : 수산물품질검사, 식품미생물검사(공개문제 참고)\r\n수산물 가공품 관련 품질 검사 실험의 정확도, 숙련도 등의 능력을 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "수산제조기사 출제기준\r\n\r\n\r\n\r\n\r\n\r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "수산제조기사 취득방법\r\n\r\n\r\n\r\n\r\n 시 행 처 : 한국산업인력공단 \r\n 관련학과 : 대학 및전문대학, 수산계 고등학교 등의 식품공학과, 수산가공, 식품가공 관련학과 \r\n 시험과목 - 필기 :1. 식품안전 2. 수산화학 3. 수산가공학 4.냉동냉장학 \r\n - 실기 : 수산식품제조실무 관련\r\n 검정방법 - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분) \r\n - 실기(복합형) :필답형(45점), 작업형(55점) \r\n 합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상 \r\n - 실기(복합형) : 100점을 만점으로 하여 60점 이상 \r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n안전등급(Safety Level) : 4등급\r\n\r\n\r\n\r\n\r\n\r\n▼\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n\r\n\r\n위험\r\n\r\n경고\r\n\r\n주의\r\n\r\n관심\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n&bull; 시험장소 구분\r\n\r\n실내\r\n\r\n\r\n\r\n&bull; 주요시설 및 장비\r\n\r\n미생물실험실, 화학실험실, 실험기구 등\r\n\r\n\r\n\r\n&bull; 보호구 \r\n\r\n실험복 등\r\n\r\n\r\n\r\n- 보호구(실험복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될 수 있습니다.\r\n- 반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 16,
+        "passers": 12,
+        "passRate": 75.0
+      },
+      {
+        "year": 2022,
+        "applicants": 3,
+        "passers": 2,
+        "passRate": 66.7
+      },
+      {
+        "year": 2023,
+        "applicants": 14,
+        "passers": 12,
+        "passRate": 85.7
+      },
+      {
+        "year": 2024,
+        "applicants": 1,
+        "passers": 1,
+        "passRate": 100.0
+      },
+      {
+        "year": 2025,
+        "applicants": 13,
+        "passers": 5,
+        "passRate": 38.5
+      }
+    ]
   }
 }

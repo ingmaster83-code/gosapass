@@ -3,7 +3,7 @@
   "name": "철도신호기술사",
   "series": "기술사",
   "field": "전기.전자",
-  "updated": "2026-07-07",
+  "updated": "2026-09-01",
   "schedule": [],
   "fee": {
     "written": "",
@@ -12,7 +12,69 @@
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 61,
+        "passers": 3,
+        "passRate": 4.9
+      },
+      {
+        "year": 2022,
+        "applicants": 74,
+        "passers": 9,
+        "passRate": 12.2
+      },
+      {
+        "year": 2023,
+        "applicants": 94,
+        "passers": 5,
+        "passRate": 5.3
+      },
+      {
+        "year": 2024,
+        "applicants": 113,
+        "passers": 8,
+        "passRate": 7.1
+      },
+      {
+        "year": 2025,
+        "applicants": 99,
+        "passers": 11,
+        "passRate": 11.1
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 15,
+        "passers": 11,
+        "passRate": 73.3
+      },
+      {
+        "year": 2022,
+        "applicants": 9,
+        "passers": 8,
+        "passRate": 88.9
+      },
+      {
+        "year": 2023,
+        "applicants": 8,
+        "passers": 6,
+        "passRate": 75.0
+      },
+      {
+        "year": 2024,
+        "applicants": 11,
+        "passers": 6,
+        "passRate": 54.5
+      },
+      {
+        "year": 2025,
+        "applicants": 14,
+        "passers": 10,
+        "passRate": 71.4
+      }
+    ]
   }
 }

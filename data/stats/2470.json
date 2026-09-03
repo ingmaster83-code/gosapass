@@ -3,16 +3,91 @@
   "name": "종자산업기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-07-08",
+  "updated": "2026-09-02",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "종자산업기사 출제경향\r\n\r\n\r\n\r\n\r\n- 필기시험의 내용은 고객지원>자료실의 출제기준을 참고바랍니다.\r\n- 실기시험은 필답형으로 시행되며 고객지원>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "종자산업기사 출제기준\r\n\r\n\r\n\r\n\r\n종자산업기사 출제기준입니다.\r\n \r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "종자산업기사 취득방법\r\n\r\n\r\n\r\n\r\n 시 행 처 : 한국산업인력공단 \r\n 관련학과 : 전문대학 및 대학의 농학, 원예 관련학과 \r\n 시험과목 \r\n- 필기 : 1. 종자생산과 법규 2. 육종 3. 재배 4. 작물보호\r\n- 실기 : 종자생산 실무\r\n 검정방법\r\n- 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분)\r\n- 실기:필답형2시간\r\n 합격기준\r\n- 필기: 100점을 만점으로 하여 과목당 40점 이상, 60점 이상 득점자.\r\n- 실기: 100점을 만점으로 하여 60점 이상 득점자."
+    }
+  ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 472,
+        "passers": 279,
+        "passRate": 59.1
+      },
+      {
+        "year": 2022,
+        "applicants": 325,
+        "passers": 174,
+        "passRate": 53.5
+      },
+      {
+        "year": 2023,
+        "applicants": 336,
+        "passers": 203,
+        "passRate": 60.4
+      },
+      {
+        "year": 2024,
+        "applicants": 322,
+        "passers": 141,
+        "passRate": 43.8
+      },
+      {
+        "year": 2025,
+        "applicants": 339,
+        "passers": 168,
+        "passRate": 49.6
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 279,
+        "passers": 109,
+        "passRate": 39.1
+      },
+      {
+        "year": 2022,
+        "applicants": 260,
+        "passers": 121,
+        "passRate": 46.5
+      },
+      {
+        "year": 2023,
+        "applicants": 210,
+        "passers": 116,
+        "passRate": 55.2
+      },
+      {
+        "year": 2024,
+        "applicants": 159,
+        "passers": 72,
+        "passRate": 45.3
+      },
+      {
+        "year": 2025,
+        "applicants": 152,
+        "passers": 108,
+        "passRate": 71.1
+      }
+    ]
   }
 }

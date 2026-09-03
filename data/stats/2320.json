@@ -3,16 +3,78 @@
   "name": "조경산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-07-08",
+  "updated": "2026-09-02",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "40800",
+    "raw": "1차 : 19400, 2차 : 40800"
   },
   "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2219,
+        "passers": 369,
+        "passRate": 16.6
+      },
+      {
+        "year": 2022,
+        "applicants": 1903,
+        "passers": 375,
+        "passRate": 19.7
+      },
+      {
+        "year": 2023,
+        "applicants": 1874,
+        "passers": 366,
+        "passRate": 19.5
+      },
+      {
+        "year": 2024,
+        "applicants": 1757,
+        "passers": 417,
+        "passRate": 23.7
+      },
+      {
+        "year": 2025,
+        "applicants": 1595,
+        "passers": 270,
+        "passRate": 16.9
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 527,
+        "passers": 195,
+        "passRate": 37.0
+      },
+      {
+        "year": 2022,
+        "applicants": 522,
+        "passers": 179,
+        "passRate": 34.3
+      },
+      {
+        "year": 2023,
+        "applicants": 555,
+        "passers": 136,
+        "passRate": 24.5
+      },
+      {
+        "year": 2024,
+        "applicants": 599,
+        "passers": 249,
+        "passRate": 41.6
+      },
+      {
+        "year": 2025,
+        "applicants": 484,
+        "passers": 54,
+        "passRate": 11.2
+      }
+    ]
   }
 }

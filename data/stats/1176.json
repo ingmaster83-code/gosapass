@@ -3,16 +3,89 @@
   "name": "의공기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-07-08",
-  "schedule": [],
+  "updated": "2026-09-02",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-12",
+      "written_reg_end": "2026-01-15",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-11",
+      "prac_reg_start": "2026-03-23",
+      "prac_reg_end": "2026-03-26",
+      "prac_exam_start": "2026-04-18",
+      "prac_exam_end": "2026-05-06",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "의공기사 출제경향\r\n\r\n\r\n\r\n\r\n- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.\r\n- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "의공기사 출제기준\r\n\r\n\r\n\r\n\r\n의공기사 출제기준 입니다.\r\n\r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "의공기사 취득방법\r\n\r\n\r\n\r\n\r\n 시행처 : 한국산업인력공단 \r\n 관련학과 : 의공학과, 의료공학과, 의용생체공학과, 의공(의료기기)관련 학과 등\r\n 시험과목\r\n- 필기 : 1.의료기기 기초의학 2. 의료기기 공학 3. 의료기기 구조원리 4. 의료기기 인허가 5. 의료기기 관리\r\n- 실기 : 의공 실무 \r\n 검정방법 - 필기 : 객관식 4지택일형(시험시간 : 2시간 30분) - 실기 : 필답형(시험시간 : 2시간 30분)\r\n 합격기준\r\n- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상\r\n- 실기 : 100점 만점에 60점 이상"
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 526,
+        "passers": 317,
+        "passRate": 60.3
+      },
+      {
+        "year": 2022,
+        "applicants": 608,
+        "passers": 186,
+        "passRate": 30.6
+      },
+      {
+        "year": 2023,
+        "applicants": 687,
+        "passers": 196,
+        "passRate": 28.5
+      },
+      {
+        "year": 2024,
+        "applicants": 453,
+        "passers": 102,
+        "passRate": 22.5
+      },
+      {
+        "year": 2025,
+        "applicants": 375,
+        "passers": 77,
+        "passRate": 20.5
+      }
+    ]
   }
 }

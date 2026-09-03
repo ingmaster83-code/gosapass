@@ -3,16 +3,75 @@
   "name": "3D프린터개발산업기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-07-07",
-  "schedule": [],
+  "updated": "2026-09-01",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "3D프린터개발산업기사 출제경향\r\n\r\n\r\n\r\n\r\n- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.\r\n- 실기시험은 복합형(필답형+작업형)으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다.\r\n- 작업형 시험문제는회로구현,프로그래밍(아두이노) 등으로 구성되어 있으며,공개문제 참조바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "3D프린터개발산업기사 출제기준\r\n\r\n\r\n\r\n\r\n3D프린터개발산업기사 출제기준입니다. \r\n\r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "3D프린터개발산업기사 취득방법\r\n\r\n\r\n\r\n\r\n 시 행 처 : 한국산업인력공단\r\n관련학과 : 전문대학 및 대학의 3D프린터 관련학과 \r\n 시험과목 \r\n- 필기 : 1. 3D프린터 회로 및 기구 2. 3D프린터 장치 3. 3D프린터 프로그램4. 3D프린터 품질보증 및 안전관리\r\n- 실기 : 3D프린터 개발실무 \r\n 검정방법 \r\n- 필기 : 객관식 4지 택일형 과목당 20문항(과목당 30분)\r\n- 실기 : 복합형((필답형(1시간, 45점)+작업형(4시간 정도, 55점))\r\n 합격기준\r\n- 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상\r\n- 실기 : 100점을 만점으로 하여 60점 이상\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n안전등급(Safety Level) : 1등급\r\n\r\n\r\n\r\n\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n▼\r\n\r\n\r\n\r\n위험\r\n\r\n경고\r\n\r\n주의\r\n\r\n관심\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n&bull; 시험장소 구분 \r\n\r\n실내 \r\n\r\n \r\n\r\n\r\n\r\n&bull; 주요시설 및 장비\r\n\r\n컴퓨터, MCU 보드, 파워서플라이\r\n\r\n \r\n\r\n\r\n\r\n&bull; 보호구 \r\n\r\n해당사항 없음\r\n\r\n \r\n\r\n\r\n\r\n- 보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될 수 있습니다.\r\n- 반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 55,
+        "passers": 26,
+        "passRate": 47.3
+      },
+      {
+        "year": 2022,
+        "applicants": 42,
+        "passers": 13,
+        "passRate": 31.0
+      },
+      {
+        "year": 2023,
+        "applicants": 39,
+        "passers": 15,
+        "passRate": 38.5
+      },
+      {
+        "year": 2024,
+        "applicants": 29,
+        "passers": 5,
+        "passRate": 17.2
+      },
+      {
+        "year": 2025,
+        "applicants": 37,
+        "passers": 9,
+        "passRate": 24.3
+      }
+    ]
   }
 }

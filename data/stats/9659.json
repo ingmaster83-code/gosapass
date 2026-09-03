@@ -3,12 +3,27 @@
   "name": "박물관및미술관준학예사",
   "series": "박물관 및 미술관 준학예사",
   "field": "",
-  "updated": "2026-07-03",
-  "schedule": [],
+  "updated": "2026-08-29",
+  "schedule": [
+    {
+      "round": "제27회",
+      "written_reg_start": "2026-10-12",
+      "written_reg_end": "2026-10-16",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-12-23",
+      "prac_reg_start": "",
+      "prac_reg_end": "",
+      "prac_exam_start": "",
+      "prac_exam_end": "",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
+    "written": "30000",
     "practical": "",
-    "raw": ""
+    "raw": "1차 : 30000,"
   },
   "info": [],
   "stats": {
