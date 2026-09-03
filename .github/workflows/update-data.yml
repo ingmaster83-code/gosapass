@@ -1,9 +1,9 @@
 name: "데이터 업데이트 & 페이지 생성"
 
 on:
-  schedule:
-    # 매일 오전 2시 KST (= UTC 17:00)
-    - cron: "0 17 * * *"
+  # 2026-09-03: gosapass.kr은 wooagosapass.wooahouse.com으로 이전 완료된 죽은 미러.
+  # AdSense 심사 목적으로만 살려둠. 자동 갱신 불필요 → schedule 비활성화.
+  # 필요 시 workflow_dispatch로 수동 실행 가능.
   workflow_dispatch:
     inputs:
       phase:
