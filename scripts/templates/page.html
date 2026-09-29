@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }} | {{ site.name }}{% endblock %}
+{% block description %}{{ page.description }}{% endblock %}
+{% block og_title %}{{ page.title }}{% endblock %}
+{% block og_desc %}{{ page.description }}{% endblock %}
+{% block canonical %}{{ site.domain }}/{{ page.slug }}.html{% endblock %}
+{% block content %}
+<div class="container article-wrap">
+  <article class="article">
+    <h1>{{ page.title }}</h1>
+    <div class="article-body">{{ page.html | safe }}</div>
+  </article>
+</div>
+{% endblock %}

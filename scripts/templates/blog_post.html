@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block title %}{{ post.title }} | {{ site.name }}{% endblock %}
+{% block description %}{{ post.description }}{% endblock %}
+{% block og_title %}{{ post.title }}{% endblock %}
+{% block og_desc %}{{ post.description }}{% endblock %}
+{% block og_type %}article{% endblock %}
+{% block canonical %}{{ site.domain }}/blog/{{ post.slug }}.html{% endblock %}
+{% block extra_head %}
+  <meta property="article:published_time" content="{{ post.date }}">
+  <script type="application/ld+json">
+  {{ ld_json | safe }}
+  </script>
+{% endblock %}
+{% block content %}
+<div class="container article-wrap">
+  <nav class="breadcrumb"><a href="/">홈</a> › <span>{{ post.title }}</span></nav>
+  <article class="article">
+    <h1>{{ post.title }}</h1>
+    <p class="article-meta">{{ post.date }} · {{ site.author }}</p>
+    <div class="article-body">
+      {{ post.html | safe }}
+    </div>
+    {% if site.cta_links %}
+    <aside class="article-cta">
+      <strong>{{ site.cta_title }}</strong>
+      <p>{{ site.cta_text }}</p>
+      {% for label, url in site.cta_links %}<a href="{{ url }}" target="_blank" rel="noopener">{{ label }}</a> {% endfor %}
+    </aside>
+    {% endif %}
+    <p class="article-note">{{ site.article_note | safe }}</p>
+  </article>
+  {% if others %}
+  <section class="related">
+    <h2>함께 읽어보세요</h2>
+    <ul>
+      {% for o in others %}<li><a href="/blog/{{ o.slug }}.html">{{ o.title }}</a></li>{% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+</div>
+{% endblock %}

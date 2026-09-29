@@ -1,0 +1,31 @@
+{
+  "name": "gosapass",
+  "logo_html": "gosa<span>pass</span>",
+  "domain": "https://gosapass.kr",
+  "author": "gosapass 편집팀",
+  "lang_desc": "국가자격증 가이드",
+  "home_title": "국가자격증 가이드 — 시험 준비와 접수 방법 정리 | gosapass",
+  "home_desc": "국가기술자격 등급 차이, 시험 접수 순서, 필기 합격 전략, 자격증 고르는 법까지. 처음 준비하는 분을 위한 gosapass 가이드입니다.",
+  "home_h1": "자격증 가이드",
+  "home_lead": "국가자격증의 등급과 시험 절차, 합격 전략, 목적에 맞는 자격증 고르는 법까지 — 처음 준비하는 분을 위해 정리했습니다.",
+  "cta_title": "자격증 시험 일정 확인하기",
+  "cta_text": "전국 국가자격증 시험 일정은 우아하우스 자격증일정에서 확인할 수 있습니다.",
+  "cta_links": [
+    [
+      "시험 일정 목록",
+      "https://wooagosapass.wooahouse.com/list.html"
+    ],
+    [
+      "시험 캘린더",
+      "https://wooagosapass.wooahouse.com/calendar.html"
+    ]
+  ],
+  "article_note": "※ 시험 일정, 응시 자격, 응시료 등은 매년 바뀔 수 있습니다. 접수 전에는 반드시 <a href=\"https://www.q-net.or.kr\" target=\"_blank\" rel=\"noopener\">큐넷</a> 등 시행 기관의 공식 공고를 확인하세요.",
+  "footer_note": "본 사이트의 글은 일반적인 정보 제공을 위한 것이며, 시험 접수 전 반드시 큐넷 등 시행 기관의 공식 공고를 확인하세요.",
+  "naver_verification": "aca0af15538aba06c745ad7f7fd0d797ffb150fe",
+  "adsense": "ca-pub-6464921081676309",
+  "ga_id": "G-RR8QX7GTV0",
+  "promo_text": "국가자격증 시험 일정을 한눈에 확인하는 도구가 필요하다면",
+  "promo_link_text": "우아하우스 자격증일정 바로가기 →",
+  "promo_url": "https://wooagosapass.wooahouse.com"
+}

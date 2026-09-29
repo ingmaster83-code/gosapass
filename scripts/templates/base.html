@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}{{ site.name }}{% endblock %}</title>
+  <meta name="description" content="{% block description %}{{ site.home_desc }}{% endblock %}">
+  <meta property="og:title" content="{% block og_title %}{{ site.name }}{% endblock %}">
+  <meta property="og:description" content="{% block og_desc %}{{ site.home_desc }}{% endblock %}">
+  <meta property="og:type" content="{% block og_type %}website{% endblock %}">
+  <meta property="og:site_name" content="{{ site.name }}">
+  <meta property="og:locale" content="ko_KR">
+  {% block robots %}<meta name="robots" content="index, follow, max-image-preview:large">{% endblock %}
+  <link rel="canonical" href="{% block canonical %}{{ site.domain }}/{% endblock %}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="/css/style.css">
+  {% block extra_head %}{% endblock %}
+  {% if site.naver_verification %}<meta name="naver-site-verification" content="{{ site.naver_verification }}">{% endif %}
+  <meta name="google-adsense-account" content="{{ site.adsense }}">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.adsense }}" crossorigin="anonymous"></script>
+  {% if site.ga_id %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_id }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.ga_id }}');
+  </script>
+  {% endif %}
+</head>
+<body>
+  {% if site.promo_url %}
+  <div class="top-promo">
+    <div class="container">
+      <span class="top-promo-label">관련 도구</span>
+      <span class="top-promo-text">{{ site.promo_text }}</span>
+      <a href="{{ site.promo_url }}" target="_blank" rel="noopener">{{ site.promo_link_text }}</a>
+    </div>
+  </div>
+  {% endif %}
+  <header class="site-header">
+    <div class="container">
+      <a href="/" class="logo">{{ site.logo_html | safe }}</a>
+      <nav class="nav-links">
+        <a href="/">{{ site.home_h1 }}</a>
+        <a href="/about.html">소개</a>
+        <a href="/contact.html">문의</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>{{ site.domain | replace('https://', '') }} — {{ site.lang_desc }}</p>
+      <p class="footer-links">
+        <a href="/about.html">소개</a>
+        <span>|</span>
+        <a href="/contact.html">문의</a>
+        <span>|</span>
+        <a href="/privacy.html">개인정보처리방침</a>
+      </p>
+      <p class="footer-note">{{ site.footer_note }}</p>
+    </div>
+  </footer>
+</body>
+</html>

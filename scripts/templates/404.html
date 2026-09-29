@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}페이지를 찾을 수 없습니다 | {{ site.name }}{% endblock %}
+{% block robots %}<meta name="robots" content="noindex">{% endblock %}
+{% block content %}
+<div class="container article-wrap" style="text-align:center;padding:80px 20px;">
+  <h1>404</h1>
+  <p style="margin:12px 0 28px;color:var(--text-secondary);">페이지를 찾을 수 없습니다.</p>
+  <a href="/" style="color:var(--primary);font-weight:600;">홈으로 돌아가기</a>
+</div>
+{% endblock %}

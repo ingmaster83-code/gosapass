@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}{{ site.home_title }}{% endblock %}
+{% block description %}{{ site.home_desc }}{% endblock %}
+{% block og_title %}{{ site.home_title }}{% endblock %}
+{% block og_desc %}{{ site.home_desc }}{% endblock %}
+{% block content %}
+<div class="container article-wrap">
+  <h1 class="blog-title">{{ site.home_h1 }}</h1>
+  <p class="blog-lead">{{ site.home_lead }}</p>
+  <ul class="blog-list">
+    {% for p in posts %}
+    <li>
+      <a href="/blog/{{ p.slug }}.html"><strong>{{ p.title }}</strong></a>
+      <p>{{ p.description }}</p>
+      <span class="article-meta">{{ p.date }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endblock %}
